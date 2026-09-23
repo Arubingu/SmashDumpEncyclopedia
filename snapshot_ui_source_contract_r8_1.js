@@ -1,0 +1,10 @@
+/* SMASHDUMP_ENCYCLOPEDIA_SOURCE_CONTRACT_REPAIR_R8_1_SELECTOR */
+(()=>{'use strict';
+ const registry=globalThis.__SMASHDUMP_ENCYCLOPEDIA_SNAPSHOT_REGISTRY__,active=globalThis.__SMASHDUMP_ENCYCLOPEDIA_ACTIVE_SNAPSHOT__;if(!registry||!active)return;
+ const esc=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
+ const rows=()=>registry.snapshots.filter(row=>row.selectable!==false);
+ const fallback=()=>{let host=document.getElementById('r81SnapshotFallbackHost');if(host?.isConnected)return host;if(!document.body)return null;host=document.createElement('div');host.id='r81SnapshotFallbackHost';Object.assign(host.style,{position:'fixed',top:'58px',right:'12px',zIndex:'99999'});document.body.append(host);return host};
+ const host=()=>document.querySelector('.toolbar')||document.querySelector('.topbar')||fallback();
+ const install=()=>{let block=document.getElementById('r81SnapshotBlock');if(block?.isConnected){const select=block.querySelector('select');if(select&&select.value!==active.id)select.value=active.id;return Boolean(select)}const target=host();if(!target)return false;block=document.createElement('div');block.id='r81SnapshotBlock';block.className='snapshot-r6-version-block';block.style.marginLeft='auto';block.innerHTML=`<select id="r81SnapshotSelect" aria-label="Encyclopedia version">${rows().map(row=>`<option value="${esc(row.id)}"${row.id===active.id?' selected':''}>${esc(row.label)}</option>`).join('')}</select>`;target.appendChild(block);block.querySelector('select').onchange=event=>{const value=event.target.value;localStorage.setItem('smashdump.encyclopedia.snapshot.r8_1',value);const url=new URL(location.href);url.searchParams.set('ency_snapshot',value);location.replace(url.href)};return true};
+ let scheduled=false;const schedule=()=>{if(scheduled)return;scheduled=true;queueMicrotask(()=>{scheduled=false;install()})};const observer=new MutationObserver(schedule);observer.observe(document.documentElement,{childList:true,subtree:true});install();if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',install,{once:true});
+})();

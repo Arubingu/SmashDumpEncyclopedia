@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>SmashDump Encyclopedia · Integrated Images R5.4</title>
+  <script>if(new URLSearchParams(location.search).get('embedded')==='1')document.documentElement.classList.add('sd-embedded');</script>
+  <link rel="stylesheet" href="styles.css?snapshot_r6_2=1">
+<!-- SMASHDUMP_ENCYCLOPEDIA_BROWSER_INTEGRATION_R5_4 -->
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-mark">SD</div>
+      <div><h1>SmashDump</h1><p>Local game-data archive</p></div>
+    </div>
+    <nav class="mode-tabs" aria-label="Browser mode">
+      <button class="mode-tab active">Encyclopedia</button>
+    </nav>
+    <div class="version-block"><span>Version comparison</span><strong id="versionLabel">Loading…</strong></div>
+  </header>
+
+  <section class="scope-note"><span class="dot"></span><strong>Isolated R6 prototype</strong><span>Game-like vocation trees with drag panning, in-canvas node details, certified game thumbnails and clearer current-effect wording. The production Archive Browser is untouched.</span></section>
+
+  <main class="app-shell">
+    <aside class="sidebar">
+      <div class="sidebar-title"><span>Encyclopedia</span><small id="totalCount"></small></div>
+      <nav id="categoryNav" class="category-nav"></nav>
+      <div class="sidebar-footer">
+        <button id="favoritesButton" class="text-button"><span>★</span> Favourites</button>
+        <button id="recentButton" class="text-button"><span>↻</span> Recent</button>
+      </div>
+    </aside>
+
+    <section class="workspace">
+      <div class="toolbar">
+        <div class="search-wrap"><span>⌕</span><input id="searchInput" type="search" placeholder="Search names, effects, descriptions, IDs and paths…" autocomplete="off"></div>
+        <button id="filterButton" class="toolbar-button"><span>☷</span> Filters <b id="filterCount">0</b></button>
+        <select id="sortSelect" class="toolbar-select" aria-label="Sort entries"></select>
+        <select id="languageSelect" class="toolbar-select language" aria-label="Language"><option value="en">English</option></select>
+        <div class="view-switch"><button id="cardView" class="active" title="Card view">▦</button><button id="tableView" title="Compact view">☷</button></div>
+      </div>
+
+      <div id="activeFilters" class="active-filters"></div>
+      <div class="summary-strip" id="summaryStrip"></div>
+
+      <div class="content-grid">
+        <section class="entity-list-panel">
+          <div class="list-heading">
+            <div><p class="eyebrow">Browse</p><h2 id="categoryTitle">Accessories</h2><p id="resultSummary">Loading…</p></div>
+            <button id="clearQuickButton" class="small-button ghost">Reset view</button>
+          </div>
+          <div id="entityList" class="entity-list card-mode"></div>
+        </section>
+
+        <aside id="detailPanel" class="detail-panel">
+          <div class="empty-state"><div class="unknown-art">?</div><h3>Select an entry</h3><p>Readable game details appear here. Raw database evidence stays in the Advanced sections.</p></div>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <div id="filterOverlay" class="drawer-overlay"></div>
+  <aside id="filterDrawer" class="filter-drawer" aria-label="Filters">
+    <div class="drawer-header"><div><p class="eyebrow">Refine results</p><h2 id="filterTitle">Filters</h2></div><button id="closeFilters" class="icon-button" aria-label="Close filters">×</button></div>
+    <div id="filterBody" class="filter-body"></div>
+    <div class="drawer-footer"><button id="resetFilters" class="action-button">Clear filters</button><button id="applyFilters" class="action-button primary">Show results</button></div>
+  </aside>
+
+  <div id="toast" class="toast" role="status"></div>
+<script src="public_static_transport.js?accepted_renderer_static_r1=1"></script>
+<script src="data/encyclopedia_snapshots_bootstrap.js?continuity_r6_7=1"></script>
+<script src="app.js?continuity_r6_7=1"></script>
+<!-- SMASHDUMP_BROWSER_REPAIR_STAGE1_FOUNDATION_R1 -->
+<!-- SMASHDUMP_STAGE3_R5_13_STAGE_BROWSER_LIVE_TAKEOVER_CORRECTED_R5 -->
+<!-- SMASHDUMP_STAGE3_R5_13_STAGE_BROWSER_INTERACTION_AND_PRESENTATION_CORRECTED_R6 -->
+<!-- SMASHDUMP_STAGE3_R5_13_STAGE_BROWSER_MANUAL_BANNERS_AND_SELECTION_CORRECTED_R8 -->
+<!-- SMASHDUMP_STAGE3_R5_13_STAGE_BROWSER_GAUNTLET_BANNERS_AND_OPEN_STATE_POLISH_CORRECTED_R9 -->
+<!-- SMASHDUMP_STAGE3_R5_13_STAGE_BROWSER_FINAL_FILTER_AND_HEADER_POLISH_CORRECTED_R10 -->
+</body>
+</html>

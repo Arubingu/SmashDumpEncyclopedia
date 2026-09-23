@@ -1,0 +1,1 @@
+[Open the Encyclopedia](https://arubingu.github.io/SmashDumpEncyclopedia/)

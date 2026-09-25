@@ -28,7 +28,7 @@
 /* SMASHDUMP_ENCYCLOPEDIA_SOURCE_CONTRACT_REPAIR_R8_1_LOADER */
 (async()=>{'use strict';
  const appRoot=new URL('.',location.href),report=(message,error)=>console.error('SMASHDUMP_ENCYCLOPEDIA_SOURCE_CONTRACT_REPAIR_R8_1',message,error||'');
- const add=(name,done)=>{const script=document.createElement('script');script.src=new URL(name,appRoot).href+'?release=a46068fa0edb8089';script.async=false;script.onload=done||null;script.onerror=e=>report(`Could not load ${name}`,e);document.head.appendChild(script);return script};
+ const add=(name,done)=>{const script=document.createElement('script');script.src=new URL(name,appRoot).href+'?release=fb84be0f72f573e2';script.async=false;script.onload=done||null;script.onerror=e=>report(`Could not load ${name}`,e);document.head.appendChild(script);return script};
  const stable=()=>{const label=document.getElementById('versionLabel'),nav=document.getElementById('categoryNav'),list=document.getElementById('entityList'),text=String(document.body?.textContent||'');return Boolean(label&&nav&&list&&String(label.textContent||'').trim()&&!/^Loading(?:…|\.\.\.)?$/i.test(String(label.textContent||'').trim())&&nav.childElementCount>0&&!/Could not load Encyclopedia data|Encyclopedia failed to load/.test(text))};
  const selector=()=>{let loaded=false;const start=()=>{if(loaded||!stable())return false;loaded=true;observer.disconnect();clearTimeout(timer);add('snapshot_ui_source_contract_r8_1.js');return true},observer=new MutationObserver(()=>queueMicrotask(start)),timer=setTimeout(()=>{observer.disconnect();if(!loaded)report('Renderer did not reach a stable shell; selector was not injected.')},180000);observer.observe(document.documentElement,{childList:true,subtree:true,characterData:true});start()};
  try{

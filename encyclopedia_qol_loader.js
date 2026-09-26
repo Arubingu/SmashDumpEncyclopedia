@@ -2,15 +2,7 @@
 (()=>{
   'use strict';
   const MARKER='SMASHDUMP_ENCYCLOPEDIA_QOL_ACCEPTED_R10_LOADER';
-  const scripts=[
-    'qol_lab_r6.js',
-    'qol_lab_r7.js',
-    'qol_lab_r8.js',
-    'qol_lab_r9.js',
-    'qol_lab_r10.js',
-    'data/lab_drony_memory_effects_payload_v1.js?labfix=7',
-    'lab_drony_memory_effects_v1.js?labfix=7'
-  ];
+  const scripts=['qol_lab_r6.js','qol_lab_r7.js','qol_lab_r8.js','qol_lab_r9.js','qol_lab_r10.js','data/lab_drony_memory_effects_payload_v1.js','lab_drony_memory_effects_v1.js','qol_lab_r11.js','qol_lab_r12.js'];
   const appRoot=new URL('.',location.href);
   const releaseToken=(()=>{try{return new URL(document.currentScript?.src||'',location.href).searchParams.get('release')||''}catch{return''}})();
   const activeContent=()=>String(globalThis.__SMASHDUMP_ENCYCLOPEDIA_ACTIVE_SNAPSHOT__?.current_version||'');

@@ -1,0 +1,27 @@
+/* SmashDump public responsive lab R11. Mobile browsing-density controls. */
+.public-mobile-controls-toggle{display:none}
+
+@media(max-width:959px){
+  .public-mobile-controls-toggle{
+    display:inline-flex;order:1;flex:0 0 auto;min-height:40px;align-items:center;gap:7px;
+    border:1px solid #3a424e;border-radius:10px;background:#171b21;padding:0 12px;
+    color:#f2f4f7;font-weight:800;cursor:pointer
+  }
+  .public-mobile-controls-toggle:hover,.public-mobile-controls-toggle:focus-visible{border-color:#5a6574;background:#20252d}
+  .public-mobile-controls-toggle[aria-expanded="true"]{border-color:rgba(227,72,85,.55);background:#252027}
+  .public-mobile-controls-toggle .public-mobile-controls-count{display:none;min-width:18px;height:18px;place-items:center;border-radius:999px;background:#d43e4e;color:#fff;font-size:9px}
+  .public-mobile-controls-toggle.has-active-filters .public-mobile-controls-count{display:grid}
+
+  body.public-mobile-controls-collapsed .public-category-toggle{order:0;flex:1 1 auto;min-width:0;max-width:none}
+  body.public-mobile-controls-collapsed .public-mobile-controls-toggle{order:1}
+  #activeFilters{max-height:120px;overflow:hidden;opacity:1;transition:max-height 150ms ease,opacity 120ms ease,padding 150ms ease}
+  body.public-mobile-controls-collapsed #activeFilters{max-height:0;opacity:0;padding-top:0!important;padding-bottom:0!important;pointer-events:none}
+  body.public-mobile-controls-collapsed #summaryStrip{display:none!important}
+}
+
+@media(max-width:420px){
+  .public-mobile-controls-toggle{padding:0 10px}
+  .public-mobile-controls-toggle .public-mobile-controls-label{font-size:12px}
+}
+
+@media(prefers-reduced-motion:reduce){.toolbar{transition:none!important}}

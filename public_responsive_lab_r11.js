@@ -46,10 +46,9 @@
     if(performance.now()<settlingUntil){direction=0;directionDistance=0;return}
     if(current<=40){manualState=null;direction=0;directionDistance=0;setCollapsed(false);return}
     if(Math.abs(delta)<1)return;
-    const nextDirection=delta>0?1:-1;
-    directionDistance=nextDirection===direction?directionDistance+Math.abs(delta):Math.abs(delta);direction=nextDirection;
-    if(nextDirection<0&&directionDistance>=36){manualState=null;directionDistance=0;setCollapsed(false)}
-    else if(nextDirection>0&&directionDistance>=48){manualState=null;directionDistance=0;setCollapsed(true)}
+    if(delta<0){direction=-1;directionDistance=0;return}
+    directionDistance=direction===1?directionDistance+delta:delta;direction=1;
+    if(directionDistance>=48){manualState=null;directionDistance=0;setCollapsed(true)}
   }
   function schedule(){if(scheduled)return;scheduled=true;requestAnimationFrame(()=>{scheduled=false;reconcile()})}
   button.addEventListener('click',()=>{manualState=collapsed()?'open':'closed';direction=0;directionDistance=0;setCollapsed(manualState==='closed')});

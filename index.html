@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>SmashDump Encyclopedia · Integrated Images R5.4</title>
+  <script>if(new URLSearchParams(location.search).get('embedded')==='1')document.documentElement.classList.add('sd-embedded');</script>
+  <link rel="stylesheet" href="styles.css?release=20e27ec640bdf44e">
+  <link rel="stylesheet" href="public_responsive_lab_r6.css?release=20e27ec640bdf44e">
+  <link rel="stylesheet" href="public_responsive_lab_r7.css?release=20e27ec640bdf44e">
+  <link rel="stylesheet" href="public_responsive_lab_r8.css?release=20e27ec640bdf44e">
+  <link rel="stylesheet" href="public_responsive_lab_r9.css?release=20e27ec640bdf44e">
+  <link rel="stylesheet" href="public_responsive_lab_r10.css?release=20e27ec640bdf44e">
+  <link rel="stylesheet" href="public_responsive_lab_r11.css?release=20e27ec640bdf44e">
+  <link rel="stylesheet" href="public_responsive_lab_r12.css?release=20e27ec640bdf44e">
+  <link rel="stylesheet" href="public_responsive_lab_r13.css?release=20e27ec640bdf44e">
+  <link rel="stylesheet" href="encyclopedia_easter_eggs_candidate.css?release=20e27ec640bdf44e">
+  <link rel="stylesheet" href="lab_drony_memory_effects_v1.css?release=20e27ec640bdf44e">
+<!-- SMASHDUMP_ENCYCLOPEDIA_BROWSER_INTEGRATION_R5_4 -->
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-mark">SD</div>
+      <div><h1>SmashDump</h1><p>Local game-data archive</p></div>
+    </div>
+    <nav class="mode-tabs" aria-label="Browser mode">
+      <button class="mode-tab active">Encyclopedia</button>
+    </nav>
+    <div class="version-block"><span>Version comparison</span><strong id="versionLabel">Loading…</strong></div>
+  </header>
+
+  <section class="scope-note"><span class="dot"></span><strong>Encyclopedia 0.1.20</strong><span>Responsive Encyclopedia interface with the accepted current-data presentation. The production Archive Browser is untouched.</span></section>
+
+  <main class="app-shell">
+    <aside class="sidebar">
+      <div class="sidebar-title"><span>Encyclopedia</span><small id="totalCount"></small></div>
+      <nav id="categoryNav" class="category-nav"></nav>
+      <div class="sidebar-footer">
+        <button id="favoritesButton" class="text-button"><span>★</span> Favourites</button>
+        <button id="recentButton" class="text-button"><span>↻</span> Recent</button>
+      </div>
+    </aside>
+
+    <section class="workspace">
+      <div class="toolbar">
+        <button id="publicCategoryToggle" class="public-category-toggle" type="button" aria-controls="categoryNav" aria-expanded="false"><span aria-hidden="true">☰</span><span class="public-category-label">Categories</span><span class="public-category-chevron" aria-hidden="true">›</span></button>
+        <div class="search-wrap"><span>⌕</span><input id="searchInput" type="search" placeholder="Search names, effects, descriptions, IDs and paths…" autocomplete="off"></div>
+        <button id="filterButton" class="toolbar-button"><span>☷</span> Filters <b id="filterCount">0</b></button>
+        <select id="sortSelect" class="toolbar-select" aria-label="Sort entries"></select>
+        <select id="languageSelect" class="toolbar-select language" aria-label="Language"><option value="en">English</option></select>
+        <div class="view-switch"><button id="cardView" class="active" title="Card view">▦</button><button id="tableView" title="Compact view">☷</button></div>
+        <button id="publicSummaryToggle" class="public-summary-toggle" type="button" aria-expanded="false">Stats</button>
+      </div>
+
+      <div id="activeFilters" class="active-filters"></div>
+      <div class="summary-strip" id="summaryStrip"></div>
+
+      <div class="content-grid">
+        <section class="entity-list-panel">
+          <div class="list-heading">
+            <div><p class="eyebrow">Browse</p><h2 id="categoryTitle">Accessories</h2><p id="resultSummary">Loading…</p></div>
+            <button id="clearQuickButton" class="small-button ghost">Reset view</button>
+          </div>
+          <div id="entityList" class="entity-list card-mode"></div>
+        </section>
+
+        <aside id="detailPanel" class="detail-panel">
+          <div class="empty-state"><div class="unknown-art">?</div><h3>Select an entry</h3><p>Readable game details appear here. Raw database evidence stays in the Advanced sections.</p></div>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <div id="publicCategoryOverlay" class="public-category-overlay" aria-hidden="true"></div>
+  <button id="publicDetailReturn" class="public-detail-return" type="button"><span aria-hidden="true">←</span><span class="public-return-label">Back to results</span></button>
+
+  <div id="filterOverlay" class="drawer-overlay"></div>
+  <aside id="filterDrawer" class="filter-drawer" aria-label="Filters">
+    <div class="drawer-header"><div><p class="eyebrow">Refine results</p><h2 id="filterTitle">Filters</h2></div><button id="closeFilters" class="icon-button" aria-label="Close filters">×</button></div>
+    <div id="filterBody" class="filter-body"></div>
+    <div class="drawer-footer"><button id="resetFilters" class="action-button">Clear filters</button><button id="applyFilters" class="action-button primary">Show results</button></div>
+  </aside>
+
+<div id="toast" class="toast" role="status"></div>
+<script src="public_static_transport.js?release=20e27ec640bdf44e"></script>
+<script src="data/encyclopedia_snapshots_bootstrap.js?release=20e27ec640bdf44e"></script>
+<script src="data/encyclopedia_changelog_bootstrap.js?release=20e27ec640bdf44e"></script>
+<script src="encyclopedia_changelog.js?release=20e27ec640bdf44e"></script>
+<script src="data/qol_r6_metadata.js?release=20e27ec640bdf44e"></script>
+<script src="data/qol_r7_metadata.js?release=20e27ec640bdf44e"></script>
+<script src="public_responsive_lab_r6.js?release=20e27ec640bdf44e"></script>
+<script src="public_responsive_lab_r11.js?release=20e27ec640bdf44e"></script>
+<script src="encyclopedia_qol_loader.js?release=20e27ec640bdf44e"></script>
+<script src="encyclopedia_easter_eggs_candidate.js?release=20e27ec640bdf44e"></script>
+<script src="app.js?release=20e27ec640bdf44e"></script>
+<!-- SMASHDUMP_BROWSER_REPAIR_STAGE1_FOUNDATION_R1 -->
+<!-- SMASHDUMP_STAGE3_R5_13_STAGE_BROWSER_LIVE_TAKEOVER_CORRECTED_R5 -->
+<!-- SMASHDUMP_STAGE3_R5_13_STAGE_BROWSER_INTERACTION_AND_PRESENTATION_CORRECTED_R6 -->
+<!-- SMASHDUMP_STAGE3_R5_13_STAGE_BROWSER_MANUAL_BANNERS_AND_SELECTION_CORRECTED_R8 -->
+<!-- SMASHDUMP_STAGE3_R5_13_STAGE_BROWSER_GAUNTLET_BANNERS_AND_OPEN_STATE_POLISH_CORRECTED_R9 -->
+<!-- SMASHDUMP_STAGE3_R5_13_STAGE_BROWSER_FINAL_FILTER_AND_HEADER_POLISH_CORRECTED_R10 -->
+</body>
+</html>

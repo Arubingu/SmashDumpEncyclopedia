@@ -1,0 +1,28 @@
+/* SmashDump public responsive lab R10. Static export only. */
+
+/* Memory S-rank comparison badges. Rankings always use BASE stats, never matching-slot +20% values. */
+.s3r3-stat-grid strong.qol-r10-ranked-value{
+  display:flex;
+  align-items:baseline;
+  gap:7px;
+  flex-wrap:wrap;
+}
+.qol-r10-memory-stat-rank{
+  display:inline-flex;
+  align-items:center;
+  min-height:20px;
+  padding:2px 7px;
+  border:1px solid color-mix(in srgb,var(--memory-color) 48%,var(--border));
+  border-radius:999px;
+  background:color-mix(in srgb,var(--memory-color) 11%,var(--panel));
+  color:color-mix(in srgb,var(--memory-color) 38%,#fff);
+  font-size:.7rem;
+  font-weight:800;
+  line-height:1;
+  white-space:nowrap;
+}
+
+@media(max-width:760px){
+  .s3r3-stat-grid strong.qol-r10-ranked-value{gap:5px}
+  .qol-r10-memory-stat-rank{min-height:18px;padding:2px 6px;font-size:.66rem}
+}

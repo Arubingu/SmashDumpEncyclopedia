@@ -6,12 +6,12 @@ This repository contains the latest privacy-sanitized static export of the accep
 
 ## Current release
 
-- Content: `1.5.1.2`
-- Encyclopedia: `0.1.20`
-- Release date: `2026-10-01`
-- Added entities: `0`
-- Modified entities: `0`
+- Content: `1.5.1.3`
+- Encyclopedia: `0.1.21`
+- Release date: `2026-10-06`
+- Added entities: `24`
+- Modified entities: `45`
 
 ## Encyclopedia changes
 
-- **Added a secret easter egg** — Added a secret easter egg.
+- No Encyclopedia-specific notes were recorded for this release.

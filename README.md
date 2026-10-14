@@ -6,11 +6,11 @@ This repository contains the latest privacy-sanitized static export of the accep
 
 ## Current release
 
-- Content: `1.5.1.3`
-- Encyclopedia: `0.1.21`
-- Release date: `2026-10-06`
-- Added entities: `24`
-- Modified entities: `45`
+- Content: `1.6.0.1`
+- Encyclopedia: `0.1.23`
+- Release date: `2026-10-13`
+- Added entities: `53`
+- Modified entities: `4`
 
 ## Encyclopedia changes
 

@@ -1,0 +1,58 @@
+.sd-3d-viewer-button{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  gap:7px;
+  min-width:42px;
+  font-weight:800;
+  letter-spacing:.04em;
+}
+.sd-3d-viewer-button .sd-3d-viewer-glyph{
+  display:inline-grid;
+  place-items:center;
+  width:22px;
+  height:22px;
+  border:1px solid rgba(255,255,255,.28);
+  border-radius:7px;
+  background:rgba(255,255,255,.06);
+  font-size:9px;
+  line-height:1;
+}
+.sd-3d-viewer-overlay{
+  position:fixed;
+  inset:0;
+  z-index:10000;
+  display:none;
+  background:#10141a;
+}
+.sd-3d-viewer-overlay.open{display:block}
+.sd-3d-viewer-frame{
+  display:block;
+  width:100%;
+  height:100%;
+  border:0;
+  background:#10141a;
+}
+.sd-3d-viewer-close{
+  position:absolute;
+  z-index:3;
+  top:16px;
+  right:16px;
+  height:38px;
+  min-width:42px;
+  padding:0 12px;
+  border:1px solid #3a424e;
+  border-radius:9px;
+  background:#171d25ee;
+  color:#eef3fa;
+  font:700 14px system-ui,sans-serif;
+  cursor:pointer;
+  backdrop-filter:blur(10px);
+}
+.sd-3d-viewer-close:hover{background:#232b36}
+body.sd-3d-viewer-open{overflow:hidden}
+@media(max-width:620px){
+  .sd-3d-viewer-button .sd-3d-viewer-label{display:none}
+  .sd-3d-viewer-button{padding:0 9px}
+  .sd-3d-viewer-close{top:10px;right:10px;height:38px}
+}

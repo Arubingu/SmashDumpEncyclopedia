@@ -1,0 +1,17 @@
+{
+  "part_count": 263,
+  "part_raw_bytes": 8105548,
+  "part_bytes": 1650706,
+  "mesh_count": 287,
+  "mesh_raw_bytes": 23307116,
+  "mesh_bytes": 8363710,
+  "animation_count": 304,
+  "animation_raw_bytes": 91580016,
+  "animation_bytes": 19528648,
+  "texture_count": 608,
+  "texture_bytes": 86110525,
+  "avatar_bytes": 1357534,
+  "index_bytes": 317657,
+  "entity_count": 184,
+  "package_bytes": 117434730
+}

@@ -1,0 +1,280 @@
+{
+  "baseline_package_id": "SMASHDUMP_STAGE3_R5_18_PRELAB_REFERENCE_IDENTITY_ASSET_CLOSURE_CORRECTED_R2",
+  "baseline_version": "1.6.1",
+  "candidate_only": true,
+  "game_version": "1.6.1.1",
+  "generated_utc": null,
+  "identity_visibility": {
+    "current_snapshot_candidates": {
+      "abilities": {
+        "dormant": 0,
+        "dormant_keys": [],
+        "hidden": 0,
+        "incomplete": 0,
+        "incomplete_keys": [],
+        "released": 155,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 155,
+        "upcoming": 0,
+        "upcoming_keys": []
+      },
+      "accessories": {
+        "dormant": 0,
+        "dormant_keys": [],
+        "hidden": 0,
+        "incomplete": 0,
+        "incomplete_keys": [],
+        "released": 24,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 24,
+        "upcoming": 0,
+        "upcoming_keys": []
+      },
+      "boons": {
+        "dormant": 0,
+        "dormant_keys": [],
+        "hidden": 0,
+        "incomplete": 0,
+        "incomplete_keys": [],
+        "released": 47,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 47,
+        "upcoming": 0,
+        "upcoming_keys": []
+      },
+      "drony": {
+        "dormant": 0,
+        "dormant_keys": [],
+        "hidden": 0,
+        "incomplete": 0,
+        "incomplete_keys": [],
+        "released": 3,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 3,
+        "upcoming": 0,
+        "upcoming_keys": []
+      },
+      "drops": {
+        "dormant": 0,
+        "dormant_keys": [],
+        "hidden": 0,
+        "incomplete": 0,
+        "incomplete_keys": [],
+        "released": 519,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 519,
+        "upcoming": 0,
+        "upcoming_keys": []
+      },
+      "enemies": {
+        "dormant": 3,
+        "dormant_keys": [
+          "kind:200",
+          "kind:208",
+          "kind:238"
+        ],
+        "hidden": 4,
+        "incomplete": 1,
+        "incomplete_keys": [
+          "kind:262"
+        ],
+        "released": 119,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 123,
+        "upcoming": 0,
+        "upcoming_keys": []
+      },
+      "equipment": {
+        "dormant": 0,
+        "dormant_keys": [],
+        "hidden": 0,
+        "incomplete": 0,
+        "incomplete_keys": [],
+        "released": 138,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 138,
+        "upcoming": 0,
+        "upcoming_keys": []
+      },
+      "events": {
+        "dormant": 0,
+        "dormant_keys": [],
+        "hidden": 0,
+        "incomplete": 0,
+        "incomplete_keys": [],
+        "released": 6,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 6,
+        "upcoming": 0,
+        "upcoming_keys": []
+      },
+      "gacha": {
+        "dormant": 0,
+        "dormant_keys": [],
+        "hidden": 0,
+        "incomplete": 0,
+        "incomplete_keys": [],
+        "released": 40,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 40,
+        "upcoming": 0,
+        "upcoming_keys": []
+      },
+      "items": {
+        "dormant": 0,
+        "dormant_keys": [],
+        "hidden": 3,
+        "incomplete": 3,
+        "incomplete_keys": [
+          "reference:1:0",
+          "reference:2:0",
+          "reference:7000:0"
+        ],
+        "released": 388,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 391,
+        "upcoming": 0,
+        "upcoming_keys": []
+      },
+      "jobs": {
+        "dormant": 0,
+        "dormant_keys": [],
+        "hidden": 0,
+        "incomplete": 0,
+        "incomplete_keys": [],
+        "released": 9,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 9,
+        "upcoming": 0,
+        "upcoming_keys": []
+      },
+      "memories": {
+        "dormant": 0,
+        "dormant_keys": [],
+        "hidden": 0,
+        "incomplete": 0,
+        "incomplete_keys": [],
+        "released": 117,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 117,
+        "upcoming": 0,
+        "upcoming_keys": []
+      },
+      "memory_effects": {
+        "dormant": 0,
+        "dormant_keys": [],
+        "hidden": 0,
+        "incomplete": 0,
+        "incomplete_keys": [],
+        "released": 217,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 217,
+        "upcoming": 0,
+        "upcoming_keys": []
+      },
+      "shops": {
+        "dormant": 0,
+        "dormant_keys": [],
+        "hidden": 0,
+        "incomplete": 0,
+        "incomplete_keys": [],
+        "released": 20,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 20,
+        "upcoming": 0,
+        "upcoming_keys": []
+      },
+      "stages": {
+        "dormant": 0,
+        "dormant_keys": [],
+        "hidden": 0,
+        "incomplete": 0,
+        "incomplete_keys": [],
+        "released": 519,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 519,
+        "upcoming": 0,
+        "upcoming_keys": []
+      },
+      "status_effects": {
+        "dormant": 0,
+        "dormant_keys": [],
+        "hidden": 0,
+        "incomplete": 0,
+        "incomplete_keys": [],
+        "released": 11,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 11,
+        "upcoming": 0,
+        "upcoming_keys": []
+      },
+      "weapons": {
+        "dormant": 0,
+        "dormant_keys": [],
+        "hidden": 0,
+        "incomplete": 0,
+        "incomplete_keys": [],
+        "released": 51,
+        "technical": 0,
+        "technical_keys": [],
+        "total": 51,
+        "upcoming": 0,
+        "upcoming_keys": []
+      }
+    },
+    "other_categories": [
+      "abilities",
+      "accessories",
+      "boons",
+      "drony",
+      "drops",
+      "enemies",
+      "equipment",
+      "events",
+      "gacha",
+      "items",
+      "jobs",
+      "memories",
+      "memory_effects",
+      "shops",
+      "stages",
+      "status_effects",
+      "weapons"
+    ],
+    "ui_changes": false
+  },
+  "main_story_chapter_art": {
+    "chapters": [],
+    "layout_contract": "accepted renderer",
+    "policy": "current source only",
+    "supersedes_r2_chapter_1_map": true
+  },
+  "patch_id": "SMASHDUMP_STAGE3_R5_18_PRELAB_REFERENCE_IDENTITY_ASSET_CLOSURE_CORRECTED_R3",
+  "publication_allowed": false,
+  "review_decision": {
+    "overall": "SOURCE_DERIVED"
+  },
+  "runtime_contract": {
+    "mutation_observers_added": 0,
+    "repeating_timers_added": 0,
+    "scheduling": "accepted renderer"
+  },
+  "s1_authority_state": "CURRENT_GENERATED",
+  "schema": "smashdump.prelab_reference_identity_asset_closure.stage3.r5.18.corrected.r3.v1"
+}

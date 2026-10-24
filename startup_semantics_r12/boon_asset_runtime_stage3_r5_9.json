@@ -1,0 +1,1055 @@
+{
+  "authority_state": "CURRENT_GENERATED",
+  "by_boon_id": {
+    "1000000004": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1000000004",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000004",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "The Choker",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "a5d54dd339c6b50804db2d7fa43b1b22660f4c2a",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1000000004",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "0797b783c5fa593e533fa2a07b8f84df28da0a1370df7b2e13cb69d08cb73dbf",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/0797b783c5fa593e533fa2a07b8f84df28da0a1370df7b2e13cb69d08cb73dbf.webp"
+    },
+    "1000000005": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1000000005",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000005",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Lyre of Ire",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "28d55357d1db94b89ee721de375e31f18433a415",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1000000005",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "557f000fcf8d2c2a5d8a729adb954208a1b57a2807521b630f2d3423c15629a2",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/557f000fcf8d2c2a5d8a729adb954208a1b57a2807521b630f2d3423c15629a2.webp"
+    },
+    "1000000006": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1000000006",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000006",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Erdrick's Tablet",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "c24953c8d0f73cfcb764ed489b8de00bee81e7f3",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1000000006",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "c2942833419bae8f5b59494f53bd2fe1de89aa6eddc195cf93b50bc3b1d08d72",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/c2942833419bae8f5b59494f53bd2fe1de89aa6eddc195cf93b50bc3b1d08d72.webp"
+    },
+    "1000000007": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1000000007",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000007",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Sunstone",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "8786af2542a140b5e06de30f1787d2f3ed139e04",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1000000007",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "1aa614484a78f42a3042b73fa9467e5f68f81c728e512054323f5926818579b8",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/1aa614484a78f42a3042b73fa9467e5f68f81c728e512054323f5926818579b8.webp"
+    },
+    "1000000008": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1000000008",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000008",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Staff of Rain",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "d443eb5703dbcb8bc933b4884f40fde867e91118",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1000000008",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "9576d1f8314d1ba560f086a7076d62f240bbd16591d825206a8092b0222df49d",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/9576d1f8314d1ba560f086a7076d62f240bbd16591d825206a8092b0222df49d.webp"
+    },
+    "1000000009": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1000000009",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000009",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Dragon Scale",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "f30bfcbaa627a924e3b851d70b2ea7a91dbff068",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1000000009",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "75d4dbf301b45b2c928cb72494edf93620b06f2f077dae0ab8cfe20e7d2c42c8",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/75d4dbf301b45b2c928cb72494edf93620b06f2f077dae0ab8cfe20e7d2c42c8.webp"
+    },
+    "1000000010": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1000000010",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000010",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Mark of Erdrick",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "1752fdc5a66e5a3d481b3be3dcbd605a3b9502d0",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1000000010",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "f7ad8c3b448cc76168bb2695e874c4345268abc365d9bdbaba70e5654b52dd8e",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/f7ad8c3b448cc76168bb2695e874c4345268abc365d9bdbaba70e5654b52dd8e.webp"
+    },
+    "1000000011": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1000000011",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000011",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Cantlin's Guardian Golem",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "7b6e24c9fe2cb84059493622c7ab1886c4b61f87",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1000000011",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "dd8e705272e00187b1cf834d29b5a9903ebbea964593a8ca443d17840a47bdd1",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/dd8e705272e00187b1cf834d29b5a9903ebbea964593a8ca443d17840a47bdd1.webp"
+    },
+    "1030330553": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030330553",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000012",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Skill Token Gatherer",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "75e22eff325bee6c6a146dd5cca32665c688f9b4",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030330553",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "10e3ce7909d5d345c4c2b8107bd2d444c13ba94525cf379de9ae18d90fee0b75",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/10e3ce7909d5d345c4c2b8107bd2d444c13ba94525cf379de9ae18d90fee0b75.webp"
+    },
+    "1030330554": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030330554",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000013",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Great Arrow Damage",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "3e7d88b0dd190434fc521454c89d7e84a632c45d",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030330554",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "2a17a6523021ad9d4e9ee944dad317a7ff36346e218fbf59f808ee3ed0f2ca87",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/2a17a6523021ad9d4e9ee944dad317a7ff36346e218fbf59f808ee3ed0f2ca87.webp"
+    },
+    "1030330555": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030330555",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000014",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Boss Killer",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "9df5d5cd59da02c09bf8f567cd0255d6351ff6b3",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030330555",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "05f571d4e42ba5c2a313f49487f41380cf69c9080d9909be333c159a4b72f950",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/05f571d4e42ba5c2a313f49487f41380cf69c9080d9909be333c159a4b72f950.webp"
+    },
+    "1030330556": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030330556",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000015",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Machine Killer",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "51442efbde2c7ec6ce67444b353ff2b616ff5ab9",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030330556",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "fe49b9660364aeaec78888634092ae9bf7b33d3fc39da5d4ca170acc38729354",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/fe49b9660364aeaec78888634092ae9bf7b33d3fc39da5d4ca170acc38729354.webp"
+    },
+    "1030330557": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030330557",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000016",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "(Coup de Grâce) Giddy Up",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "8f7623006b93feb6a4564c23c135ecc7c16c12f5",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030330557",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "26f957a03661bc5a2428526c9d4138783a15cbc9ae1bdc176328453d0bd80bf7",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/26f957a03661bc5a2428526c9d4138783a15cbc9ae1bdc176328453d0bd80bf7.webp"
+    },
+    "1030330558": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030330558",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000017",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Guardian Stone Gatherer",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "a79e6f714e6cc1cbff167a3bc4bd0fad8ef4c9d8",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030330558",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "c6e17f1154d61cce6f9065a28463be5e0eeaa7e6657f693a6253e7f61d4058a4",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/c6e17f1154d61cce6f9065a28463be5e0eeaa7e6657f693a6253e7f61d4058a4.webp"
+    },
+    "1030330559": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030330559",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000018",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Dragon Killer",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "b4a58d69bff8405032f06cadd9f286994a2a479d",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030330559",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "3606f57413d7800c408c9ce01f49b1a1c65825ddcfcf5b9b489862558489900b",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/3606f57413d7800c408c9ce01f49b1a1c65825ddcfcf5b9b489862558489900b.webp"
+    },
+    "1030330560": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030330560",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000019",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Homing Damage",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "3f6e1d3131f5bbcc494d526d455ec313185f1723",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030330560",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "be596d03640af8433862f263e8fe05ff4ef957fa003e59c42983255864925ed6",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/be596d03640af8433862f263e8fe05ff4ef957fa003e59c42983255864925ed6.webp"
+    },
+    "1030330561": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030330561",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000020",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "(Claws Equipped) Coup de Grâce Gauge+",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "493c4682549ea40a9e03a973864e173a3370324e",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030330561",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "9ce18986eb47092524e1fe63da861747c41e06c1538992fcc38f3b9740c033bb",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/9ce18986eb47092524e1fe63da861747c41e06c1538992fcc38f3b9740c033bb.webp"
+    },
+    "1030330562": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030330562",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000021",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "(Coup de Grâce) All Attack Resistance",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "0189a7631c7a95ea7b64060551da0a6a29cf5c41",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030330562",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "b48c6bf0d94ab1a27d5c9bd43c823621e5fed5e44a727643cb8d80dd6988c3f3",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/b48c6bf0d94ab1a27d5c9bd43c823621e5fed5e44a727643cb8d80dd6988c3f3.webp"
+    },
+    "1030501001": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030501001",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_307420010",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Piña Goolada",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "ae6609e55dbd429b49405c5911a77f445a7d7e97",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030501001",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "d7da65972445b4c605df90f0b9140d59fee55fff09227d805ef31aedbdd253ab",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/d7da65972445b4c605df90f0b9140d59fee55fff09227d805ef31aedbdd253ab.webp"
+    },
+    "1030501002": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030501002",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_307430010",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Glazed Watermelon Stick",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "b24ab69adb354347647a48f0b1eb162614fd680e",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030501002",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "a40df55c933e1a40134c0e083303bfe3b0a7dfeccb57c246043d76ea34fa1cf1",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/a40df55c933e1a40134c0e083303bfe3b0a7dfeccb57c246043d76ea34fa1cf1.webp"
+    },
+    "1030501003": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030501003",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_307440010",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Caramelon à la Mode",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "d05dbf50df032f75b7a3e05e07c6f0535159612b",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030501003",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "a1e60044287d1158a9d26d1ddecfd5e81149e50d391d0da706d4b9b8b5753779",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/a1e60044287d1158a9d26d1ddecfd5e81149e50d391d0da706d4b9b8b5753779.webp"
+    },
+    "1030501004": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030501004",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_307450010",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Melon Jalfriendi",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "2aa471534587a8e4dde731f5d8953a18454248bd",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030501004",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "6bd83c29dde56b7a8f72125aa4394a31e5cb9c2e1b41d8451c1bde579022b839",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/6bd83c29dde56b7a8f72125aa4394a31e5cb9c2e1b41d8451c1bde579022b839.webp"
+    },
+    "1030501005": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030501005",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_307460010",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "King Watermenace Burger",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "b0e3d6e7943deee489d4522e3809fafa96d19761",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030501005",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "1878c30c2fef78167fce734de90c2ad7b13858619d2bad0cc7d6c38f6bf0dccc",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/1878c30c2fef78167fce734de90c2ad7b13858619d2bad0cc7d6c38f6bf0dccc.webp"
+    },
+    "1030701001": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030701001",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_304760050",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Physical Earth Damage",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "cf1a3f153963cf141faf423ca5c0946e6b01c336",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030701001",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "05d04deb5a1de3bf7d9cbed20c7e4aef5df7528ae24a813a0a121308d0c1eced",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/05d04deb5a1de3bf7d9cbed20c7e4aef5df7528ae24a813a0a121308d0c1eced.webp"
+    },
+    "1030701002": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030701002",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_304790050",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Physical Dark Damage",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "355212fb8282dbdf10f2be9fdeec9a3d9530ec33",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030701002",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "8f3b5563aea54b330caffbe7d43cc9bbf1c5d733b09218fcdf1e3844ec09602a",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/8f3b5563aea54b330caffbe7d43cc9bbf1c5d733b09218fcdf1e3844ec09602a.webp"
+    },
+    "1030701003": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030701003",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_302930050",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Coup de Grâce Damage",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "17abb8ef6e1c3d09fc1f278be54a2600c1b6bf90",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030701003",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "5cd8123bf904013d739b8d4cd303314cd7700ab2a28a3762e71d65fc6b4fbbd9",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/5cd8123bf904013d739b8d4cd303314cd7700ab2a28a3762e71d65fc6b4fbbd9.webp"
+    },
+    "1030701004": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030701004",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_307040050",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Normal Attack Damage",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "7cbd7e9acacaea6139b04d3328490ae6a61a7698",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030701004",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "39ef14dd5e7e3aa8a70a55b8dd3a3581e270ee056ae47e271f8a393241bd26cd",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/39ef14dd5e7e3aa8a70a55b8dd3a3581e270ee056ae47e271f8a393241bd26cd.webp"
+    },
+    "1030701005": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030701005",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_307020010",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Aegis",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "3e4b048c4826751a6800012e42c59adfedc5ab3a",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030701005",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "1c11c3e9476ff68774e420c3105d8346403179fce6b251606731701e02d1f3bb",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/1c11c3e9476ff68774e420c3105d8346403179fce6b251606731701e02d1f3bb.webp"
+    },
+    "1030701006": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030701006",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_1000000019",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Homing Damage",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "3f6e1d3131f5bbcc494d526d455ec313185f1723",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030701006",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "be596d03640af8433862f263e8fe05ff4ef957fa003e59c42983255864925ed6",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/be596d03640af8433862f263e8fe05ff4ef957fa003e59c42983255864925ed6.webp"
+    },
+    "1030901001": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030901001",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_309010200",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Stepan's Nightmare",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "cedcec2318d6596f78bc21f6455876486375c507",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030901001",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "a17c091985b3e1941d14c659a6b798593ca5e9df1e7fdf0446fa2fa98a30f7a0",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/a17c091985b3e1941d14c659a6b798593ca5e9df1e7fdf0446fa2fa98a30f7a0.webp"
+    },
+    "1030901002": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030901002",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_309020200",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Seven Tiny Lights",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "be38dd3e187a33a5d3de89d5fccc14f297d90879",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030901002",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "981f867574d93b93b42bc9d1f3833b9948a59c8963ad492f41679e06d1105067",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/981f867574d93b93b42bc9d1f3833b9948a59c8963ad492f41679e06d1105067.webp"
+    },
+    "1030901003": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030901003",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_309030200",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "The Chosen",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "c4df3489bf4b29bbf35f6f82cbe64334a376f125",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030901003",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "53892095cfe518f45637fa4a67532f2d891c0ea7a34a663ee1ebe758f4714b5d",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/53892095cfe518f45637fa4a67532f2d891c0ea7a34a663ee1ebe758f4714b5d.webp"
+    },
+    "1030901004": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030901004",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_309040200",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Frozen Heart",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "89f8f77a44a352209ff413c9cd7970829c3a4d2c",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030901004",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "c2f68c3e78bebbc05bf4329537d8178d21a07302537e4156b72d5dc1eec84776",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/c2f68c3e78bebbc05bf4329537d8178d21a07302537e4156b72d5dc1eec84776.webp"
+    },
+    "1030901005": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030901005",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_309050200",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Zenith's Providence",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "1ce77c0d944f4604cc1e8260d8572c9907072979",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030901005",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "e9002289f1d3e829ed3165c9efcf7b485984dc197e8bb34b3384c1490f9af4e3",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/e9002289f1d3e829ed3165c9efcf7b485984dc197e8bb34b3384c1490f9af4e3.webp"
+    },
+    "1030901006": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030901006",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_309060500",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Crumbling Throne",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "8590888e125f521928c41345cb07c4716726c1d9",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030901006",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "0140373aa8463498b6b90b1fb70db9fe14c081e17b87d8a25a0a02ae0fb0e5f6",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/0140373aa8463498b6b90b1fb70db9fe14c081e17b87d8a25a0a02ae0fb0e5f6.webp"
+    },
+    "1030901007": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030901007",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_309070500",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Healie's Bond+",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "4b73c6acfb2e96de33c50c9d60b4d279d964edd0",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030901007",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "4cf50f3c5b68fd48854d770f724405f2ad4c993b506a9ac41349b63e9e9bd230",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/4cf50f3c5b68fd48854d770f724405f2ad4c993b506a9ac41349b63e9e9bd230.webp"
+    },
+    "1030901008": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030901008",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_309080500",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Multifeet+",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "94ac6a15f186430785bd52f53bf7e3a9267dbf19",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030901008",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "1fd130256422a896275686241af8af7a8a27e25c2b196a0b659234baf63deed7",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/1fd130256422a896275686241af8af7a8a27e25c2b196a0b659234baf63deed7.webp"
+    },
+    "1030901011": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030901011",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_309111000",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Merchant's Stash+",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "997c625ef3b997e354bbe5d030ab97548631ad09",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030901011",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "67b9ac49e2e2e18623d0349345ce4468a3a20d35311dea632a844c270cbfaca6",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/67b9ac49e2e2e18623d0349345ce4468a3a20d35311dea632a844c270cbfaca6.webp"
+    },
+    "1030901012": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030901012",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_309120200",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Snooze+",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "811cba7df009e0e44c8c2b7e01b9cf99ed0bb9a9",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030901012",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "8727f3affda9a7fb6ed2ee6ddce9f348f26535aad5d66300c5a7196d39c58795",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/8727f3affda9a7fb6ed2ee6ddce9f348f26535aad5d66300c5a7196d39c58795.webp"
+    },
+    "1030901013": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030901013",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_309130500",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Frizzle+",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "9036b667f9eaca9a63e3b8da3cb660870899692a",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030901013",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "a958e9534bbc84077ad230d176c1c53c3aeea89afc498fba65acc85e2ad572fb",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/a958e9534bbc84077ad230d176c1c53c3aeea89afc498fba65acc85e2ad572fb.webp"
+    },
+    "1030901014": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "1030901014",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_309140500",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Zenithian Flash+",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "d3dbcf7433ba53e5cdbf1df52576e0c1802352ce",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "1030901014",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "6b6a440588717314e32bc9533b0d2ebb14dac18d3cbca0034756f8b13034c9cd",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/6b6a440588717314e32bc9533b0d2ebb14dac18d3cbca0034756f8b13034c9cd.webp"
+    },
+    "306780001": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "306780001",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_306780001",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Dream Dew",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "bb994887beb247d3ac9a533d934294b49f771416",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "306780001",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "2517155371ba187003901b67aa7092abcfee2a41bd3b744e5fa951204d630aa3",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/2517155371ba187003901b67aa7092abcfee2a41bd3b744e5fa951204d630aa3.webp"
+    },
+    "306790001": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "306790001",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_306790001",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Ra's Mirror",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "3fe783a6d4b4bd6046afac83374994fd6a730931",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "306790001",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "249da9d95edb9ba6f22c329324bde3c8037605c1e6ce122d0b42ca1cba79804d",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/249da9d95edb9ba6f22c329324bde3c8037605c1e6ce122d0b42ca1cba79804d.webp"
+    },
+    "306800001": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "306800001",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_306800001",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "The Providence",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "be4021ac97d824bec5272d8818632619deaed5ae",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "306800001",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "8596d92677747dd20190188f84a6d6b1fae6dda598dbce13aa89f613420e36a8",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/8596d92677747dd20190188f84a6d6b1fae6dda598dbce13aa89f613420e36a8.webp"
+    },
+    "306810001": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "306810001",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_306810001",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Legendary Relics",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "7160b38c2685e8d1cfb25779aa2f514e602f3399",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "306810001",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "704d31266486651731ac11e3b0938e2dc9d7d126fb887b5c531e87d2cd839613",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/704d31266486651731ac11e3b0938e2dc9d7d126fb887b5c531e87d2cd839613.webp"
+    },
+    "306820001": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "306820001",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_306820001",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Pegasus",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "2a0c12c2960b2c4293c34f981aef1b279e9ce969",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "306820001",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "8bd7020b82bb627673a775748994e80b02bfe9ff29621c089ace68660246a865",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/8bd7020b82bb627673a775748994e80b02bfe9ff29621c089ace68660246a865.webp"
+    },
+    "306830001": {
+      "classification": "RESOLVED_CURRENT_SOURCE",
+      "id": "306830001",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_306830001",
+      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
+      "name": "Super Spheres",
+      "orientation": "AS_STORED",
+      "provenance": {
+        "snapshot_match": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "b210a4d439cff038bf7351885cc9ba5492b9bf42",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_identity": "306830001",
+        "source_table": "m_event_special_effect"
+      },
+      "sha256": "3b9ca158569be41ce70884478ee290beb8696c7ba8599ff4399664ce2ccdc81a",
+      "status": "RESOLVED",
+      "url": "../../../assets/current/3b9ca158569be41ce70884478ee290beb8696c7ba8599ff4399664ce2ccdc81a.webp"
+    }
+  },
+  "generated_from": {
+    "masterdata_sha256": "63af5a620d8754169028850cdfa87db7fc777e49d731133b347b08f312fe3b88",
+    "snapshot_sha256": "3b9aa9b3ec9d6b0a1461e8e3e46b16cced9a0f765429db5c51d26ea98f376f57"
+  },
+  "generated_utc": null,
+  "orientation_summary": {
+    "policy": "current snapshot presentation contract; never blanket flip"
+  },
+  "resolver_revision": "SMASHDUMP_S1_SUCCESSOR_CONSTRUCTION_R1",
+  "resolver_schema": "smashdump.s1.current_source_boon_asset_resolver.v1",
+  "schema": "smashdump.stage3.r5.9.boon_asset_runtime.v1",
+  "summary": {
+    "public_boons": 47,
+    "resolved": 47,
+    "unresolved": 0
+  }
+}

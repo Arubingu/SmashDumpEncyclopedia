@@ -1,0 +1,573 @@
+{
+  "asset_corrections": {
+    "advertisement_claim_icon": {
+      "authority_state": "CURRENT_VERIFIED_INVARIANT_REUSE",
+      "bytes": 3629,
+      "confidence": 1.0,
+      "current_snapshot_rows": 1,
+      "fallback_url": "../../../assets/current/9fd8c6feaf6a1305dc10abfde9a1676d21e21caddfdcd8a389cb9f7ed5e9474d.webp",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_icon_ad",
+      "match_method": "CURRENT_SNAPSHOT_EXACT_ACCEPTED_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "condition_icon",
+      "sha256": "9fd8c6feaf6a1305dc10abfde9a1676d21e21caddfdcd8a389cb9f7ed5e9474d",
+      "url": "../../../assets/current/9fd8c6feaf6a1305dc10abfde9a1676d21e21caddfdcd8a389cb9f7ed5e9474d.webp",
+      "vertical_flip_applied_during_conversion": false
+    },
+    "main_story_chapter_1_map": {
+      "authority_state": "CURRENT_VERIFIED_INVARIANT_REUSE",
+      "bytes": 172773,
+      "confidence": 1.0,
+      "current_snapshot_rows": 1,
+      "fallback_url": "../../../assets/current/9d984b2975a1d9355a8a3cd45677fe1e1c3266650670ca28ee378325bb7f5a9d.webp",
+      "locale": "neutral",
+      "logical_path": "UI/Download/area/prt_img_map_001",
+      "match_method": "CURRENT_SNAPSHOT_EXACT_ACCEPTED_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "chapter_map",
+      "sha256": "9d984b2975a1d9355a8a3cd45677fe1e1c3266650670ca28ee378325bb7f5a9d",
+      "url": "../../../assets/current/9d984b2975a1d9355a8a3cd45677fe1e1c3266650670ca28ee378325bb7f5a9d.webp",
+      "vertical_flip_applied_during_conversion": false
+    },
+    "memory_points_thumbnail": {
+      "authority_state": "CURRENT_VERIFIED_INVARIANT_REUSE",
+      "bytes": 16719,
+      "confidence": 1.0,
+      "current_snapshot_rows": 1,
+      "fallback_url": "../../../assets/current/266293953554cfe66b295f43f5d65d7b71db0d1c460d123ab99ddd4f66697966.webp",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_350100001",
+      "match_method": "CURRENT_SNAPSHOT_EXACT_ACCEPTED_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "entity_thumbnail",
+      "sha256": "266293953554cfe66b295f43f5d65d7b71db0d1c460d123ab99ddd4f66697966",
+      "url": "../../../assets/current/266293953554cfe66b295f43f5d65d7b71db0d1c460d123ab99ddd4f66697966.webp",
+      "vertical_flip_applied_during_conversion": false
+    },
+    "profile_pose_class_fallback": {
+      "authority_state": "CURRENT_VERIFIED_INVARIANT_REUSE",
+      "bytes": 9809,
+      "confidence": 1.0,
+      "current_snapshot_rows": 1,
+      "fallback_url": "../../../assets/current/cb05f7ba0cb72879487e3ef4a618d54120e2308a4a84860e8d8631bb76df216c.webp",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/prf/prt_tmb_prf_pose0001",
+      "match_method": "CURRENT_SNAPSHOT_EXACT_ACCEPTED_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "class_fallback",
+      "sha256": "cb05f7ba0cb72879487e3ef4a618d54120e2308a4a84860e8d8631bb76df216c",
+      "url": "../../../assets/current/cb05f7ba0cb72879487e3ef4a618d54120e2308a4a84860e8d8631bb76df216c.webp",
+      "vertical_flip_applied_during_conversion": false
+    },
+    "roly_token_points_thumbnail": {
+      "authority_state": "CURRENT_VERIFIED_INVARIANT_REUSE",
+      "bytes": 25020,
+      "confidence": 1.0,
+      "current_snapshot_rows": 1,
+      "fallback_url": "../../../assets/current/5045aba55cd1a7009eb410c43651af633d85d1f209c5010cee330944b61fe2f9.webp",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_270000001",
+      "match_method": "CURRENT_SNAPSHOT_EXACT_ACCEPTED_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "entity_thumbnail",
+      "sha256": "5045aba55cd1a7009eb410c43651af633d85d1f209c5010cee330944b61fe2f9",
+      "url": "../../../assets/current/5045aba55cd1a7009eb410c43651af633d85d1f209c5010cee330944b61fe2f9.webp",
+      "vertical_flip_applied_during_conversion": false
+    },
+    "smash_grow_points_compact": {
+      "authority_state": "CURRENT_VERIFIED_INVARIANT_REUSE",
+      "bytes": 8865,
+      "confidence": 1.0,
+      "current_snapshot_rows": 1,
+      "fallback_url": "../../../assets/current/221c608c0d48bc8e5e4de8c3895f65635f0519f25f618b4f61b9729419abacc5.webp",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_icon_itm_260000001",
+      "match_method": "CURRENT_SNAPSHOT_EXACT_ACCEPTED_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "compact_icon",
+      "sha256": "221c608c0d48bc8e5e4de8c3895f65635f0519f25f618b4f61b9729419abacc5",
+      "url": "../../../assets/current/221c608c0d48bc8e5e4de8c3895f65635f0519f25f618b4f61b9729419abacc5.webp",
+      "vertical_flip_applied_during_conversion": false
+    },
+    "smash_grow_points_thumbnail": {
+      "authority_state": "CURRENT_VERIFIED_INVARIANT_REUSE",
+      "bytes": 24308,
+      "confidence": 1.0,
+      "current_snapshot_rows": 1,
+      "fallback_url": "../../../assets/current/fce41a9b32ae7ad3e493ff4ac726d8f8ee4a68dbd0faa884e7d9cf627210e115.webp",
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_260000001",
+      "match_method": "CURRENT_SNAPSHOT_EXACT_ACCEPTED_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "entity_thumbnail",
+      "sha256": "fce41a9b32ae7ad3e493ff4ac726d8f8ee4a68dbd0faa884e7d9cf627210e115",
+      "url": "../../../assets/current/fce41a9b32ae7ad3e493ff4ac726d8f8ee4a68dbd0faa884e7d9cf627210e115.webp",
+      "vertical_flip_applied_during_conversion": false
+    }
+  },
+  "authority_state": "CURRENT_GENERATED",
+  "baseline_version": "1.6.1",
+  "candidate_only": true,
+  "category_identity_policies": {
+    "abilities": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    },
+    "accessories": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    },
+    "boons": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    },
+    "drony": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    },
+    "drops": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    },
+    "enemies": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    },
+    "equipment": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    },
+    "events": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    },
+    "gacha": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    },
+    "items": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    },
+    "jobs": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    },
+    "memories": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    },
+    "memory_effects": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    },
+    "shops": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    },
+    "stages": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    },
+    "status_effects": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    },
+    "weapons": {
+      "identity": "stable category+id from current producer",
+      "missing_image": "does not hide entity",
+      "unknown_fields": "explicit unresolved"
+    }
+  },
+  "deferred_not_in_this_patch": [],
+  "game_version": "1.6.1.1",
+  "generated_utc": null,
+  "item_corrections": {
+    "profile_pose_class_fallback": {
+      "display_asset": "profile_pose_class_fallback",
+      "label": "Generic Profile pose icon",
+      "match": "items with current.item_family == Profile pose and no exact display asset"
+    },
+    "resource:equipment_points": {
+      "display_asset": "roly_token_points_thumbnail",
+      "provenance": "USER_CONFIRMED_IN_GAME_NAME_AND_VERIFIED_ASSET",
+      "rename_to": "Roly Token Points"
+    },
+    "resource:memory_points": {
+      "create_if_missing": true,
+      "display_asset": "memory_points_thumbnail",
+      "name": "Memory Points",
+      "provenance": "USER_CONFIRMED_FUNCTION_AND_VERIFIED_ASSET",
+      "source_table": "m_memory_orb.pearl_point_amount"
+    },
+    "resource:smash_grow_points": {
+      "compact_asset": "smash_grow_points_compact",
+      "display_asset": "smash_grow_points_thumbnail",
+      "name": "Smash/Grow Points",
+      "provenance": "USER_VERIFIED_COMPLETE_SNAPSHOT_ASSET_VIEWER"
+    }
+  },
+  "lab_contract": {
+    "all_14_categories": [
+      "abilities",
+      "accessories",
+      "boons",
+      "drony",
+      "drops",
+      "enemies",
+      "equipment",
+      "events",
+      "gacha",
+      "items",
+      "jobs",
+      "memories",
+      "memory_effects",
+      "shops",
+      "stages",
+      "status_effects",
+      "weapons"
+    ],
+    "real_fixtures": [],
+    "required_transitions": []
+  },
+  "patch_id": "SMASHDUMP_STAGE3_R5_18_PRELAB_REFERENCE_IDENTITY_AND_ASSET_CLOSURE_R1",
+  "principles": {
+    "asset_class_fallbacks_are_labelled_and_never_claimed_as_unique": true,
+    "identity_exists_independently_of_public_completeness": true,
+    "later_master_rows_enrich_existing_identity_without_duplication": true,
+    "reference_only_entities_must_not_disappear": true,
+    "runtime_injection_is_category_agnostic": "reference_only_entities are iterated by category/id; no Ranger-only list insertion branch",
+    "unknown_semantics_remain_explicit": true
+  },
+  "publication_allowed": false,
+  "reference_only_entities": [
+    {
+      "entity": {
+        "baseline": {},
+        "category": "enemies",
+        "current": {
+          "authority_state": "CURRENT_VERIFIED_CARRY_FORWARD",
+          "carry_forward_proof": {
+            "enemy_kind_id": 200,
+            "main_team_rows": 0,
+            "nonmain_team_rows": 0,
+            "placement_team_count": 0,
+            "template_ids": [
+              119601
+            ]
+          },
+          "enemy_kind_id": 200,
+          "family_name": "Cannibox",
+          "hidden_by_default_reason": "Accepted dormant public identity is independently re-proven in current enemy masterdata.",
+          "publication_state": "DORMANT_OR_UNPLACED",
+          "reference_identity_state": "DORMANT_OR_UNPLACED",
+          "search_aliases": [
+            "Cannibox"
+          ],
+          "stage_contexts": [],
+          "template_ids": [
+            119601
+          ],
+          "unit_family": 5,
+          "unit_family_ids": [
+            5
+          ],
+          "unit_family_name": "Material",
+          "unit_family_names": [
+            "Material"
+          ],
+          "visibility_status": "DORMANT_OR_UNPLACED"
+        },
+        "description": {
+          "missing": false,
+          "text": "They sit stock-still waiting for unwary adventurers to approach, then snap into action, unleashing a nigh on inescapable onslaught."
+        },
+        "display_asset": {
+          "confidence": 1.0,
+          "fallback_url": "../../../assets/current/e190a7719cc6f1d05230ac4251c53dcf8ee6aeaa3f6b962d6ac008ed39e29c95.webp",
+          "locale": "neutral",
+          "logical_path": "UI/Download/productimage/mns/prt_tmb_mns_mns0034_02",
+          "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+          "orientation": "AS_STORED",
+          "role": "source_asset",
+          "sha256": "e190a7719cc6f1d05230ac4251c53dcf8ee6aeaa3f6b962d6ac008ed39e29c95",
+          "url": "../../../assets/current/e190a7719cc6f1d05230ac4251c53dcf8ee6aeaa3f6b962d6ac008ed39e29c95.webp"
+        },
+        "evidence": {
+          "grouped_by": "m_enemy.enemy_kind_id",
+          "kind_id": 200,
+          "template_count": 1
+        },
+        "facts": [
+          "0 stage appearance(s)"
+        ],
+        "id": "kind:200",
+        "name": {
+          "fallback": false,
+          "key": "Status/EnemyName/status_enemyname_196_name",
+          "locale": "en",
+          "missing": false,
+          "text": "Cannibox"
+        },
+        "r5_ref": {
+          "category": "enemies",
+          "id": "kind:200"
+        },
+        "status": "Dormant",
+        "subtitle": "Dormant / unplaced enemy"
+      },
+      "publication": {
+        "public_visible": true
+      }
+    },
+    {
+      "entity": {
+        "baseline": {},
+        "category": "enemies",
+        "current": {
+          "authority_state": "CURRENT_VERIFIED_CARRY_FORWARD",
+          "carry_forward_proof": {
+            "enemy_kind_id": 208,
+            "main_team_rows": 0,
+            "nonmain_team_rows": 14,
+            "placement_team_count": 14,
+            "template_ids": [
+              113601
+            ]
+          },
+          "enemy_kind_id": 208,
+          "family_name": "Dragonlord",
+          "hidden_by_default_reason": "Accepted dormant public identity is independently re-proven in current enemy masterdata.",
+          "publication_state": "DORMANT_OR_UNPLACED",
+          "reference_identity_state": "DORMANT_OR_UNPLACED",
+          "search_aliases": [
+            "Dragonlord"
+          ],
+          "stage_contexts": [],
+          "template_ids": [
+            113601
+          ],
+          "unit_family": null,
+          "unit_family_ids": [],
+          "unit_family_name": null,
+          "unit_family_names": [],
+          "visibility_status": "DORMANT_OR_UNPLACED"
+        },
+        "description": {
+          "missing": true,
+          "text": null
+        },
+        "display_asset": null,
+        "evidence": {
+          "grouped_by": "m_enemy.enemy_kind_id",
+          "kind_id": 208,
+          "template_count": 1
+        },
+        "facts": [
+          "0 stage appearance(s)"
+        ],
+        "id": "kind:208",
+        "name": {
+          "fallback": false,
+          "key": "Status/EnemyName/status_enemyname_222011_name",
+          "locale": "en",
+          "missing": false,
+          "text": "Dragonlord"
+        },
+        "r5_ref": {
+          "category": "enemies",
+          "id": "kind:208"
+        },
+        "status": "Dormant",
+        "subtitle": "Dormant / unplaced enemy"
+      },
+      "publication": {
+        "public_visible": true
+      }
+    },
+    {
+      "entity": {
+        "baseline": {},
+        "category": "enemies",
+        "current": {
+          "authority_state": "CURRENT_VERIFIED_CARRY_FORWARD",
+          "carry_forward_proof": {
+            "enemy_kind_id": 238,
+            "main_team_rows": 0,
+            "nonmain_team_rows": 20,
+            "placement_team_count": 20,
+            "template_ids": [
+              122802
+            ]
+          },
+          "enemy_kind_id": 238,
+          "family_name": "Enemy family 238",
+          "hidden_by_default_reason": "Accepted dormant public identity is independently re-proven in current enemy masterdata.",
+          "publication_state": "DORMANT_OR_UNPLACED",
+          "reference_identity_state": "DORMANT_OR_UNPLACED",
+          "search_aliases": [
+            "Enemy family 238"
+          ],
+          "stage_contexts": [],
+          "template_ids": [
+            122802
+          ],
+          "unit_family": 13,
+          "unit_family_ids": [
+            13
+          ],
+          "unit_family_name": "Unknown",
+          "unit_family_names": [
+            "Unknown"
+          ],
+          "visibility_status": "DORMANT_OR_UNPLACED"
+        },
+        "description": {
+          "missing": true,
+          "text": null
+        },
+        "display_asset": null,
+        "evidence": {
+          "grouped_by": "m_enemy.enemy_kind_id",
+          "kind_id": 238,
+          "template_count": 1
+        },
+        "facts": [
+          "0 stage appearance(s)"
+        ],
+        "id": "kind:238",
+        "name": {
+          "fallback": true,
+          "key": "Status/EnemyName/status_enemyname_238_name",
+          "locale": "en",
+          "missing": false,
+          "text": "Enemy family 238"
+        },
+        "r5_ref": {
+          "category": "enemies",
+          "id": "kind:238"
+        },
+        "status": "Dormant",
+        "subtitle": "Dormant / unplaced enemy"
+      },
+      "publication": {
+        "public_visible": true
+      }
+    },
+    {
+      "entity": {
+        "baseline": {},
+        "category": "enemies",
+        "current": {
+          "authority_state": "UNRESOLVED_WITH_REASON",
+          "current_source_proof": {
+            "enemy_kind_id": 262,
+            "main_team_rows": 0,
+            "nonmain_team_rows": 0,
+            "placement_team_count": 0,
+            "template_ids": [
+              326201
+            ]
+          },
+          "enemy_kind_id": 262,
+          "family_name": "Abominable Showman",
+          "hidden_by_default_reason": "Current enemy identity exists, but current source does not prove a top-level public or technical placement classification.",
+          "publication_state": "ENTITY_UNRESOLVED",
+          "reference_identity_state": "ENTITY_UNRESOLVED",
+          "search_aliases": [
+            "Abominable Showman"
+          ],
+          "stage_contexts": [],
+          "template_ids": [
+            326201
+          ],
+          "unit_family": 2,
+          "unit_family_ids": [
+            2
+          ],
+          "unit_family_name": "Beast",
+          "unit_family_names": [
+            "Beast"
+          ],
+          "visibility_status": "ENTITY_UNRESOLVED"
+        },
+        "description": {
+          "missing": false,
+          "text": "An enigmatic creature that is more enamoured with its oversized tongue than its signature fluffy white fur. It will give you a licking if you don't give it one first!"
+        },
+        "display_asset": {
+          "confidence": 1.0,
+          "fallback_url": "../../../assets/current/64cab38e7f550868b3ad01182f8d6ee5c1ec67ccc4bbad66cd98d8261f372664.webp",
+          "locale": "neutral",
+          "logical_path": "UI/Download/productimage/mns/prt_tmb_mns_mns0011_06",
+          "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+          "orientation": "AS_STORED",
+          "role": "source_asset",
+          "sha256": "64cab38e7f550868b3ad01182f8d6ee5c1ec67ccc4bbad66cd98d8261f372664",
+          "url": "../../../assets/current/64cab38e7f550868b3ad01182f8d6ee5c1ec67ccc4bbad66cd98d8261f372664.webp"
+        },
+        "evidence": {
+          "grouped_by": "m_enemy.enemy_kind_id",
+          "kind_id": 262,
+          "template_count": 1
+        },
+        "facts": [
+          "0 stage appearance(s)"
+        ],
+        "id": "kind:262",
+        "name": {
+          "fallback": false,
+          "key": "Status/EnemyName/status_enemyname_262_name",
+          "locale": "en",
+          "missing": false,
+          "text": "Abominable Showman"
+        },
+        "r5_ref": {
+          "category": "enemies",
+          "id": "kind:262"
+        },
+        "status": "Added",
+        "subtitle": "Unresolved enemy identity"
+      },
+      "publication": {
+        "public_visible": true
+      }
+    }
+  ],
+  "s1_authority_state": "CURRENT_GENERATED",
+  "schema": "smashdump.prelab_reference_identity_and_asset_closure.stage3.r5.18.v1",
+  "shop_ui_corrections": {
+    "free_claim_condition_icon": "advertisement_claim_icon"
+  },
+  "source_database": {
+    "authority": "certified current source",
+    "snapshot_sha256": "3b9aa9b3ec9d6b0a1461e8e3e46b16cced9a0f765429db5c51d26ea98f376f57"
+  },
+  "stage_ui_corrections": {
+    "scope": "current-source derived; no predecessor chapter identity carry-forward"
+  }
+}

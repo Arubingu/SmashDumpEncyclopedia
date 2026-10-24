@@ -1,0 +1,52 @@
+{
+  "baseline_package_id": "SMASHDUMP_STAGE3_R5_18_FILTER_STATE_SCHEMA_NORMALIZATION_CORRECTED_R11",
+  "baseline_version": "1.6.1",
+  "candidate_only": true,
+  "enemy_regression_fixtures": {},
+  "filter_contract": {
+    "different_facets": "AND",
+    "enemy_context_rule": "When two or more stage-derived Enemy facets are active, one recorded stage appearance must satisfy all active facets. Values inside each facet remain OR.",
+    "enemy_event_only_rule": "Event association alone keeps its family-level wording: yes means at least one event-stage appearance; no means no event-stage appearance.",
+    "enemy_stage_derived_facets": [
+      "Stage type",
+      "Difficulty",
+      "Elemental weakness",
+      "Elemental resistance",
+      "Event association"
+    ],
+    "same_facet": "OR",
+    "search_favourites_recent": "SEPARATE_AND_CONSTRAINTS"
+  },
+  "game_version": "1.6.1.1",
+  "generated_utc": null,
+  "manual_acceptance_matrix": {
+    "abilities": "REQUIRED",
+    "accessories": "REQUIRED",
+    "boons": "REQUIRED",
+    "drony": "REQUIRED",
+    "drops": "REQUIRED",
+    "enemies": "REQUIRED",
+    "equipment": "REQUIRED",
+    "events": "REQUIRED",
+    "gacha": "REQUIRED",
+    "items": "REQUIRED",
+    "jobs": "REQUIRED",
+    "memories": "REQUIRED",
+    "memory_effects": "REQUIRED",
+    "shops": "REQUIRED",
+    "stages": "REQUIRED",
+    "status_effects": "REQUIRED",
+    "weapons": "REQUIRED"
+  },
+  "patch_id": "SMASHDUMP_STAGE3_R5_18_ENEMY_CONTEXT_FACET_AND_FILTER_CONTRACT_CORRECTED_R12",
+  "protected_scope": {
+    "items_visibility": "source-derived",
+    "new_observers": 0,
+    "new_render_wrappers": 0,
+    "new_timers": 0,
+    "stage_rendering": "accepted"
+  },
+  "publication_allowed": false,
+  "s1_authority_state": "CURRENT_GENERATED",
+  "schema": "smashdump.stage3.r5.18.enemy_context_facet_filter_contract.r12"
+}

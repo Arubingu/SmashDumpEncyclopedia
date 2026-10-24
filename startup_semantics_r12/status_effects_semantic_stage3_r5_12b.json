@@ -1,0 +1,2521 @@
+{
+  "authority": {
+    "icons": "masterdata icon_path → complete snapshot converted PNG → verified CAS bytes",
+    "infliction": "combat semantic_graph.statuses only",
+    "legacy_applied_by": "discarded; never used by this model",
+    "protection_and_removal": "skill-description text roles joined through data-derived status aliases",
+    "status_inventory": "m_bad_status_type_setting"
+  },
+  "baseline_version": "1.6.1",
+  "candidate_only": true,
+  "categories": {
+    "status_effects": {
+      "11:sleep": {
+        "assets": {
+          "Preserved build-evidence copy": "../../../assets/current/6f39177888f22f33a79bdb95b95f7baffdcafcc9846c8082bc01e19b82ae2ee4.webp",
+          "Status icon logical path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3007",
+          "Verified PNG SHA-256": "6f39177888f22f33a79bdb95b95f7baffdcafcc9846c8082bc01e19b82ae2ee4"
+        },
+        "baseline": {},
+        "category": "status_effects",
+        "current": {
+          "aliases": [
+            "sleep"
+          ],
+          "applies": [
+            {
+              "application_chance_percent": 30.0,
+              "authority": "STRUCTURED_SEMANTIC_GRAPH",
+              "category": "abilities",
+              "id": 206,
+              "key": "abilities:206",
+              "name": "Meena: Snooze",
+              "status_evidence": {
+                "accuracy_bonus_percent": null,
+                "application_chance_percent": 30.0,
+                "duration_seconds": 3.0,
+                "effect_summary": "Prevents actions until the effect ends or is removed.",
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3007",
+                "id": 27,
+                "name": "Sleep",
+                "resolution_status": "PASS",
+                "source": {
+                  "ability_id_list": "[]",
+                  "additive_accuracy": null,
+                  "bad_status_type": 11,
+                  "constant_damage": null,
+                  "damage_multiplier": null,
+                  "dot_damage_cycle": null,
+                  "dot_damage_ratio": null,
+                  "dot_max_damage": null,
+                  "duration": 3000,
+                  "id": 27
+                },
+                "type_id": 11
+              }
+            }
+          ],
+          "candidate_display_names": [
+            "Sleep"
+          ],
+          "durations_seconds": [
+            2.5,
+            3.0,
+            5.0
+          ],
+          "internal_or_unresolved": false,
+          "mentions": [],
+          "note": null,
+          "protects_from": [
+            {
+              "authority": "SKILL_DESCRIPTION_TEXT",
+              "category": "abilities",
+              "evidence_text": "Also grants immunity to sleep",
+              "id": 169,
+              "key": "abilities:169",
+              "name": "Everdark Tenacity",
+              "role": "PROTECTS_OR_RESISTS"
+            }
+          ],
+          "recovery_status": "EXISTING_CURRENT_MODEL",
+          "removes": [],
+          "summary": "Prevents actions until the effect ends or is removed.",
+          "technical_variants": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 2.5,
+              "record_id": 19,
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 11,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 2500,
+                "id": 19
+              },
+              "stat_modifiers": [],
+              "unresolved_periodic_damage": null
+            },
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 5.0,
+              "record_id": 21,
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 11,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 5000,
+                "id": 21
+              },
+              "stat_modifiers": [],
+              "unresolved_periodic_damage": null
+            },
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 3.0,
+              "record_id": 27,
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 11,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 3000,
+                "id": 27
+              },
+              "stat_modifiers": [],
+              "unresolved_periodic_damage": null
+            }
+          ],
+          "type_id": 11
+        },
+        "description": {
+          "missing": false,
+          "text": "Prevents actions until the effect ends or is removed."
+        },
+        "display_asset": {
+          "confidence": 1.0,
+          "fallback_url": "../../../assets/current/6f39177888f22f33a79bdb95b95f7baffdcafcc9846c8082bc01e19b82ae2ee4.webp",
+          "locale": "neutral",
+          "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3007",
+          "match_method": "MASTERDATA_DIRECT_ICON_PATH_TO_COMPLETE_SNAPSHOT",
+          "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+          "role": "direct_status_icon",
+          "sha256": "6f39177888f22f33a79bdb95b95f7baffdcafcc9846c8082bc01e19b82ae2ee4",
+          "url": "../../../assets/current/6f39177888f22f33a79bdb95b95f7baffdcafcc9846c8082bc01e19b82ae2ee4.webp"
+        },
+        "evidence": {
+          "combat_status_registry_records": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 2.5,
+              "effect_summary": "Prevents actions until the effect ends or is removed.",
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3007",
+              "id": 19,
+              "name": "Sleep",
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 11,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 2500,
+                "id": 19
+              },
+              "type_id": 11
+            },
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 5.0,
+              "effect_summary": "Prevents actions until the effect ends or is removed.",
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3007",
+              "id": 21,
+              "name": "Sleep",
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 11,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 5000,
+                "id": 21
+              },
+              "type_id": 11
+            },
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 3.0,
+              "effect_summary": "Prevents actions until the effect ends or is removed.",
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3007",
+              "id": 27,
+              "name": "Sleep",
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 11,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 3000,
+                "id": 27
+              },
+              "type_id": 11
+            }
+          ],
+          "icon_resolution": {
+            "converted_sha256": "6f39177888f22f33a79bdb95b95f7baffdcafcc9846c8082bc01e19b82ae2ee4",
+            "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3007",
+            "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+            "payload_bytes": 3222,
+            "runtime_rel": "../../../assets/current/6f39177888f22f33a79bdb95b95f7baffdcafcc9846c8082bc01e19b82ae2ee4.webp",
+            "sha256": "6f39177888f22f33a79bdb95b95f7baffdcafcc9846c8082bc01e19b82ae2ee4",
+            "source_sha256": "88f0f52760427f3956a4fa3f0ca3bb2da9813f5dcbbc06ad550e0e65af34edd0"
+          },
+          "masterdata_rows": [
+            {
+              "bad_status_type": 11,
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3007",
+              "row": {
+                "bad_status_type": 11,
+                "enemy_side_cooltime_milli_seconds": 5000,
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3007",
+                "on_cycle_effect_name": null,
+                "on_end_effect_name": null,
+                "on_hit_effect_name": null,
+                "on_start_effect_name": "Group_BadStatus_Sleep",
+                "player_side_cooltime_milli_seconds": 5000
+              },
+              "rowid": 11
+            }
+          ],
+          "masterdata_table": "m_bad_status_type_setting",
+          "relationship_authority": {
+            "applies": "Structured skill semantic_graph.statuses only",
+            "mentions": "Diagnostic text-only references; not promoted as mechanics",
+            "protects_from": "Skill description text with status alias evidence; not an infliction",
+            "removes": "Skill description text with status alias evidence; not an infliction"
+          },
+          "snapshot_row": {
+            "__rowid__": 2634,
+            "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3007",
+            "classification": "reconstructed_image",
+            "converted_bytes": 3222,
+            "converted_cas_path": "calocal://redacted",
+            "converted_kind": "texture_png",
+            "converted_logical_path": "CandidateCAS/6f39177888f22f33a79bdb95b95f7baffdcafcc9846c8082bc01e19b82ae2ee4.png",
+            "converted_sha256": "6f39177888f22f33a79bdb95b95f7baffdcafcc9846c8082bc01e19b82ae2ee4",
+            "locale": "neutral",
+            "snapshot_table": "assets",
+            "source_bytes": 3344,
+            "source_logical_path": null,
+            "source_sha256": "88f0f52760427f3956a4fa3f0ca3bb2da9813f5dcbbc06ad550e0e65af34edd0",
+            "stable_row_id": "aacf2ac07158da349f9b883b29e70098e5a9c216",
+            "table_name": "reconstructed_archive",
+            "vertical_flip_applied": 0
+          }
+        },
+        "facts": [
+          "Type 11",
+          "1 verified applicator(s)",
+          "Verified icon"
+        ],
+        "id": "11:sleep",
+        "name": {
+          "text": "Sleep"
+        },
+        "status": "Unchanged",
+        "subtitle": "Status effect"
+      },
+      "12:charm": {
+        "assets": {
+          "Preserved build-evidence copy": "../../../assets/current/934ded257889f3ed42cbdcea699be77ea9779225d0e0cf9e85a0167a237d3f58.webp",
+          "Status icon logical path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3008",
+          "Verified PNG SHA-256": "934ded257889f3ed42cbdcea699be77ea9779225d0e0cf9e85a0167a237d3f58"
+        },
+        "baseline": {},
+        "category": "status_effects",
+        "current": {
+          "aliases": [
+            "beguile",
+            "charm"
+          ],
+          "applies": [],
+          "candidate_display_names": [
+            "Charm",
+            "Beguile"
+          ],
+          "durations_seconds": [
+            5.0
+          ],
+          "internal_or_unresolved": false,
+          "mentions": [],
+          "note": null,
+          "protects_from": [
+            {
+              "authority": "SKILL_DESCRIPTION_TEXT",
+              "category": "abilities",
+              "evidence_text": "Periodically conjures two fiery spheres and grants immunity to being afflicted with charm when active",
+              "id": 1000000259,
+              "key": "abilities:1000000259",
+              "name": "Fire Spheres",
+              "role": "PROTECTS_OR_RESISTS"
+            }
+          ],
+          "recovery_status": "EXISTING_CURRENT_MODEL",
+          "removes": [],
+          "summary": "Can disrupt normal control.",
+          "technical_variants": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 5.0,
+              "record_id": 20,
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 12,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 5000,
+                "id": 20
+              },
+              "stat_modifiers": [],
+              "unresolved_periodic_damage": null
+            }
+          ],
+          "type_id": 12
+        },
+        "description": {
+          "missing": false,
+          "text": "Can disrupt normal control."
+        },
+        "display_asset": {
+          "confidence": 1.0,
+          "fallback_url": "../../../assets/current/934ded257889f3ed42cbdcea699be77ea9779225d0e0cf9e85a0167a237d3f58.webp",
+          "locale": "neutral",
+          "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3008",
+          "match_method": "MASTERDATA_DIRECT_ICON_PATH_TO_COMPLETE_SNAPSHOT",
+          "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+          "role": "direct_status_icon",
+          "sha256": "934ded257889f3ed42cbdcea699be77ea9779225d0e0cf9e85a0167a237d3f58",
+          "url": "../../../assets/current/934ded257889f3ed42cbdcea699be77ea9779225d0e0cf9e85a0167a237d3f58.webp"
+        },
+        "evidence": {
+          "combat_status_registry_records": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 5.0,
+              "effect_summary": "Can disrupt normal control.",
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3008",
+              "id": 20,
+              "name": "Charm",
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 12,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 5000,
+                "id": 20
+              },
+              "type_id": 12
+            }
+          ],
+          "icon_resolution": {
+            "converted_sha256": "934ded257889f3ed42cbdcea699be77ea9779225d0e0cf9e85a0167a237d3f58",
+            "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3008",
+            "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+            "payload_bytes": 2938,
+            "runtime_rel": "../../../assets/current/934ded257889f3ed42cbdcea699be77ea9779225d0e0cf9e85a0167a237d3f58.webp",
+            "sha256": "934ded257889f3ed42cbdcea699be77ea9779225d0e0cf9e85a0167a237d3f58",
+            "source_sha256": "676fd64de3e261318e1bc51f2976624068576f8f972c3fc6902b9514e163b04f"
+          },
+          "masterdata_rows": [
+            {
+              "bad_status_type": 12,
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3008",
+              "row": {
+                "bad_status_type": 12,
+                "enemy_side_cooltime_milli_seconds": 0,
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3008",
+                "on_cycle_effect_name": null,
+                "on_end_effect_name": null,
+                "on_hit_effect_name": null,
+                "on_start_effect_name": "Group_BadStatus_Beguile",
+                "player_side_cooltime_milli_seconds": 0
+              },
+              "rowid": 12
+            }
+          ],
+          "masterdata_table": "m_bad_status_type_setting",
+          "relationship_authority": {
+            "applies": "Structured skill semantic_graph.statuses only",
+            "mentions": "Diagnostic text-only references; not promoted as mechanics",
+            "protects_from": "Skill description text with status alias evidence; not an infliction",
+            "removes": "Skill description text with status alias evidence; not an infliction"
+          },
+          "snapshot_row": {
+            "__rowid__": 2635,
+            "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3008",
+            "classification": "reconstructed_image",
+            "converted_bytes": 2938,
+            "converted_cas_path": "calocal://redacted",
+            "converted_kind": "texture_png",
+            "converted_logical_path": "CandidateCAS/934ded257889f3ed42cbdcea699be77ea9779225d0e0cf9e85a0167a237d3f58.png",
+            "converted_sha256": "934ded257889f3ed42cbdcea699be77ea9779225d0e0cf9e85a0167a237d3f58",
+            "locale": "neutral",
+            "snapshot_table": "assets",
+            "source_bytes": 3344,
+            "source_logical_path": null,
+            "source_sha256": "676fd64de3e261318e1bc51f2976624068576f8f972c3fc6902b9514e163b04f",
+            "stable_row_id": "91a076e9d1acc9e18469a6f731cababa4b9330a9",
+            "table_name": "reconstructed_archive",
+            "vertical_flip_applied": 0
+          }
+        },
+        "facts": [
+          "Type 12",
+          "0 verified applicator(s)",
+          "Verified icon"
+        ],
+        "id": "12:charm",
+        "name": {
+          "text": "Charm"
+        },
+        "status": "Unchanged",
+        "subtitle": "Status effect"
+      },
+      "13:poison": {
+        "assets": {
+          "Preserved build-evidence copy": "../../../assets/current/9ebf5f0b73d5aa3650e836125aa52600bf7dc757dd5567c0c748e9af40612cc2.webp",
+          "Status icon logical path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3010",
+          "Verified PNG SHA-256": "9ebf5f0b73d5aa3650e836125aa52600bf7dc757dd5567c0c748e9af40612cc2"
+        },
+        "baseline": {},
+        "category": "status_effects",
+        "current": {
+          "aliases": [
+            "poison"
+          ],
+          "applies": [
+            {
+              "application_chance_percent": null,
+              "authority": "STRUCTURED_SEMANTIC_GRAPH",
+              "category": "abilities",
+              "id": 1000000251,
+              "key": "abilities:1000000251",
+              "name": "Poisonous Projectiles",
+              "status_evidence": {
+                "accuracy_bonus_percent": null,
+                "duration_seconds": 20.0,
+                "effect_summary": "Deals periodic damage over time.",
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3010",
+                "id": 22,
+                "name": "Poison",
+                "resolution_status": "PASS",
+                "source": {
+                  "ability_id_list": "[]",
+                  "additive_accuracy": null,
+                  "bad_status_type": 13,
+                  "constant_damage": null,
+                  "damage_multiplier": null,
+                  "dot_damage_cycle": 120,
+                  "dot_damage_ratio": 200,
+                  "dot_max_damage": 35,
+                  "duration": 20000,
+                  "id": 22
+                },
+                "type_id": 13
+              }
+            },
+            {
+              "application_chance_percent": null,
+              "authority": "STRUCTURED_SEMANTIC_GRAPH",
+              "category": "abilities",
+              "id": 1000000252,
+              "key": "abilities:1000000252",
+              "name": "Poisonous Spheres",
+              "status_evidence": {
+                "accuracy_bonus_percent": null,
+                "duration_seconds": 20.0,
+                "effect_summary": "Deals periodic damage over time.",
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3010",
+                "id": 22,
+                "name": "Poison",
+                "resolution_status": "PASS",
+                "source": {
+                  "ability_id_list": "[]",
+                  "additive_accuracy": null,
+                  "bad_status_type": 13,
+                  "constant_damage": null,
+                  "damage_multiplier": null,
+                  "dot_damage_cycle": 120,
+                  "dot_damage_ratio": 200,
+                  "dot_max_damage": 35,
+                  "duration": 20000,
+                  "id": 22
+                },
+                "type_id": 13
+              }
+            }
+          ],
+          "candidate_display_names": [
+            "Poison"
+          ],
+          "durations_seconds": [
+            20.0
+          ],
+          "internal_or_unresolved": false,
+          "mentions": [],
+          "note": "Exact periodic-damage tick scaling remains unresolved and is preserved only in Technical evidence.",
+          "protects_from": [],
+          "recovery_status": "EXISTING_CURRENT_MODEL",
+          "removes": [],
+          "summary": "Deals periodic damage over time.",
+          "technical_variants": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 20.0,
+              "record_id": 22,
+              "resolution_status": "PARTIAL",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 13,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": 120,
+                "dot_damage_ratio": 200,
+                "dot_max_damage": 35,
+                "duration": 20000,
+                "id": 22
+              },
+              "stat_modifiers": [],
+              "unresolved_periodic_damage": {
+                "dot_damage_cycle_raw": 120,
+                "dot_damage_ratio_raw": 200,
+                "dot_max_damage_raw": 35,
+                "reason": "The exact player-facing tick interval, ratio scale and cap meaning are not yet proven."
+              }
+            }
+          ],
+          "type_id": 13
+        },
+        "description": {
+          "missing": false,
+          "text": "Deals periodic damage over time."
+        },
+        "display_asset": {
+          "confidence": 1.0,
+          "fallback_url": "../../../assets/current/9ebf5f0b73d5aa3650e836125aa52600bf7dc757dd5567c0c748e9af40612cc2.webp",
+          "locale": "neutral",
+          "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3010",
+          "match_method": "MASTERDATA_DIRECT_ICON_PATH_TO_COMPLETE_SNAPSHOT",
+          "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+          "role": "direct_status_icon",
+          "sha256": "9ebf5f0b73d5aa3650e836125aa52600bf7dc757dd5567c0c748e9af40612cc2",
+          "url": "../../../assets/current/9ebf5f0b73d5aa3650e836125aa52600bf7dc757dd5567c0c748e9af40612cc2.webp"
+        },
+        "evidence": {
+          "combat_status_registry_records": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 20.0,
+              "effect_summary": "Deals periodic damage over time.",
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3010",
+              "id": 22,
+              "name": "Poison",
+              "resolution_status": "PARTIAL",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 13,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": 120,
+                "dot_damage_ratio": 200,
+                "dot_max_damage": 35,
+                "duration": 20000,
+                "id": 22
+              },
+              "type_id": 13,
+              "unresolved_periodic_damage": {
+                "dot_damage_cycle_raw": 120,
+                "dot_damage_ratio_raw": 200,
+                "dot_max_damage_raw": 35,
+                "reason": "The exact player-facing tick interval, ratio scale and cap meaning are not yet proven."
+              }
+            }
+          ],
+          "icon_resolution": {
+            "converted_sha256": "9ebf5f0b73d5aa3650e836125aa52600bf7dc757dd5567c0c748e9af40612cc2",
+            "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3010",
+            "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+            "payload_bytes": 3236,
+            "runtime_rel": "../../../assets/current/9ebf5f0b73d5aa3650e836125aa52600bf7dc757dd5567c0c748e9af40612cc2.webp",
+            "sha256": "9ebf5f0b73d5aa3650e836125aa52600bf7dc757dd5567c0c748e9af40612cc2",
+            "source_sha256": "947213226baa791aa1966fe8de1ff9baa9de8c0853a764757855a5da273802f3"
+          },
+          "masterdata_rows": [
+            {
+              "bad_status_type": 13,
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3010",
+              "row": {
+                "bad_status_type": 13,
+                "enemy_side_cooltime_milli_seconds": 0,
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3010",
+                "on_cycle_effect_name": "Group_BadStatus_Poison",
+                "on_end_effect_name": "Group_BadStatus_Poison",
+                "on_hit_effect_name": null,
+                "on_start_effect_name": "Group_BadStatus_Poison",
+                "player_side_cooltime_milli_seconds": 0
+              },
+              "rowid": 13
+            }
+          ],
+          "masterdata_table": "m_bad_status_type_setting",
+          "relationship_authority": {
+            "applies": "Structured skill semantic_graph.statuses only",
+            "mentions": "Diagnostic text-only references; not promoted as mechanics",
+            "protects_from": "Skill description text with status alias evidence; not an infliction",
+            "removes": "Skill description text with status alias evidence; not an infliction"
+          },
+          "snapshot_row": {
+            "__rowid__": 2637,
+            "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3010",
+            "classification": "reconstructed_image",
+            "converted_bytes": 3236,
+            "converted_cas_path": "calocal://redacted",
+            "converted_kind": "texture_png",
+            "converted_logical_path": "CandidateCAS/9ebf5f0b73d5aa3650e836125aa52600bf7dc757dd5567c0c748e9af40612cc2.png",
+            "converted_sha256": "9ebf5f0b73d5aa3650e836125aa52600bf7dc757dd5567c0c748e9af40612cc2",
+            "locale": "neutral",
+            "snapshot_table": "assets",
+            "source_bytes": 3344,
+            "source_logical_path": null,
+            "source_sha256": "947213226baa791aa1966fe8de1ff9baa9de8c0853a764757855a5da273802f3",
+            "stable_row_id": "41cc6e56d3435fdbf3fe1bf40b94ec5a98300b91",
+            "table_name": "reconstructed_archive",
+            "vertical_flip_applied": 0
+          }
+        },
+        "facts": [
+          "Type 13",
+          "2 verified applicator(s)",
+          "Verified icon"
+        ],
+        "id": "13:poison",
+        "name": {
+          "text": "Poison"
+        },
+        "status": "Unchanged",
+        "subtitle": "Status effect"
+      },
+      "17:bind": {
+        "assets": {
+          "Preserved build-evidence copy": "../../../assets/current/9ff27e1ccdccc9eb1fec09cb7e38254ab7bfd16731d912609f89bdfff9304c78.webp",
+          "Status icon logical path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3015",
+          "Verified PNG SHA-256": "9ff27e1ccdccc9eb1fec09cb7e38254ab7bfd16731d912609f89bdfff9304c78"
+        },
+        "baseline": {},
+        "category": "status_effects",
+        "current": {
+          "aliases": [
+            "bind"
+          ],
+          "applies": [],
+          "candidate_display_names": [
+            "Bind"
+          ],
+          "durations_seconds": [
+            2.0
+          ],
+          "internal_or_unresolved": false,
+          "mentions": [],
+          "note": null,
+          "protects_from": [],
+          "recovery_status": "EXISTING_CURRENT_MODEL",
+          "removes": [],
+          "summary": "Restricts movement.",
+          "technical_variants": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 2.0,
+              "record_id": 29,
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 17,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 2000,
+                "id": 29
+              },
+              "stat_modifiers": [],
+              "unresolved_periodic_damage": null
+            }
+          ],
+          "type_id": 17
+        },
+        "description": {
+          "missing": false,
+          "text": "Restricts movement."
+        },
+        "display_asset": {
+          "confidence": 1.0,
+          "fallback_url": "../../../assets/current/9ff27e1ccdccc9eb1fec09cb7e38254ab7bfd16731d912609f89bdfff9304c78.webp",
+          "locale": "neutral",
+          "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3015",
+          "match_method": "MASTERDATA_DIRECT_ICON_PATH_TO_COMPLETE_SNAPSHOT",
+          "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+          "role": "direct_status_icon",
+          "sha256": "9ff27e1ccdccc9eb1fec09cb7e38254ab7bfd16731d912609f89bdfff9304c78",
+          "url": "../../../assets/current/9ff27e1ccdccc9eb1fec09cb7e38254ab7bfd16731d912609f89bdfff9304c78.webp"
+        },
+        "evidence": {
+          "combat_status_registry_records": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 2.0,
+              "effect_summary": "Restricts movement.",
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3015",
+              "id": 29,
+              "name": "Bind",
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 17,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 2000,
+                "id": 29
+              },
+              "type_id": 17
+            }
+          ],
+          "icon_resolution": {
+            "converted_sha256": "9ff27e1ccdccc9eb1fec09cb7e38254ab7bfd16731d912609f89bdfff9304c78",
+            "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3015",
+            "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+            "payload_bytes": 3912,
+            "runtime_rel": "../../../assets/current/9ff27e1ccdccc9eb1fec09cb7e38254ab7bfd16731d912609f89bdfff9304c78.webp",
+            "sha256": "9ff27e1ccdccc9eb1fec09cb7e38254ab7bfd16731d912609f89bdfff9304c78",
+            "source_sha256": "5a038770ad51d5664d6953585574fe3c41f18f1958a50be74672bd15a77ddb0a"
+          },
+          "masterdata_rows": [
+            {
+              "bad_status_type": 17,
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3015",
+              "row": {
+                "bad_status_type": 17,
+                "enemy_side_cooltime_milli_seconds": 10000,
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3015",
+                "on_cycle_effect_name": null,
+                "on_end_effect_name": null,
+                "on_hit_effect_name": null,
+                "on_start_effect_name": "Group_bind_01",
+                "player_side_cooltime_milli_seconds": 10000
+              },
+              "rowid": 17
+            }
+          ],
+          "masterdata_table": "m_bad_status_type_setting",
+          "relationship_authority": {
+            "applies": "Structured skill semantic_graph.statuses only",
+            "mentions": "Diagnostic text-only references; not promoted as mechanics",
+            "protects_from": "Skill description text with status alias evidence; not an infliction",
+            "removes": "Skill description text with status alias evidence; not an infliction"
+          },
+          "snapshot_row": {
+            "__rowid__": 2641,
+            "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3015",
+            "classification": "reconstructed_image",
+            "converted_bytes": 3912,
+            "converted_cas_path": "calocal://redacted",
+            "converted_kind": "texture_png",
+            "converted_logical_path": "CandidateCAS/9ff27e1ccdccc9eb1fec09cb7e38254ab7bfd16731d912609f89bdfff9304c78.png",
+            "converted_sha256": "9ff27e1ccdccc9eb1fec09cb7e38254ab7bfd16731d912609f89bdfff9304c78",
+            "locale": "neutral",
+            "snapshot_table": "assets",
+            "source_bytes": 3344,
+            "source_logical_path": null,
+            "source_sha256": "5a038770ad51d5664d6953585574fe3c41f18f1958a50be74672bd15a77ddb0a",
+            "stable_row_id": "8fae7badf8af719db702a8831bb4e3a37a4412d1",
+            "table_name": "reconstructed_archive",
+            "vertical_flip_applied": 0
+          }
+        },
+        "facts": [
+          "Type 17",
+          "0 verified applicator(s)",
+          "Verified icon"
+        ],
+        "id": "17:bind",
+        "name": {
+          "text": "Bind"
+        },
+        "status": "Unchanged",
+        "subtitle": "Status effect"
+      },
+      "18:weaken": {
+        "assets": {
+          "Preserved build-evidence copy": "../../../assets/current/578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57.webp",
+          "Status icon logical path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3009",
+          "Verified PNG SHA-256": "578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57"
+        },
+        "baseline": {},
+        "category": "status_effects",
+        "current": {
+          "aliases": [
+            "weaken",
+            "weaken if you take"
+          ],
+          "applies": [
+            {
+              "application_chance_percent": 100.0,
+              "authority": "STRUCTURED_SEMANTIC_GRAPH",
+              "category": "abilities",
+              "id": 330370,
+              "key": "abilities:330370",
+              "name": "Darkwing Projectiles",
+              "status_evidence": {
+                "accuracy_bonus_percent": null,
+                "application_chance_percent": 100.0,
+                "duration_seconds": 5.0,
+                "effect_summary": null,
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3009",
+                "id": 30,
+                "name": "Status type 18",
+                "resolution_status": "PARTIAL",
+                "source": {
+                  "ability_id_list": "[1100010000]",
+                  "additive_accuracy": null,
+                  "bad_status_type": 18,
+                  "constant_damage": null,
+                  "damage_multiplier": null,
+                  "dot_damage_cycle": null,
+                  "dot_damage_ratio": null,
+                  "dot_max_damage": null,
+                  "duration": 5000,
+                  "id": 30
+                },
+                "type_id": 18
+              }
+            }
+          ],
+          "candidate_display_names": [
+            "Weaken"
+          ],
+          "durations_seconds": [
+            5.0
+          ],
+          "internal_or_unresolved": false,
+          "mentions": [],
+          "note": null,
+          "protects_from": [],
+          "recovery_status": "EXISTING_CURRENT_MODEL",
+          "removes": [],
+          "summary": "Status family defined in masterdata; exact player-facing mechanics were not found in the current structured combat model.",
+          "technical_variants": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 5.0,
+              "record_id": 30,
+              "resolution_status": "PARTIAL",
+              "source": {
+                "ability_id_list": "[1100010000]",
+                "additive_accuracy": null,
+                "bad_status_type": 18,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 5000,
+                "id": 30
+              },
+              "stat_modifiers": [
+                {
+                  "delta_percent": -20.0,
+                  "label": "Attack",
+                  "multiplier_percent": 80.0,
+                  "multiply_value": 8000,
+                  "parameter_type": 2,
+                  "source_ability_id": 1100010001
+                },
+                {
+                  "delta_percent": -20.0,
+                  "label": "Defence",
+                  "multiplier_percent": 80.0,
+                  "multiply_value": 8000,
+                  "parameter_type": 3,
+                  "source_ability_id": 1100010002
+                },
+                {
+                  "delta_percent": -20.0,
+                  "label": "Magical Might",
+                  "multiplier_percent": 80.0,
+                  "multiply_value": 8000,
+                  "parameter_type": 7,
+                  "source_ability_id": 1100010003
+                },
+                {
+                  "delta_percent": -20.0,
+                  "label": "Magical Defence",
+                  "multiplier_percent": 80.0,
+                  "multiply_value": 8000,
+                  "parameter_type": 15,
+                  "source_ability_id": 1100010004
+                }
+              ],
+              "unresolved_periodic_damage": null
+            }
+          ],
+          "type_id": 18
+        },
+        "description": {
+          "missing": false,
+          "text": "Status family defined in masterdata; exact player-facing mechanics were not found in the current structured combat model."
+        },
+        "display_asset": {
+          "confidence": 1.0,
+          "fallback_url": "../../../assets/current/578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57.webp",
+          "locale": "neutral",
+          "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3009",
+          "match_method": "MASTERDATA_DIRECT_ICON_PATH_TO_COMPLETE_SNAPSHOT",
+          "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+          "role": "direct_status_icon",
+          "sha256": "578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57",
+          "url": "../../../assets/current/578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57.webp"
+        },
+        "evidence": {
+          "combat_status_registry_records": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 5.0,
+              "effect_summary": null,
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3009",
+              "id": 30,
+              "name": "Status type 18",
+              "resolution_status": "PARTIAL",
+              "source": {
+                "ability_id_list": "[1100010000]",
+                "additive_accuracy": null,
+                "bad_status_type": 18,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 5000,
+                "id": 30
+              },
+              "type_id": 18
+            }
+          ],
+          "icon_resolution": {
+            "converted_sha256": "578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57",
+            "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3009",
+            "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+            "payload_bytes": 2973,
+            "runtime_rel": "../../../assets/current/578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57.webp",
+            "sha256": "578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57",
+            "source_sha256": "3b0f9166c7301b1ab736421c7a3d2dffcdc0c01ba8fab14b696dded69f812e54"
+          },
+          "masterdata_rows": [
+            {
+              "bad_status_type": 18,
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3009",
+              "row": {
+                "bad_status_type": 18,
+                "enemy_side_cooltime_milli_seconds": 0,
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3009",
+                "on_cycle_effect_name": null,
+                "on_end_effect_name": null,
+                "on_hit_effect_name": null,
+                "on_start_effect_name": "Group_BadStatus_Weaken",
+                "player_side_cooltime_milli_seconds": 0
+              },
+              "rowid": 18
+            }
+          ],
+          "masterdata_table": "m_bad_status_type_setting",
+          "relationship_authority": {
+            "applies": "Structured skill semantic_graph.statuses only",
+            "mentions": "Diagnostic text-only references; not promoted as mechanics",
+            "protects_from": "Skill description text with status alias evidence; not an infliction",
+            "removes": "Skill description text with status alias evidence; not an infliction"
+          },
+          "snapshot_row": {
+            "__rowid__": 2636,
+            "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3009",
+            "classification": "reconstructed_image",
+            "converted_bytes": 2973,
+            "converted_cas_path": "calocal://redacted",
+            "converted_kind": "texture_png",
+            "converted_logical_path": "CandidateCAS/578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57.png",
+            "converted_sha256": "578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57",
+            "locale": "neutral",
+            "snapshot_table": "assets",
+            "source_bytes": 3344,
+            "source_logical_path": null,
+            "source_sha256": "3b0f9166c7301b1ab736421c7a3d2dffcdc0c01ba8fab14b696dded69f812e54",
+            "stable_row_id": "ac3652690aec727aa177fa81414b21e61c148002",
+            "table_name": "reconstructed_archive",
+            "vertical_flip_applied": 0
+          }
+        },
+        "facts": [
+          "Type 18",
+          "1 verified applicator(s)",
+          "Verified icon"
+        ],
+        "id": "18:weaken",
+        "name": {
+          "text": "Weaken"
+        },
+        "status": "Unchanged",
+        "subtitle": "Status effect"
+      },
+      "1:paralysis": {
+        "assets": {
+          "Preserved build-evidence copy": "../../../assets/current/409ad294fad01c362431d64a9273862564e860f2f8dbef4b4dd8a4495ff241eb.webp",
+          "Status icon logical path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3003",
+          "Verified PNG SHA-256": "409ad294fad01c362431d64a9273862564e860f2f8dbef4b4dd8a4495ff241eb"
+        },
+        "baseline": {},
+        "category": "status_effects",
+        "current": {
+          "aliases": [
+            "paralysis"
+          ],
+          "applies": [],
+          "candidate_display_names": [
+            "Paralysis"
+          ],
+          "durations_seconds": [
+            2.0
+          ],
+          "internal_or_unresolved": false,
+          "mentions": [],
+          "note": null,
+          "protects_from": [],
+          "recovery_status": "EXISTING_CURRENT_MODEL",
+          "removes": [],
+          "summary": "Can prevent actions.",
+          "technical_variants": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 2.0,
+              "record_id": 1,
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 1,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 2000,
+                "id": 1
+              },
+              "stat_modifiers": [],
+              "unresolved_periodic_damage": null
+            }
+          ],
+          "type_id": 1
+        },
+        "description": {
+          "missing": false,
+          "text": "Can prevent actions."
+        },
+        "display_asset": {
+          "confidence": 1.0,
+          "fallback_url": "../../../assets/current/409ad294fad01c362431d64a9273862564e860f2f8dbef4b4dd8a4495ff241eb.webp",
+          "locale": "neutral",
+          "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3003",
+          "match_method": "MASTERDATA_DIRECT_ICON_PATH_TO_COMPLETE_SNAPSHOT",
+          "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+          "role": "direct_status_icon",
+          "sha256": "409ad294fad01c362431d64a9273862564e860f2f8dbef4b4dd8a4495ff241eb",
+          "url": "../../../assets/current/409ad294fad01c362431d64a9273862564e860f2f8dbef4b4dd8a4495ff241eb.webp"
+        },
+        "evidence": {
+          "combat_status_registry_records": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 2.0,
+              "effect_summary": "Can prevent actions.",
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3003",
+              "id": 1,
+              "name": "Paralysis",
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 1,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 2000,
+                "id": 1
+              },
+              "type_id": 1
+            }
+          ],
+          "icon_resolution": {
+            "converted_sha256": "409ad294fad01c362431d64a9273862564e860f2f8dbef4b4dd8a4495ff241eb",
+            "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3003",
+            "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+            "payload_bytes": 2463,
+            "runtime_rel": "../../../assets/current/409ad294fad01c362431d64a9273862564e860f2f8dbef4b4dd8a4495ff241eb.webp",
+            "sha256": "409ad294fad01c362431d64a9273862564e860f2f8dbef4b4dd8a4495ff241eb",
+            "source_sha256": "053866c4e2910c2ed68a3001acab479288a95cebc2f50f989cfa7a5cba756fae"
+          },
+          "masterdata_rows": [
+            {
+              "bad_status_type": 1,
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3003",
+              "row": {
+                "bad_status_type": 1,
+                "enemy_side_cooltime_milli_seconds": 5000,
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3003",
+                "on_cycle_effect_name": null,
+                "on_end_effect_name": null,
+                "on_hit_effect_name": null,
+                "on_start_effect_name": "Group_BadStatus_Paralysis",
+                "player_side_cooltime_milli_seconds": 5000
+              },
+              "rowid": 1
+            }
+          ],
+          "masterdata_table": "m_bad_status_type_setting",
+          "relationship_authority": {
+            "applies": "Structured skill semantic_graph.statuses only",
+            "mentions": "Diagnostic text-only references; not promoted as mechanics",
+            "protects_from": "Skill description text with status alias evidence; not an infliction",
+            "removes": "Skill description text with status alias evidence; not an infliction"
+          },
+          "snapshot_row": {
+            "__rowid__": 2630,
+            "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3003",
+            "classification": "reconstructed_image",
+            "converted_bytes": 2463,
+            "converted_cas_path": "calocal://redacted",
+            "converted_kind": "texture_png",
+            "converted_logical_path": "CandidateCAS/409ad294fad01c362431d64a9273862564e860f2f8dbef4b4dd8a4495ff241eb.png",
+            "converted_sha256": "409ad294fad01c362431d64a9273862564e860f2f8dbef4b4dd8a4495ff241eb",
+            "locale": "neutral",
+            "snapshot_table": "assets",
+            "source_bytes": 3344,
+            "source_logical_path": null,
+            "source_sha256": "053866c4e2910c2ed68a3001acab479288a95cebc2f50f989cfa7a5cba756fae",
+            "stable_row_id": "80f0410b98ce79639274932a76c6c120a1c8cdec",
+            "table_name": "reconstructed_archive",
+            "vertical_flip_applied": 0
+          }
+        },
+        "facts": [
+          "Type 1",
+          "0 verified applicator(s)",
+          "Verified icon"
+        ],
+        "id": "1:paralysis",
+        "name": {
+          "text": "Paralysis"
+        },
+        "status": "Unchanged",
+        "subtitle": "Status effect"
+      },
+      "2:freeze": {
+        "assets": {
+          "Preserved build-evidence copy": "../../../assets/current/d14a44ef80dc3be15b51a42b2414ee5fe81952077fb008203c465dbc546459b1.webp",
+          "Status icon logical path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3002",
+          "Verified PNG SHA-256": "d14a44ef80dc3be15b51a42b2414ee5fe81952077fb008203c465dbc546459b1"
+        },
+        "baseline": {},
+        "category": "status_effects",
+        "current": {
+          "aliases": [
+            "freeze",
+            "freezing",
+            "freezing heal"
+          ],
+          "applies": [],
+          "candidate_display_names": [
+            "Freeze",
+            "Freezing",
+            "Freezing Heal"
+          ],
+          "durations_seconds": [
+            2.0,
+            3.0
+          ],
+          "internal_or_unresolved": false,
+          "mentions": [],
+          "note": null,
+          "protects_from": [],
+          "recovery_status": "EXISTING_CURRENT_MODEL",
+          "removes": [],
+          "summary": "Temporarily prevents actions.",
+          "technical_variants": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 3.0,
+              "record_id": 28,
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 2,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 3000,
+                "id": 28
+              },
+              "stat_modifiers": [],
+              "unresolved_periodic_damage": null
+            },
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 2.0,
+              "record_id": 3,
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 2,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 2000,
+                "id": 3
+              },
+              "stat_modifiers": [],
+              "unresolved_periodic_damage": null
+            }
+          ],
+          "type_id": 2
+        },
+        "description": {
+          "missing": false,
+          "text": "Temporarily prevents actions."
+        },
+        "display_asset": {
+          "confidence": 1.0,
+          "fallback_url": "../../../assets/current/d14a44ef80dc3be15b51a42b2414ee5fe81952077fb008203c465dbc546459b1.webp",
+          "locale": "neutral",
+          "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3002",
+          "match_method": "MASTERDATA_DIRECT_ICON_PATH_TO_COMPLETE_SNAPSHOT",
+          "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+          "role": "direct_status_icon",
+          "sha256": "d14a44ef80dc3be15b51a42b2414ee5fe81952077fb008203c465dbc546459b1",
+          "url": "../../../assets/current/d14a44ef80dc3be15b51a42b2414ee5fe81952077fb008203c465dbc546459b1.webp"
+        },
+        "evidence": {
+          "combat_status_registry_records": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 3.0,
+              "effect_summary": "Temporarily prevents actions.",
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3002",
+              "id": 28,
+              "name": "Freeze",
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 2,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 3000,
+                "id": 28
+              },
+              "type_id": 2
+            },
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 2.0,
+              "effect_summary": "Temporarily prevents actions.",
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3002",
+              "id": 3,
+              "name": "Freeze",
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 2,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 2000,
+                "id": 3
+              },
+              "type_id": 2
+            }
+          ],
+          "icon_resolution": {
+            "converted_sha256": "d14a44ef80dc3be15b51a42b2414ee5fe81952077fb008203c465dbc546459b1",
+            "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3002",
+            "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+            "payload_bytes": 3458,
+            "runtime_rel": "../../../assets/current/d14a44ef80dc3be15b51a42b2414ee5fe81952077fb008203c465dbc546459b1.webp",
+            "sha256": "d14a44ef80dc3be15b51a42b2414ee5fe81952077fb008203c465dbc546459b1",
+            "source_sha256": "42554c404ac61fd583de6f0e0c655f2b36cb1f7ed3731b6f282010d38a6aaf63"
+          },
+          "masterdata_rows": [
+            {
+              "bad_status_type": 2,
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3002",
+              "row": {
+                "bad_status_type": 2,
+                "enemy_side_cooltime_milli_seconds": 5000,
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3002",
+                "on_cycle_effect_name": null,
+                "on_end_effect_name": "Group_BadStatus_Freezing_Heal",
+                "on_hit_effect_name": null,
+                "on_start_effect_name": "Group_BadStatus_Freezing",
+                "player_side_cooltime_milli_seconds": 5000
+              },
+              "rowid": 2
+            }
+          ],
+          "masterdata_table": "m_bad_status_type_setting",
+          "relationship_authority": {
+            "applies": "Structured skill semantic_graph.statuses only",
+            "mentions": "Diagnostic text-only references; not promoted as mechanics",
+            "protects_from": "Skill description text with status alias evidence; not an infliction",
+            "removes": "Skill description text with status alias evidence; not an infliction"
+          },
+          "snapshot_row": {
+            "__rowid__": 2629,
+            "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3002",
+            "classification": "reconstructed_image",
+            "converted_bytes": 3458,
+            "converted_cas_path": "calocal://redacted",
+            "converted_kind": "texture_png",
+            "converted_logical_path": "CandidateCAS/d14a44ef80dc3be15b51a42b2414ee5fe81952077fb008203c465dbc546459b1.png",
+            "converted_sha256": "d14a44ef80dc3be15b51a42b2414ee5fe81952077fb008203c465dbc546459b1",
+            "locale": "neutral",
+            "snapshot_table": "assets",
+            "source_bytes": 3344,
+            "source_logical_path": null,
+            "source_sha256": "42554c404ac61fd583de6f0e0c655f2b36cb1f7ed3731b6f282010d38a6aaf63",
+            "stable_row_id": "ab9e567b857b732250e4888b8cd26f799c73132e",
+            "table_name": "reconstructed_archive",
+            "vertical_flip_applied": 0
+          }
+        },
+        "facts": [
+          "Type 2",
+          "0 verified applicator(s)",
+          "Verified icon"
+        ],
+        "id": "2:freeze",
+        "name": {
+          "text": "Freeze"
+        },
+        "status": "Unchanged",
+        "subtitle": "Status effect"
+      },
+      "3:burn": {
+        "assets": {
+          "Preserved build-evidence copy": "../../../assets/current/90faf0f3e6ba39b91d40df6259d9eeef22d8c6b7d13ee9df6b81af028e3d14f6.webp",
+          "Status icon logical path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3001",
+          "Verified PNG SHA-256": "90faf0f3e6ba39b91d40df6259d9eeef22d8c6b7d13ee9df6b81af028e3d14f6"
+        },
+        "baseline": {},
+        "category": "status_effects",
+        "current": {
+          "aliases": [
+            "burn"
+          ],
+          "applies": [
+            {
+              "application_chance_percent": null,
+              "authority": "STRUCTURED_SEMANTIC_GRAPH",
+              "category": "abilities",
+              "id": 1000001011,
+              "key": "abilities:1000001011",
+              "name": "Incendiary Blasts",
+              "status_evidence": {
+                "accuracy_bonus_percent": null,
+                "duration_seconds": 10.0,
+                "effect_summary": "Deals periodic damage over time.",
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3001",
+                "id": 2,
+                "name": "Burn",
+                "resolution_status": "PASS",
+                "source": {
+                  "ability_id_list": "[]",
+                  "additive_accuracy": null,
+                  "bad_status_type": 3,
+                  "constant_damage": null,
+                  "damage_multiplier": null,
+                  "dot_damage_cycle": 60,
+                  "dot_damage_ratio": 100,
+                  "dot_max_damage": 50,
+                  "duration": 10000,
+                  "id": 2
+                },
+                "type_id": 3
+              }
+            }
+          ],
+          "candidate_display_names": [
+            "Burn"
+          ],
+          "durations_seconds": [
+            10.0
+          ],
+          "internal_or_unresolved": false,
+          "mentions": [],
+          "note": null,
+          "protects_from": [],
+          "recovery_status": "EXISTING_CURRENT_MODEL",
+          "removes": [],
+          "summary": "Deals periodic damage over time.",
+          "technical_variants": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 10.0,
+              "record_id": 2,
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 3,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": 60,
+                "dot_damage_ratio": 100,
+                "dot_max_damage": 50,
+                "duration": 10000,
+                "id": 2
+              },
+              "stat_modifiers": [],
+              "unresolved_periodic_damage": null
+            }
+          ],
+          "type_id": 3
+        },
+        "description": {
+          "missing": false,
+          "text": "Deals periodic damage over time."
+        },
+        "display_asset": {
+          "confidence": 1.0,
+          "fallback_url": "../../../assets/current/90faf0f3e6ba39b91d40df6259d9eeef22d8c6b7d13ee9df6b81af028e3d14f6.webp",
+          "locale": "neutral",
+          "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3001",
+          "match_method": "MASTERDATA_DIRECT_ICON_PATH_TO_COMPLETE_SNAPSHOT",
+          "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+          "role": "direct_status_icon",
+          "sha256": "90faf0f3e6ba39b91d40df6259d9eeef22d8c6b7d13ee9df6b81af028e3d14f6",
+          "url": "../../../assets/current/90faf0f3e6ba39b91d40df6259d9eeef22d8c6b7d13ee9df6b81af028e3d14f6.webp"
+        },
+        "evidence": {
+          "combat_status_registry_records": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 10.0,
+              "effect_summary": "Deals periodic damage over time.",
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3001",
+              "id": 2,
+              "name": "Burn",
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 3,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": 60,
+                "dot_damage_ratio": 100,
+                "dot_max_damage": 50,
+                "duration": 10000,
+                "id": 2
+              },
+              "type_id": 3
+            }
+          ],
+          "icon_resolution": {
+            "converted_sha256": "90faf0f3e6ba39b91d40df6259d9eeef22d8c6b7d13ee9df6b81af028e3d14f6",
+            "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3001",
+            "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+            "payload_bytes": 2903,
+            "runtime_rel": "../../../assets/current/90faf0f3e6ba39b91d40df6259d9eeef22d8c6b7d13ee9df6b81af028e3d14f6.webp",
+            "sha256": "90faf0f3e6ba39b91d40df6259d9eeef22d8c6b7d13ee9df6b81af028e3d14f6",
+            "source_sha256": "c90ef886b0bc63265fe063e7e5acc6d31722f7ec35763eade184d73b4e98cf68"
+          },
+          "masterdata_rows": [
+            {
+              "bad_status_type": 3,
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3001",
+              "row": {
+                "bad_status_type": 3,
+                "enemy_side_cooltime_milli_seconds": 0,
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3001",
+                "on_cycle_effect_name": "Group_BadStatus_Burn",
+                "on_end_effect_name": "Group_BadStatus_Burn",
+                "on_hit_effect_name": null,
+                "on_start_effect_name": "Group_BadStatus_Burn",
+                "player_side_cooltime_milli_seconds": 0
+              },
+              "rowid": 3
+            }
+          ],
+          "masterdata_table": "m_bad_status_type_setting",
+          "relationship_authority": {
+            "applies": "Structured skill semantic_graph.statuses only",
+            "mentions": "Diagnostic text-only references; not promoted as mechanics",
+            "protects_from": "Skill description text with status alias evidence; not an infliction",
+            "removes": "Skill description text with status alias evidence; not an infliction"
+          },
+          "snapshot_row": {
+            "__rowid__": 2628,
+            "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3001",
+            "classification": "reconstructed_image",
+            "converted_bytes": 2903,
+            "converted_cas_path": "calocal://redacted",
+            "converted_kind": "texture_png",
+            "converted_logical_path": "CandidateCAS/90faf0f3e6ba39b91d40df6259d9eeef22d8c6b7d13ee9df6b81af028e3d14f6.png",
+            "converted_sha256": "90faf0f3e6ba39b91d40df6259d9eeef22d8c6b7d13ee9df6b81af028e3d14f6",
+            "locale": "neutral",
+            "snapshot_table": "assets",
+            "source_bytes": 3344,
+            "source_logical_path": null,
+            "source_sha256": "c90ef886b0bc63265fe063e7e5acc6d31722f7ec35763eade184d73b4e98cf68",
+            "stable_row_id": "028297709a6753ac46b61980485acd9a029c4cbd",
+            "table_name": "reconstructed_archive",
+            "vertical_flip_applied": 0
+          }
+        },
+        "facts": [
+          "Type 3",
+          "1 verified applicator(s)",
+          "Verified icon"
+        ],
+        "id": "3:burn",
+        "name": {
+          "text": "Burn"
+        },
+        "status": "Unchanged",
+        "subtitle": "Status effect"
+      },
+      "4:dazzle": {
+        "assets": {
+          "Preserved build-evidence copy": "../../../assets/current/d8f6424a0a727f6d3af65df4009afa23045529e9c53d11efcd61a5203a615505.webp",
+          "Status icon logical path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3005",
+          "Verified PNG SHA-256": "d8f6424a0a727f6d3af65df4009afa23045529e9c53d11efcd61a5203a615505"
+        },
+        "baseline": {},
+        "category": "status_effects",
+        "current": {
+          "aliases": [
+            "bedazzlement",
+            "dazzle"
+          ],
+          "applies": [
+            {
+              "application_chance_percent": 70.0,
+              "authority": "STRUCTURED_SEMANTIC_GRAPH",
+              "category": "abilities",
+              "id": 192,
+              "key": "abilities:192",
+              "name": "Milly: Dazzle",
+              "status_evidence": {
+                "accuracy_bonus_percent": 50.0,
+                "application_chance_percent": 70.0,
+                "duration_seconds": 10.0,
+                "effect_summary": "Reduces attack accuracy.",
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3005",
+                "id": 5,
+                "name": "Dazzle",
+                "resolution_status": "PASS",
+                "source": {
+                  "ability_id_list": "[]",
+                  "additive_accuracy": 5000,
+                  "bad_status_type": 4,
+                  "constant_damage": null,
+                  "damage_multiplier": null,
+                  "dot_damage_cycle": null,
+                  "dot_damage_ratio": null,
+                  "dot_max_damage": null,
+                  "duration": 10000,
+                  "id": 5
+                },
+                "type_id": 4
+              }
+            }
+          ],
+          "candidate_display_names": [
+            "Dazzle"
+          ],
+          "durations_seconds": [
+            10.0
+          ],
+          "internal_or_unresolved": false,
+          "mentions": [],
+          "note": null,
+          "protects_from": [],
+          "recovery_status": "EXISTING_CURRENT_MODEL",
+          "removes": [
+            {
+              "authority": "SKILL_DESCRIPTION_TEXT",
+              "category": "abilities",
+              "evidence_text": "Cures bedazzlement and adds a light-infused explosion to normal attack and Radiant Slash hits after using a Coup de Grâce",
+              "id": 1000000264,
+              "key": "abilities:1000000264",
+              "name": "Light of Truth",
+              "role": "REMOVES_OR_CURES"
+            }
+          ],
+          "summary": "Reduces attack accuracy.",
+          "technical_variants": [
+            {
+              "accuracy_bonus_percent": 50.0,
+              "duration_seconds": 10.0,
+              "record_id": 5,
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": 5000,
+                "bad_status_type": 4,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 10000,
+                "id": 5
+              },
+              "stat_modifiers": [],
+              "unresolved_periodic_damage": null
+            }
+          ],
+          "type_id": 4
+        },
+        "description": {
+          "missing": false,
+          "text": "Reduces attack accuracy."
+        },
+        "display_asset": {
+          "confidence": 1.0,
+          "fallback_url": "../../../assets/current/d8f6424a0a727f6d3af65df4009afa23045529e9c53d11efcd61a5203a615505.webp",
+          "locale": "neutral",
+          "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3005",
+          "match_method": "MASTERDATA_DIRECT_ICON_PATH_TO_COMPLETE_SNAPSHOT",
+          "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+          "role": "direct_status_icon",
+          "sha256": "d8f6424a0a727f6d3af65df4009afa23045529e9c53d11efcd61a5203a615505",
+          "url": "../../../assets/current/d8f6424a0a727f6d3af65df4009afa23045529e9c53d11efcd61a5203a615505.webp"
+        },
+        "evidence": {
+          "combat_status_registry_records": [
+            {
+              "accuracy_bonus_percent": 50.0,
+              "duration_seconds": 10.0,
+              "effect_summary": "Reduces attack accuracy.",
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3005",
+              "id": 5,
+              "name": "Dazzle",
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": 5000,
+                "bad_status_type": 4,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 10000,
+                "id": 5
+              },
+              "type_id": 4
+            }
+          ],
+          "icon_resolution": {
+            "converted_sha256": "d8f6424a0a727f6d3af65df4009afa23045529e9c53d11efcd61a5203a615505",
+            "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3005",
+            "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+            "payload_bytes": 2878,
+            "runtime_rel": "../../../assets/current/d8f6424a0a727f6d3af65df4009afa23045529e9c53d11efcd61a5203a615505.webp",
+            "sha256": "d8f6424a0a727f6d3af65df4009afa23045529e9c53d11efcd61a5203a615505",
+            "source_sha256": "5a5728a365064e44c3b32a4db5f1f4642aa403bcedf9aeed28d3826f6b28c03d"
+          },
+          "masterdata_rows": [
+            {
+              "bad_status_type": 4,
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3005",
+              "row": {
+                "bad_status_type": 4,
+                "enemy_side_cooltime_milli_seconds": 0,
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3005",
+                "on_cycle_effect_name": null,
+                "on_end_effect_name": null,
+                "on_hit_effect_name": null,
+                "on_start_effect_name": "Group_BadStatus_Dazzle",
+                "player_side_cooltime_milli_seconds": 0
+              },
+              "rowid": 4
+            }
+          ],
+          "masterdata_table": "m_bad_status_type_setting",
+          "relationship_authority": {
+            "applies": "Structured skill semantic_graph.statuses only",
+            "mentions": "Diagnostic text-only references; not promoted as mechanics",
+            "protects_from": "Skill description text with status alias evidence; not an infliction",
+            "removes": "Skill description text with status alias evidence; not an infliction"
+          },
+          "snapshot_row": {
+            "__rowid__": 2632,
+            "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3005",
+            "classification": "reconstructed_image",
+            "converted_bytes": 2878,
+            "converted_cas_path": "calocal://redacted",
+            "converted_kind": "texture_png",
+            "converted_logical_path": "CandidateCAS/d8f6424a0a727f6d3af65df4009afa23045529e9c53d11efcd61a5203a615505.png",
+            "converted_sha256": "d8f6424a0a727f6d3af65df4009afa23045529e9c53d11efcd61a5203a615505",
+            "locale": "neutral",
+            "snapshot_table": "assets",
+            "source_bytes": 3344,
+            "source_logical_path": null,
+            "source_sha256": "5a5728a365064e44c3b32a4db5f1f4642aa403bcedf9aeed28d3826f6b28c03d",
+            "stable_row_id": "78b970d4a04e6fc36ee1d153aa0946f4f9b3be37",
+            "table_name": "reconstructed_archive",
+            "vertical_flip_applied": 0
+          }
+        },
+        "facts": [
+          "Type 4",
+          "1 verified applicator(s)",
+          "Verified icon"
+        ],
+        "id": "4:dazzle",
+        "name": {
+          "text": "Dazzle"
+        },
+        "status": "Unchanged",
+        "subtitle": "Status effect"
+      },
+      "7:magic-seal": {
+        "assets": {
+          "Preserved build-evidence copy": "../../../assets/current/858ca78840fdee63d48c0ce8d78d56ef62112b510b56d3255b1925052eaed6c1.webp",
+          "Status icon logical path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3006",
+          "Verified PNG SHA-256": "858ca78840fdee63d48c0ce8d78d56ef62112b510b56d3255b1925052eaed6c1"
+        },
+        "baseline": {},
+        "category": "status_effects",
+        "current": {
+          "aliases": [
+            "magic seal",
+            "spell lock"
+          ],
+          "applies": [
+            {
+              "application_chance_percent": 100.0,
+              "authority": "STRUCTURED_SEMANTIC_GRAPH",
+              "category": "abilities",
+              "id": 198,
+              "key": "abilities:198",
+              "name": "Fizzle Swords",
+              "status_evidence": {
+                "accuracy_bonus_percent": null,
+                "application_chance_percent": 100.0,
+                "duration_seconds": 15.0,
+                "effect_summary": "Prevents affected magical actions.",
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3006",
+                "id": 17,
+                "name": "Magic Seal",
+                "resolution_status": "PASS",
+                "source": {
+                  "ability_id_list": "[]",
+                  "additive_accuracy": null,
+                  "bad_status_type": 7,
+                  "constant_damage": null,
+                  "damage_multiplier": null,
+                  "dot_damage_cycle": null,
+                  "dot_damage_ratio": null,
+                  "dot_max_damage": null,
+                  "duration": 15000,
+                  "id": 17
+                },
+                "type_id": 7
+              }
+            }
+          ],
+          "candidate_display_names": [
+            "Magic Seal"
+          ],
+          "durations_seconds": [
+            15.0
+          ],
+          "internal_or_unresolved": false,
+          "mentions": [],
+          "note": null,
+          "protects_from": [],
+          "recovery_status": "EXISTING_CURRENT_MODEL",
+          "removes": [],
+          "summary": "Prevents affected magical actions.",
+          "technical_variants": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 15.0,
+              "record_id": 17,
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 7,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 15000,
+                "id": 17
+              },
+              "stat_modifiers": [],
+              "unresolved_periodic_damage": null
+            }
+          ],
+          "type_id": 7
+        },
+        "description": {
+          "missing": false,
+          "text": "Prevents affected magical actions."
+        },
+        "display_asset": {
+          "confidence": 1.0,
+          "fallback_url": "../../../assets/current/858ca78840fdee63d48c0ce8d78d56ef62112b510b56d3255b1925052eaed6c1.webp",
+          "locale": "neutral",
+          "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3006",
+          "match_method": "MASTERDATA_DIRECT_ICON_PATH_TO_COMPLETE_SNAPSHOT",
+          "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+          "role": "direct_status_icon",
+          "sha256": "858ca78840fdee63d48c0ce8d78d56ef62112b510b56d3255b1925052eaed6c1",
+          "url": "../../../assets/current/858ca78840fdee63d48c0ce8d78d56ef62112b510b56d3255b1925052eaed6c1.webp"
+        },
+        "evidence": {
+          "combat_status_registry_records": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": 15.0,
+              "effect_summary": "Prevents affected magical actions.",
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3006",
+              "id": 17,
+              "name": "Magic Seal",
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 7,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 15000,
+                "id": 17
+              },
+              "type_id": 7
+            }
+          ],
+          "icon_resolution": {
+            "converted_sha256": "858ca78840fdee63d48c0ce8d78d56ef62112b510b56d3255b1925052eaed6c1",
+            "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3006",
+            "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+            "payload_bytes": 3210,
+            "runtime_rel": "../../../assets/current/858ca78840fdee63d48c0ce8d78d56ef62112b510b56d3255b1925052eaed6c1.webp",
+            "sha256": "858ca78840fdee63d48c0ce8d78d56ef62112b510b56d3255b1925052eaed6c1",
+            "source_sha256": "1bde4cfe7abf825121930ebe330de4ff9fc44f2b90ccf783445023b8923119a2"
+          },
+          "masterdata_rows": [
+            {
+              "bad_status_type": 7,
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3006",
+              "row": {
+                "bad_status_type": 7,
+                "enemy_side_cooltime_milli_seconds": 0,
+                "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3006",
+                "on_cycle_effect_name": null,
+                "on_end_effect_name": null,
+                "on_hit_effect_name": null,
+                "on_start_effect_name": "Group_BadStatus_Magic_Seal",
+                "player_side_cooltime_milli_seconds": 0
+              },
+              "rowid": 7
+            }
+          ],
+          "masterdata_table": "m_bad_status_type_setting",
+          "relationship_authority": {
+            "applies": "Structured skill semantic_graph.statuses only",
+            "mentions": "Diagnostic text-only references; not promoted as mechanics",
+            "protects_from": "Skill description text with status alias evidence; not an infliction",
+            "removes": "Skill description text with status alias evidence; not an infliction"
+          },
+          "snapshot_row": {
+            "__rowid__": 2633,
+            "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3006",
+            "classification": "reconstructed_image",
+            "converted_bytes": 3210,
+            "converted_cas_path": "calocal://redacted",
+            "converted_kind": "texture_png",
+            "converted_logical_path": "CandidateCAS/858ca78840fdee63d48c0ce8d78d56ef62112b510b56d3255b1925052eaed6c1.png",
+            "converted_sha256": "858ca78840fdee63d48c0ce8d78d56ef62112b510b56d3255b1925052eaed6c1",
+            "locale": "neutral",
+            "snapshot_table": "assets",
+            "source_bytes": 3344,
+            "source_logical_path": null,
+            "source_sha256": "1bde4cfe7abf825121930ebe330de4ff9fc44f2b90ccf783445023b8923119a2",
+            "stable_row_id": "69308fe2227feb69fe8f5e9341982764812d98bd",
+            "table_name": "reconstructed_archive",
+            "vertical_flip_applied": 0
+          }
+        },
+        "facts": [
+          "Type 7",
+          "1 verified applicator(s)",
+          "Verified icon"
+        ],
+        "id": "7:magic-seal",
+        "name": {
+          "text": "Magic Seal"
+        },
+        "status": "Unchanged",
+        "subtitle": "Status effect"
+      },
+      "9:instant-death": {
+        "assets": {},
+        "baseline": {},
+        "category": "status_effects",
+        "current": {
+          "aliases": [
+            "instant death",
+            "instantdeath"
+          ],
+          "applies": [],
+          "candidate_display_names": [
+            "Instant Death",
+            "InstantDeath"
+          ],
+          "durations_seconds": [],
+          "internal_or_unresolved": false,
+          "mentions": [],
+          "note": null,
+          "protects_from": [],
+          "recovery_status": "EXISTING_CURRENT_MODEL",
+          "removes": [],
+          "summary": "Status family defined in masterdata; exact player-facing mechanics were not found in the current structured combat model.",
+          "technical_variants": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": null,
+              "record_id": 25,
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 9,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 0,
+                "id": 25
+              },
+              "stat_modifiers": [],
+              "unresolved_periodic_damage": null
+            }
+          ],
+          "type_id": 9
+        },
+        "description": {
+          "missing": false,
+          "text": "Status family defined in masterdata; exact player-facing mechanics were not found in the current structured combat model."
+        },
+        "display_asset": null,
+        "evidence": {
+          "combat_status_registry_records": [
+            {
+              "accuracy_bonus_percent": null,
+              "duration_seconds": null,
+              "effect_summary": null,
+              "icon_path": null,
+              "id": 25,
+              "name": "Instant Death",
+              "resolution_status": "PASS",
+              "source": {
+                "ability_id_list": "[]",
+                "additive_accuracy": null,
+                "bad_status_type": 9,
+                "constant_damage": null,
+                "damage_multiplier": null,
+                "dot_damage_cycle": null,
+                "dot_damage_ratio": null,
+                "dot_max_damage": null,
+                "duration": 0,
+                "id": 25
+              },
+              "type_id": 9
+            }
+          ],
+          "icon_resolution": {},
+          "masterdata_rows": [
+            {
+              "bad_status_type": 9,
+              "icon_path": null,
+              "row": {
+                "bad_status_type": 9,
+                "enemy_side_cooltime_milli_seconds": 0,
+                "icon_path": null,
+                "on_cycle_effect_name": null,
+                "on_end_effect_name": null,
+                "on_hit_effect_name": null,
+                "on_start_effect_name": "Group_BadStatus_InstantDeath",
+                "player_side_cooltime_milli_seconds": 0
+              },
+              "rowid": 9
+            }
+          ],
+          "masterdata_table": "m_bad_status_type_setting",
+          "relationship_authority": {
+            "applies": "Structured skill semantic_graph.statuses only",
+            "mentions": "Diagnostic text-only references; not promoted as mechanics",
+            "protects_from": "Skill description text with status alias evidence; not an infliction",
+            "removes": "Skill description text with status alias evidence; not an infliction"
+          },
+          "snapshot_row": null
+        },
+        "facts": [
+          "Type 9",
+          "0 verified applicator(s)",
+          "No direct icon"
+        ],
+        "id": "9:instant-death",
+        "name": {
+          "text": "Instant Death"
+        },
+        "status": "Unchanged",
+        "subtitle": "Status effect"
+      }
+    }
+  },
+  "game_version": "1.6.1.1",
+  "generated_utc": "2026-10-23T12:55:09Z",
+  "patch_id": "SMASHDUMP_STAGE3_R5_12B_STATUS_EFFECTS_CANONICAL_REBUILD",
+  "publication_allowed": false,
+  "recovered_source_settings": [
+    {
+      "display_asset": {
+        "confidence": 1.0,
+        "fallback_url": "../../../assets/current/7d7e1c174df0584bd0f065c8c1ffea53331f5463d0b5880ce3fe66fdf2e8785b.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3004",
+        "match_method": "MASTERDATA_DIRECT_ICON_PATH_TO_COMPLETE_SNAPSHOT",
+        "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+        "role": "direct_status_icon",
+        "sha256": "7d7e1c174df0584bd0f065c8c1ffea53331f5463d0b5880ce3fe66fdf2e8785b",
+        "url": "../../../assets/current/7d7e1c174df0584bd0f065c8c1ffea53331f5463d0b5880ce3fe66fdf2e8785b.webp"
+      },
+      "evidence": {
+        "combat_status_registry_records": [],
+        "icon_resolution": {
+          "converted_sha256": "7d7e1c174df0584bd0f065c8c1ffea53331f5463d0b5880ce3fe66fdf2e8785b",
+          "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3004",
+          "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+          "payload_bytes": 3180,
+          "runtime_rel": "../../../assets/current/7d7e1c174df0584bd0f065c8c1ffea53331f5463d0b5880ce3fe66fdf2e8785b.webp",
+          "sha256": "7d7e1c174df0584bd0f065c8c1ffea53331f5463d0b5880ce3fe66fdf2e8785b",
+          "source_sha256": "23a6a8dedef711da23d285808e8c9dfd4124b4b3d835038b84cbddbf37ef2a86"
+        },
+        "masterdata_rows": [
+          {
+            "bad_status_type": 5,
+            "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3004",
+            "row": {
+              "bad_status_type": 5,
+              "enemy_side_cooltime_milli_seconds": 0,
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3004",
+              "on_cycle_effect_name": null,
+              "on_end_effect_name": null,
+              "on_hit_effect_name": "Group_BadStatus_Bleeding_Hit_Damage",
+              "on_start_effect_name": "Group_BadStatus_Bleeding",
+              "player_side_cooltime_milli_seconds": 0
+            },
+            "rowid": 5
+          }
+        ],
+        "masterdata_table": "m_bad_status_type_setting",
+        "relationship_authority": {
+          "applies": "Structured skill semantic_graph.statuses only",
+          "mentions": "Diagnostic text-only references; not promoted as mechanics",
+          "protects_from": "Skill description text with status alias evidence; not an infliction",
+          "removes": "Skill description text with status alias evidence; not an infliction"
+        },
+        "snapshot_row": {
+          "__rowid__": 2631,
+          "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3004",
+          "classification": "reconstructed_image",
+          "converted_bytes": 3180,
+          "converted_cas_path": "calocal://redacted",
+          "converted_kind": "texture_png",
+          "converted_logical_path": "CandidateCAS/7d7e1c174df0584bd0f065c8c1ffea53331f5463d0b5880ce3fe66fdf2e8785b.png",
+          "converted_sha256": "7d7e1c174df0584bd0f065c8c1ffea53331f5463d0b5880ce3fe66fdf2e8785b",
+          "locale": "neutral",
+          "snapshot_table": "assets",
+          "source_bytes": 3344,
+          "source_logical_path": null,
+          "source_sha256": "23a6a8dedef711da23d285808e8c9dfd4124b4b3d835038b84cbddbf37ef2a86",
+          "stable_row_id": "2459354f9f71f1cd478fbbacf3c8d67d26b983f4",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        }
+      },
+      "id": "5:bleeding",
+      "name": "Bleeding",
+      "recovery_status": "RECOVERED_FROM_MASTERDATA",
+      "type_id": 5
+    },
+    {
+      "display_asset": null,
+      "evidence": {
+        "combat_status_registry_records": [],
+        "icon_resolution": {},
+        "masterdata_rows": [
+          {
+            "bad_status_type": 8,
+            "icon_path": null,
+            "row": {
+              "bad_status_type": 8,
+              "enemy_side_cooltime_milli_seconds": 0,
+              "icon_path": null,
+              "on_cycle_effect_name": null,
+              "on_end_effect_name": "Group_Enemy_Hit_Explosive_Firing_Explosion",
+              "on_hit_effect_name": null,
+              "on_start_effect_name": "Group_Enemy_Hit_Explosive_Firing",
+              "player_side_cooltime_milli_seconds": 0
+            },
+            "rowid": 8
+          }
+        ],
+        "masterdata_table": "m_bad_status_type_setting",
+        "relationship_authority": {
+          "applies": "Structured skill semantic_graph.statuses only",
+          "mentions": "Diagnostic text-only references; not promoted as mechanics",
+          "protects_from": "Skill description text with status alias evidence; not an infliction",
+          "removes": "Skill description text with status alias evidence; not an infliction"
+        },
+        "snapshot_row": null
+      },
+      "id": "8:group-enemy-hit-explosive-firing",
+      "name": "Group Enemy Hit Explosive Firing",
+      "recovery_status": "RECOVERED_FROM_MASTERDATA",
+      "type_id": 8
+    },
+    {
+      "display_asset": {
+        "confidence": 1.0,
+        "fallback_url": "../../../assets/current/578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3009",
+        "match_method": "MASTERDATA_DIRECT_ICON_PATH_TO_COMPLETE_SNAPSHOT",
+        "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+        "role": "direct_status_icon",
+        "sha256": "578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57",
+        "url": "../../../assets/current/578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57.webp"
+      },
+      "evidence": {
+        "combat_status_registry_records": [],
+        "icon_resolution": {
+          "converted_sha256": "578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57",
+          "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3009",
+          "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+          "payload_bytes": 2973,
+          "runtime_rel": "../../../assets/current/578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57.webp",
+          "sha256": "578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57",
+          "source_sha256": "3b0f9166c7301b1ab736421c7a3d2dffcdc0c01ba8fab14b696dded69f812e54"
+        },
+        "masterdata_rows": [
+          {
+            "bad_status_type": 10,
+            "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3009",
+            "row": {
+              "bad_status_type": 10,
+              "enemy_side_cooltime_milli_seconds": 0,
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3009",
+              "on_cycle_effect_name": null,
+              "on_end_effect_name": null,
+              "on_hit_effect_name": null,
+              "on_start_effect_name": "Group_BadStatus_Frailty",
+              "player_side_cooltime_milli_seconds": 0
+            },
+            "rowid": 10
+          }
+        ],
+        "masterdata_table": "m_bad_status_type_setting",
+        "relationship_authority": {
+          "applies": "Structured skill semantic_graph.statuses only",
+          "mentions": "Diagnostic text-only references; not promoted as mechanics",
+          "protects_from": "Skill description text with status alias evidence; not an infliction",
+          "removes": "Skill description text with status alias evidence; not an infliction"
+        },
+        "snapshot_row": {
+          "__rowid__": 2636,
+          "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3009",
+          "classification": "reconstructed_image",
+          "converted_bytes": 2973,
+          "converted_cas_path": "calocal://redacted",
+          "converted_kind": "texture_png",
+          "converted_logical_path": "CandidateCAS/578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57.png",
+          "converted_sha256": "578cb8db154c07112c4caf704e95d02538004dcab7fca65c7a184c4d9174fb57",
+          "locale": "neutral",
+          "snapshot_table": "assets",
+          "source_bytes": 3344,
+          "source_logical_path": null,
+          "source_sha256": "3b0f9166c7301b1ab736421c7a3d2dffcdc0c01ba8fab14b696dded69f812e54",
+          "stable_row_id": "ac3652690aec727aa177fa81414b21e61c148002",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        }
+      },
+      "id": "10:frailty",
+      "name": "Frailty",
+      "recovery_status": "RECOVERED_FROM_MASTERDATA",
+      "type_id": 10
+    },
+    {
+      "display_asset": {
+        "confidence": 1.0,
+        "fallback_url": "../../../assets/current/03c92ac5b12827a5fb27bc7218754b9f934fa15f806d0dfb1038bb959a8495d1.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3011",
+        "match_method": "MASTERDATA_DIRECT_ICON_PATH_TO_COMPLETE_SNAPSHOT",
+        "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+        "role": "direct_status_icon",
+        "sha256": "03c92ac5b12827a5fb27bc7218754b9f934fa15f806d0dfb1038bb959a8495d1",
+        "url": "../../../assets/current/03c92ac5b12827a5fb27bc7218754b9f934fa15f806d0dfb1038bb959a8495d1.webp"
+      },
+      "evidence": {
+        "combat_status_registry_records": [],
+        "icon_resolution": {
+          "converted_sha256": "03c92ac5b12827a5fb27bc7218754b9f934fa15f806d0dfb1038bb959a8495d1",
+          "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3011",
+          "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+          "payload_bytes": 2999,
+          "runtime_rel": "../../../assets/current/03c92ac5b12827a5fb27bc7218754b9f934fa15f806d0dfb1038bb959a8495d1.webp",
+          "sha256": "03c92ac5b12827a5fb27bc7218754b9f934fa15f806d0dfb1038bb959a8495d1",
+          "source_sha256": "dc1aeb9c0dc8d8573b5e9e4dce73bfd0027fae6bc903a3f97377787ef38a5d9f"
+        },
+        "masterdata_rows": [
+          {
+            "bad_status_type": 14,
+            "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3011",
+            "row": {
+              "bad_status_type": 14,
+              "enemy_side_cooltime_milli_seconds": 0,
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3011",
+              "on_cycle_effect_name": "Group_BadStatus_Laceration",
+              "on_end_effect_name": "Group_BadStatus_Laceration",
+              "on_hit_effect_name": null,
+              "on_start_effect_name": "Group_BadStatus_Laceration",
+              "player_side_cooltime_milli_seconds": 0
+            },
+            "rowid": 14
+          }
+        ],
+        "masterdata_table": "m_bad_status_type_setting",
+        "relationship_authority": {
+          "applies": "Structured skill semantic_graph.statuses only",
+          "mentions": "Diagnostic text-only references; not promoted as mechanics",
+          "protects_from": "Skill description text with status alias evidence; not an infliction",
+          "removes": "Skill description text with status alias evidence; not an infliction"
+        },
+        "snapshot_row": {
+          "__rowid__": 2638,
+          "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3011",
+          "classification": "reconstructed_image",
+          "converted_bytes": 2999,
+          "converted_cas_path": "calocal://redacted",
+          "converted_kind": "texture_png",
+          "converted_logical_path": "CandidateCAS/03c92ac5b12827a5fb27bc7218754b9f934fa15f806d0dfb1038bb959a8495d1.png",
+          "converted_sha256": "03c92ac5b12827a5fb27bc7218754b9f934fa15f806d0dfb1038bb959a8495d1",
+          "locale": "neutral",
+          "snapshot_table": "assets",
+          "source_bytes": 3344,
+          "source_logical_path": null,
+          "source_sha256": "dc1aeb9c0dc8d8573b5e9e4dce73bfd0027fae6bc903a3f97377787ef38a5d9f",
+          "stable_row_id": "d8146554ff8f143bd5eeac588754df154ee9d4b3",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        }
+      },
+      "id": "14:laceration",
+      "name": "Laceration",
+      "recovery_status": "RECOVERED_FROM_MASTERDATA",
+      "type_id": 14
+    },
+    {
+      "display_asset": {
+        "confidence": 1.0,
+        "fallback_url": "../../../assets/current/e99f91cfcb06f6e5b04d91c2defa6684bc07004812592f053afc8ddd8da10b20.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3012",
+        "match_method": "MASTERDATA_DIRECT_ICON_PATH_TO_COMPLETE_SNAPSHOT",
+        "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+        "role": "direct_status_icon",
+        "sha256": "e99f91cfcb06f6e5b04d91c2defa6684bc07004812592f053afc8ddd8da10b20",
+        "url": "../../../assets/current/e99f91cfcb06f6e5b04d91c2defa6684bc07004812592f053afc8ddd8da10b20.webp"
+      },
+      "evidence": {
+        "combat_status_registry_records": [],
+        "icon_resolution": {
+          "converted_sha256": "e99f91cfcb06f6e5b04d91c2defa6684bc07004812592f053afc8ddd8da10b20",
+          "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3012",
+          "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+          "payload_bytes": 4182,
+          "runtime_rel": "../../../assets/current/e99f91cfcb06f6e5b04d91c2defa6684bc07004812592f053afc8ddd8da10b20.webp",
+          "sha256": "e99f91cfcb06f6e5b04d91c2defa6684bc07004812592f053afc8ddd8da10b20",
+          "source_sha256": "f157639b587c47220961ea0b86658d8e403194acf1d87964bdc73fb1e187f238"
+        },
+        "masterdata_rows": [
+          {
+            "bad_status_type": 15,
+            "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3012",
+            "row": {
+              "bad_status_type": 15,
+              "enemy_side_cooltime_milli_seconds": 5000,
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3012",
+              "on_cycle_effect_name": null,
+              "on_end_effect_name": null,
+              "on_hit_effect_name": null,
+              "on_start_effect_name": "Group_BadStatus_Slow",
+              "player_side_cooltime_milli_seconds": 5000
+            },
+            "rowid": 15
+          }
+        ],
+        "masterdata_table": "m_bad_status_type_setting",
+        "relationship_authority": {
+          "applies": "Structured skill semantic_graph.statuses only",
+          "mentions": "Diagnostic text-only references; not promoted as mechanics",
+          "protects_from": "Skill description text with status alias evidence; not an infliction",
+          "removes": "Skill description text with status alias evidence; not an infliction"
+        },
+        "snapshot_row": {
+          "__rowid__": 2639,
+          "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3012",
+          "classification": "reconstructed_image",
+          "converted_bytes": 4182,
+          "converted_cas_path": "calocal://redacted",
+          "converted_kind": "texture_png",
+          "converted_logical_path": "CandidateCAS/e99f91cfcb06f6e5b04d91c2defa6684bc07004812592f053afc8ddd8da10b20.png",
+          "converted_sha256": "e99f91cfcb06f6e5b04d91c2defa6684bc07004812592f053afc8ddd8da10b20",
+          "locale": "neutral",
+          "snapshot_table": "assets",
+          "source_bytes": 3344,
+          "source_logical_path": null,
+          "source_sha256": "f157639b587c47220961ea0b86658d8e403194acf1d87964bdc73fb1e187f238",
+          "stable_row_id": "e0bf9a9b9030a80cd8f3c7dbc3f28994f238cd6a",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        }
+      },
+      "id": "15:slow",
+      "name": "Slow",
+      "recovery_status": "RECOVERED_FROM_MASTERDATA",
+      "type_id": 15
+    },
+    {
+      "display_asset": {
+        "confidence": 1.0,
+        "fallback_url": "../../../assets/current/e2f06452874020b0ec3704943aa9a8d8ea0b361a72a242017d16c1aa158a607a.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3013",
+        "match_method": "MASTERDATA_DIRECT_ICON_PATH_TO_COMPLETE_SNAPSHOT",
+        "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+        "role": "direct_status_icon",
+        "sha256": "e2f06452874020b0ec3704943aa9a8d8ea0b361a72a242017d16c1aa158a607a",
+        "url": "../../../assets/current/e2f06452874020b0ec3704943aa9a8d8ea0b361a72a242017d16c1aa158a607a.webp"
+      },
+      "evidence": {
+        "combat_status_registry_records": [],
+        "icon_resolution": {
+          "converted_sha256": "e2f06452874020b0ec3704943aa9a8d8ea0b361a72a242017d16c1aa158a607a",
+          "logical_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3013",
+          "orientation": "CONVERTED_PNG_SOURCE_ORIENTATION",
+          "payload_bytes": 4350,
+          "runtime_rel": "../../../assets/current/e2f06452874020b0ec3704943aa9a8d8ea0b361a72a242017d16c1aa158a607a.webp",
+          "sha256": "e2f06452874020b0ec3704943aa9a8d8ea0b361a72a242017d16c1aa158a607a",
+          "source_sha256": "9dd140ed0d3e073e33c176c4cb9f89397c8277bb9c7a14d07fbfe98a28300f3e"
+        },
+        "masterdata_rows": [
+          {
+            "bad_status_type": 16,
+            "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3013",
+            "row": {
+              "bad_status_type": 16,
+              "enemy_side_cooltime_milli_seconds": 5000,
+              "icon_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3013",
+              "on_cycle_effect_name": null,
+              "on_end_effect_name": null,
+              "on_hit_effect_name": null,
+              "on_start_effect_name": "Group_BadStatus_Stop",
+              "player_side_cooltime_milli_seconds": 5000
+            },
+            "rowid": 16
+          }
+        ],
+        "masterdata_table": "m_bad_status_type_setting",
+        "relationship_authority": {
+          "applies": "Structured skill semantic_graph.statuses only",
+          "mentions": "Diagnostic text-only references; not promoted as mechanics",
+          "protects_from": "Skill description text with status alias evidence; not an infliction",
+          "removes": "Skill description text with status alias evidence; not an infliction"
+        },
+        "snapshot_row": {
+          "__rowid__": 2640,
+          "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3013",
+          "classification": "reconstructed_image",
+          "converted_bytes": 4350,
+          "converted_cas_path": "calocal://redacted",
+          "converted_kind": "texture_png",
+          "converted_logical_path": "CandidateCAS/e2f06452874020b0ec3704943aa9a8d8ea0b361a72a242017d16c1aa158a607a.png",
+          "converted_sha256": "e2f06452874020b0ec3704943aa9a8d8ea0b361a72a242017d16c1aa158a607a",
+          "locale": "neutral",
+          "snapshot_table": "assets",
+          "source_bytes": 3344,
+          "source_logical_path": null,
+          "source_sha256": "9dd140ed0d3e073e33c176c4cb9f89397c8277bb9c7a14d07fbfe98a28300f3e",
+          "stable_row_id": "5269e0b2db1de0a5739d3f9d49be652bab0361ea",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        }
+      },
+      "id": "16:stop",
+      "name": "Stop",
+      "recovery_status": "RECOVERED_FROM_MASTERDATA",
+      "type_id": 16
+    }
+  ],
+  "regression_probes": {
+    "crack_arrow_not_freeze_applier": true,
+    "fire_spheres_protects_charm_not_applies": true,
+    "light_of_truth_removes_dazzle_not_applies": true,
+    "milly_dazzle_structured_applier": true,
+    "piercing_frizz_arrow_not_burn_applier": true,
+    "poison_structured_applicators": true
+  },
+  "schema": "smashdump.semantic_model.stage3.r5.12b.status_effects.v1",
+  "summary": {
+    "all_regression_probes_pass": true,
+    "direct_icon_paths": 14,
+    "distinct_status_types": 17,
+    "existing_combat_status_types": 11,
+    "masterdata_rows": 17,
+    "protection_relations": 2,
+    "recovered_status_types": 6,
+    "removal_relations": 1,
+    "status_types_with_direct_icons": 15,
+    "structured_applications": 7,
+    "verified_png_icons": 14
+  }
+}

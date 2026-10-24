@@ -1,0 +1,84 @@
+{
+  "acceptance": {
+    "console_errors_absent": true,
+    "enemies": "source derived",
+    "items": "source derived",
+    "jobs": "source derived"
+  },
+  "baseline_package_id": "SMASHDUMP_STAGE3_R5_18_RUNTIME_CONVERGENCE_AND_INTERACTION_STABILITY_CORRECTED_R9",
+  "baseline_version": "1.6.1",
+  "candidate_only": true,
+  "corrections": {
+    "enemy_difficulty_options": [
+      "Casual",
+      "EX Nightmare",
+      "Easy",
+      "Hard",
+      "Nightmare",
+      "Normal",
+      "Very Hard"
+    ],
+    "enemy_options_source": "current model",
+    "future_hardening_waits_for_world_stage_model": true,
+    "hidden_counts": {
+      "abilities": 0,
+      "accessories": 0,
+      "boons": 0,
+      "drony": 0,
+      "drops": 0,
+      "enemies": 4,
+      "equipment": 0,
+      "events": 0,
+      "gacha": 0,
+      "items": 3,
+      "jobs": 0,
+      "memories": 0,
+      "memory_effects": 0,
+      "shops": 0,
+      "stages": 0,
+      "status_effects": 0,
+      "weapons": 0
+    },
+    "identity_counts": {
+      "abilities": 155,
+      "accessories": 24,
+      "boons": 47,
+      "drony": 3,
+      "drops": 519,
+      "enemies": 123,
+      "equipment": 138,
+      "events": 6,
+      "gacha": 40,
+      "items": 391,
+      "jobs": 9,
+      "memories": 117,
+      "memory_effects": 217,
+      "shops": 20,
+      "stages": 519,
+      "status_effects": 11,
+      "weapons": 51
+    },
+    "item_policy": "field unresolved remains visible"
+  },
+  "enemy_option_counts": {
+    "difficulties": 7,
+    "resistances": 0,
+    "types": 0,
+    "weaknesses": 0
+  },
+  "evidence": {
+    "source": "S1 current models"
+  },
+  "game_version": "1.6.1.1",
+  "generated_utc": null,
+  "patch_id": "SMASHDUMP_STAGE3_R5_18_RUNTIME_READINESS_AND_VISIBLE_INCOMPLETE_ITEMS_CORRECTED_R10",
+  "protected_scope": {
+    "new_observers": 0,
+    "new_render_wrappers": 0,
+    "new_repeating_timers": 0,
+    "stage_rendering": "accepted"
+  },
+  "publication_allowed": false,
+  "s1_authority_state": "CURRENT_GENERATED",
+  "schema": "smashdump.stage3.r5.18.runtime_readiness_visible_incomplete_items.r10"
+}

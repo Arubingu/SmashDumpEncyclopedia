@@ -2,11 +2,11 @@
   'use strict';
   const runtimeBase=new URL('./',location.href);
   const route=path=>new URL(path,runtimeBase).href;
-  const MONSTER_INDEX=route('viewer3d/monsters/index.json?release=4259106d59d557d4');
+  const MONSTER_INDEX=route('viewer3d/monsters/index.json?release=a0be5cd1904528b8');
   const MONSTER_VIEWER=route('viewer3d/monsters/index.html');
-  const EQUIPMENT_INDEX=route('viewer3d/equipment/index.json?release=4259106d59d557d4');
+  const EQUIPMENT_INDEX=route('viewer3d/equipment/index.json?release=a0be5cd1904528b8');
   const EQUIPMENT_VIEWER=route('viewer3d/equipment/index.html');
-  const EQUIPMENT_REVISION='4259106d59d557d4';
+  const EQUIPMENT_REVISION='a0be5cd1904528b8';
   const panel=document.getElementById('detailPanel');
   if(!panel)return;
 
@@ -22,7 +22,7 @@
     if(category==='Enemies'){
       const match=/^enemies:(?:kind:)?(.+)$/.exec(key);if(!match)return null;
       const model=(await monsterIndex()).enemy_id_index?.[String(match[1])];
-      return model?{key:`monster:${model}`,url:`${MONSTER_VIEWER}?release=4259106d59d557d4&model=${encodeURIComponent(model)}`,kind:'Monster'}:null;
+      return model?{key:`monster:${model}`,url:`${MONSTER_VIEWER}?release=a0be5cd1904528b8&model=${encodeURIComponent(model)}`,kind:'Monster'}:null;
     }
     if(category==='Weapons'){
       const match=/^weapons:(.+)$/.exec(key);if(!match)return null;const id=String(match[1]);

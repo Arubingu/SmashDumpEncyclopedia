@@ -6,12 +6,12 @@ This repository contains the latest privacy-sanitized static export of the accep
 
 ## Current release
 
-- Content: `1.6.0.1`
-- Encyclopedia: `0.1.25`
-- Release date: `2026-10-18`
-- Added entities: `0`
-- Modified entities: `0`
+- Content: `1.6.1.1`
+- Encyclopedia: `0.1.27`
+- Release date: `2026-10-23`
+- Added entities: `105`
+- Modified entities: `3`
 
 ## Encyclopedia changes
 
-- **Interactive 3D viewer** — Added interactive 3D viewers to Enemy, Weapon and Equipment pages. Enemy models include their source-derived animations, while weapons and armour can also be inspected on textureless body-type mannequins. The viewer supports touch and mouse controls, pause/resume inspection, automatic animation playback, and adjustable frame-rate and display-resolution limits for lower-end devices.
+- No Encyclopedia-specific notes were recorded for this release.

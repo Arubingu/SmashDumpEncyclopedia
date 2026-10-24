@@ -1,0 +1,32 @@
+{
+  "capture": {
+    "baseline_version": "1.6.1",
+    "current_version": "1.6.1.1",
+    "source": "S1 certified current producer chain"
+  },
+  "combat_model": {
+    "aliases": 464,
+    "authority_state": "CURRENT_GENERATED",
+    "coup_de_grace": 46,
+    "entities": 155,
+    "path": "data/combat_semantic_stage3_r4_latest.json",
+    "schema": "smashdump.semantic_model.stage3.r4.5.combat_graph.v1",
+    "skills": 109,
+    "source_patch_id": "SMASHDUMP_STAGE3_R4_5_FRIENDSHIP_AND_RUNTIME_INTEGRATION_REPAIR"
+  },
+  "generated_utc": null,
+  "patch_id": "SMASHDUMP_STAGE3_R4_9_RUNTIME_CONSOLIDATION_AND_UI_FREEZE",
+  "runtime": {
+    "canonical_renderer": "R4.9",
+    "current_source_only": true,
+    "historical_model_fetches_disabled": [
+      "R4",
+      "R4.3",
+      "R4.4",
+      "R4.5",
+      "R4.8"
+    ],
+    "publication_allowed": false
+  },
+  "schema": "smashdump.stage3.r4.9.runtime_manifest.v1"
+}

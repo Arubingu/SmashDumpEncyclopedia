@@ -1,3 +1,4 @@
+/* generated accepted QoL bundle; source order preserved */
 /* SMASHDUMP_PUBLIC_QOL_LAB_R6 — disposable static-export QoL prototype only. */
 (()=>{
   'use strict';
@@ -1162,26 +1163,10 @@
     }
   }
   function patchVocationRestrictions(){
-    const catalog=globalThis.__SMASHDUMP_STAGE2_3_VOCATION_RESOLVER__?.catalog;
-    if(!catalog?.profiles)return;
-    document.querySelectorAll('.stage235-card[data-stage235-kind="dual"]').forEach(card=>{
-      const profile=catalog.profiles.find(row=>String(row.id)===String(card.dataset.stage235Profile));
-      if(!profile?.vocation)return;
-      const restricted=card.dataset.stage235Tree==='upgrade_1'||card.dataset.stage235Tree==='upgrade_2';
-      card.querySelectorAll('[data-stage235-results] .vocation-result').forEach(row=>{
-        const label=row.querySelector('span');
-        if(!label)return;
-        let marker=label.querySelector('.lab-vocation-limit');
-        if(!restricted){marker?.remove();return}
-        if(!marker){
-          marker=document.createElement('small');
-          marker.className='lab-vocation-limit';
-          label.appendChild(marker);
-        }
-        const wanted=`(${profile.vocation} only)`;
-        if(marker.textContent!==wanted)marker.textContent=wanted;
-      });
-    });
+    // Stage 2.3.5 result rows already carry source-derived restriction metadata.
+    // A dual-axis card can combine vocation-bound permanent tree effects with
+    // unrestricted temporary Blessing-level effects, so card-wide inference is invalid.
+    return 0;
   }
   let labPatchQueued=false;
   function patchLabPresentation(entity){
@@ -1346,6 +1331,7 @@
   function fixVocationRestrictions(root=document){
     let count=0;
     root?.querySelectorAll?.('.vocation-mechanic-card[data-stage235-profile],.vocation-mechanic-card[data-vocation-profile]').forEach(card=>{
+      if(card.dataset.stage235Profile)return;
       const profileId=card.dataset.stage235Profile||card.dataset.vocationProfile||'';
       const catalog=globalThis.__SMASHDUMP_STAGE2_3_VOCATION_RESOLVER__?.catalog||{};
       const profile=[...(catalog.profiles||[]),...(catalog.trait_profiles||[])].find(row=>row.id===profileId);
@@ -1362,20 +1348,11 @@
     return count;
   }
   function fixAbilityTreeRestrictions(root=document){
-    const title=[...root?.querySelectorAll?.('#detailPanel h2,#detailPanel h3')||[]].map(node=>(node.textContent||'').trim()).find(Boolean)||'';
-    const vocation=({"Fenrir's Hunt":'Ranger','Shadowbind':'Ranger','Cool Under Fire':'Sage','Echonomist':'Sage','Knight Watch':'Paladin',"Knight's Judgement":'Paladin'})[title];
-    if(!vocation)return 0;
-    let count=0;
-    root.querySelectorAll('#detailPanel .s3r44-branch,#detailPanel .s3r45-branch').forEach(section=>{
-      if((section.querySelector('h5')?.textContent||'').trim()!=='Permanent vocation-tree state')return;
-      section.querySelectorAll(':scope > div > article').forEach(stateRow=>{
-        const stateName=(stateRow.querySelector(':scope > strong')?.textContent||'').trim();
-        stateRow.querySelectorAll('.qol-r12-vocation-only').forEach(node=>node.remove());
-        if(!/^Upgrade [12]$/.test(stateName))return;
-        stateRow.querySelectorAll('.s3r44-facts article > span,.s3r45-facts article > span').forEach(label=>{const badge=document.createElement('b');badge.className='qol-r12-vocation-only';badge.textContent=`${vocation} only`;label.append(' ',badge);count++});
-      });
-    });
-    return count;
+    // Stage 2.3.5 owns vocation restrictions from source-derived profile metadata.
+    // Do not infer scope from an ability title or from being inside an Upgrade branch:
+    // a branch can contain both vocation-restricted permanent effects and unrestricted
+    // temporary Blessing-level effects.
+    return 0;
   }
   function scheduleVocationRestrictionFix(){
     const apply=()=>fixVocationRestrictions(document);

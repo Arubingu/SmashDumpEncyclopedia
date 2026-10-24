@@ -1,0 +1,3391 @@
+{
+  "ability_element_policy": {
+    "entry_type_and_element": "structured combat graph",
+    "no_description_guessing": true,
+    "skill_element_source": "current combat",
+    "values_inside_element": "OR"
+  },
+  "ability_regression_fixtures": {},
+  "baseline_package_id": "SMASHDUMP_STAGE3_R5_18_ENEMY_CONTEXT_FACET_AND_FILTER_CONTRACT_CORRECTED_R12",
+  "baseline_version": "1.6.1",
+  "candidate_only": true,
+  "formal_challenge_stage_sources": {
+    "m_stage_ticket:100200002": {
+      "raw_reference_count": 2,
+      "source": "current m_stage_ticket identity plus current stage-backed source closure; logical routes canonicalized by current stable stage key",
+      "stages": [
+        {
+          "category": "stages",
+          "id": 10101110,
+          "key": "stages:10101110",
+          "name": "Chapter 1 — Stage 10 (Normal)"
+        }
+      ]
+    },
+    "m_stage_ticket:100200006": {
+      "raw_reference_count": 16,
+      "source": "current m_stage_ticket identity plus current stage-backed source closure; logical routes canonicalized by current stable stage key",
+      "stages": [
+        {
+          "category": "stages",
+          "id": 30242101,
+          "key": "stages:30242101",
+          "name": "Tantegel Moor (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242102,
+          "key": "stages:30242102",
+          "name": "North Tantegel Moor (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242103,
+          "key": "stages:30242103",
+          "name": "Galenholm Cape (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242104,
+          "key": "stages:30242104",
+          "name": "Grave of Galen (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242105,
+          "key": "stages:30242105",
+          "name": "Quagmire Cave (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242106,
+          "key": "stages:30242106",
+          "name": "Forest of Kol (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242114,
+          "key": "stages:30242114",
+          "name": "Drive Back the Dragonlord's Army (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242115,
+          "key": "stages:30242115",
+          "name": "Great Quagmire (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242201,
+          "key": "stages:30242201",
+          "name": "Tantegel Moor (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30242202,
+          "key": "stages:30242202",
+          "name": "North Tantegel Moor (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30242203,
+          "key": "stages:30242203",
+          "name": "Galenholm Cape (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30242204,
+          "key": "stages:30242204",
+          "name": "Grave of Galen (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30242205,
+          "key": "stages:30242205",
+          "name": "Quagmire Cave (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30242206,
+          "key": "stages:30242206",
+          "name": "Forest of Kol (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30242214,
+          "key": "stages:30242214",
+          "name": "Drive Back the Dragonlord's Army (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30242215,
+          "key": "stages:30242215",
+          "name": "Great Quagmire (Hard)"
+        }
+      ]
+    },
+    "m_stage_ticket:100200007": {
+      "raw_reference_count": 18,
+      "source": "current m_stage_ticket identity plus current stage-backed source closure; logical routes canonicalized by current stable stage key",
+      "stages": [
+        {
+          "category": "stages",
+          "id": 30242107,
+          "key": "stages:30242107",
+          "name": "Rimuldar Mire (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242108,
+          "key": "stages:30242108",
+          "name": "Rugged Region (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242109,
+          "key": "stages:30242109",
+          "name": "Craggy Cave (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242110,
+          "key": "stages:30242110",
+          "name": "Damdara Desert (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242111,
+          "key": "stages:30242111",
+          "name": "Damdara — Town (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242112,
+          "key": "stages:30242112",
+          "name": "Cantlin Plains (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242113,
+          "key": "stages:30242113",
+          "name": "Defend Cantlin (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242114,
+          "key": "stages:30242114",
+          "name": "Drive Back the Dragonlord's Army (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242115,
+          "key": "stages:30242115",
+          "name": "Great Quagmire (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30242207,
+          "key": "stages:30242207",
+          "name": "Rimuldar Mire (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30242208,
+          "key": "stages:30242208",
+          "name": "Rugged Region (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30242209,
+          "key": "stages:30242209",
+          "name": "Craggy Cave (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30242210,
+          "key": "stages:30242210",
+          "name": "Damdara Desert (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30242211,
+          "key": "stages:30242211",
+          "name": "Damdara — Town (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30242212,
+          "key": "stages:30242212",
+          "name": "Cantlin Plains (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30242213,
+          "key": "stages:30242213",
+          "name": "Defend Cantlin (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30242214,
+          "key": "stages:30242214",
+          "name": "Drive Back the Dragonlord's Army (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30242215,
+          "key": "stages:30242215",
+          "name": "Great Quagmire (Hard)"
+        }
+      ]
+    },
+    "m_stage_ticket:100200017": {
+      "raw_reference_count": 180,
+      "source": "current m_stage_ticket identity plus current stage-backed source closure; logical routes canonicalized by current stable stage key",
+      "stages": [
+        {
+          "category": "stages",
+          "id": 10101101,
+          "key": "stages:10101101",
+          "name": "Chapter 1 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101102,
+          "key": "stages:10101102",
+          "name": "Chapter 1 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101103,
+          "key": "stages:10101103",
+          "name": "Chapter 1 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101104,
+          "key": "stages:10101104",
+          "name": "Chapter 1 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101105,
+          "key": "stages:10101105",
+          "name": "Chapter 1 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101106,
+          "key": "stages:10101106",
+          "name": "Chapter 1 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101107,
+          "key": "stages:10101107",
+          "name": "Chapter 1 — Stage 7 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101108,
+          "key": "stages:10101108",
+          "name": "Chapter 1 — Stage 8 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101109,
+          "key": "stages:10101109",
+          "name": "Chapter 1 — Stage 9 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101110,
+          "key": "stages:10101110",
+          "name": "Chapter 1 — Stage 10 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101201,
+          "key": "stages:10101201",
+          "name": "Chapter 1 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101202,
+          "key": "stages:10101202",
+          "name": "Chapter 1 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101203,
+          "key": "stages:10101203",
+          "name": "Chapter 1 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101204,
+          "key": "stages:10101204",
+          "name": "Chapter 1 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101205,
+          "key": "stages:10101205",
+          "name": "Chapter 1 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101206,
+          "key": "stages:10101206",
+          "name": "Chapter 1 — Stage 6 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101207,
+          "key": "stages:10101207",
+          "name": "Chapter 1 — Stage 7 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101208,
+          "key": "stages:10101208",
+          "name": "Chapter 1 — Stage 8 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101209,
+          "key": "stages:10101209",
+          "name": "Chapter 1 — Stage 9 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101210,
+          "key": "stages:10101210",
+          "name": "Chapter 1 — Stage 10 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102101,
+          "key": "stages:10102101",
+          "name": "Chapter 2 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102102,
+          "key": "stages:10102102",
+          "name": "Chapter 2 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102103,
+          "key": "stages:10102103",
+          "name": "Chapter 2 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102104,
+          "key": "stages:10102104",
+          "name": "Chapter 2 — Stage 7 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102105,
+          "key": "stages:10102105",
+          "name": "Chapter 2 — Stage 9 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102107,
+          "key": "stages:10102107",
+          "name": "Chapter 2 — Stage 13 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102109,
+          "key": "stages:10102109",
+          "name": "Chapter 2 — Stage 17 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102110,
+          "key": "stages:10102110",
+          "name": "Chapter 2 — Stage 20 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102151,
+          "key": "stages:10102151",
+          "name": "Chapter 2 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102153,
+          "key": "stages:10102153",
+          "name": "Chapter 2 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102154,
+          "key": "stages:10102154",
+          "name": "Chapter 2 — Stage 8 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102155,
+          "key": "stages:10102155",
+          "name": "Chapter 2 — Stage 10 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102156,
+          "key": "stages:10102156",
+          "name": "Chapter 2 — Stage 12 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102157,
+          "key": "stages:10102157",
+          "name": "Chapter 2 — Stage 14 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102158,
+          "key": "stages:10102158",
+          "name": "Chapter 2 — Stage 16 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102159,
+          "key": "stages:10102159",
+          "name": "Chapter 2 — Stage 18 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102160,
+          "key": "stages:10102160",
+          "name": "Chapter 2 — Stage 19 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102201,
+          "key": "stages:10102201",
+          "name": "Chapter 2 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102202,
+          "key": "stages:10102202",
+          "name": "Chapter 2 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102203,
+          "key": "stages:10102203",
+          "name": "Chapter 2 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102204,
+          "key": "stages:10102204",
+          "name": "Chapter 2 — Stage 7 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102205,
+          "key": "stages:10102205",
+          "name": "Chapter 2 — Stage 9 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102207,
+          "key": "stages:10102207",
+          "name": "Chapter 2 — Stage 13 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102209,
+          "key": "stages:10102209",
+          "name": "Chapter 2 — Stage 17 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102210,
+          "key": "stages:10102210",
+          "name": "Chapter 2 — Stage 20 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102251,
+          "key": "stages:10102251",
+          "name": "Chapter 2 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102253,
+          "key": "stages:10102253",
+          "name": "Chapter 2 — Stage 6 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102254,
+          "key": "stages:10102254",
+          "name": "Chapter 2 — Stage 8 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102255,
+          "key": "stages:10102255",
+          "name": "Chapter 2 — Stage 10 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102256,
+          "key": "stages:10102256",
+          "name": "Chapter 2 — Stage 12 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102257,
+          "key": "stages:10102257",
+          "name": "Chapter 2 — Stage 14 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102258,
+          "key": "stages:10102258",
+          "name": "Chapter 2 — Stage 16 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102259,
+          "key": "stages:10102259",
+          "name": "Chapter 2 — Stage 18 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102260,
+          "key": "stages:10102260",
+          "name": "Chapter 2 — Stage 19 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102304,
+          "key": "stages:10102304",
+          "name": "Chapter 2 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102351,
+          "key": "stages:10102351",
+          "name": "Chapter 2 — Stage 11 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102355,
+          "key": "stages:10102355",
+          "name": "Chapter 2 — Stage 15 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102404,
+          "key": "stages:10102404",
+          "name": "Chapter 2 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102451,
+          "key": "stages:10102451",
+          "name": "Chapter 2 — Stage 11 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102455,
+          "key": "stages:10102455",
+          "name": "Chapter 2 — Stage 15 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103101,
+          "key": "stages:10103101",
+          "name": "Chapter 3 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103102,
+          "key": "stages:10103102",
+          "name": "Chapter 3 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103103,
+          "key": "stages:10103103",
+          "name": "Chapter 3 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103104,
+          "key": "stages:10103104",
+          "name": "Chapter 3 — Stage 7 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103105,
+          "key": "stages:10103105",
+          "name": "Chapter 3 — Stage 9 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103106,
+          "key": "stages:10103106",
+          "name": "Chapter 3 — Stage 11 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103107,
+          "key": "stages:10103107",
+          "name": "Chapter 3 — Stage 13 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103109,
+          "key": "stages:10103109",
+          "name": "Chapter 3 — Stage 17 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103110,
+          "key": "stages:10103110",
+          "name": "Chapter 3 — Stage 20 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103151,
+          "key": "stages:10103151",
+          "name": "Chapter 3 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103153,
+          "key": "stages:10103153",
+          "name": "Chapter 3 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103155,
+          "key": "stages:10103155",
+          "name": "Chapter 3 — Stage 10 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103156,
+          "key": "stages:10103156",
+          "name": "Chapter 3 — Stage 12 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103157,
+          "key": "stages:10103157",
+          "name": "Chapter 3 — Stage 14 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103158,
+          "key": "stages:10103158",
+          "name": "Chapter 3 — Stage 16 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103159,
+          "key": "stages:10103159",
+          "name": "Chapter 3 — Stage 18 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103160,
+          "key": "stages:10103160",
+          "name": "Chapter 3 — Stage 19 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103201,
+          "key": "stages:10103201",
+          "name": "Chapter 3 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103202,
+          "key": "stages:10103202",
+          "name": "Chapter 3 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103203,
+          "key": "stages:10103203",
+          "name": "Chapter 3 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103204,
+          "key": "stages:10103204",
+          "name": "Chapter 3 — Stage 7 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103205,
+          "key": "stages:10103205",
+          "name": "Chapter 3 — Stage 9 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103206,
+          "key": "stages:10103206",
+          "name": "Chapter 3 — Stage 11 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103207,
+          "key": "stages:10103207",
+          "name": "Chapter 3 — Stage 13 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103209,
+          "key": "stages:10103209",
+          "name": "Chapter 3 — Stage 17 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103210,
+          "key": "stages:10103210",
+          "name": "Chapter 3 — Stage 20 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103251,
+          "key": "stages:10103251",
+          "name": "Chapter 3 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103253,
+          "key": "stages:10103253",
+          "name": "Chapter 3 — Stage 6 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103255,
+          "key": "stages:10103255",
+          "name": "Chapter 3 — Stage 10 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103256,
+          "key": "stages:10103256",
+          "name": "Chapter 3 — Stage 12 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103257,
+          "key": "stages:10103257",
+          "name": "Chapter 3 — Stage 14 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103258,
+          "key": "stages:10103258",
+          "name": "Chapter 3 — Stage 16 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103259,
+          "key": "stages:10103259",
+          "name": "Chapter 3 — Stage 18 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103260,
+          "key": "stages:10103260",
+          "name": "Chapter 3 — Stage 19 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103304,
+          "key": "stages:10103304",
+          "name": "Chapter 3 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103308,
+          "key": "stages:10103308",
+          "name": "Chapter 3 — Stage 8 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103355,
+          "key": "stages:10103355",
+          "name": "Chapter 3 — Stage 15 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103404,
+          "key": "stages:10103404",
+          "name": "Chapter 3 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103408,
+          "key": "stages:10103408",
+          "name": "Chapter 3 — Stage 8 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103455,
+          "key": "stages:10103455",
+          "name": "Chapter 3 — Stage 15 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104101,
+          "key": "stages:104101",
+          "name": "Chapter 4 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104102,
+          "key": "stages:104102",
+          "name": "Chapter 4 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104103,
+          "key": "stages:104103",
+          "name": "Chapter 4 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104104,
+          "key": "stages:104104",
+          "name": "Chapter 4 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104105,
+          "key": "stages:104105",
+          "name": "Chapter 4 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104106,
+          "key": "stages:104106",
+          "name": "Chapter 4 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104107,
+          "key": "stages:104107",
+          "name": "Chapter 4 — Stage 7 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104108,
+          "key": "stages:104108",
+          "name": "Chapter 4 — Stage 8 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104109,
+          "key": "stages:104109",
+          "name": "Chapter 4 — Stage 9 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104110,
+          "key": "stages:104110",
+          "name": "Chapter 4 — Stage 10 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104111,
+          "key": "stages:104111",
+          "name": "Chapter 4 — Stage 11 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104112,
+          "key": "stages:104112",
+          "name": "Chapter 4 — Stage 12 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104113,
+          "key": "stages:104113",
+          "name": "Chapter 4 — Stage 13 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104114,
+          "key": "stages:104114",
+          "name": "Chapter 4 — Stage 14 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104115,
+          "key": "stages:104115",
+          "name": "Chapter 4 — Stage 15 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104116,
+          "key": "stages:104116",
+          "name": "Chapter 4 — Stage 16 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104117,
+          "key": "stages:104117",
+          "name": "Chapter 4 — Stage 17 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104118,
+          "key": "stages:104118",
+          "name": "Chapter 4 — Stage 18 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104119,
+          "key": "stages:104119",
+          "name": "Chapter 4 — Stage 19 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104120,
+          "key": "stages:104120",
+          "name": "Chapter 4 — Stage 20 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104201,
+          "key": "stages:104201",
+          "name": "Chapter 4 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104202,
+          "key": "stages:104202",
+          "name": "Chapter 4 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104203,
+          "key": "stages:104203",
+          "name": "Chapter 4 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104204,
+          "key": "stages:104204",
+          "name": "Chapter 4 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104205,
+          "key": "stages:104205",
+          "name": "Chapter 4 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104206,
+          "key": "stages:104206",
+          "name": "Chapter 4 — Stage 6 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104207,
+          "key": "stages:104207",
+          "name": "Chapter 4 — Stage 7 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104208,
+          "key": "stages:104208",
+          "name": "Chapter 4 — Stage 8 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104209,
+          "key": "stages:104209",
+          "name": "Chapter 4 — Stage 9 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104210,
+          "key": "stages:104210",
+          "name": "Chapter 4 — Stage 10 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104211,
+          "key": "stages:104211",
+          "name": "Chapter 4 — Stage 11 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104212,
+          "key": "stages:104212",
+          "name": "Chapter 4 — Stage 12 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104213,
+          "key": "stages:104213",
+          "name": "Chapter 4 — Stage 13 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104214,
+          "key": "stages:104214",
+          "name": "Chapter 4 — Stage 14 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104215,
+          "key": "stages:104215",
+          "name": "Chapter 4 — Stage 15 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104216,
+          "key": "stages:104216",
+          "name": "Chapter 4 — Stage 16 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104217,
+          "key": "stages:104217",
+          "name": "Chapter 4 — Stage 17 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104218,
+          "key": "stages:104218",
+          "name": "Chapter 4 — Stage 18 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104219,
+          "key": "stages:104219",
+          "name": "Chapter 4 — Stage 19 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104220,
+          "key": "stages:104220",
+          "name": "Chapter 4 — Stage 20 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105101,
+          "key": "stages:105101",
+          "name": "Chapter 5 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105102,
+          "key": "stages:105102",
+          "name": "Chapter 5 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105103,
+          "key": "stages:105103",
+          "name": "Chapter 5 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105104,
+          "key": "stages:105104",
+          "name": "Chapter 5 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105105,
+          "key": "stages:105105",
+          "name": "Chapter 5 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105106,
+          "key": "stages:105106",
+          "name": "Chapter 5 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105107,
+          "key": "stages:105107",
+          "name": "Chapter 5 — Stage 7 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105108,
+          "key": "stages:105108",
+          "name": "Chapter 5 — Stage 8 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105109,
+          "key": "stages:105109",
+          "name": "Chapter 5 — Stage 9 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105110,
+          "key": "stages:105110",
+          "name": "Chapter 5 — Stage 10 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105111,
+          "key": "stages:105111",
+          "name": "Chapter 5 — Stage 11 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105112,
+          "key": "stages:105112",
+          "name": "Chapter 5 — Stage 12 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105113,
+          "key": "stages:105113",
+          "name": "Chapter 5 — Stage 13 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105114,
+          "key": "stages:105114",
+          "name": "Chapter 5 — Stage 14 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105115,
+          "key": "stages:105115",
+          "name": "Chapter 5 — Stage 15 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105116,
+          "key": "stages:105116",
+          "name": "Chapter 5 — Stage 16 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105117,
+          "key": "stages:105117",
+          "name": "Chapter 5 — Stage 17 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105118,
+          "key": "stages:105118",
+          "name": "Chapter 5 — Stage 18 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105119,
+          "key": "stages:105119",
+          "name": "Chapter 5 — Stage 19 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105120,
+          "key": "stages:105120",
+          "name": "Chapter 5 — Stage 20 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105201,
+          "key": "stages:105201",
+          "name": "Chapter 5 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105202,
+          "key": "stages:105202",
+          "name": "Chapter 5 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105203,
+          "key": "stages:105203",
+          "name": "Chapter 5 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105204,
+          "key": "stages:105204",
+          "name": "Chapter 5 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105205,
+          "key": "stages:105205",
+          "name": "Chapter 5 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105206,
+          "key": "stages:105206",
+          "name": "Chapter 5 — Stage 6 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105207,
+          "key": "stages:105207",
+          "name": "Chapter 5 — Stage 7 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105208,
+          "key": "stages:105208",
+          "name": "Chapter 5 — Stage 8 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105209,
+          "key": "stages:105209",
+          "name": "Chapter 5 — Stage 9 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105210,
+          "key": "stages:105210",
+          "name": "Chapter 5 — Stage 10 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105211,
+          "key": "stages:105211",
+          "name": "Chapter 5 — Stage 11 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105212,
+          "key": "stages:105212",
+          "name": "Chapter 5 — Stage 12 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105213,
+          "key": "stages:105213",
+          "name": "Chapter 5 — Stage 13 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105214,
+          "key": "stages:105214",
+          "name": "Chapter 5 — Stage 14 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105215,
+          "key": "stages:105215",
+          "name": "Chapter 5 — Stage 15 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105216,
+          "key": "stages:105216",
+          "name": "Chapter 5 — Stage 16 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105217,
+          "key": "stages:105217",
+          "name": "Chapter 5 — Stage 17 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105218,
+          "key": "stages:105218",
+          "name": "Chapter 5 — Stage 18 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105219,
+          "key": "stages:105219",
+          "name": "Chapter 5 — Stage 19 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105220,
+          "key": "stages:105220",
+          "name": "Chapter 5 — Stage 20 (Hard)"
+        }
+      ]
+    },
+    "m_stage_ticket:100200025": {
+      "raw_reference_count": 3,
+      "source": "current m_stage_ticket identity plus current stage-backed source closure; logical routes canonicalized by current stable stage key",
+      "stages": [
+        {
+          "category": "stages",
+          "id": 30345101,
+          "key": "stages:30345101",
+          "name": "Machine Ruins (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30345201,
+          "key": "stages:30345201",
+          "name": "Machine Ruins (Very Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30345301,
+          "key": "stages:30345301",
+          "name": "Machine Ruins (Nightmare)"
+        }
+      ]
+    },
+    "m_stage_ticket:100200026": {
+      "raw_reference_count": 3,
+      "source": "current m_stage_ticket identity plus current stage-backed source closure; logical routes canonicalized by current stable stage key",
+      "stages": [
+        {
+          "category": "stages",
+          "id": 30345102,
+          "key": "stages:30345102",
+          "name": "Dragon Ruins (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30345202,
+          "key": "stages:30345202",
+          "name": "Dragon Ruins (Very Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30345302,
+          "key": "stages:30345302",
+          "name": "Dragon Ruins (Nightmare)"
+        }
+      ]
+    },
+    "m_stage_ticket:100200027": {
+      "raw_reference_count": 34,
+      "source": "current m_stage_ticket identity plus current stage-backed source closure; logical routes canonicalized by current stable stage key",
+      "stages": [
+        {
+          "category": "stages",
+          "id": 30442101,
+          "key": "stages:30442101",
+          "name": "Event Story Chapter 1 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442102,
+          "key": "stages:30442102",
+          "name": "Event Story Chapter 1 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442103,
+          "key": "stages:30442103",
+          "name": "Event Story Chapter 1 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442104,
+          "key": "stages:30442104",
+          "name": "Event Story Chapter 1 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442105,
+          "key": "stages:30442105",
+          "name": "Event Story Chapter 1 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442106,
+          "key": "stages:30442106",
+          "name": "Event Story Chapter 1 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442107,
+          "key": "stages:30442107",
+          "name": "Event Story Chapter 2 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442108,
+          "key": "stages:30442108",
+          "name": "Event Story Chapter 2 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442109,
+          "key": "stages:30442109",
+          "name": "Event Story Chapter 2 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442110,
+          "key": "stages:30442110",
+          "name": "Event Story Chapter 2 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442111,
+          "key": "stages:30442111",
+          "name": "Event Story Chapter 2 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442112,
+          "key": "stages:30442112",
+          "name": "Event Story Chapter 2 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442113,
+          "key": "stages:30442113",
+          "name": "Event Story Chapter 3 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442114,
+          "key": "stages:30442114",
+          "name": "Event Story Chapter 3 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442115,
+          "key": "stages:30442115",
+          "name": "Event Story Chapter 3 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442116,
+          "key": "stages:30442116",
+          "name": "Event Story Chapter 3 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442117,
+          "key": "stages:30442117",
+          "name": "Event Story Chapter 3 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442201,
+          "key": "stages:30442201",
+          "name": "Event Story Chapter 1 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442202,
+          "key": "stages:30442202",
+          "name": "Event Story Chapter 1 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442203,
+          "key": "stages:30442203",
+          "name": "Event Story Chapter 1 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442204,
+          "key": "stages:30442204",
+          "name": "Event Story Chapter 1 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442205,
+          "key": "stages:30442205",
+          "name": "Event Story Chapter 1 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442206,
+          "key": "stages:30442206",
+          "name": "Event Story Chapter 1 — Stage 6 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442207,
+          "key": "stages:30442207",
+          "name": "Event Story Chapter 2 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442208,
+          "key": "stages:30442208",
+          "name": "Event Story Chapter 2 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442209,
+          "key": "stages:30442209",
+          "name": "Event Story Chapter 2 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442210,
+          "key": "stages:30442210",
+          "name": "Event Story Chapter 2 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442211,
+          "key": "stages:30442211",
+          "name": "Event Story Chapter 2 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442212,
+          "key": "stages:30442212",
+          "name": "Event Story Chapter 2 — Stage 6 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442213,
+          "key": "stages:30442213",
+          "name": "Event Story Chapter 3 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442214,
+          "key": "stages:30442214",
+          "name": "Event Story Chapter 3 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442215,
+          "key": "stages:30442215",
+          "name": "Event Story Chapter 3 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442216,
+          "key": "stages:30442216",
+          "name": "Event Story Chapter 3 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442217,
+          "key": "stages:30442217",
+          "name": "Event Story Chapter 3 — Stage 5 (Hard)"
+        }
+      ]
+    },
+    "m_stage_ticket:100200028": {
+      "raw_reference_count": 36,
+      "source": "current m_stage_ticket identity plus current stage-backed source closure; logical routes canonicalized by current stable stage key",
+      "stages": [
+        {
+          "category": "stages",
+          "id": 30442118,
+          "key": "stages:30442118",
+          "name": "Event Story Chapter 4 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442119,
+          "key": "stages:30442119",
+          "name": "Event Story Chapter 4 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442120,
+          "key": "stages:30442120",
+          "name": "Event Story Chapter 4 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442121,
+          "key": "stages:30442121",
+          "name": "Event Story Chapter 4 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442122,
+          "key": "stages:30442122",
+          "name": "Event Story Chapter 4 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442123,
+          "key": "stages:30442123",
+          "name": "Event Story Chapter 4 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442124,
+          "key": "stages:30442124",
+          "name": "Event Story Chapter 4 — Stage 7 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442125,
+          "key": "stages:30442125",
+          "name": "Event Story Chapter 5 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442126,
+          "key": "stages:30442126",
+          "name": "Event Story Chapter 5 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442127,
+          "key": "stages:30442127",
+          "name": "Event Story Chapter 5 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442128,
+          "key": "stages:30442128",
+          "name": "Event Story Chapter 5 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442129,
+          "key": "stages:30442129",
+          "name": "Event Story Chapter 5 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442130,
+          "key": "stages:30442130",
+          "name": "Event Story Chapter 5 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442131,
+          "key": "stages:30442131",
+          "name": "Event Story Chapter 6 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442132,
+          "key": "stages:30442132",
+          "name": "Event Story Chapter 6 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442133,
+          "key": "stages:30442133",
+          "name": "Event Story Chapter 6 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442134,
+          "key": "stages:30442134",
+          "name": "Event Story Chapter 6 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442135,
+          "key": "stages:30442135",
+          "name": "Event Story Chapter 6 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30442218,
+          "key": "stages:30442218",
+          "name": "Event Story Chapter 4 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442219,
+          "key": "stages:30442219",
+          "name": "Event Story Chapter 4 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442220,
+          "key": "stages:30442220",
+          "name": "Event Story Chapter 4 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442221,
+          "key": "stages:30442221",
+          "name": "Event Story Chapter 4 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442222,
+          "key": "stages:30442222",
+          "name": "Event Story Chapter 4 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442223,
+          "key": "stages:30442223",
+          "name": "Event Story Chapter 4 — Stage 6 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442224,
+          "key": "stages:30442224",
+          "name": "Event Story Chapter 4 — Stage 7 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442225,
+          "key": "stages:30442225",
+          "name": "Event Story Chapter 5 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442226,
+          "key": "stages:30442226",
+          "name": "Event Story Chapter 5 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442227,
+          "key": "stages:30442227",
+          "name": "Event Story Chapter 5 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442228,
+          "key": "stages:30442228",
+          "name": "Event Story Chapter 5 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442229,
+          "key": "stages:30442229",
+          "name": "Event Story Chapter 5 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442230,
+          "key": "stages:30442230",
+          "name": "Event Story Chapter 5 — Stage 6 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442231,
+          "key": "stages:30442231",
+          "name": "Event Story Chapter 6 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442232,
+          "key": "stages:30442232",
+          "name": "Event Story Chapter 6 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442233,
+          "key": "stages:30442233",
+          "name": "Event Story Chapter 6 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442234,
+          "key": "stages:30442234",
+          "name": "Event Story Chapter 6 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30442235,
+          "key": "stages:30442235",
+          "name": "Event Story Chapter 6 — Stage 5 (Hard)"
+        }
+      ]
+    },
+    "m_stage_ticket:100200029": {
+      "raw_reference_count": 8,
+      "source": "current m_stage_ticket identity plus current stage-backed source closure; logical routes canonicalized by current stable stage key",
+      "stages": [
+        {
+          "category": "stages",
+          "id": 30542101,
+          "key": "stages:30542101",
+          "name": "Watermelon Mania — Event Story Chapter 1, Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30542102,
+          "key": "stages:30542102",
+          "name": "Watermelon Mania — Event Story Chapter 1, Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30542103,
+          "key": "stages:30542103",
+          "name": "Watermelon Mania — Event Story Chapter 1, Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30542104,
+          "key": "stages:30542104",
+          "name": "Watermelon Mania — Event Story Chapter 1, Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30542201,
+          "key": "stages:30542201",
+          "name": "Watermelon Mania — Event Story Chapter 2, Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30542202,
+          "key": "stages:30542202",
+          "name": "Watermelon Mania — Event Story Chapter 3, Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30542203,
+          "key": "stages:30542203",
+          "name": "Watermelon Mania — Event Story Chapter 2, Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30542204,
+          "key": "stages:30542204",
+          "name": "Watermelon Mania — Event Story Chapter 3, Stage 1 (Hard)"
+        }
+      ]
+    },
+    "m_stage_ticket:100200030": {
+      "raw_reference_count": 220,
+      "source": "current m_stage_ticket identity plus current stage-backed source closure; logical routes canonicalized by current stable stage key",
+      "stages": [
+        {
+          "category": "stages",
+          "id": 10101101,
+          "key": "stages:10101101",
+          "name": "Chapter 1 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101102,
+          "key": "stages:10101102",
+          "name": "Chapter 1 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101103,
+          "key": "stages:10101103",
+          "name": "Chapter 1 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101104,
+          "key": "stages:10101104",
+          "name": "Chapter 1 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101105,
+          "key": "stages:10101105",
+          "name": "Chapter 1 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101106,
+          "key": "stages:10101106",
+          "name": "Chapter 1 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101107,
+          "key": "stages:10101107",
+          "name": "Chapter 1 — Stage 7 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101108,
+          "key": "stages:10101108",
+          "name": "Chapter 1 — Stage 8 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101109,
+          "key": "stages:10101109",
+          "name": "Chapter 1 — Stage 9 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101110,
+          "key": "stages:10101110",
+          "name": "Chapter 1 — Stage 10 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10101201,
+          "key": "stages:10101201",
+          "name": "Chapter 1 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101202,
+          "key": "stages:10101202",
+          "name": "Chapter 1 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101203,
+          "key": "stages:10101203",
+          "name": "Chapter 1 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101204,
+          "key": "stages:10101204",
+          "name": "Chapter 1 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101205,
+          "key": "stages:10101205",
+          "name": "Chapter 1 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101206,
+          "key": "stages:10101206",
+          "name": "Chapter 1 — Stage 6 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101207,
+          "key": "stages:10101207",
+          "name": "Chapter 1 — Stage 7 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101208,
+          "key": "stages:10101208",
+          "name": "Chapter 1 — Stage 8 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101209,
+          "key": "stages:10101209",
+          "name": "Chapter 1 — Stage 9 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10101210,
+          "key": "stages:10101210",
+          "name": "Chapter 1 — Stage 10 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102101,
+          "key": "stages:10102101",
+          "name": "Chapter 2 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102102,
+          "key": "stages:10102102",
+          "name": "Chapter 2 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102103,
+          "key": "stages:10102103",
+          "name": "Chapter 2 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102104,
+          "key": "stages:10102104",
+          "name": "Chapter 2 — Stage 7 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102105,
+          "key": "stages:10102105",
+          "name": "Chapter 2 — Stage 9 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102107,
+          "key": "stages:10102107",
+          "name": "Chapter 2 — Stage 13 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102109,
+          "key": "stages:10102109",
+          "name": "Chapter 2 — Stage 17 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102110,
+          "key": "stages:10102110",
+          "name": "Chapter 2 — Stage 20 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102151,
+          "key": "stages:10102151",
+          "name": "Chapter 2 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102153,
+          "key": "stages:10102153",
+          "name": "Chapter 2 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102154,
+          "key": "stages:10102154",
+          "name": "Chapter 2 — Stage 8 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102155,
+          "key": "stages:10102155",
+          "name": "Chapter 2 — Stage 10 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102156,
+          "key": "stages:10102156",
+          "name": "Chapter 2 — Stage 12 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102157,
+          "key": "stages:10102157",
+          "name": "Chapter 2 — Stage 14 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102158,
+          "key": "stages:10102158",
+          "name": "Chapter 2 — Stage 16 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102159,
+          "key": "stages:10102159",
+          "name": "Chapter 2 — Stage 18 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102160,
+          "key": "stages:10102160",
+          "name": "Chapter 2 — Stage 19 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102201,
+          "key": "stages:10102201",
+          "name": "Chapter 2 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102202,
+          "key": "stages:10102202",
+          "name": "Chapter 2 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102203,
+          "key": "stages:10102203",
+          "name": "Chapter 2 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102204,
+          "key": "stages:10102204",
+          "name": "Chapter 2 — Stage 7 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102205,
+          "key": "stages:10102205",
+          "name": "Chapter 2 — Stage 9 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102207,
+          "key": "stages:10102207",
+          "name": "Chapter 2 — Stage 13 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102209,
+          "key": "stages:10102209",
+          "name": "Chapter 2 — Stage 17 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102210,
+          "key": "stages:10102210",
+          "name": "Chapter 2 — Stage 20 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102251,
+          "key": "stages:10102251",
+          "name": "Chapter 2 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102253,
+          "key": "stages:10102253",
+          "name": "Chapter 2 — Stage 6 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102254,
+          "key": "stages:10102254",
+          "name": "Chapter 2 — Stage 8 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102255,
+          "key": "stages:10102255",
+          "name": "Chapter 2 — Stage 10 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102256,
+          "key": "stages:10102256",
+          "name": "Chapter 2 — Stage 12 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102257,
+          "key": "stages:10102257",
+          "name": "Chapter 2 — Stage 14 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102258,
+          "key": "stages:10102258",
+          "name": "Chapter 2 — Stage 16 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102259,
+          "key": "stages:10102259",
+          "name": "Chapter 2 — Stage 18 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102260,
+          "key": "stages:10102260",
+          "name": "Chapter 2 — Stage 19 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102304,
+          "key": "stages:10102304",
+          "name": "Chapter 2 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102351,
+          "key": "stages:10102351",
+          "name": "Chapter 2 — Stage 11 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102355,
+          "key": "stages:10102355",
+          "name": "Chapter 2 — Stage 15 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10102404,
+          "key": "stages:10102404",
+          "name": "Chapter 2 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102451,
+          "key": "stages:10102451",
+          "name": "Chapter 2 — Stage 11 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10102455,
+          "key": "stages:10102455",
+          "name": "Chapter 2 — Stage 15 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103101,
+          "key": "stages:10103101",
+          "name": "Chapter 3 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103102,
+          "key": "stages:10103102",
+          "name": "Chapter 3 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103103,
+          "key": "stages:10103103",
+          "name": "Chapter 3 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103104,
+          "key": "stages:10103104",
+          "name": "Chapter 3 — Stage 7 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103105,
+          "key": "stages:10103105",
+          "name": "Chapter 3 — Stage 9 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103106,
+          "key": "stages:10103106",
+          "name": "Chapter 3 — Stage 11 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103107,
+          "key": "stages:10103107",
+          "name": "Chapter 3 — Stage 13 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103109,
+          "key": "stages:10103109",
+          "name": "Chapter 3 — Stage 17 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103110,
+          "key": "stages:10103110",
+          "name": "Chapter 3 — Stage 20 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103151,
+          "key": "stages:10103151",
+          "name": "Chapter 3 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103153,
+          "key": "stages:10103153",
+          "name": "Chapter 3 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103155,
+          "key": "stages:10103155",
+          "name": "Chapter 3 — Stage 10 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103156,
+          "key": "stages:10103156",
+          "name": "Chapter 3 — Stage 12 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103157,
+          "key": "stages:10103157",
+          "name": "Chapter 3 — Stage 14 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103158,
+          "key": "stages:10103158",
+          "name": "Chapter 3 — Stage 16 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103159,
+          "key": "stages:10103159",
+          "name": "Chapter 3 — Stage 18 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103160,
+          "key": "stages:10103160",
+          "name": "Chapter 3 — Stage 19 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103201,
+          "key": "stages:10103201",
+          "name": "Chapter 3 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103202,
+          "key": "stages:10103202",
+          "name": "Chapter 3 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103203,
+          "key": "stages:10103203",
+          "name": "Chapter 3 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103204,
+          "key": "stages:10103204",
+          "name": "Chapter 3 — Stage 7 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103205,
+          "key": "stages:10103205",
+          "name": "Chapter 3 — Stage 9 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103206,
+          "key": "stages:10103206",
+          "name": "Chapter 3 — Stage 11 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103207,
+          "key": "stages:10103207",
+          "name": "Chapter 3 — Stage 13 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103209,
+          "key": "stages:10103209",
+          "name": "Chapter 3 — Stage 17 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103210,
+          "key": "stages:10103210",
+          "name": "Chapter 3 — Stage 20 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103251,
+          "key": "stages:10103251",
+          "name": "Chapter 3 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103253,
+          "key": "stages:10103253",
+          "name": "Chapter 3 — Stage 6 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103255,
+          "key": "stages:10103255",
+          "name": "Chapter 3 — Stage 10 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103256,
+          "key": "stages:10103256",
+          "name": "Chapter 3 — Stage 12 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103257,
+          "key": "stages:10103257",
+          "name": "Chapter 3 — Stage 14 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103258,
+          "key": "stages:10103258",
+          "name": "Chapter 3 — Stage 16 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103259,
+          "key": "stages:10103259",
+          "name": "Chapter 3 — Stage 18 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103260,
+          "key": "stages:10103260",
+          "name": "Chapter 3 — Stage 19 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103304,
+          "key": "stages:10103304",
+          "name": "Chapter 3 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103308,
+          "key": "stages:10103308",
+          "name": "Chapter 3 — Stage 8 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103355,
+          "key": "stages:10103355",
+          "name": "Chapter 3 — Stage 15 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 10103404,
+          "key": "stages:10103404",
+          "name": "Chapter 3 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103408,
+          "key": "stages:10103408",
+          "name": "Chapter 3 — Stage 8 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 10103455,
+          "key": "stages:10103455",
+          "name": "Chapter 3 — Stage 15 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104101,
+          "key": "stages:104101",
+          "name": "Chapter 4 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104102,
+          "key": "stages:104102",
+          "name": "Chapter 4 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104103,
+          "key": "stages:104103",
+          "name": "Chapter 4 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104104,
+          "key": "stages:104104",
+          "name": "Chapter 4 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104105,
+          "key": "stages:104105",
+          "name": "Chapter 4 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104106,
+          "key": "stages:104106",
+          "name": "Chapter 4 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104107,
+          "key": "stages:104107",
+          "name": "Chapter 4 — Stage 7 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104108,
+          "key": "stages:104108",
+          "name": "Chapter 4 — Stage 8 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104109,
+          "key": "stages:104109",
+          "name": "Chapter 4 — Stage 9 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104110,
+          "key": "stages:104110",
+          "name": "Chapter 4 — Stage 10 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104111,
+          "key": "stages:104111",
+          "name": "Chapter 4 — Stage 11 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104112,
+          "key": "stages:104112",
+          "name": "Chapter 4 — Stage 12 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104113,
+          "key": "stages:104113",
+          "name": "Chapter 4 — Stage 13 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104114,
+          "key": "stages:104114",
+          "name": "Chapter 4 — Stage 14 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104115,
+          "key": "stages:104115",
+          "name": "Chapter 4 — Stage 15 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104116,
+          "key": "stages:104116",
+          "name": "Chapter 4 — Stage 16 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104117,
+          "key": "stages:104117",
+          "name": "Chapter 4 — Stage 17 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104118,
+          "key": "stages:104118",
+          "name": "Chapter 4 — Stage 18 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104119,
+          "key": "stages:104119",
+          "name": "Chapter 4 — Stage 19 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104120,
+          "key": "stages:104120",
+          "name": "Chapter 4 — Stage 20 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 104201,
+          "key": "stages:104201",
+          "name": "Chapter 4 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104202,
+          "key": "stages:104202",
+          "name": "Chapter 4 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104203,
+          "key": "stages:104203",
+          "name": "Chapter 4 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104204,
+          "key": "stages:104204",
+          "name": "Chapter 4 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104205,
+          "key": "stages:104205",
+          "name": "Chapter 4 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104206,
+          "key": "stages:104206",
+          "name": "Chapter 4 — Stage 6 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104207,
+          "key": "stages:104207",
+          "name": "Chapter 4 — Stage 7 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104208,
+          "key": "stages:104208",
+          "name": "Chapter 4 — Stage 8 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104209,
+          "key": "stages:104209",
+          "name": "Chapter 4 — Stage 9 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104210,
+          "key": "stages:104210",
+          "name": "Chapter 4 — Stage 10 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104211,
+          "key": "stages:104211",
+          "name": "Chapter 4 — Stage 11 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104212,
+          "key": "stages:104212",
+          "name": "Chapter 4 — Stage 12 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104213,
+          "key": "stages:104213",
+          "name": "Chapter 4 — Stage 13 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104214,
+          "key": "stages:104214",
+          "name": "Chapter 4 — Stage 14 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104215,
+          "key": "stages:104215",
+          "name": "Chapter 4 — Stage 15 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104216,
+          "key": "stages:104216",
+          "name": "Chapter 4 — Stage 16 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104217,
+          "key": "stages:104217",
+          "name": "Chapter 4 — Stage 17 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104218,
+          "key": "stages:104218",
+          "name": "Chapter 4 — Stage 18 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104219,
+          "key": "stages:104219",
+          "name": "Chapter 4 — Stage 19 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 104220,
+          "key": "stages:104220",
+          "name": "Chapter 4 — Stage 20 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105101,
+          "key": "stages:105101",
+          "name": "Chapter 5 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105102,
+          "key": "stages:105102",
+          "name": "Chapter 5 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105103,
+          "key": "stages:105103",
+          "name": "Chapter 5 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105104,
+          "key": "stages:105104",
+          "name": "Chapter 5 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105105,
+          "key": "stages:105105",
+          "name": "Chapter 5 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105106,
+          "key": "stages:105106",
+          "name": "Chapter 5 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105107,
+          "key": "stages:105107",
+          "name": "Chapter 5 — Stage 7 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105108,
+          "key": "stages:105108",
+          "name": "Chapter 5 — Stage 8 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105109,
+          "key": "stages:105109",
+          "name": "Chapter 5 — Stage 9 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105110,
+          "key": "stages:105110",
+          "name": "Chapter 5 — Stage 10 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105111,
+          "key": "stages:105111",
+          "name": "Chapter 5 — Stage 11 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105112,
+          "key": "stages:105112",
+          "name": "Chapter 5 — Stage 12 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105113,
+          "key": "stages:105113",
+          "name": "Chapter 5 — Stage 13 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105114,
+          "key": "stages:105114",
+          "name": "Chapter 5 — Stage 14 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105115,
+          "key": "stages:105115",
+          "name": "Chapter 5 — Stage 15 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105116,
+          "key": "stages:105116",
+          "name": "Chapter 5 — Stage 16 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105117,
+          "key": "stages:105117",
+          "name": "Chapter 5 — Stage 17 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105118,
+          "key": "stages:105118",
+          "name": "Chapter 5 — Stage 18 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105119,
+          "key": "stages:105119",
+          "name": "Chapter 5 — Stage 19 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105120,
+          "key": "stages:105120",
+          "name": "Chapter 5 — Stage 20 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 105201,
+          "key": "stages:105201",
+          "name": "Chapter 5 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105202,
+          "key": "stages:105202",
+          "name": "Chapter 5 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105203,
+          "key": "stages:105203",
+          "name": "Chapter 5 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105204,
+          "key": "stages:105204",
+          "name": "Chapter 5 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105205,
+          "key": "stages:105205",
+          "name": "Chapter 5 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105206,
+          "key": "stages:105206",
+          "name": "Chapter 5 — Stage 6 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105207,
+          "key": "stages:105207",
+          "name": "Chapter 5 — Stage 7 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105208,
+          "key": "stages:105208",
+          "name": "Chapter 5 — Stage 8 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105209,
+          "key": "stages:105209",
+          "name": "Chapter 5 — Stage 9 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105210,
+          "key": "stages:105210",
+          "name": "Chapter 5 — Stage 10 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105211,
+          "key": "stages:105211",
+          "name": "Chapter 5 — Stage 11 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105212,
+          "key": "stages:105212",
+          "name": "Chapter 5 — Stage 12 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105213,
+          "key": "stages:105213",
+          "name": "Chapter 5 — Stage 13 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105214,
+          "key": "stages:105214",
+          "name": "Chapter 5 — Stage 14 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105215,
+          "key": "stages:105215",
+          "name": "Chapter 5 — Stage 15 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105216,
+          "key": "stages:105216",
+          "name": "Chapter 5 — Stage 16 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105217,
+          "key": "stages:105217",
+          "name": "Chapter 5 — Stage 17 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105218,
+          "key": "stages:105218",
+          "name": "Chapter 5 — Stage 18 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105219,
+          "key": "stages:105219",
+          "name": "Chapter 5 — Stage 19 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 105220,
+          "key": "stages:105220",
+          "name": "Chapter 5 — Stage 20 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106101,
+          "key": "stages:106101",
+          "name": "Chapter 6 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106102,
+          "key": "stages:106102",
+          "name": "Chapter 6 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106103,
+          "key": "stages:106103",
+          "name": "Chapter 6 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106104,
+          "key": "stages:106104",
+          "name": "Chapter 6 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106105,
+          "key": "stages:106105",
+          "name": "Chapter 6 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106106,
+          "key": "stages:106106",
+          "name": "Chapter 6 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106107,
+          "key": "stages:106107",
+          "name": "Chapter 6 — Stage 7 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106108,
+          "key": "stages:106108",
+          "name": "Chapter 6 — Stage 8 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106109,
+          "key": "stages:106109",
+          "name": "Chapter 6 — Stage 9 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106110,
+          "key": "stages:106110",
+          "name": "Chapter 6 — Stage 10 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106111,
+          "key": "stages:106111",
+          "name": "Chapter 6 — Stage 11 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106112,
+          "key": "stages:106112",
+          "name": "Chapter 6 — Stage 12 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106113,
+          "key": "stages:106113",
+          "name": "Chapter 6 — Stage 13 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106114,
+          "key": "stages:106114",
+          "name": "Chapter 6 — Stage 14 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106115,
+          "key": "stages:106115",
+          "name": "Chapter 6 — Stage 15 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106116,
+          "key": "stages:106116",
+          "name": "Chapter 6 — Stage 16 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106117,
+          "key": "stages:106117",
+          "name": "Chapter 6 — Stage 17 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106118,
+          "key": "stages:106118",
+          "name": "Chapter 6 — Stage 18 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106119,
+          "key": "stages:106119",
+          "name": "Chapter 6 — Stage 19 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106120,
+          "key": "stages:106120",
+          "name": "Chapter 6 — Stage 20 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 106201,
+          "key": "stages:106201",
+          "name": "Chapter 6 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106202,
+          "key": "stages:106202",
+          "name": "Chapter 6 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106203,
+          "key": "stages:106203",
+          "name": "Chapter 6 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106204,
+          "key": "stages:106204",
+          "name": "Chapter 6 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106205,
+          "key": "stages:106205",
+          "name": "Chapter 6 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106206,
+          "key": "stages:106206",
+          "name": "Chapter 6 — Stage 6 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106207,
+          "key": "stages:106207",
+          "name": "Chapter 6 — Stage 7 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106208,
+          "key": "stages:106208",
+          "name": "Chapter 6 — Stage 8 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106209,
+          "key": "stages:106209",
+          "name": "Chapter 6 — Stage 9 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106210,
+          "key": "stages:106210",
+          "name": "Chapter 6 — Stage 10 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106211,
+          "key": "stages:106211",
+          "name": "Chapter 6 — Stage 11 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106212,
+          "key": "stages:106212",
+          "name": "Chapter 6 — Stage 12 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106213,
+          "key": "stages:106213",
+          "name": "Chapter 6 — Stage 13 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106214,
+          "key": "stages:106214",
+          "name": "Chapter 6 — Stage 14 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106215,
+          "key": "stages:106215",
+          "name": "Chapter 6 — Stage 15 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106216,
+          "key": "stages:106216",
+          "name": "Chapter 6 — Stage 16 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106217,
+          "key": "stages:106217",
+          "name": "Chapter 6 — Stage 17 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106218,
+          "key": "stages:106218",
+          "name": "Chapter 6 — Stage 18 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106219,
+          "key": "stages:106219",
+          "name": "Chapter 6 — Stage 19 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 106220,
+          "key": "stages:106220",
+          "name": "Chapter 6 — Stage 20 (Hard)"
+        }
+      ]
+    },
+    "m_stage_ticket:100200031": {
+      "raw_reference_count": 14,
+      "source": "current m_stage_ticket identity plus current stage-backed source closure; logical routes canonicalized by current stable stage key",
+      "stages": [
+        {
+          "category": "stages",
+          "id": 30742101,
+          "key": "stages:30742101",
+          "name": "The Ruins of Lurking Leviathans — Event Story Chapter 1, Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30742102,
+          "key": "stages:30742102",
+          "name": "The Ruins of Lurking Leviathans — Event Story Chapter 1, Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30742103,
+          "key": "stages:30742103",
+          "name": "The Ruins of Lurking Leviathans — Event Story Chapter 1, Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30742104,
+          "key": "stages:30742104",
+          "name": "The Ruins of Lurking Leviathans — Event Story Chapter 2, Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30742105,
+          "key": "stages:30742105",
+          "name": "The Ruins of Lurking Leviathans — Event Story Chapter 2, Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30742107,
+          "key": "stages:30742107",
+          "name": "The Ruins of Lurking Leviathans — Event Story Chapter 3, Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30742108,
+          "key": "stages:30742108",
+          "name": "The Ruins of Lurking Leviathans — Event Story Chapter 3, Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30742201,
+          "key": "stages:30742201",
+          "name": "The Ruins of Lurking Leviathans — Event Story Chapter 1, Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30742202,
+          "key": "stages:30742202",
+          "name": "The Ruins of Lurking Leviathans — Event Story Chapter 1, Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30742203,
+          "key": "stages:30742203",
+          "name": "The Ruins of Lurking Leviathans — Event Story Chapter 1, Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30742204,
+          "key": "stages:30742204",
+          "name": "The Ruins of Lurking Leviathans — Event Story Chapter 2, Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30742205,
+          "key": "stages:30742205",
+          "name": "The Ruins of Lurking Leviathans — Event Story Chapter 2, Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30742207,
+          "key": "stages:30742207",
+          "name": "The Ruins of Lurking Leviathans — Event Story Chapter 3, Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30742208,
+          "key": "stages:30742208",
+          "name": "The Ruins of Lurking Leviathans — Event Story Chapter 3, Stage 2 (Hard)"
+        }
+      ]
+    },
+    "m_stage_ticket:100200038": {
+      "raw_reference_count": 12,
+      "source": "current m_stage_ticket identity plus current stage-backed source closure; logical routes canonicalized by current stable stage key",
+      "stages": [
+        {
+          "category": "stages",
+          "id": 30942101,
+          "key": "stages:30942101",
+          "name": "Event Story Chapter 1 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30942102,
+          "key": "stages:30942102",
+          "name": "Event Story Chapter 1 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30942103,
+          "key": "stages:30942103",
+          "name": "Event Story Chapter 1 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30942104,
+          "key": "stages:30942104",
+          "name": "Event Story Chapter 1 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30942105,
+          "key": "stages:30942105",
+          "name": "Event Story Chapter 1 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30942106,
+          "key": "stages:30942106",
+          "name": "Event Story Chapter 1 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30942201,
+          "key": "stages:30942201",
+          "name": "Event Story Chapter 1 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30942202,
+          "key": "stages:30942202",
+          "name": "Event Story Chapter 1 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30942203,
+          "key": "stages:30942203",
+          "name": "Event Story Chapter 1 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30942204,
+          "key": "stages:30942204",
+          "name": "Event Story Chapter 1 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30942205,
+          "key": "stages:30942205",
+          "name": "Event Story Chapter 1 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30942206,
+          "key": "stages:30942206",
+          "name": "Event Story Chapter 1 — Stage 6 (Hard)"
+        }
+      ]
+    }
+  },
+  "game_version": "1.6.1.1",
+  "gauntlet_difficulty_evidence": {
+    "note": "current structured stage context",
+    "recorded_difficulties": [
+      "Casual",
+      "EX Nightmare",
+      "Easy",
+      "Hard",
+      "Nightmare",
+      "Normal",
+      "Very Hard"
+    ]
+  },
+  "generated_utc": null,
+  "patch_id": "SMASHDUMP_STAGE3_R5_18_ABILITY_FILTER_AND_TICKET_SOURCE_CLOSURE_CORRECTED_R13",
+  "publication_allowed": false,
+  "s1_authority_state": "CURRENT_GENERATED",
+  "schema": "smashdump.stage3.r5.18.ability_filter_ticket_source_closure.r13.v1",
+  "scope": {
+    "filter_drawer": "UNTOUCHED",
+    "observers_added": 0,
+    "passes_filters": true,
+    "render_wrappers_added": 0,
+    "repeating_timers_added": 0,
+    "sorting": "UNTOUCHED",
+    "stage_runtime": "UNTOUCHED",
+    "styles_css": "UNTOUCHED",
+    "world_model_mutation": "source closure only"
+  },
+  "ticket_source_policy": {
+    "duplicate_shop_rows": "deduplicated by stable route",
+    "item_filter_semantics": "accepted",
+    "raw_reference_counts": "preserved",
+    "stage_drop_rows": "current world refs"
+  }
+}

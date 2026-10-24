@@ -1,0 +1,73 @@
+{
+  "baseline_package_id": "SMASHDUMP_STAGE3_R5_18_FILTER_SEMANTICS_RUNTIME_STABILITY_AND_POSE_ASSET_CORRECTED_R6",
+  "baseline_version": "1.6.1",
+  "candidate_only": true,
+  "expected_runtime": {
+    "dormant_when_hidden": true,
+    "dormant_when_shown": true,
+    "enemy_list_rebuilds_on_selection": true,
+    "new_mutation_observers": 0,
+    "new_repeating_timers": 0,
+    "stage_search_mutation_observers": 0
+  },
+  "filter_semantics": {
+    "cross_facet_expected": 12,
+    "cross_fixture": [
+      "Main story",
+      "Hard",
+      "Fire"
+    ],
+    "same_facet_expected": 97,
+    "same_fixture": [
+      "Hard",
+      "Very Hard"
+    ]
+  },
+  "game_version": "1.6.1.1",
+  "hidden_counts": {
+    "abilities": 0,
+    "accessories": 0,
+    "boons": 0,
+    "drony": 0,
+    "drops": 0,
+    "enemies": 4,
+    "equipment": 0,
+    "events": 0,
+    "gacha": 0,
+    "items": 3,
+    "jobs": 0,
+    "memories": 0,
+    "memory_effects": 0,
+    "shops": 0,
+    "stages": 0,
+    "status_effects": 0,
+    "weapons": 0
+  },
+  "patch_id": "SMASHDUMP_STAGE3_R5_18_STAGE_PRESENTATION_ENEMY_VISIBILITY_AND_FINAL_STABILITY_CORRECTED_R8",
+  "publication_allowed": false,
+  "s1_authority_state": "CURRENT_GENERATED",
+  "schema": "smashdump.stage3.r5.18.stage_presentation_enemy_visibility_final_stability.v1",
+  "scope": {
+    "enemy_selection": "Update enemy details and selected/favourite state in place without rebuilding the list.",
+    "filter_semantics": "OR within one filter section; AND across different sections.",
+    "hidden_content": "Authoritative data filtering plus in-place upcoming/incomplete/dormant grouping.",
+    "profile_pose_rewards": "One-way API-to-static fallback.",
+    "sorting": "Preserve accepted non-Stage sort additions only.",
+    "stage_presentation": "Restore the exact accepted R5.18 R5 Stage core; no Stage CSS or hierarchy redesign.",
+    "stage_search": "Keep the hierarchy mounted, filter the existing DOM, use stable stage wording, and disable only the self-triggering Stage-search observer."
+  },
+  "sort_coverage": [
+    "events",
+    "boons",
+    "status_effects",
+    "items",
+    "shops",
+    "gacha"
+  ],
+  "stage_protection": {
+    "core_observer_count": 0,
+    "core_sha256": null,
+    "stage_css_sha256": null,
+    "stage_sort_additions": 0
+  }
+}

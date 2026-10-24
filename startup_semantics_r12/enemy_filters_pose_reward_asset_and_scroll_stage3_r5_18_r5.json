@@ -1,0 +1,69 @@
+{
+  "baseline_package_id": "SMASHDUMP_STAGE3_R5_18_CROSS_CATEGORY_UNRESOLVED_REFERENCE_CLOSURE_R4",
+  "baseline_version": "1.6.1",
+  "candidate_only": true,
+  "enemy_filters": {
+    "expected_option_counts": {
+      "difficulties": 7,
+      "resistances": 0,
+      "types": 0,
+      "weaknesses": 0
+    },
+    "facets": [
+      "type",
+      "difficulty",
+      "weakness",
+      "resistance"
+    ],
+    "non_inference_policy": "current structured enemy/stage context only",
+    "sorts": [
+      "Name",
+      "Stage appearances",
+      "Highest recorded level",
+      "Highest recorded HP",
+      "Internal ID"
+    ]
+  },
+  "game_version": "1.6.1.1",
+  "generated_utc": null,
+  "patch_id": "SMASHDUMP_STAGE3_R5_18_ENEMY_FILTERS_POSE_REWARD_ASSET_AND_SCROLL_CORRECTED_R5",
+  "profile_pose_asset": {
+    "bytes": 9809,
+    "fallback_url": "../../../assets/current/cb05f7ba0cb72879487e3ef4a618d54120e2308a4a84860e8d8631bb76df216c.webp",
+    "locale": "neutral",
+    "logical_path": "UI/Download/productimage/prf/prt_tmb_prf_pose0001",
+    "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+    "orientation": "AS_STORED",
+    "presentation_transform": "native",
+    "role": "source_asset",
+    "sha256": "cb05f7ba0cb72879487e3ef4a618d54120e2308a4a84860e8d8631bb76df216c",
+    "source": {
+      "converted_kind": "texture_png",
+      "stable_row_id": "817b4959d7e3a3dd01af39c758c1a40b5104262d",
+      "table_name": "reconstructed_archive",
+      "vertical_flip_applied": 0
+    },
+    "url": "../../../assets/current/cb05f7ba0cb72879487e3ef4a618d54120e2308a4a84860e8d8631bb76df216c.webp"
+  },
+  "profile_pose_reward_assets": {
+    "expected_stage_reward_locations": [],
+    "expected_stage_reward_model_references": 0,
+    "expected_total_references": 19,
+    "expected_world_references": 19,
+    "policy": "current source"
+  },
+  "publication_allowed": false,
+  "review_scope": {
+    "enemy_filters": "Full player-relevant facets derived from certified stage placements, elements, assets and descriptions.",
+    "enemy_selection_scroll": "Preserve left-list and page scroll while selecting an enemy, including dormant cards.",
+    "profile_pose_reward_assets": "Propagate the accepted generic pose icon into every current reward-reference renderer."
+  },
+  "runtime_contract": {
+    "main_story_chapter_art": "current source",
+    "observers_added": 0,
+    "r4_visibility_counts_untouched": true,
+    "repeating_timers_added": 0
+  },
+  "s1_authority_state": "CURRENT_GENERATED",
+  "schema": "smashdump.stage3.r5.18.enemy_filters_pose_reward_asset_and_scroll.r5.v1"
+}

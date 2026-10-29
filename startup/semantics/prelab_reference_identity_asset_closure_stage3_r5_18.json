@@ -114,7 +114,7 @@
     }
   },
   "authority_state": "CURRENT_GENERATED",
-  "baseline_version": "1.6.1",
+  "baseline_version": "1.6.1.1",
   "candidate_only": true,
   "category_identity_policies": {
     "abilities": {
@@ -204,7 +204,7 @@
     }
   },
   "deferred_not_in_this_patch": [],
-  "game_version": "1.6.1.1",
+  "game_version": "1.6.1.4",
   "generated_utc": null,
   "item_corrections": {
     "profile_pose_class_fallback": {
@@ -477,85 +477,6 @@
       "publication": {
         "public_visible": true
       }
-    },
-    {
-      "entity": {
-        "baseline": {},
-        "category": "enemies",
-        "current": {
-          "authority_state": "UNRESOLVED_WITH_REASON",
-          "current_source_proof": {
-            "enemy_kind_id": 262,
-            "main_team_rows": 0,
-            "nonmain_team_rows": 0,
-            "placement_team_count": 0,
-            "template_ids": [
-              326201
-            ]
-          },
-          "enemy_kind_id": 262,
-          "family_name": "Abominable Showman",
-          "hidden_by_default_reason": "Current enemy identity exists, but current source does not prove a top-level public or technical placement classification.",
-          "publication_state": "ENTITY_UNRESOLVED",
-          "reference_identity_state": "ENTITY_UNRESOLVED",
-          "search_aliases": [
-            "Abominable Showman"
-          ],
-          "stage_contexts": [],
-          "template_ids": [
-            326201
-          ],
-          "unit_family": 2,
-          "unit_family_ids": [
-            2
-          ],
-          "unit_family_name": "Beast",
-          "unit_family_names": [
-            "Beast"
-          ],
-          "visibility_status": "ENTITY_UNRESOLVED"
-        },
-        "description": {
-          "missing": false,
-          "text": "An enigmatic creature that is more enamoured with its oversized tongue than its signature fluffy white fur. It will give you a licking if you don't give it one first!"
-        },
-        "display_asset": {
-          "confidence": 1.0,
-          "fallback_url": "../../../assets/current/64cab38e7f550868b3ad01182f8d6ee5c1ec67ccc4bbad66cd98d8261f372664.webp",
-          "locale": "neutral",
-          "logical_path": "UI/Download/productimage/mns/prt_tmb_mns_mns0011_06",
-          "match_method": "EXACT_CURRENT_LOGICAL_PATH",
-          "orientation": "AS_STORED",
-          "role": "source_asset",
-          "sha256": "64cab38e7f550868b3ad01182f8d6ee5c1ec67ccc4bbad66cd98d8261f372664",
-          "url": "../../../assets/current/64cab38e7f550868b3ad01182f8d6ee5c1ec67ccc4bbad66cd98d8261f372664.webp"
-        },
-        "evidence": {
-          "grouped_by": "m_enemy.enemy_kind_id",
-          "kind_id": 262,
-          "template_count": 1
-        },
-        "facts": [
-          "0 stage appearance(s)"
-        ],
-        "id": "kind:262",
-        "name": {
-          "fallback": false,
-          "key": "Status/EnemyName/status_enemyname_262_name",
-          "locale": "en",
-          "missing": false,
-          "text": "Abominable Showman"
-        },
-        "r5_ref": {
-          "category": "enemies",
-          "id": "kind:262"
-        },
-        "status": "Added",
-        "subtitle": "Unresolved enemy identity"
-      },
-      "publication": {
-        "public_visible": true
-      }
     }
   ],
   "s1_authority_state": "CURRENT_GENERATED",
@@ -565,7 +486,7 @@
   },
   "source_database": {
     "authority": "certified current source",
-    "snapshot_sha256": "3b9aa9b3ec9d6b0a1461e8e3e46b16cced9a0f765429db5c51d26ea98f376f57"
+    "snapshot_sha256": "f906817c51f296f1795a2fba56689abdbd004956398dae583e24ddcabdbfaf2e"
   },
   "stage_ui_corrections": {
     "scope": "current-source derived; no predecessor chapter identity carry-forward"

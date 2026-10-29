@@ -859,28 +859,6 @@
       "status": "RESOLVED",
       "url": "../../../assets/current/8727f3affda9a7fb6ed2ee6ddce9f348f26535aad5d66300c5a7196d39c58795.webp"
     },
-    "1030901013": {
-      "classification": "RESOLVED_CURRENT_SOURCE",
-      "id": "1030901013",
-      "locale": "neutral",
-      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_309130500",
-      "match_method": "EXACT_CURRENT_M_EVENT_SPECIAL_EFFECT_PATH",
-      "name": "Frizzle+",
-      "orientation": "AS_STORED",
-      "provenance": {
-        "snapshot_match": {
-          "converted_kind": "texture_png",
-          "stable_row_id": "9036b667f9eaca9a63e3b8da3cb660870899692a",
-          "table_name": "reconstructed_archive",
-          "vertical_flip_applied": 0
-        },
-        "source_identity": "1030901013",
-        "source_table": "m_event_special_effect"
-      },
-      "sha256": "a958e9534bbc84077ad230d176c1c53c3aeea89afc498fba65acc85e2ad572fb",
-      "status": "RESOLVED",
-      "url": "../../../assets/current/a958e9534bbc84077ad230d176c1c53c3aeea89afc498fba65acc85e2ad572fb.webp"
-    },
     "1030901014": {
       "classification": "RESOLVED_CURRENT_SOURCE",
       "id": "1030901014",
@@ -1037,8 +1015,8 @@
     }
   },
   "generated_from": {
-    "masterdata_sha256": "63af5a620d8754169028850cdfa87db7fc777e49d731133b347b08f312fe3b88",
-    "snapshot_sha256": "3b9aa9b3ec9d6b0a1461e8e3e46b16cced9a0f765429db5c51d26ea98f376f57"
+    "masterdata_sha256": "ae3917369af4e85e5c1a31259d73baff042fd5dc17c614f0423af700fdbf89bd",
+    "snapshot_sha256": "f906817c51f296f1795a2fba56689abdbd004956398dae583e24ddcabdbfaf2e"
   },
   "generated_utc": null,
   "orientation_summary": {
@@ -1048,8 +1026,8 @@
   "resolver_schema": "smashdump.s1.current_source_boon_asset_resolver.v1",
   "schema": "smashdump.stage3.r5.9.boon_asset_runtime.v1",
   "summary": {
-    "public_boons": 47,
-    "resolved": 47,
+    "public_boons": 46,
+    "resolved": 46,
     "unresolved": 0
   }
 }

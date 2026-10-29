@@ -1,17 +1,17 @@
 {
   "capture": {
-    "baseline_version": "1.6.1",
-    "current_version": "1.6.1.1",
+    "baseline_version": "1.6.1.1",
+    "current_version": "1.6.1.4",
     "source": "S1 certified current producer chain"
   },
   "combat_model": {
-    "aliases": 464,
+    "aliases": 467,
     "authority_state": "CURRENT_GENERATED",
     "coup_de_grace": 46,
-    "entities": 155,
+    "entities": 158,
     "path": "data/combat_semantic_stage3_r4_latest.json",
     "schema": "smashdump.semantic_model.stage3.r4.5.combat_graph.v1",
-    "skills": 109,
+    "skills": 112,
     "source_patch_id": "SMASHDUMP_STAGE3_R4_5_FRIENDSHIP_AND_RUNTIME_INTEGRATION_REPAIR"
   },
   "generated_utc": null,

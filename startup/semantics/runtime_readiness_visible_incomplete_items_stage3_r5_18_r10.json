@@ -6,7 +6,7 @@
     "jobs": "source derived"
   },
   "baseline_package_id": "SMASHDUMP_STAGE3_R5_18_RUNTIME_CONVERGENCE_AND_INTERACTION_STABILITY_CORRECTED_R9",
-  "baseline_version": "1.6.1",
+  "baseline_version": "1.6.1.1",
   "candidate_only": true,
   "corrections": {
     "enemy_difficulty_options": [
@@ -26,7 +26,7 @@
       "boons": 0,
       "drony": 0,
       "drops": 0,
-      "enemies": 4,
+      "enemies": 3,
       "equipment": 0,
       "events": 0,
       "gacha": 0,
@@ -40,21 +40,21 @@
       "weapons": 0
     },
     "identity_counts": {
-      "abilities": 155,
-      "accessories": 24,
-      "boons": 47,
+      "abilities": 158,
+      "accessories": 26,
+      "boons": 46,
       "drony": 3,
-      "drops": 519,
-      "enemies": 123,
+      "drops": 539,
+      "enemies": 124,
       "equipment": 138,
       "events": 6,
       "gacha": 40,
-      "items": 391,
+      "items": 412,
       "jobs": 9,
-      "memories": 117,
+      "memories": 124,
       "memory_effects": 217,
       "shops": 20,
-      "stages": 519,
+      "stages": 540,
       "status_effects": 11,
       "weapons": 51
     },
@@ -69,7 +69,7 @@
   "evidence": {
     "source": "S1 current models"
   },
-  "game_version": "1.6.1.1",
+  "game_version": "1.6.1.4",
   "generated_utc": null,
   "patch_id": "SMASHDUMP_STAGE3_R5_18_RUNTIME_READINESS_AND_VISIBLE_INCOMPLETE_ITEMS_CORRECTED_R10",
   "protected_scope": {

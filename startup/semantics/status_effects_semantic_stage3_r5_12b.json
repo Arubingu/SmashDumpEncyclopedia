@@ -6,7 +6,7 @@
     "protection_and_removal": "skill-description text roles joined through data-derived status aliases",
     "status_inventory": "m_bad_status_type_setting"
   },
-  "baseline_version": "1.6.1",
+  "baseline_version": "1.6.1.1",
   "candidate_only": true,
   "categories": {
     "status_effects": {
@@ -262,7 +262,7 @@
             "removes": "Skill description text with status alias evidence; not an infliction"
           },
           "snapshot_row": {
-            "__rowid__": 2634,
+            "__rowid__": 2706,
             "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3007",
             "classification": "reconstructed_image",
             "converted_bytes": 3222,
@@ -428,7 +428,7 @@
             "removes": "Skill description text with status alias evidence; not an infliction"
           },
           "snapshot_row": {
-            "__rowid__": 2635,
+            "__rowid__": 2707,
             "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3008",
             "classification": "reconstructed_image",
             "converted_bytes": 2938,
@@ -654,7 +654,7 @@
             "removes": "Skill description text with status alias evidence; not an infliction"
           },
           "snapshot_row": {
-            "__rowid__": 2637,
+            "__rowid__": 2709,
             "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3010",
             "classification": "reconstructed_image",
             "converted_bytes": 3236,
@@ -808,7 +808,7 @@
             "removes": "Skill description text with status alias evidence; not an infliction"
           },
           "snapshot_row": {
-            "__rowid__": 2641,
+            "__rowid__": 2713,
             "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3015",
             "classification": "reconstructed_image",
             "converted_bytes": 3912,
@@ -1028,7 +1028,7 @@
             "removes": "Skill description text with status alias evidence; not an infliction"
           },
           "snapshot_row": {
-            "__rowid__": 2636,
+            "__rowid__": 2708,
             "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3009",
             "classification": "reconstructed_image",
             "converted_bytes": 2973,
@@ -1182,7 +1182,7 @@
             "removes": "Skill description text with status alias evidence; not an infliction"
           },
           "snapshot_row": {
-            "__rowid__": 2630,
+            "__rowid__": 2702,
             "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3003",
             "classification": "reconstructed_image",
             "converted_bytes": 2463,
@@ -1383,7 +1383,7 @@
             "removes": "Skill description text with status alias evidence; not an infliction"
           },
           "snapshot_row": {
-            "__rowid__": 2629,
+            "__rowid__": 2701,
             "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3002",
             "classification": "reconstructed_image",
             "converted_bytes": 3458,
@@ -1568,7 +1568,7 @@
             "removes": "Skill description text with status alias evidence; not an infliction"
           },
           "snapshot_row": {
-            "__rowid__": 2628,
+            "__rowid__": 2700,
             "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3001",
             "classification": "reconstructed_image",
             "converted_bytes": 2903,
@@ -1765,7 +1765,7 @@
             "removes": "Skill description text with status alias evidence; not an infliction"
           },
           "snapshot_row": {
-            "__rowid__": 2632,
+            "__rowid__": 2704,
             "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3005",
             "classification": "reconstructed_image",
             "converted_bytes": 2878,
@@ -1952,7 +1952,7 @@
             "removes": "Skill description text with status alias evidence; not an infliction"
           },
           "snapshot_row": {
-            "__rowid__": 2633,
+            "__rowid__": 2705,
             "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3006",
             "classification": "reconstructed_image",
             "converted_bytes": 3210,
@@ -2099,8 +2099,8 @@
       }
     }
   },
-  "game_version": "1.6.1.1",
-  "generated_utc": "2026-10-23T12:55:09Z",
+  "game_version": "1.6.1.4",
+  "generated_utc": "2026-10-28T11:03:08Z",
   "patch_id": "SMASHDUMP_STAGE3_R5_12B_STATUS_EFFECTS_CANONICAL_REBUILD",
   "publication_allowed": false,
   "recovered_source_settings": [
@@ -2152,7 +2152,7 @@
           "removes": "Skill description text with status alias evidence; not an infliction"
         },
         "snapshot_row": {
-          "__rowid__": 2631,
+          "__rowid__": 2703,
           "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3004",
           "classification": "reconstructed_image",
           "converted_bytes": 3180,
@@ -2259,7 +2259,7 @@
           "removes": "Skill description text with status alias evidence; not an infliction"
         },
         "snapshot_row": {
-          "__rowid__": 2636,
+          "__rowid__": 2708,
           "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3009",
           "classification": "reconstructed_image",
           "converted_bytes": 2973,
@@ -2330,7 +2330,7 @@
           "removes": "Skill description text with status alias evidence; not an infliction"
         },
         "snapshot_row": {
-          "__rowid__": 2638,
+          "__rowid__": 2710,
           "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3011",
           "classification": "reconstructed_image",
           "converted_bytes": 2999,
@@ -2401,7 +2401,7 @@
           "removes": "Skill description text with status alias evidence; not an infliction"
         },
         "snapshot_row": {
-          "__rowid__": 2639,
+          "__rowid__": 2711,
           "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3012",
           "classification": "reconstructed_image",
           "converted_bytes": 4182,
@@ -2472,7 +2472,7 @@
           "removes": "Skill description text with status alias evidence; not an infliction"
         },
         "snapshot_row": {
-          "__rowid__": 2640,
+          "__rowid__": 2712,
           "asset_path": "UI/Download/productimage/badstatus/prt_icon_badstatus_3013",
           "classification": "reconstructed_image",
           "converted_bytes": 4350,

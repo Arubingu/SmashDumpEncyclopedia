@@ -7,7 +7,7 @@
   },
   "ability_regression_fixtures": {},
   "baseline_package_id": "SMASHDUMP_STAGE3_R5_18_ENEMY_CONTEXT_FACET_AND_FILTER_CONTRACT_CORRECTED_R12",
-  "baseline_version": "1.6.1",
+  "baseline_version": "1.6.1.1",
   "candidate_only": true,
   "formal_challenge_stage_sources": {
     "m_stage_ticket:100200002": {
@@ -3275,7 +3275,7 @@
       ]
     },
     "m_stage_ticket:100200038": {
-      "raw_reference_count": 12,
+      "raw_reference_count": 24,
       "source": "current m_stage_ticket identity plus current stage-backed source closure; logical routes canonicalized by current stable stage key",
       "stages": [
         {
@@ -3316,6 +3316,42 @@
         },
         {
           "category": "stages",
+          "id": 30942107,
+          "key": "stages:30942107",
+          "name": "Event Story Chapter 2 — Stage 1 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30942108,
+          "key": "stages:30942108",
+          "name": "Event Story Chapter 2 — Stage 2 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30942109,
+          "key": "stages:30942109",
+          "name": "Event Story Chapter 2 — Stage 3 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30942110,
+          "key": "stages:30942110",
+          "name": "Event Story Chapter 2 — Stage 4 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30942111,
+          "key": "stages:30942111",
+          "name": "Event Story Chapter 2 — Stage 5 (Normal)"
+        },
+        {
+          "category": "stages",
+          "id": 30942112,
+          "key": "stages:30942112",
+          "name": "Event Story Chapter 2 — Stage 6 (Normal)"
+        },
+        {
+          "category": "stages",
           "id": 30942201,
           "key": "stages:30942201",
           "name": "Event Story Chapter 1 — Stage 1 (Hard)"
@@ -3349,11 +3385,47 @@
           "id": 30942206,
           "key": "stages:30942206",
           "name": "Event Story Chapter 1 — Stage 6 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30942207,
+          "key": "stages:30942207",
+          "name": "Event Story Chapter 2 — Stage 1 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30942208,
+          "key": "stages:30942208",
+          "name": "Event Story Chapter 2 — Stage 2 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30942209,
+          "key": "stages:30942209",
+          "name": "Event Story Chapter 2 — Stage 3 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30942210,
+          "key": "stages:30942210",
+          "name": "Event Story Chapter 2 — Stage 4 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30942211,
+          "key": "stages:30942211",
+          "name": "Event Story Chapter 2 — Stage 5 (Hard)"
+        },
+        {
+          "category": "stages",
+          "id": 30942212,
+          "key": "stages:30942212",
+          "name": "Event Story Chapter 2 — Stage 6 (Hard)"
         }
       ]
     }
   },
-  "game_version": "1.6.1.1",
+  "game_version": "1.6.1.4",
   "gauntlet_difficulty_evidence": {
     "note": "current structured stage context",
     "recorded_difficulties": [

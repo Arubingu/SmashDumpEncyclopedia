@@ -5421,17 +5421,371 @@
         "magical_mending": 0,
         "magical_might": 0
       }
+    },
+    "20023": {
+      "acquisition": [],
+      "effect_family_count": 1,
+      "effects": [
+        {
+          "effect": {
+            "description": "Increases the damage of Critical Hits.",
+            "eligibility_conditions": [],
+            "group_id": 30791,
+            "id": 307900030,
+            "levels": [
+              {
+                "ability_id": 307900030,
+                "caveats": [],
+                "conditions": [
+                  "Critical hits only.",
+                  "Physical attacks only."
+                ],
+                "level": 1,
+                "outputs": [
+                  {
+                    "label": "Physical critical-hit damage",
+                    "provenance": {
+                      "condition": "is_critical_attack==1&is_physical_attack==1",
+                      "field": "multiply_value",
+                      "formula": "(raw/10000 - 1) × 100",
+                      "raw": 10300,
+                      "table": "m_ability_correct_attack_damage"
+                    },
+                    "value": "+3%"
+                  }
+                ],
+                "raw_conditions": [
+                  "is_critical_attack==1&is_physical_attack==1"
+                ],
+                "source_rows": [
+                  {
+                    "row": {
+                      "ability_id": 307900030,
+                      "add_fixed_hit_chance_value": 0,
+                      "critical_damage_add_rate": 0,
+                      "fix_critical_damage_add_value": 0,
+                      "fix_damage_add_value": 0,
+                      "flinch_add_value": 0,
+                      "hit_effect_name": null,
+                      "hitback_distance": 0,
+                      "hitback_time_frame": 0,
+                      "is_only_hit_back": 0,
+                      "multiply_attack_value": 10000,
+                      "multiply_magic_value": 10000,
+                      "multiply_value": 10300,
+                      "on_hit_condition": "is_critical_attack==1&is_physical_attack==1"
+                    },
+                    "table": "m_ability_correct_attack_damage"
+                  }
+                ]
+              }
+            ],
+            "name": "Critical Damage",
+            "source": {
+              "group": {
+                "description": "Status/SpecialEffects/status_specialeffects_307030010_description",
+                "display_order": 1,
+                "id": 30791,
+                "is_grouping": 1,
+                "is_party": 0,
+                "name": "Status/SpecialEffects/status_specialeffects_307030010_name"
+              },
+              "special_effect": {
+                "group_id": 30791,
+                "id": 307900030
+              }
+            }
+          },
+          "group_idx": 1,
+          "role_type": 2,
+          "source": {
+            "accessory_id": 20023,
+            "group_idx": 1,
+            "special_effect_id": 307900030,
+            "special_effect_role_type": 2
+          },
+          "unlock_label": "Equipped"
+        }
+      ],
+      "id": 20023,
+      "image_variants": [
+        {
+          "image": {
+            "fallback_url": "../../../assets/current/11ad350b5165baac30fd5b75c9c82e087d6cdac5efcfff529587f5c6af43c47d.webp",
+            "logical_path": "UI/Download/productimage/acc/prt_tmb_acc_20023",
+            "sha256": "11ad350b5165baac30fd5b75c9c82e087d6cdac5efcfff529587f5c6af43c47d",
+            "source": {
+              "asset_path": "UI/Download/productimage/acc/prt_tmb_acc_20023",
+              "converted_cas_path": "calocal://redacted",
+              "converted_kind": "texture_png",
+              "converted_sha256": "11ad350b5165baac30fd5b75c9c82e087d6cdac5efcfff529587f5c6af43c47d",
+              "stable_row_id": "5ba0410875ce94ee7335690524c4d6f935aa1f05",
+              "table_name": "reconstructed_archive",
+              "vertical_flip_applied": 0
+            },
+            "url": "../../../assets/current/11ad350b5165baac30fd5b75c9c82e087d6cdac5efcfff529587f5c6af43c47d.webp"
+          },
+          "label": "Recorded icon"
+        }
+      ],
+      "kind": "accessory",
+      "name": "Titan Belt",
+      "rarity_raw": 30,
+      "rarity_stars": 3,
+      "skills": [],
+      "source": {
+        "attack": 20,
+        "defense": 0,
+        "deftness": 20,
+        "hp": 0,
+        "icon_path": "UI/Download/productimage/acc/prt_tmb_acc_20023",
+        "id": 20023,
+        "image_path": "UI/Download/productimage/acc/prt_detail_acc_20023",
+        "magical_defense": 0,
+        "magical_mending": 0,
+        "magical_might": 0,
+        "name": "Accessory/Accessory/accessory_20023_name",
+        "rarity": 30
+      },
+      "stats": {
+        "attack": 20,
+        "defense": 0,
+        "deftness": 20,
+        "hp": 0,
+        "magical_defense": 0,
+        "magical_mending": 0,
+        "magical_might": 0
+      }
+    },
+    "20024": {
+      "acquisition": [],
+      "effect_family_count": 0,
+      "effects": [],
+      "id": 20024,
+      "image_variants": [
+        {
+          "image": {
+            "fallback_url": "../../../assets/current/ee90ed15664904dd8516aa53a089afbee720bccd2edfc3f0aac266d5957c0665.webp",
+            "logical_path": "UI/Download/productimage/acc/prt_tmb_acc_20024",
+            "sha256": "ee90ed15664904dd8516aa53a089afbee720bccd2edfc3f0aac266d5957c0665",
+            "source": {
+              "asset_path": "UI/Download/productimage/acc/prt_tmb_acc_20024",
+              "converted_cas_path": "calocal://redacted",
+              "converted_kind": "texture_png",
+              "converted_sha256": "ee90ed15664904dd8516aa53a089afbee720bccd2edfc3f0aac266d5957c0665",
+              "stable_row_id": "bf4ca8f8528ce30ad39cbda213931172379f7ece",
+              "table_name": "reconstructed_archive",
+              "vertical_flip_applied": 0
+            },
+            "url": "../../../assets/current/ee90ed15664904dd8516aa53a089afbee720bccd2edfc3f0aac266d5957c0665.webp"
+          },
+          "label": "Recorded icon"
+        }
+      ],
+      "kind": "accessory",
+      "name": "Starry Studs",
+      "rarity_raw": 30,
+      "rarity_stars": 3,
+      "skills": [
+        {
+          "group_idx": 1,
+          "skill": {
+            "description": "Acquire Bang Blast when a quest begins. (Unstackable)",
+            "id": 1000001010,
+            "image": {
+              "fallback_url": "../../../assets/current/e78a158d3a27b5b96c82ba958b4653d7dc62b6679f18186eb948aca257436fb5.webp",
+              "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_1101",
+              "sha256": "e78a158d3a27b5b96c82ba958b4653d7dc62b6679f18186eb948aca257436fb5",
+              "source": {
+                "asset_path": "UI/Download/productimage/pic/prt_tmb_pic_1101",
+                "converted_cas_path": "calocal://redacted",
+                "converted_kind": "texture_png",
+                "converted_sha256": "e78a158d3a27b5b96c82ba958b4653d7dc62b6679f18186eb948aca257436fb5",
+                "stable_row_id": "f44021e5fb2e1b5e2490382dd0938ce99cda66fa",
+                "table_name": "reconstructed_archive",
+                "vertical_flip_applied": 0
+              },
+              "url": "../../../assets/current/e78a158d3a27b5b96c82ba958b4653d7dc62b6679f18186eb948aca257436fb5.webp"
+            },
+            "levels": [
+              {
+                "ability_ids": [
+                  1000013381
+                ],
+                "description": "Conjure 3 close-range blasts at regular intervals that inflict light damage.",
+                "level": 1,
+                "source": {
+                  "ability_id_list": "[1000013381]",
+                  "description": "PickSkill/pickskill_wave_description",
+                  "frame_type": 10,
+                  "level": 1,
+                  "param_1": 0,
+                  "param_2": 0,
+                  "param_3": 0,
+                  "param_4": 0,
+                  "param_5": 0,
+                  "pick_skill_id": 1000001010
+                }
+              },
+              {
+                "ability_ids": [
+                  1000013382
+                ],
+                "description": "Adds 3 more blasts to Bang Blast.",
+                "level": 2,
+                "source": {
+                  "ability_id_list": "[1000013382]",
+                  "description": "PickSkill/pickskill_wave_Lv2_description",
+                  "frame_type": 10,
+                  "level": 2,
+                  "param_1": 0,
+                  "param_2": 0,
+                  "param_3": 0,
+                  "param_4": 0,
+                  "param_5": 0,
+                  "pick_skill_id": 1000001010
+                }
+              },
+              {
+                "ability_ids": [
+                  1000013383
+                ],
+                "description": "Adds 3 more blasts to Bang Blast.",
+                "level": 3,
+                "source": {
+                  "ability_id_list": "[1000013383]",
+                  "description": "PickSkill/pickskill_wave_Lv2_description",
+                  "frame_type": 10,
+                  "level": 3,
+                  "param_1": 0,
+                  "param_2": 0,
+                  "param_3": 0,
+                  "param_4": 0,
+                  "param_5": 0,
+                  "pick_skill_id": 1000001010
+                }
+              },
+              {
+                "ability_ids": [
+                  1000013384
+                ],
+                "description": "Adds 3 more blasts to Bang Blast.",
+                "level": 4,
+                "source": {
+                  "ability_id_list": "[1000013384]",
+                  "description": "PickSkill/pickskill_wave_Lv2_description",
+                  "frame_type": 10,
+                  "level": 4,
+                  "param_1": 0,
+                  "param_2": 0,
+                  "param_3": 0,
+                  "param_4": 0,
+                  "param_5": 0,
+                  "pick_skill_id": 1000001010
+                }
+              },
+              {
+                "ability_ids": [
+                  1000013385
+                ],
+                "description": "Adds 3 more blasts to Bang Blast.",
+                "level": 5,
+                "source": {
+                  "ability_id_list": "[1000013385]",
+                  "description": "PickSkill/pickskill_wave_Lv2_description",
+                  "frame_type": 10,
+                  "level": 5,
+                  "param_1": 0,
+                  "param_2": 0,
+                  "param_3": 0,
+                  "param_4": 0,
+                  "param_5": 0,
+                  "pick_skill_id": 1000001010
+                }
+              },
+              {
+                "ability_ids": [
+                  1000013386
+                ],
+                "description": "Adds 3 more blasts to Bang Blast.",
+                "level": 6,
+                "source": {
+                  "ability_id_list": "[1000013386]",
+                  "description": "PickSkill/pickskill_wave_Lv2_description",
+                  "frame_type": 10,
+                  "level": 6,
+                  "param_1": 0,
+                  "param_2": 0,
+                  "param_3": 0,
+                  "param_4": 0,
+                  "param_5": 0,
+                  "pick_skill_id": 1000001010
+                }
+              }
+            ],
+            "name": "Bang Blast",
+            "source": {
+              "activation_type": 1,
+              "effect_type": 86,
+              "element": 99,
+              "enhance_type": 7,
+              "id": 1000001010,
+              "ignition_type": 1,
+              "is_auto_pick": 1,
+              "is_enhance_upgrade": 0,
+              "is_metal_hit": 0,
+              "is_replace_action": 0,
+              "is_show_trigger_log": 0,
+              "lot_tag_list": "[\"Cluster\"]",
+              "name": "PickSkill/pickskill_wave_name",
+              "special_effect_description": "Status/SpecialEffects/status_specialeffects_800280001_description",
+              "special_effect_name": "Status/SpecialEffects/status_specialeffects_800280001_name",
+              "thumbnail_path": "UI/Download/productimage/pic/prt_tmb_pic_1101",
+              "weight": 400
+            },
+            "thumbnail_path": "UI/Download/productimage/pic/prt_tmb_pic_1101"
+          },
+          "source": {
+            "accessory_id": 20024,
+            "group_idx": 1,
+            "pick_skill_id": 1000001010
+          }
+        }
+      ],
+      "source": {
+        "attack": 0,
+        "defense": 20,
+        "deftness": 0,
+        "hp": 20,
+        "icon_path": "UI/Download/productimage/acc/prt_tmb_acc_20024",
+        "id": 20024,
+        "image_path": "UI/Download/productimage/acc/prt_detail_acc_20024",
+        "magical_defense": 0,
+        "magical_mending": 0,
+        "magical_might": 0,
+        "name": "Accessory/Accessory/accessory_20024_name",
+        "rarity": 30
+      },
+      "stats": {
+        "attack": 0,
+        "defense": 20,
+        "deftness": 0,
+        "hp": 20,
+        "magical_defense": 0,
+        "magical_mending": 0,
+        "magical_might": 0
+      }
     }
   },
   "authority": {
-    "complete_snapshot_sha256": "3b9aa9b3ec9d6b0a1461e8e3e46b16cced9a0f765429db5c51d26ea98f376f57",
-    "dictionary_sha256": "413f82397924e5cc8dda30fcd560dacd70c208763da787c364357bd22e5d0a31",
+    "complete_snapshot_sha256": "f906817c51f296f1795a2fba56689abdbd004956398dae583e24ddcabdbfaf2e",
+    "dictionary_sha256": "fb0652ae6050b400dfbf857f0ab3d85a595f2d60fd120824511998f275e63980",
     "generated": true,
-    "masterdata_sha256": "63af5a620d8754169028850cdfa87db7fc777e49d731133b347b08f312fe3b88",
+    "masterdata_sha256": "ae3917369af4e85e5c1a31259d73baff042fd5dc17c614f0423af700fdbf89bd",
     "numeric_values_manual": false,
-    "runtime_enums_sha256": "2f43fa3e6418e47bfb04ea3080797dc69406d3ad359049c68a707eeecd7af417"
+    "runtime_enums_sha256": "9ef98dadae11b9e817a450de0be7fe56deb454b3bbf14257c6417ba03844b090"
   },
-  "baseline_version": "1.6.1",
+  "baseline_version": "1.6.1.1",
   "candidate_only": true,
   "contracts": {
     "level_effects": "every linked row whose level is at or below the selected level remains an independent grant",
@@ -5441,13 +5795,13 @@
     "unknown_effect_policy": "retain localized description and explicit unresolved caveat; never invent numeric outputs"
   },
   "coverage": {
-    "accessories": 24,
+    "accessories": 26,
     "armor": 138,
     "gacha_backlinks": 3561,
     "gear_level_rows": 8410,
     "gear_limit_break_states": 3270,
-    "pick_skills_linked": 31,
-    "special_effects_decoded": 265,
+    "pick_skills_linked": 32,
+    "special_effects_decoded": 266,
     "weapons": 51
   },
   "equipment": {
@@ -246062,7 +246416,7 @@
       "start_at": 1778144400000
     }
   },
-  "game_version": "1.6.1.1",
+  "game_version": "1.6.1.4",
   "patch_id": "SMASHDUMP_STAGE3_R2_4_EQUIPMENT_SUMMARY_NORMALIZATION",
   "production_selectors": {
     "release_specific_ids": false
@@ -246071,13 +246425,13 @@
   "representatives": {},
   "schema": "smashdump.semantic_model.stage3.r2.4.equipment.v1",
   "source_binding": {
-    "acquisition_seal_sha256": "fd5a0af82ca3740b35d90fd0c13acbaaf60e7948ef7516210472e092e0056058",
-    "asset_a_sha256": "64da086b04463bf2527684fac2fb0d49fcba0a31758d7afcf0e2df76162edc65",
-    "asset_snapshot_sha256": "3b9aa9b3ec9d6b0a1461e8e3e46b16cced9a0f765429db5c51d26ea98f376f57",
-    "dictionary_sha256": "413f82397924e5cc8dda30fcd560dacd70c208763da787c364357bd22e5d0a31",
-    "masterdata_sha256": "63af5a620d8754169028850cdfa87db7fc777e49d731133b347b08f312fe3b88",
-    "repository_manifest_sha256": "1d0b4d57ce7c65f6fc192f93f34411ce2ed387af02c516dacda1d889105a65a1",
-    "runtime_enums_sha256": "2f43fa3e6418e47bfb04ea3080797dc69406d3ad359049c68a707eeecd7af417",
+    "acquisition_seal_sha256": "8fbf4c5e056f160ee3580fb137d55d5b98978ecffd75c009f76eaa1f36474c6a",
+    "asset_a_sha256": "3126b5f82b11723655a51332164d164baa4f2885e26e03462a866661de5a19c7",
+    "asset_snapshot_sha256": "f906817c51f296f1795a2fba56689abdbd004956398dae583e24ddcabdbfaf2e",
+    "dictionary_sha256": "fb0652ae6050b400dfbf857f0ab3d85a595f2d60fd120824511998f275e63980",
+    "masterdata_sha256": "ae3917369af4e85e5c1a31259d73baff042fd5dc17c614f0423af700fdbf89bd",
+    "repository_manifest_sha256": "1e291e1b8f47775cf51ed98995a3252260e2e9628f145b6699bf08ed424ef4e9",
+    "runtime_enums_sha256": "9ef98dadae11b9e817a450de0be7fe56deb454b3bbf14257c6417ba03844b090",
     "s1_id": "SMASHDUMP_S1_SUCCESSOR_CONSTRUCTION_R1"
   },
   "weapons": {

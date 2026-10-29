@@ -1,6 +1,6 @@
 {
   "baseline_package_id": "SMASHDUMP_STAGE3_R5_18_CROSS_CATEGORY_UNRESOLVED_REFERENCE_CLOSURE_R4",
-  "baseline_version": "1.6.1",
+  "baseline_version": "1.6.1.1",
   "candidate_only": true,
   "enemy_filters": {
     "expected_option_counts": {
@@ -24,7 +24,7 @@
       "Internal ID"
     ]
   },
-  "game_version": "1.6.1.1",
+  "game_version": "1.6.1.4",
   "generated_utc": null,
   "patch_id": "SMASHDUMP_STAGE3_R5_18_ENEMY_FILTERS_POSE_REWARD_ASSET_AND_SCROLL_CORRECTED_R5",
   "profile_pose_asset": {

@@ -1580,6 +1580,18 @@
       "entity_id": 212,
       "variant_id": 212
     },
+    "abilities:213": {
+      "entity_id": 213,
+      "variant_id": 213
+    },
+    "abilities:214": {
+      "entity_id": 214,
+      "variant_id": 214
+    },
+    "abilities:215": {
+      "entity_id": 215,
+      "variant_id": 215
+    },
     "abilities:217": {
       "entity_id": 217,
       "variant_id": 217
@@ -1858,24 +1870,24 @@
     }
   },
   "authority": {
-    "baseline_masterdata_sha256": "38650066600b12c8f127401c2edaf9edd2c8a123280e0788c721249ff35560c2",
-    "current_masterdata_sha256": "63af5a620d8754169028850cdfa87db7fc777e49d731133b347b08f312fe3b88",
-    "dictionary_sha256": "413f82397924e5cc8dda30fcd560dacd70c208763da787c364357bd22e5d0a31",
-    "equipment_model_sha256": "b3107d151214592d1d1c3ec8d557e785c15e692f7c2769bb015ff9e01e0943d8",
-    "masterdata_sha256": "63af5a620d8754169028850cdfa87db7fc777e49d731133b347b08f312fe3b88",
-    "memory_model_sha256": "a84ece35111d0be6f055b6a4be44fc3cb190e08e1be218e2e7b99d38fef6c28c",
+    "baseline_masterdata_sha256": "63af5a620d8754169028850cdfa87db7fc777e49d731133b347b08f312fe3b88",
+    "current_masterdata_sha256": "ae3917369af4e85e5c1a31259d73baff042fd5dc17c614f0423af700fdbf89bd",
+    "dictionary_sha256": "fb0652ae6050b400dfbf857f0ab3d85a595f2d60fd120824511998f275e63980",
+    "equipment_model_sha256": "397dc4fb21e59622fc12221293f4a8a88790da505eea18a5f6618e0793fc7257",
+    "masterdata_sha256": "ae3917369af4e85e5c1a31259d73baff042fd5dc17c614f0423af700fdbf89bd",
+    "memory_model_sha256": "089a45397aeed4574ed423eeb57dbc6a1726c45799bda47b24dab6db2155250e",
     "source_encyclopedia_revision": "SMASHDUMP_S1_CURRENT_SOURCE_SCAFFOLD_R1",
-    "source_encyclopedia_sha256": "d0d81411dc48cb4bbbc98e3154e5a9bd605280eeee8fd1ff5275dbac30138443",
-    "source_r4_1_model_sha256": "c8f37dd802920a9e117afc2a8c2e0fd2fe15d74cf99c03aa08fdc9306237325c",
-    "source_r4_model_sha256": "cd771f2e09331623e09d7869d65325f00f712e2d98b9a0bf5b7a942b0ee24a9f"
+    "source_encyclopedia_sha256": "6f9d41860f4c740ea62c9d82c8ea629928a3f70dda17275e2b5422864cd288cc",
+    "source_r4_1_model_sha256": "e40d46ee11222f781d3ffd97da1896b8bbdb850b65399938e75d2b13e29ddf68",
+    "source_r4_model_sha256": "905c21c685e26f092bbdd39af448271bf9239521f8fdedf9e66a8900bc5ffa5a"
   },
   "authority_r4_4": {
-    "dictionary_sha256": "413f82397924e5cc8dda30fcd560dacd70c208763da787c364357bd22e5d0a31",
-    "masterdata_sha256": "63af5a620d8754169028850cdfa87db7fc777e49d731133b347b08f312fe3b88",
-    "source_model_sha256": "93bc916b7d5508869bfd06eab7c9caa0852c740de13cea3e9540394aa008a20e",
-    "vocation_model_sha256": "4cfcc2fcaf4d50fcf6c14f16a5feaf328b43a59e36465da41d06bdef61eec3e4"
+    "dictionary_sha256": "fb0652ae6050b400dfbf857f0ab3d85a595f2d60fd120824511998f275e63980",
+    "masterdata_sha256": "ae3917369af4e85e5c1a31259d73baff042fd5dc17c614f0423af700fdbf89bd",
+    "source_model_sha256": "f7b7611db23b8debfc45a24f54b0b70f47541a5b4e13d6fb2a37fe5a83bf74d9",
+    "vocation_model_sha256": "b35ea0431f24f0ca30707dc9dd7a2e160b01facfc011c8f1931d2b00df06d62e"
   },
-  "baseline_version": "1.6.1",
+  "baseline_version": "1.6.1.1",
   "candidate_only": true,
   "contracts": {
     "ability_graph": "Directed graph edges are preserved for groups, triggers, emission children and projectile-attack additions. Values remain attached to the condition/branch that selects them.",
@@ -6609,7 +6621,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -9250,31 +9262,31 @@
     "coup_de_grace_rows": 51,
     "echonomist_eligible_cdg_variants": 16,
     "english_gacha_banners": 40,
-    "equipment_acquisition_profiles": 213,
-    "equipment_filter_records": 213,
+    "equipment_acquisition_profiles": 215,
+    "equipment_filter_records": 215,
     "event_rank_families": 24,
     "grouped_duplicate_cdg_rows": 5,
     "grouped_duplicate_skill_rows": 29,
     "multi_event_rank_families": 5,
     "named_skill_branches": 0,
-    "navigation_aliases": 464,
-    "raw_pick_skills": 138,
+    "navigation_aliases": 467,
+    "raw_pick_skills": 141,
     "semantic_coup_de_grace_families": 46,
     "semantic_coup_de_grace_variants": 48,
-    "semantic_graph_levels": 220,
-    "semantic_graph_skill_families": 109,
+    "semantic_graph_levels": 223,
+    "semantic_graph_skill_families": 112,
     "semantic_graph_status_partial": 3,
-    "semantic_graph_status_pass": 217,
+    "semantic_graph_status_pass": 220,
     "semantic_graph_status_unresolved": 0,
-    "semantic_skill_families": 109,
-    "semantic_skill_variants": 111,
-    "skill_audit_records": 109,
-    "skill_backlinks": 67,
-    "skill_level_rows": 297,
-    "skill_levels_text_only": 26,
+    "semantic_skill_families": 112,
+    "semantic_skill_variants": 114,
+    "skill_audit_records": 112,
+    "skill_backlinks": 71,
+    "skill_level_rows": 300,
+    "skill_levels_text_only": 29,
     "skill_levels_with_structured_mechanics": 194,
     "status_effect_records": 14,
-    "visible_entities": 155
+    "visible_entities": 158
   },
   "entities": [
     {
@@ -13653,7 +13665,7 @@
         "fallback_label": "Source weapon artwork: Zenithian Sword",
         "status": "NO_DEDICATED_STATIC_CDG_IMAGE_RELATION_RESOLVED"
       },
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -13680,7 +13692,7 @@
           301007
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -13933,7 +13945,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -13963,7 +13975,7 @@
           202
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -14686,7 +14698,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -14716,7 +14728,7 @@
           1000001010
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -14970,7 +14982,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -15000,7 +15012,7 @@
           1000001020
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -15159,7 +15171,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -15189,7 +15201,7 @@
           204
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -16969,7 +16981,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -16999,7 +17011,7 @@
           199
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -18014,7 +18026,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -18044,7 +18056,7 @@
           1000001012
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -18868,7 +18880,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -18898,7 +18910,7 @@
           1000001011
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -19246,7 +19258,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -19276,7 +19288,7 @@
           203
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -19811,7 +19823,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -19841,7 +19853,7 @@
           207
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -19999,7 +20011,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -20029,7 +20041,7 @@
           206
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -20470,7 +20482,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -20500,7 +20512,7 @@
           217
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -21051,7 +21063,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -21081,7 +21093,7 @@
           201
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -21903,7 +21915,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -21933,7 +21945,7 @@
           208
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -22472,7 +22484,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -22502,7 +22514,7 @@
           205
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -23611,7 +23623,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -23641,7 +23653,7 @@
           200
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -23706,7 +23718,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -23736,7 +23748,7 @@
           210
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -23800,7 +23812,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -23830,7 +23842,7 @@
           212
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -23894,7 +23906,7 @@
       "subtitle": "Skill"
     },
     {
-      "baseline": false,
+      "baseline": true,
       "category": "abilities",
       "current": true,
       "description": {
@@ -23924,7 +23936,7 @@
           211
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -23992,6 +24004,194 @@
       "category": "abilities",
       "current": true,
       "description": {
+        "text": "Equip to a purple Memory slot with a star icon for a chance to get the ‘Maya: Frizzle’ Blessing."
+      },
+      "display_asset": {
+        "bytes": 59501,
+        "fallback_url": "../../../assets/current/2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2040",
+        "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+        "orientation": "AS_STORED",
+        "presentation_transform": "native",
+        "role": "source_asset",
+        "sha256": "2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1",
+        "source": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "7abc147d4c8ca32108604f89498b733a1aea59f3",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "url": "../../../assets/current/2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1.webp"
+      },
+      "evidence": {
+        "semantic_model": "smashdump.semantic_model.stage3.r4.3.combat.v1",
+        "source_ids": [
+          215
+        ],
+        "version_presence": {
+          "baseline": false,
+          "current": true
+        }
+      },
+      "facts": [
+        "1 levels",
+        "1 semantic variant(s)"
+      ],
+      "game_asset": {
+        "bytes": 59501,
+        "fallback_url": "../../../assets/current/2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2040",
+        "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+        "orientation": "AS_STORED",
+        "presentation_transform": "native",
+        "role": "source_asset",
+        "sha256": "2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1",
+        "source": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "7abc147d4c8ca32108604f89498b733a1aea59f3",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "url": "../../../assets/current/2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1.webp"
+      },
+      "game_assets": [
+        {
+          "bytes": 59501,
+          "fallback_url": "../../../assets/current/2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1.webp",
+          "locale": "neutral",
+          "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2040",
+          "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+          "orientation": "AS_STORED",
+          "presentation_transform": "native",
+          "role": "source_asset",
+          "sha256": "2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1",
+          "source": {
+            "converted_kind": "texture_png",
+            "stable_row_id": "7abc147d4c8ca32108604f89498b733a1aea59f3",
+            "table_name": "reconstructed_archive",
+            "vertical_flip_applied": 0
+          },
+          "url": "../../../assets/current/2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1.webp"
+        }
+      ],
+      "id": 215,
+      "image_status": "EXACT_MATCH",
+      "name": {
+        "text": "★Maya: Frizzle"
+      },
+      "numeric_id": 215,
+      "r41_ref": {
+        "id": 215,
+        "kind": "skill"
+      },
+      "r4_ref": {
+        "id": 215,
+        "kind": "skill"
+      },
+      "status": "Unchanged",
+      "subtitle": "Skill"
+    },
+    {
+      "baseline": false,
+      "category": "abilities",
+      "current": true,
+      "description": {
+        "text": "Equip to a green Memory slot with a star icon for a chance to get the ‘Meena: Snooze’ Blessing."
+      },
+      "display_asset": {
+        "bytes": 63556,
+        "fallback_url": "../../../assets/current/5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2039",
+        "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+        "orientation": "AS_STORED",
+        "presentation_transform": "native",
+        "role": "source_asset",
+        "sha256": "5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b",
+        "source": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "b295d01f1d31677400258ff66795c532e420b27b",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "url": "../../../assets/current/5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b.webp"
+      },
+      "evidence": {
+        "semantic_model": "smashdump.semantic_model.stage3.r4.3.combat.v1",
+        "source_ids": [
+          214
+        ],
+        "version_presence": {
+          "baseline": false,
+          "current": true
+        }
+      },
+      "facts": [
+        "1 levels",
+        "1 semantic variant(s)"
+      ],
+      "game_asset": {
+        "bytes": 63556,
+        "fallback_url": "../../../assets/current/5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2039",
+        "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+        "orientation": "AS_STORED",
+        "presentation_transform": "native",
+        "role": "source_asset",
+        "sha256": "5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b",
+        "source": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "b295d01f1d31677400258ff66795c532e420b27b",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "url": "../../../assets/current/5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b.webp"
+      },
+      "game_assets": [
+        {
+          "bytes": 63556,
+          "fallback_url": "../../../assets/current/5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b.webp",
+          "locale": "neutral",
+          "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2039",
+          "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+          "orientation": "AS_STORED",
+          "presentation_transform": "native",
+          "role": "source_asset",
+          "sha256": "5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b",
+          "source": {
+            "converted_kind": "texture_png",
+            "stable_row_id": "b295d01f1d31677400258ff66795c532e420b27b",
+            "table_name": "reconstructed_archive",
+            "vertical_flip_applied": 0
+          },
+          "url": "../../../assets/current/5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b.webp"
+        }
+      ],
+      "id": 214,
+      "image_status": "EXACT_MATCH",
+      "name": {
+        "text": "★Meena: Snooze"
+      },
+      "numeric_id": 214,
+      "r41_ref": {
+        "id": 214,
+        "kind": "skill"
+      },
+      "r4_ref": {
+        "id": 214,
+        "kind": "skill"
+      },
+      "status": "Unchanged",
+      "subtitle": "Skill"
+    },
+    {
+      "baseline": true,
+      "category": "abilities",
+      "current": true,
+      "description": {
         "text": "Equip to a yellow Memory slot with a star icon for a chance to get the ‘Ragnar: Healie's Bond’ Blessing."
       },
       "display_asset": {
@@ -24018,7 +24218,7 @@
           209
         ],
         "version_presence": {
-          "baseline": false,
+          "baseline": true,
           "current": true
         }
       },
@@ -24076,6 +24276,100 @@
       },
       "r4_ref": {
         "id": 209,
+        "kind": "skill"
+      },
+      "status": "Unchanged",
+      "subtitle": "Skill"
+    },
+    {
+      "baseline": false,
+      "category": "abilities",
+      "current": true,
+      "description": {
+        "text": "Equip to a blue Memory slot with a star icon for a chance to get the ‘Torneko: Merchant's Stash’ Blessing."
+      },
+      "display_asset": {
+        "bytes": 77428,
+        "fallback_url": "../../../assets/current/03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2038",
+        "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+        "orientation": "AS_STORED",
+        "presentation_transform": "native",
+        "role": "source_asset",
+        "sha256": "03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4",
+        "source": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "c8bf33a93c03b1e8625967fb6696b55f4c6e1dbe",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "url": "../../../assets/current/03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4.webp"
+      },
+      "evidence": {
+        "semantic_model": "smashdump.semantic_model.stage3.r4.3.combat.v1",
+        "source_ids": [
+          213
+        ],
+        "version_presence": {
+          "baseline": false,
+          "current": true
+        }
+      },
+      "facts": [
+        "1 levels",
+        "1 semantic variant(s)"
+      ],
+      "game_asset": {
+        "bytes": 77428,
+        "fallback_url": "../../../assets/current/03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2038",
+        "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+        "orientation": "AS_STORED",
+        "presentation_transform": "native",
+        "role": "source_asset",
+        "sha256": "03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4",
+        "source": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "c8bf33a93c03b1e8625967fb6696b55f4c6e1dbe",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "url": "../../../assets/current/03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4.webp"
+      },
+      "game_assets": [
+        {
+          "bytes": 77428,
+          "fallback_url": "../../../assets/current/03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4.webp",
+          "locale": "neutral",
+          "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2038",
+          "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+          "orientation": "AS_STORED",
+          "presentation_transform": "native",
+          "role": "source_asset",
+          "sha256": "03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4",
+          "source": {
+            "converted_kind": "texture_png",
+            "stable_row_id": "c8bf33a93c03b1e8625967fb6696b55f4c6e1dbe",
+            "table_name": "reconstructed_archive",
+            "vertical_flip_applied": 0
+          },
+          "url": "../../../assets/current/03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4.webp"
+        }
+      ],
+      "id": 213,
+      "image_status": "EXACT_MATCH",
+      "name": {
+        "text": "★Torneko: Merchant's Stash"
+      },
+      "numeric_id": 213,
+      "r41_ref": {
+        "id": 213,
+        "kind": "skill"
+      },
+      "r4_ref": {
+        "id": 213,
         "kind": "skill"
       },
       "status": "Unchanged",
@@ -24268,6 +24562,22 @@
       "status": "NON_GACHA"
     },
     "accessories:20020": {
+      "all_relationship_count": 0,
+      "duplicate_variants": [],
+      "featured": [],
+      "note": null,
+      "pool_membership_count": 0,
+      "status": "NON_GACHA"
+    },
+    "accessories:20023": {
+      "all_relationship_count": 0,
+      "duplicate_variants": [],
+      "featured": [],
+      "note": null,
+      "pool_membership_count": 0,
+      "status": "NON_GACHA"
+    },
+    "accessories:20024": {
       "all_relationship_count": 0,
       "duplicate_variants": [],
       "featured": [],
@@ -30058,6 +30368,58 @@
         "defense": 10,
         "deftness": 0,
         "hp": 0,
+        "magical_defense": 0,
+        "magical_mending": 0,
+        "magical_might": 0
+      },
+      "type": "Accessory"
+    },
+    "accessories:20023": {
+      "acquisition_sources": [],
+      "category": "accessories",
+      "comparison_state": "Maximum normal progression (Limit Break 5 where recorded)",
+      "coup_de_grace": null,
+      "elements": [],
+      "id": 20023,
+      "passive_count": 0,
+      "passives": [],
+      "rarity": 3,
+      "restriction_raw": [],
+      "restrictions": [],
+      "skill_count": 0,
+      "skills": [],
+      "stats": {
+        "attack": 20,
+        "defense": 0,
+        "deftness": 20,
+        "hp": 0,
+        "magical_defense": 0,
+        "magical_mending": 0,
+        "magical_might": 0
+      },
+      "type": "Accessory"
+    },
+    "accessories:20024": {
+      "acquisition_sources": [],
+      "category": "accessories",
+      "comparison_state": "Maximum normal progression (Limit Break 5 where recorded)",
+      "coup_de_grace": null,
+      "elements": [],
+      "id": 20024,
+      "passive_count": 0,
+      "passives": [],
+      "rarity": 3,
+      "restriction_raw": [],
+      "restrictions": [],
+      "skill_count": 1,
+      "skills": [
+        "Bang Blast"
+      ],
+      "stats": {
+        "attack": 0,
+        "defense": 20,
+        "deftness": 0,
+        "hp": 20,
         "magical_defense": 0,
         "magical_mending": 0,
         "magical_might": 0
@@ -39397,6 +39759,7 @@
       "skills": [
         "Accelerate de Grâce",
         "Avenger's Accelerate",
+        "Bang Blast",
         "Crack Arrow",
         "Frizz Projectiles",
         "Intermittent Buff",
@@ -40490,7 +40853,7 @@
       "url": "../../../assets/current/30e2a9d95bff6b74f5e47ba7d6288357da23ebc7b64f4c44bdabe8142e65f683.webp"
     }
   },
-  "game_version": "1.6.1.1",
+  "game_version": "1.6.1.4",
   "patch_id": "SMASHDUMP_STAGE3_R4_4_TYPED_ABILITY_GRAPH_SEMANTIC_REBUILD",
   "publication_allowed": false,
   "schema": "smashdump.semantic_model.stage3.r4.4.combat_graph.v1",
@@ -40507,7 +40870,7 @@
     "direct_projectile_wearing": 6,
     "direct_trigger_add_ability": 24,
     "hit_count_trigger": 1,
-    "typed_graph_generic": 66,
+    "typed_graph_generic": 69,
     "vocation_dual_axis": 24
   },
   "skill_audit": [
@@ -41484,12 +41847,39 @@
       "status": "TEXT_ONLY"
     },
     {
+      "id": 215,
+      "kind": "skill",
+      "levels": 1,
+      "levels_text_only": 1,
+      "levels_with_structured_mechanics": 0,
+      "name": "★Maya: Frizzle",
+      "status": "TEXT_ONLY"
+    },
+    {
+      "id": 214,
+      "kind": "skill",
+      "levels": 1,
+      "levels_text_only": 1,
+      "levels_with_structured_mechanics": 0,
+      "name": "★Meena: Snooze",
+      "status": "TEXT_ONLY"
+    },
+    {
       "id": 209,
       "kind": "skill",
       "levels": 1,
       "levels_text_only": 1,
       "levels_with_structured_mechanics": 0,
       "name": "★Ragnar: Healie's Bond",
+      "status": "TEXT_ONLY"
+    },
+    {
+      "id": 213,
+      "kind": "skill",
+      "levels": 1,
+      "levels_text_only": 1,
+      "levels_with_structured_mechanics": 0,
+      "name": "★Torneko: Merchant's Stash",
       "status": "TEXT_ONLY"
     },
     {
@@ -42898,9 +43288,39 @@
     },
     {
       "event_rank_axis": 0,
+      "id": 215,
+      "levels": 1,
+      "name": "★Maya: Frizzle",
+      "patterns": [
+        "typed_graph_generic"
+      ],
+      "status": "PASS"
+    },
+    {
+      "event_rank_axis": 0,
+      "id": 214,
+      "levels": 1,
+      "name": "★Meena: Snooze",
+      "patterns": [
+        "typed_graph_generic"
+      ],
+      "status": "PASS"
+    },
+    {
+      "event_rank_axis": 0,
       "id": 209,
       "levels": 1,
       "name": "★Ragnar: Healie's Bond",
+      "patterns": [
+        "typed_graph_generic"
+      ],
+      "status": "PASS"
+    },
+    {
+      "event_rank_axis": 0,
+      "id": 213,
+      "levels": 1,
+      "name": "★Torneko: Merchant's Stash",
       "patterns": [
         "typed_graph_generic"
       ],
@@ -82705,7 +83125,15 @@
       }
     },
     "1000001010": {
-      "backlinks": [],
+      "backlinks": [
+        {
+          "category": "accessories",
+          "detail": null,
+          "id": 20024,
+          "name": "Starry Studs",
+          "relation": "Granted by accessory"
+        }
+      ],
       "collapsed_implementation_rows": 0,
       "description": "Conjure 3 close-range blasts at regular intervals that inflict light damage.",
       "element": null,
@@ -82762,7 +83190,15 @@
       "variant_count": 1,
       "variants": [
         {
-          "backlinks": [],
+          "backlinks": [
+            {
+              "category": "accessories",
+              "detail": null,
+              "id": 20024,
+              "name": "Starry Studs",
+              "relation": "Granted by accessory"
+            }
+          ],
           "description": "Conjure 3 close-range blasts at regular intervals that inflict light damage.",
           "id": 1000001010,
           "label": "Bang Blast",
@@ -85546,7 +85982,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -85962,7 +86398,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -86311,7 +86747,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -86496,7 +86932,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -117701,7 +118137,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -121561,7 +121997,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -121815,7 +122251,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -122842,7 +123278,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -123763,7 +124199,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -124022,7 +124458,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -124251,7 +124687,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -125617,7 +126053,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -127162,7 +127598,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -127421,7 +127857,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -127592,7 +128028,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -127763,7 +128199,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -127939,7 +128375,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -128111,6 +128547,524 @@
           },
           "source_ids": [
             212
+          ]
+        }
+      ],
+      "version_presence": {
+        "baseline": true,
+        "current": true
+      }
+    },
+    "213": {
+      "backlinks": [
+        {
+          "category": "memories",
+          "detail": "S rank",
+          "id": 740014,
+          "name": "Torneko",
+          "relation": "Granted by Memory"
+        }
+      ],
+      "collapsed_implementation_rows": 0,
+      "description": "Equip to a blue Memory slot with a star icon for a chance to get the ‘Torneko: Merchant's Stash’ Blessing.",
+      "element": null,
+      "entity_id": 213,
+      "id": 213,
+      "image": {
+        "bytes": 77428,
+        "fallback_url": "../../../assets/current/03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2038",
+        "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+        "orientation": "AS_STORED",
+        "presentation_transform": "native",
+        "role": "source_asset",
+        "sha256": "03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4",
+        "source": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "c8bf33a93c03b1e8625967fb6696b55f4c6e1dbe",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "url": "../../../assets/current/03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4.webp"
+      },
+      "kind": "skill",
+      "level_count": 1,
+      "mechanics_audit": {
+        "levels": 1,
+        "levels_text_only": 1,
+        "levels_with_structured_mechanics": 0,
+        "status": "TEXT_ONLY"
+      },
+      "mechanics_audit_r4_4": {
+        "levels": 1,
+        "patterns": [
+          "typed_graph_generic"
+        ],
+        "status": "PASS"
+      },
+      "name": "★Torneko: Merchant's Stash",
+      "raw_variant_count": 1,
+      "semantic_graph_contract": {
+        "branch_context_preserved": true,
+        "flat_metric_bag_disabled": true,
+        "unknown_patterns_fail_visible": true
+      },
+      "source_ids": [
+        213
+      ],
+      "subtitle": "Skill",
+      "tags": [],
+      "technical_tags": [],
+      "variant_count": 1,
+      "variants": [
+        {
+          "backlinks": [
+            {
+              "category": "memories",
+              "detail": "S rank",
+              "id": 740014,
+              "name": "Torneko",
+              "relation": "Granted by Memory"
+            }
+          ],
+          "description": "Equip to a blue Memory slot with a star icon for a chance to get the ‘Torneko: Merchant's Stash’ Blessing.",
+          "id": 213,
+          "label": "★Torneko: Merchant's Stash",
+          "levels": [
+            {
+              "ability_ids": [],
+              "description": "Equip to a blue Memory slot with a star icon for a chance to get the ‘Torneko: Merchant's Stash’ Blessing.",
+              "implementation_count": 1,
+              "level": 1,
+              "mechanics": {
+                "components": [],
+                "conditions": [],
+                "outputs": []
+              },
+              "params": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "resolved_mechanics": {
+                "component_count": 0,
+                "conditions": [],
+                "metrics": [],
+                "projectile_profiles": [],
+                "unresolved_tables": []
+              },
+              "semantic_graph": {
+                "facts": [],
+                "graph_summary": {
+                  "ability_nodes": 0,
+                  "edge_count": 0,
+                  "edge_types": [],
+                  "root_ids": []
+                },
+                "pattern_id": "typed_graph_generic",
+                "resolution_status": "PASS",
+                "sections": [],
+                "statuses": [],
+                "summary": "Equip to a blue Memory slot with a star icon for a chance to get the ‘Torneko: Merchant's Stash’ Blessing.",
+                "suppressed_technical": [],
+                "unresolved": []
+              },
+              "source": {
+                "ability_id_list": "[]",
+                "description": "PickSkill/pickskill_friendshipevent309_toruneko_star_description",
+                "frame_type": 30,
+                "level": 1,
+                "param_1": 0,
+                "param_2": 0,
+                "param_3": 0,
+                "param_4": 0,
+                "param_5": 0,
+                "pick_skill_id": 213
+              },
+              "source_ability_ids": []
+            }
+          ],
+          "progression": [
+            {
+              "changes": [],
+              "current": [],
+              "description": "Equip to a blue Memory slot with a star icon for a chance to get the ‘Torneko: Merchant's Stash’ Blessing.",
+              "level": 1
+            }
+          ],
+          "raw_variant_count": 1,
+          "semantic_signature_sha256": "b5df944297f70f84fd0c96e458c42aa15d0b3f04ed4ff73a6551a28c90e3f254",
+          "source": {
+            "activation_type": 1,
+            "effect_type": 86,
+            "element": 99,
+            "enhance_type": null,
+            "id": 213,
+            "ignition_type": 1,
+            "is_auto_pick": 1,
+            "is_enhance_upgrade": 0,
+            "is_metal_hit": 0,
+            "is_replace_action": 0,
+            "is_show_trigger_log": 0,
+            "lot_tag_list": "[]",
+            "name": "PickSkill/pickskill_friendshipevent309_toruneko_star_name",
+            "special_effect_description": "Status/SpecialEffects/status_specialeffects_800320001_description",
+            "special_effect_name": "Status/SpecialEffects/status_specialeffects_800320001_name",
+            "thumbnail_path": "UI/Download/productimage/pic/prt_tmb_pic_2038",
+            "weight": 1
+          },
+          "source_ids": [
+            213
+          ]
+        }
+      ],
+      "version_presence": {
+        "baseline": false,
+        "current": true
+      }
+    },
+    "214": {
+      "backlinks": [
+        {
+          "category": "memories",
+          "detail": "S rank",
+          "id": 740015,
+          "name": "Meena",
+          "relation": "Granted by Memory"
+        }
+      ],
+      "collapsed_implementation_rows": 0,
+      "description": "Equip to a green Memory slot with a star icon for a chance to get the ‘Meena: Snooze’ Blessing.",
+      "element": null,
+      "entity_id": 214,
+      "id": 214,
+      "image": {
+        "bytes": 63556,
+        "fallback_url": "../../../assets/current/5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2039",
+        "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+        "orientation": "AS_STORED",
+        "presentation_transform": "native",
+        "role": "source_asset",
+        "sha256": "5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b",
+        "source": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "b295d01f1d31677400258ff66795c532e420b27b",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "url": "../../../assets/current/5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b.webp"
+      },
+      "kind": "skill",
+      "level_count": 1,
+      "mechanics_audit": {
+        "levels": 1,
+        "levels_text_only": 1,
+        "levels_with_structured_mechanics": 0,
+        "status": "TEXT_ONLY"
+      },
+      "mechanics_audit_r4_4": {
+        "levels": 1,
+        "patterns": [
+          "typed_graph_generic"
+        ],
+        "status": "PASS"
+      },
+      "name": "★Meena: Snooze",
+      "raw_variant_count": 1,
+      "semantic_graph_contract": {
+        "branch_context_preserved": true,
+        "flat_metric_bag_disabled": true,
+        "unknown_patterns_fail_visible": true
+      },
+      "source_ids": [
+        214
+      ],
+      "subtitle": "Skill",
+      "tags": [],
+      "technical_tags": [],
+      "variant_count": 1,
+      "variants": [
+        {
+          "backlinks": [
+            {
+              "category": "memories",
+              "detail": "S rank",
+              "id": 740015,
+              "name": "Meena",
+              "relation": "Granted by Memory"
+            }
+          ],
+          "description": "Equip to a green Memory slot with a star icon for a chance to get the ‘Meena: Snooze’ Blessing.",
+          "id": 214,
+          "label": "★Meena: Snooze",
+          "levels": [
+            {
+              "ability_ids": [],
+              "description": "Equip to a green Memory slot with a star icon for a chance to get the ‘Meena: Snooze’ Blessing.",
+              "implementation_count": 1,
+              "level": 1,
+              "mechanics": {
+                "components": [],
+                "conditions": [],
+                "outputs": []
+              },
+              "params": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "resolved_mechanics": {
+                "component_count": 0,
+                "conditions": [],
+                "metrics": [],
+                "projectile_profiles": [],
+                "unresolved_tables": []
+              },
+              "semantic_graph": {
+                "facts": [],
+                "graph_summary": {
+                  "ability_nodes": 0,
+                  "edge_count": 0,
+                  "edge_types": [],
+                  "root_ids": []
+                },
+                "pattern_id": "typed_graph_generic",
+                "resolution_status": "PASS",
+                "sections": [],
+                "statuses": [],
+                "summary": "Equip to a green Memory slot with a star icon for a chance to get the ‘Meena: Snooze’ Blessing.",
+                "suppressed_technical": [],
+                "unresolved": []
+              },
+              "source": {
+                "ability_id_list": "[]",
+                "description": "PickSkill/pickskill_friendshipevent309_minea_star_description",
+                "frame_type": 30,
+                "level": 1,
+                "param_1": 0,
+                "param_2": 0,
+                "param_3": 0,
+                "param_4": 0,
+                "param_5": 0,
+                "pick_skill_id": 214
+              },
+              "source_ability_ids": []
+            }
+          ],
+          "progression": [
+            {
+              "changes": [],
+              "current": [],
+              "description": "Equip to a green Memory slot with a star icon for a chance to get the ‘Meena: Snooze’ Blessing.",
+              "level": 1
+            }
+          ],
+          "raw_variant_count": 1,
+          "semantic_signature_sha256": "f72850d7e12b4a2e82d0196e9434ce9f657a6077e0c8706b5dd554a992c60f57",
+          "source": {
+            "activation_type": 1,
+            "effect_type": 86,
+            "element": 99,
+            "enhance_type": null,
+            "id": 214,
+            "ignition_type": 1,
+            "is_auto_pick": 1,
+            "is_enhance_upgrade": 0,
+            "is_metal_hit": 0,
+            "is_replace_action": 0,
+            "is_show_trigger_log": 0,
+            "lot_tag_list": "[]",
+            "name": "PickSkill/pickskill_friendshipevent309_minea_star_name",
+            "special_effect_description": "Status/SpecialEffects/status_specialeffects_800330001_description",
+            "special_effect_name": "Status/SpecialEffects/status_specialeffects_800330001_name",
+            "thumbnail_path": "UI/Download/productimage/pic/prt_tmb_pic_2039",
+            "weight": 1
+          },
+          "source_ids": [
+            214
+          ]
+        }
+      ],
+      "version_presence": {
+        "baseline": false,
+        "current": true
+      }
+    },
+    "215": {
+      "backlinks": [
+        {
+          "category": "memories",
+          "detail": "S rank",
+          "id": 740009,
+          "name": "Maya",
+          "relation": "Granted by Memory"
+        }
+      ],
+      "collapsed_implementation_rows": 0,
+      "description": "Equip to a purple Memory slot with a star icon for a chance to get the ‘Maya: Frizzle’ Blessing.",
+      "element": {
+        "icon_path": "prt_icon_attribute_element_01",
+        "id": 1,
+        "image": null,
+        "name": "Fire"
+      },
+      "entity_id": 215,
+      "id": 215,
+      "image": {
+        "bytes": 59501,
+        "fallback_url": "../../../assets/current/2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2040",
+        "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+        "orientation": "AS_STORED",
+        "presentation_transform": "native",
+        "role": "source_asset",
+        "sha256": "2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1",
+        "source": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "7abc147d4c8ca32108604f89498b733a1aea59f3",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "url": "../../../assets/current/2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1.webp"
+      },
+      "kind": "skill",
+      "level_count": 1,
+      "mechanics_audit": {
+        "levels": 1,
+        "levels_text_only": 1,
+        "levels_with_structured_mechanics": 0,
+        "status": "TEXT_ONLY"
+      },
+      "mechanics_audit_r4_4": {
+        "levels": 1,
+        "patterns": [
+          "typed_graph_generic"
+        ],
+        "status": "PASS"
+      },
+      "name": "★Maya: Frizzle",
+      "raw_variant_count": 1,
+      "semantic_graph_contract": {
+        "branch_context_preserved": true,
+        "flat_metric_bag_disabled": true,
+        "unknown_patterns_fail_visible": true
+      },
+      "source_ids": [
+        215
+      ],
+      "subtitle": "Skill",
+      "tags": [],
+      "technical_tags": [],
+      "variant_count": 1,
+      "variants": [
+        {
+          "backlinks": [
+            {
+              "category": "memories",
+              "detail": "S rank",
+              "id": 740009,
+              "name": "Maya",
+              "relation": "Granted by Memory"
+            }
+          ],
+          "description": "Equip to a purple Memory slot with a star icon for a chance to get the ‘Maya: Frizzle’ Blessing.",
+          "id": 215,
+          "label": "★Maya: Frizzle",
+          "levels": [
+            {
+              "ability_ids": [],
+              "description": "Equip to a purple Memory slot with a star icon for a chance to get the ‘Maya: Frizzle’ Blessing.",
+              "implementation_count": 1,
+              "level": 1,
+              "mechanics": {
+                "components": [],
+                "conditions": [],
+                "outputs": []
+              },
+              "params": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "resolved_mechanics": {
+                "component_count": 0,
+                "conditions": [],
+                "metrics": [],
+                "projectile_profiles": [],
+                "unresolved_tables": []
+              },
+              "semantic_graph": {
+                "facts": [],
+                "graph_summary": {
+                  "ability_nodes": 0,
+                  "edge_count": 0,
+                  "edge_types": [],
+                  "root_ids": []
+                },
+                "pattern_id": "typed_graph_generic",
+                "resolution_status": "PASS",
+                "sections": [],
+                "statuses": [],
+                "summary": "Equip to a purple Memory slot with a star icon for a chance to get the ‘Maya: Frizzle’ Blessing.",
+                "suppressed_technical": [],
+                "unresolved": []
+              },
+              "source": {
+                "ability_id_list": "[]",
+                "description": "PickSkill/pickskill_friendshipevent309_manya_star_description",
+                "frame_type": 30,
+                "level": 1,
+                "param_1": 0,
+                "param_2": 0,
+                "param_3": 0,
+                "param_4": 0,
+                "param_5": 0,
+                "pick_skill_id": 215
+              },
+              "source_ability_ids": []
+            }
+          ],
+          "progression": [
+            {
+              "changes": [],
+              "current": [],
+              "description": "Equip to a purple Memory slot with a star icon for a chance to get the ‘Maya: Frizzle’ Blessing.",
+              "level": 1
+            }
+          ],
+          "raw_variant_count": 1,
+          "semantic_signature_sha256": "853195bfb5e6da507d432b590d35c6ac911e9a0de0a79ec8c1067a94cc9e7736",
+          "source": {
+            "activation_type": 1,
+            "effect_type": 86,
+            "element": 1,
+            "enhance_type": null,
+            "id": 215,
+            "ignition_type": 1,
+            "is_auto_pick": 1,
+            "is_enhance_upgrade": 0,
+            "is_metal_hit": 0,
+            "is_replace_action": 0,
+            "is_show_trigger_log": 0,
+            "lot_tag_list": "[]",
+            "name": "PickSkill/pickskill_friendshipevent309_manya_star_name",
+            "special_effect_description": "Status/SpecialEffects/status_specialeffects_800340001_description",
+            "special_effect_name": "Status/SpecialEffects/status_specialeffects_800340001_name",
+            "thumbnail_path": "UI/Download/productimage/pic/prt_tmb_pic_2040",
+            "weight": 1
+          },
+          "source_ids": [
+            215
           ]
         }
       ],
@@ -130084,7 +131038,7 @@
         }
       ],
       "version_presence": {
-        "baseline": false,
+        "baseline": true,
         "current": true
       }
     },
@@ -148538,13 +149492,13 @@
     }
   },
   "source_binding": {
-    "acquisition_seal_sha256": "fd5a0af82ca3740b35d90fd0c13acbaaf60e7948ef7516210472e092e0056058",
-    "asset_a_sha256": "64da086b04463bf2527684fac2fb0d49fcba0a31758d7afcf0e2df76162edc65",
-    "asset_snapshot_sha256": "3b9aa9b3ec9d6b0a1461e8e3e46b16cced9a0f765429db5c51d26ea98f376f57",
-    "dictionary_sha256": "413f82397924e5cc8dda30fcd560dacd70c208763da787c364357bd22e5d0a31",
-    "masterdata_sha256": "63af5a620d8754169028850cdfa87db7fc777e49d731133b347b08f312fe3b88",
-    "repository_manifest_sha256": "1d0b4d57ce7c65f6fc192f93f34411ce2ed387af02c516dacda1d889105a65a1",
-    "runtime_enums_sha256": "2f43fa3e6418e47bfb04ea3080797dc69406d3ad359049c68a707eeecd7af417",
+    "acquisition_seal_sha256": "8fbf4c5e056f160ee3580fb137d55d5b98978ecffd75c009f76eaa1f36474c6a",
+    "asset_a_sha256": "3126b5f82b11723655a51332164d164baa4f2885e26e03462a866661de5a19c7",
+    "asset_snapshot_sha256": "f906817c51f296f1795a2fba56689abdbd004956398dae583e24ddcabdbfaf2e",
+    "dictionary_sha256": "fb0652ae6050b400dfbf857f0ab3d85a595f2d60fd120824511998f275e63980",
+    "masterdata_sha256": "ae3917369af4e85e5c1a31259d73baff042fd5dc17c614f0423af700fdbf89bd",
+    "repository_manifest_sha256": "1e291e1b8f47775cf51ed98995a3252260e2e9628f145b6699bf08ed424ef4e9",
+    "runtime_enums_sha256": "9ef98dadae11b9e817a450de0be7fe56deb454b3bbf14257c6417ba03844b090",
     "s1_id": "SMASHDUMP_S1_SUCCESSOR_CONSTRUCTION_R1"
   },
   "status_effect_registry": {

@@ -1445,6 +1445,40 @@
       },
       "url": "../../../assets/current/81c7621b839fb8011384e21acc6970ae9e38289c3798779e79a850cacc8fae4d.webp"
     },
+    "UI/Download/adventure/bg/prt_Bg00008_040": {
+      "bytes": 2611221,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/bg/prt_Bg00008_040",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "0ed33b78199080d275ac71e436e3bc23d9aab6036c5de819e9b49c2373868de8",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "d426de8db37af5319275d12682cb465d60e0f5d8",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/0ed33b78199080d275ac71e436e3bc23d9aab6036c5de819e9b49c2373868de8.webp"
+    },
+    "UI/Download/adventure/bg/prt_Bg00008_041": {
+      "bytes": 2269137,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/bg/prt_Bg00008_041",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "ad534806d528f67a2db84cd04aacc9f3c25db0d0122a765db2058c56f2307e9b",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "16b9fee3314e99f510bc3ac353db50bb035479c5",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/ad534806d528f67a2db84cd04aacc9f3c25db0d0122a765db2058c56f2307e9b.webp"
+    },
     "UI/Download/adventure/bg/prt_Bg00008_050": {
       "bytes": 2740695,
       "locale": "neutral",
@@ -2159,6 +2193,40 @@
       },
       "url": "../../../assets/current/e670fd9da6e95bbf1241809e8a04a47432a4ca2a72b2f1db388e4b81426cb7de.webp"
     },
+    "UI/Download/adventure/bg/prt_Bg00022_030": {
+      "bytes": 1153613,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/bg/prt_Bg00022_030",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "c75027c60ef3abce9e708b8e30f4156d6f3f3ca0fbef5c98043ac7d175c2ee9e",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "1af7a9ef085b8066d9ecd097d5b4a8b83b7900cb",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/c75027c60ef3abce9e708b8e30f4156d6f3f3ca0fbef5c98043ac7d175c2ee9e.webp"
+    },
+    "UI/Download/adventure/bg/prt_Bg00022_031": {
+      "bytes": 979176,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/bg/prt_Bg00022_031",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "0147af3303c45cb0ca8a4d289b3f629656ff835297e0c78a68ef0c2cf2309145",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "ede9518ae55040f276f7a7b64e0529701c18d230",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/0147af3303c45cb0ca8a4d289b3f629656ff835297e0c78a68ef0c2cf2309145.webp"
+    },
     "UI/Download/adventure/bg/prt_Bg00023_010": {
       "bytes": 2572759,
       "locale": "neutral",
@@ -2499,6 +2567,74 @@
       },
       "url": "../../../assets/current/5a4933bf832e2cc0d9e08f1333e4bbecc57e6f6da0305d200a9c6d549de3ad97.webp"
     },
+    "UI/Download/adventure/bg/prt_Bg00035_010": {
+      "bytes": 2385780,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/bg/prt_Bg00035_010",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "362e8e170bb9f66516278b714966d45cdfcac616eaed0b21e3ef3a23513fbdb3",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "d448bd096b4ec799d896d5800bf3b02465631443",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/362e8e170bb9f66516278b714966d45cdfcac616eaed0b21e3ef3a23513fbdb3.webp"
+    },
+    "UI/Download/adventure/bg/prt_Bg00035_011": {
+      "bytes": 1723111,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/bg/prt_Bg00035_011",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "2a4d31296c17b712fd181b926b1b35be842b1eeb8140e66d36d8b2be46470aaf",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "fb7c1216c551298065fda5528ee61c9d2300d5a1",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/2a4d31296c17b712fd181b926b1b35be842b1eeb8140e66d36d8b2be46470aaf.webp"
+    },
+    "UI/Download/adventure/bg/prt_Bg00037_020": {
+      "bytes": 2128181,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/bg/prt_Bg00037_020",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "4c65e8dce3dba7c8eb67d4e5955bd5cfdcf0c98c75b68a8ecf452bd9775e1083",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "ff4844dd64c0f9a626415d805a0d12f7e87e7076",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/4c65e8dce3dba7c8eb67d4e5955bd5cfdcf0c98c75b68a8ecf452bd9775e1083.webp"
+    },
+    "UI/Download/adventure/bg/prt_Bg00037_021": {
+      "bytes": 1648524,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/bg/prt_Bg00037_021",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "0013e7d0210458720c8e2b878c10169a78ba064162c5dd8386b71f3561b75428",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "28abbd6e45878f575922b4e9cb62de178b1e73b5",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/0013e7d0210458720c8e2b878c10169a78ba064162c5dd8386b71f3561b75428.webp"
+    },
     "UI/Download/adventure/chara/Chr101000201/prt_Chr101000201_face_01": {
       "bytes": 51254,
       "locale": "neutral",
@@ -2787,6 +2923,210 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/2a5977b079c98331e26869d1e007aca1af0bf82ef36d05a2c5a746e23f13b7b6.webp"
+    },
+    "UI/Download/adventure/chara/Chr104000701/prt_Chr104000701_full": {
+      "bytes": 1773598,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104000701/prt_Chr104000701_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "634a27b2d43cf2c33c6210198fdb50091ee6450e7085c5cb05b3fe44772cbdc8",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "faa0377c292ed279ba70de34835bf6d7eb2d803f",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/634a27b2d43cf2c33c6210198fdb50091ee6450e7085c5cb05b3fe44772cbdc8.webp"
+    },
+    "UI/Download/adventure/chara/Chr104000701/prt_Chr104000701_thumb_01": {
+      "bytes": 136928,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104000701/prt_Chr104000701_thumb_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "ace9b8ac1d3ab4d336c1e32b02f617648b4480cce85f7868a86129a065377470",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "ec1a6d7a0f052bd1853bee51c92eb21e0a3744c9",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/ace9b8ac1d3ab4d336c1e32b02f617648b4480cce85f7868a86129a065377470.webp"
+    },
+    "UI/Download/adventure/chara/Chr104000801/prt_Chr104000801_full": {
+      "bytes": 936435,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104000801/prt_Chr104000801_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "0672b734bac3ad19e24c1d3f6ed68edc5a62602741947ea319494dbfcdb12203",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "12052c31f70c582d2fde0dc52cd2a73efc34a455",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/0672b734bac3ad19e24c1d3f6ed68edc5a62602741947ea319494dbfcdb12203.webp"
+    },
+    "UI/Download/adventure/chara/Chr104000801/prt_Chr104000801_thumb_01": {
+      "bytes": 105565,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104000801/prt_Chr104000801_thumb_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "13f3aad88da690f20136c7e69dc446dc7a755c0aa70c9d96f922cc5fe752b030",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "702f06774b8c5ead8f1b4e7d7523eed692e43cd1",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/13f3aad88da690f20136c7e69dc446dc7a755c0aa70c9d96f922cc5fe752b030.webp"
+    },
+    "UI/Download/adventure/chara/Chr104000901/prt_Chr104000901_full": {
+      "bytes": 1062580,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104000901/prt_Chr104000901_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "2ebd4a1beb6c9d025af2557e442fd871a4b064c01a0e9020086b07325f66d42d",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "55ac5e6f1d9b716c36a11198376df135c519b2d1",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/2ebd4a1beb6c9d025af2557e442fd871a4b064c01a0e9020086b07325f66d42d.webp"
+    },
+    "UI/Download/adventure/chara/Chr104000901/prt_Chr104000901_thumb_01": {
+      "bytes": 89880,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104000901/prt_Chr104000901_thumb_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "e65d67bd26ea6f498a1cc39b94d35a8741cf2cc55654d52349a9df21793bb94a",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "8f5442e2c503483c0dd0443c44548e3bc4ca4fc0",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/e65d67bd26ea6f498a1cc39b94d35a8741cf2cc55654d52349a9df21793bb94a.webp"
+    },
+    "UI/Download/adventure/chara/Chr104001001/prt_Chr104001001_full": {
+      "bytes": 2467158,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104001001/prt_Chr104001001_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "669eea7371399f3e1dd570ccf0a46346926191e03f0323ea491b10d86072e13a",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "c2f1e0d9d9c09524629a887cd07b39b59033e8b2",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/669eea7371399f3e1dd570ccf0a46346926191e03f0323ea491b10d86072e13a.webp"
+    },
+    "UI/Download/adventure/chara/Chr104001001/prt_Chr104001001_thumb_01": {
+      "bytes": 146206,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104001001/prt_Chr104001001_thumb_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "ae919d0fa94003cfb04507ba0466058e64ee9d4f9ed51f78d120b2158853c9fd",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "c5a775b1b24cd409f5f3b7236d71236e0791cb0c",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/ae919d0fa94003cfb04507ba0466058e64ee9d4f9ed51f78d120b2158853c9fd.webp"
+    },
+    "UI/Download/adventure/chara/Chr104001201/prt_Chr104001201_full": {
+      "bytes": 836408,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104001201/prt_Chr104001201_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "87f8f618bb732042f10ea96c139e4beef85c8d811f2991596766199d4059a62c",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "884b1c2378eb057a9520c513450f6192ba5ca030",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/87f8f618bb732042f10ea96c139e4beef85c8d811f2991596766199d4059a62c.webp"
+    },
+    "UI/Download/adventure/chara/Chr104001201/prt_Chr104001201_thumb_01": {
+      "bytes": 86056,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104001201/prt_Chr104001201_thumb_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "fb175d0a0f88c97b2825380f239afb3c1b5a37c474358fbe06a75bfe79edb43c",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "ef78be1421a2cd18ee314398581dbea9d28cabb8",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/fb175d0a0f88c97b2825380f239afb3c1b5a37c474358fbe06a75bfe79edb43c.webp"
+    },
+    "UI/Download/adventure/chara/Chr104001301/prt_Chr104001301_full": {
+      "bytes": 365150,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104001301/prt_Chr104001301_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "61c499bf7c2b6e7bfba3abbf6e3e145b488bebea60c9a16123438fac3cf3a801",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "427685c261c1f5ce8a0ce55a6d37acdc30dc7994",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/61c499bf7c2b6e7bfba3abbf6e3e145b488bebea60c9a16123438fac3cf3a801.webp"
+    },
+    "UI/Download/adventure/chara/Chr104001301/prt_Chr104001301_thumb_01": {
+      "bytes": 60574,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104001301/prt_Chr104001301_thumb_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "d98e2326aa025586eceedaa66773db95bbd42c2c6b95778eebc9a938cf5ef722",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "15839e0a3b6fc6ee4910a91d687f5df8e579d467",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/d98e2326aa025586eceedaa66773db95bbd42c2c6b95778eebc9a938cf5ef722.webp"
     },
     "UI/Download/adventure/chara/Chr106000101/prt_Chr106000101_full": {
       "bytes": 1333405,
@@ -3179,6 +3519,23 @@
       },
       "url": "../../../assets/current/f74e957274f09023afc4e347679ba3a5f9e29ff0824ead6c14bfb9fddc293b79.webp"
     },
+    "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_face_06": {
+      "bytes": 23556,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_face_06",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "498a606b60b85e44ef27cb739a9116d10473d590dd1c31dd83f2bbbfa54b8da6",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "5bef738cd3e33657e4c1c82df28c12070540c607",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/498a606b60b85e44ef27cb739a9116d10473d590dd1c31dd83f2bbbfa54b8da6.webp"
+    },
     "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_face_07": {
       "bytes": 21972,
       "locale": "neutral",
@@ -3297,6 +3654,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/038a5a3c91bf68503dc66e45290ddb7c14b2b5197afb241c7bef353516598f07.webp"
+    },
+    "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_thumb_06": {
+      "bytes": 86255,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_thumb_06",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "b4005a0908a6dcb00fd346b65688c779df6d609befbd2b0ea3ee8476fd647212",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "67479681ebd89bdfdeb1d56037c0012a113588dc",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/b4005a0908a6dcb00fd346b65688c779df6d609befbd2b0ea3ee8476fd647212.webp"
     },
     "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_thumb_07": {
       "bytes": 84920,
@@ -6341,6 +6715,23 @@
       },
       "url": "../../../assets/current/359be64aaffd97a76794a74e0f1463c79f13b5b71f6b7c925a65f28d9b883139.webp"
     },
+    "UI/Download/adventure/item/prt_adv_itm_189010038": {
+      "bytes": 126997,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/item/prt_adv_itm_189010038",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "78c2c6a1130c74fd689ed42da0fcfbdf0dd081d6a304bd00f8bb4c96e7d9ead9",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "01f80abafd2fd664c735ea04cf876617dfc97f05",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/78c2c6a1130c74fd689ed42da0fcfbdf0dd081d6a304bd00f8bb4c96e7d9ead9.webp"
+    },
     "UI/Download/adventure/item/prt_adv_itm_189010040": {
       "bytes": 157691,
       "locale": "neutral",
@@ -6918,6 +7309,40 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/13f560eb93260a26e906857d064ce3e993c07ffc0b7c2cdf6c15502df9708445.webp"
+    },
+    "UI/Download/adventure/mns/Mns160001/prt_Mns160001_full": {
+      "bytes": 470347,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mns/Mns160001/prt_Mns160001_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "6a7fb5f52202b6a38eb5dbd2d3b7195d85f138a949c4345504a160431094cc1d",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "e15ca57646f6efbb9ac1aeb46dc2eb818873cb7b",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/6a7fb5f52202b6a38eb5dbd2d3b7195d85f138a949c4345504a160431094cc1d.webp"
+    },
+    "UI/Download/adventure/mns/Mns160001/prt_Mns160001_thumb": {
+      "bytes": 91110,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mns/Mns160001/prt_Mns160001_thumb",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "373e3ec935d03a5e01d4572a6b6080f4490f3163232b2a7fc348a5775f7820b0",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "24e28f4a11e427896409af8017508c1bbcadda91",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/373e3ec935d03a5e01d4572a6b6080f4490f3163232b2a7fc348a5775f7820b0.webp"
     },
     "UI/Download/adventure/mns/Mns165001/prt_Mns165001_full": {
       "bytes": 451321,
@@ -7497,6 +7922,40 @@
       },
       "url": "../../../assets/current/87971fbb11947965eb3dbfba5a9684249a1d5946ae239a3b4c220b5d06464eb4.webp"
     },
+    "UI/Download/adventure/mns/mns0011_06_001/prt_mns0011_06_001_full": {
+      "bytes": 434964,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mns/mns0011_06_001/prt_mns0011_06_001_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "fdb6c6fab8b29faef1176abf76a5986a76291f6255c88dae92f179793a473dfb",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "3215679f591dff6d0a161ebdaf77f5cea83a8d5c",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/fdb6c6fab8b29faef1176abf76a5986a76291f6255c88dae92f179793a473dfb.webp"
+    },
+    "UI/Download/adventure/mns/mns0011_06_001/prt_mns0011_06_001_thumb": {
+      "bytes": 72443,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mns/mns0011_06_001/prt_mns0011_06_001_thumb",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "3e1c36fae65a361df37b1ef31be887cc425c0da360cb6cca11ecc3ce8fb4a1d9",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "2bad8c67e680261e2aab610c6373fd1a30a29657",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/3e1c36fae65a361df37b1ef31be887cc425c0da360cb6cca11ecc3ce8fb4a1d9.webp"
+    },
     "UI/Download/adventure/mns/mns0013_01_001/prt_mns0013_01_001_full": {
       "bytes": 317202,
       "locale": "neutral",
@@ -7768,6 +8227,40 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/749fc517111d3e2ac44dedaa3491e8b73b5b1c9544148ef2c152bbbb8563fbd5.webp"
+    },
+    "UI/Download/adventure/mns/mns0059_02_001/prt_mns0059_02_001_full": {
+      "bytes": 630510,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mns/mns0059_02_001/prt_mns0059_02_001_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "c0b4ad16ad77681c53b5ad1cbb837a604288137fe0ec511e48473c27f0361a87",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "26f553cbfb9119e4be7d54546d0ad02a55ec8bca",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/c0b4ad16ad77681c53b5ad1cbb837a604288137fe0ec511e48473c27f0361a87.webp"
+    },
+    "UI/Download/adventure/mns/mns0059_02_001/prt_mns0059_02_001_thumb": {
+      "bytes": 95343,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mns/mns0059_02_001/prt_mns0059_02_001_thumb",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "3efd1ba9725b10cff620555fc43dc0a7109b281c1b0878ae6bd49ee1a8033043",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "4af3299e343aaf0d32088d35aa3a693f9eac6807",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/3efd1ba9725b10cff620555fc43dc0a7109b281c1b0878ae6bd49ee1a8033043.webp"
     },
     "UI/Download/adventure/mns/mns0078_01_001/prt_mns0078_01_001_full": {
       "bytes": 1516738,
@@ -8942,6 +9435,40 @@
       },
       "url": "../../../assets/current/d5b0d44b7c41f149e79f818f8ef59fa31471dab84b8b7a9516ed65867e453acd.webp"
     },
+    "UI/Download/adventure/mob/Mob10012/prt_Mob10012_05_full": {
+      "bytes": 654496,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mob/Mob10012/prt_Mob10012_05_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "daf7d42d7bd225477931e9e49d00aa6c175964508207afd3fbac6fba2bfcd44d",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "0129f358a04b007fe4973482ddcb8904f9191541",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/daf7d42d7bd225477931e9e49d00aa6c175964508207afd3fbac6fba2bfcd44d.webp"
+    },
+    "UI/Download/adventure/mob/Mob10012/prt_Mob10012_05_thumb": {
+      "bytes": 80772,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mob/Mob10012/prt_Mob10012_05_thumb",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "18bb5b3c6985b98987cc25ad6f3681cde55a23c9a7d84fa1a7135c1d7bba6bcf",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "d41cfe1b32ae462a11c424e4b822b5a8846b7882",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/18bb5b3c6985b98987cc25ad6f3681cde55a23c9a7d84fa1a7135c1d7bba6bcf.webp"
+    },
     "UI/Download/adventure/mob/Mob10013/prt_Mob10013_01_full": {
       "bytes": 432547,
       "locale": "neutral",
@@ -9486,6 +10013,40 @@
       },
       "url": "../../../assets/current/4547158b1d9f378193f2d7a8ac4d082cc6f79ad9966aa6258a9c077107aa7ee4.webp"
     },
+    "UI/Download/adventure/mob/Mob10024/prt_Mob10024_05_full": {
+      "bytes": 690168,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mob/Mob10024/prt_Mob10024_05_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "fc1b470d69867a95bec41d6aa171f62248a88c3ce49f844c2293b48b3cc7adc7",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "acb5d142de0d82efc23fdcd5a679b3d1798f1577",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/fc1b470d69867a95bec41d6aa171f62248a88c3ce49f844c2293b48b3cc7adc7.webp"
+    },
+    "UI/Download/adventure/mob/Mob10024/prt_Mob10024_05_thumb": {
+      "bytes": 80863,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mob/Mob10024/prt_Mob10024_05_thumb",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "4b1eb1ada8b03bcb06a70174cf379390bf663ceab0c4a5699dd752cd398eb6fb",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "633e9388494ae2824331be7c6f767b73f28ec105",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/4b1eb1ada8b03bcb06a70174cf379390bf663ceab0c4a5699dd752cd398eb6fb.webp"
+    },
     "UI/Download/adventure/mob/Mob10025/prt_Mob10025_01_full": {
       "bytes": 699861,
       "locale": "neutral",
@@ -9690,6 +10251,40 @@
       },
       "url": "../../../assets/current/df9de8586a554bbfd87aaa1e6d2e6ddeac8631f1fef5bef6d90d3994742a916d.webp"
     },
+    "UI/Download/adventure/mob/Mob10032/prt_Mob10032_01_full": {
+      "bytes": 833288,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mob/Mob10032/prt_Mob10032_01_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "9ba3466ff14a7bb9b9bb33c79be7c288c91d3d713a8a97c997513977af618509",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "fec3eeb844b4c3259171ea05cacf5467e1828375",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/9ba3466ff14a7bb9b9bb33c79be7c288c91d3d713a8a97c997513977af618509.webp"
+    },
+    "UI/Download/adventure/mob/Mob10032/prt_Mob10032_01_thumb": {
+      "bytes": 80344,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mob/Mob10032/prt_Mob10032_01_thumb",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "4009b7c72a3d4b43fbd0969aba15ee72ef375b1032a8cdcb30a42a76deaff019",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "30adecdc36287c0b5711cafca0e4d54eb0192cf5",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/4009b7c72a3d4b43fbd0969aba15ee72ef375b1032a8cdcb30a42a76deaff019.webp"
+    },
     "UI/Download/adventure/mob/Mob20001/prt_Mob20001_01_full": {
       "bytes": 469938,
       "locale": "neutral",
@@ -9791,6 +10386,40 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/1d48870a1e49d37aeff93d0d204897ec6dde009ad42003276c05a2c107ee7178.webp"
+    },
+    "UI/Download/adventure/mob/Mob20002/prt_Mob20002_02_full": {
+      "bytes": 508075,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mob/Mob20002/prt_Mob20002_02_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "3fdc7af5444af4e265288456363fcd35860b536b5e8abddf672221cd89e13c1e",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "20da2e93779c6b980b14d4e80eed12ff2a1a6b64",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/3fdc7af5444af4e265288456363fcd35860b536b5e8abddf672221cd89e13c1e.webp"
+    },
+    "UI/Download/adventure/mob/Mob20002/prt_Mob20002_02_thumb": {
+      "bytes": 71627,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mob/Mob20002/prt_Mob20002_02_thumb",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "ab0a712d8b373ea6396a4771baef8c5655c8f17015019e538b9f1be63f722f3e",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "66cc32d76d7ed9d903aa48fa45d86279356a5ec6",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/ab0a712d8b373ea6396a4771baef8c5655c8f17015019e538b9f1be63f722f3e.webp"
     },
     "UI/Download/adventure/mob/Mob20002/prt_Mob20002_04_full": {
       "bytes": 512807,
@@ -14807,6 +15436,23 @@
       },
       "url": "../../../assets/current/508a4ad312c0f441aa642060e379dac251d7ce532e50c5dd4d1d9d803413745e.webp"
     },
+    "UI/Download/banner/quest/prt_bnr_quest_230905": {
+      "bytes": 407523,
+      "locale": "en",
+      "logical_path": "UI/Download/banner/quest/prt_bnr_quest_230905",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "b1a6d512fdc45beda1fbd9e963b638a312ae4f4d0dcd530b062799a4bf971602",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "c5f47f9b6827b0b53d15f98fcac56e7663d766c0",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/b1a6d512fdc45beda1fbd9e963b638a312ae4f4d0dcd530b062799a4bf971602.webp"
+    },
     "UI/Download/banner/quest/prt_bnr_quest_230909": {
       "bytes": 279583,
       "locale": "en",
@@ -14823,6 +15469,57 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/864e5bd42340aa30f63843b7139ba40d8e158002a57c3c9abadcb7e92d5f56af.webp"
+    },
+    "UI/Download/banner/quest/prt_bnr_quest_230910": {
+      "bytes": 281134,
+      "locale": "en",
+      "logical_path": "UI/Download/banner/quest/prt_bnr_quest_230910",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "f8bc177f4d715db42610f181b6efc9e6d59f2603cd694245c748170e4079f554",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "92888c696f5f3c87ff5c41ccedcda60ca6945d23",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/f8bc177f4d715db42610f181b6efc9e6d59f2603cd694245c748170e4079f554.webp"
+    },
+    "UI/Download/banner/quest/prt_bnr_quest_230911": {
+      "bytes": 368607,
+      "locale": "en",
+      "logical_path": "UI/Download/banner/quest/prt_bnr_quest_230911",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "42a906fbc0ac63a64dd0c8dd9d78247e53e80ad08a490bdbc286821f3142683d",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "405e0baf72f6da0fa0ac1c086da03660ea5fbb3a",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/42a906fbc0ac63a64dd0c8dd9d78247e53e80ad08a490bdbc286821f3142683d.webp"
+    },
+    "UI/Download/banner/quest/prt_bnr_quest_230912": {
+      "bytes": 386367,
+      "locale": "en",
+      "logical_path": "UI/Download/banner/quest/prt_bnr_quest_230912",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "3758f8c4db0d42439daff6da267f49e47164921bc8b9344335f065ff05780f96",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "f7f11d8c92611698d7c45ab29434d8f93dacd8a0",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/3758f8c4db0d42439daff6da267f49e47164921bc8b9344335f065ff05780f96.webp"
     },
     "UI/Download/banner/quest/prt_bnr_quest_230914": {
       "bytes": 161414,
@@ -17816,6 +18513,57 @@
       },
       "url": "../../../assets/current/c97f6fe1b5a736e319139e2a32b74a4969b74dbac84750b5fbe928ec68442eb7.webp"
     },
+    "UI/Download/event/event309/prt_bg_cutin_06": {
+      "bytes": 1722975,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_bg_cutin_06",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "be4f60f04e336965a5494fb29a58fe2aeb96b4ea859a7ceaae6dd77fb79ad8a4",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "f6e22145ba7560ff81c08a2f16075a11ad99e3b2",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/be4f60f04e336965a5494fb29a58fe2aeb96b4ea859a7ceaae6dd77fb79ad8a4.webp"
+    },
+    "UI/Download/event/event309/prt_bg_cutin_07": {
+      "bytes": 1723723,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_bg_cutin_07",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "5e616f066ff8ad607a2a589ac0dc6ee2142f267f9530bdd330a8f41bb568c9f1",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "391ed3775409e72b6c57686d47704b76ca0cbc1d",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/5e616f066ff8ad607a2a589ac0dc6ee2142f267f9530bdd330a8f41bb568c9f1.webp"
+    },
+    "UI/Download/event/event309/prt_bg_cutin_08": {
+      "bytes": 1721936,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_bg_cutin_08",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "13b91499c1102092a0cc2cdb69b136770eb7dfff4d4156f109f0224d4a267372",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "f7ec9d284c7b7853f77a686c3fbddcd99daf4a56",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/13b91499c1102092a0cc2cdb69b136770eb7dfff4d4156f109f0224d4a267372.webp"
+    },
     "UI/Download/event/event309/prt_event209_tmb_02": {
       "bytes": 153114,
       "locale": "neutral",
@@ -17883,6 +18631,57 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/db20f896579159f36b55676f46b2394a48c289b6a040397f2e10bdb549e5190c.webp"
+    },
+    "UI/Download/event/event309/prt_event209_tmb_06": {
+      "bytes": 173943,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event209_tmb_06",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "c8678d866841e75e9444db703700d289f36509d4f2754abfc1b33ae94a8f5fbc",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "44652b597b4a7cc02d63718f1ebb4e07e7f3bc90",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/c8678d866841e75e9444db703700d289f36509d4f2754abfc1b33ae94a8f5fbc.webp"
+    },
+    "UI/Download/event/event309/prt_event209_tmb_07": {
+      "bytes": 147511,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event209_tmb_07",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "700a1adabbb0eb3a87b2b7a2c6e48a3cae97d1f189da50d3a39b0135b819c3be",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "2ea192a8e01ddae9868484f3e851eed3c67489c1",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/700a1adabbb0eb3a87b2b7a2c6e48a3cae97d1f189da50d3a39b0135b819c3be.webp"
+    },
+    "UI/Download/event/event309/prt_event209_tmb_08": {
+      "bytes": 144106,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event209_tmb_08",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "e68807178642cdfc8930a08070352f888200be8334372ba425a3f43b74411275",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "fa02011d23aaffcf5f451210289308fa61fa786c",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/e68807178642cdfc8930a08070352f888200be8334372ba425a3f43b74411275.webp"
     },
     "UI/Download/event/event309/prt_event309_Chr104000301_full": {
       "bytes": 472354,
@@ -17952,6 +18751,57 @@
       },
       "url": "../../../assets/current/d4bd7840655546bd6e52c8e6916fd1e65aa72bd8b655f9595663286f21d039a3.webp"
     },
+    "UI/Download/event/event309/prt_event309_Chr104000701_full": {
+      "bytes": 744483,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event309_Chr104000701_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "d4017bd9432c728115f56bff8c8661932b779cab1a3632412493e0d8dfaeb93e",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "bb01a1b13e6c1a6bdfe4af0d7b92c65d351fc6fd",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/d4017bd9432c728115f56bff8c8661932b779cab1a3632412493e0d8dfaeb93e.webp"
+    },
+    "UI/Download/event/event309/prt_event309_Chr104000801_full": {
+      "bytes": 502203,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event309_Chr104000801_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "d989ee0dd0c8412fe677d337ea9729118e9bd48b671a968c69a9003f984bde1d",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "3e6d9fdc4553148bc1426b147fe02ba75eb0f4ec",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/d989ee0dd0c8412fe677d337ea9729118e9bd48b671a968c69a9003f984bde1d.webp"
+    },
+    "UI/Download/event/event309/prt_event309_Chr104000901_full": {
+      "bytes": 540650,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event309_Chr104000901_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "e9dffd5ad5e38dd58dba61d457a98fb43e3787c4e0d0c49da14e9059f1ff374c",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "ea503167331b9bd94f4ad7772da6d0e9575170f2",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/e9dffd5ad5e38dd58dba61d457a98fb43e3787c4e0d0c49da14e9059f1ff374c.webp"
+    },
     "UI/Download/event/event309/prt_event309_tab_02_unopened": {
       "bytes": 10372,
       "locale": "neutral",
@@ -18019,6 +18869,57 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/a118974464d345646af99850e3530f989ea016f24f84267a5be9bf1a460f44e3.webp"
+    },
+    "UI/Download/event/event309/prt_event309_tab_06_unopened": {
+      "bytes": 10488,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event309_tab_06_unopened",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "46ee4046611e29f8ce5c088a950d602db94e1267e81a216379e7ab97b66a3597",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "e4a9117d5f232d4319e17d5d373049911473f2f0",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/46ee4046611e29f8ce5c088a950d602db94e1267e81a216379e7ab97b66a3597.webp"
+    },
+    "UI/Download/event/event309/prt_event309_tab_07_unopened": {
+      "bytes": 10182,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event309_tab_07_unopened",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "2cd27fc9366915de3fbc9649ca99b366aa62c5f024d7b70556fa7a0bc703da34",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "700e38897880e2f5e4814dab3c43c724e14aa106",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/2cd27fc9366915de3fbc9649ca99b366aa62c5f024d7b70556fa7a0bc703da34.webp"
+    },
+    "UI/Download/event/event309/prt_event309_tab_08_unopened": {
+      "bytes": 10154,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event309_tab_08_unopened",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "84139246d1b0dbe0f0281debe28c678544a57757bd5628dcd6fda39af7234a39",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "bdf9a714221d4e448cc1a5512caeae6b12a19634",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/84139246d1b0dbe0f0281debe28c678544a57757bd5628dcd6fda39af7234a39.webp"
     },
     "UI/Download/event/event309/prt_icon_adventure_book_dq4": {
       "bytes": 21228,
@@ -18206,6 +19107,57 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/3f6f682371949d46221107f8388f01deb0539aa26685c4cba666c960e08c24a3.webp"
+    },
+    "UI/Download/event/event309/prt_tmb_parymember309_06": {
+      "bytes": 116848,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_tmb_parymember309_06",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "b157b84901bf86b7581630da8c4235ac511954480ea5fce105325a7de5600b3b",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "e8e79264deb5f9ac9b9f9255b306598a9d308815",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/b157b84901bf86b7581630da8c4235ac511954480ea5fce105325a7de5600b3b.webp"
+    },
+    "UI/Download/event/event309/prt_tmb_parymember309_07": {
+      "bytes": 95164,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_tmb_parymember309_07",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "4fbf71a1ec06700dfcb1fde1d0b2ed91ff768ec47ca5488a832bd4e2bdd6430c",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "cf1e423da62f31c1a5bdf9880d108c622688aa72",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/4fbf71a1ec06700dfcb1fde1d0b2ed91ff768ec47ca5488a832bd4e2bdd6430c.webp"
+    },
+    "UI/Download/event/event309/prt_tmb_parymember309_08": {
+      "bytes": 71159,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_tmb_parymember309_08",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "f7868e6d955268738ff38467debf4808242dfc343c3075e9227dba0532f4a79d",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "6846ce514f11a3fc8cd4f3db48750e0b30f1d2e2",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/f7868e6d955268738ff38467debf4808242dfc343c3075e9227dba0532f4a79d.webp"
     },
     "UI/Download/exchange/prt_img_exchange_Mob10009_01": {
       "bytes": 243692,
@@ -21913,6 +22865,40 @@
       },
       "url": "../../../assets/current/ff3849b6bdc8dc1b436b5f425c0e3c82cfeca022859476519163db8cac49e043.webp"
     },
+    "UI/Download/productimage/acc/prt_detail_acc_20023": {
+      "bytes": 98237,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/acc/prt_detail_acc_20023",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "eadd5bcc042b7c5470254bd393cd8298b881a5984b319a3eb92bf09998bc9484",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "c54dce972417be79c5af911d9f5f5c1150aba6f7",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/eadd5bcc042b7c5470254bd393cd8298b881a5984b319a3eb92bf09998bc9484.webp"
+    },
+    "UI/Download/productimage/acc/prt_detail_acc_20024": {
+      "bytes": 151135,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/acc/prt_detail_acc_20024",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "0edfa6aa86970969b08522d3f9f90ea8e1a81715c651d4a345541a52582be061",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "cd0bb03c9b35f898d5ef9bd15979ebffb45df1dd",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/0edfa6aa86970969b08522d3f9f90ea8e1a81715c651d4a345541a52582be061.webp"
+    },
     "UI/Download/productimage/acc/prt_tmb_acc_10001": {
       "bytes": 23129,
       "locale": "neutral",
@@ -22320,6 +23306,40 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/25ca91d0e592dfa689165b35c61700260aa437b46c9a4b855312bb164c1bc4d9.webp"
+    },
+    "UI/Download/productimage/acc/prt_tmb_acc_20023": {
+      "bytes": 16715,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/acc/prt_tmb_acc_20023",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "11ad350b5165baac30fd5b75c9c82e087d6cdac5efcfff529587f5c6af43c47d",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "5ba0410875ce94ee7335690524c4d6f935aa1f05",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/11ad350b5165baac30fd5b75c9c82e087d6cdac5efcfff529587f5c6af43c47d.webp"
+    },
+    "UI/Download/productimage/acc/prt_tmb_acc_20024": {
+      "bytes": 25400,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/acc/prt_tmb_acc_20024",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "ee90ed15664904dd8516aa53a089afbee720bccd2edfc3f0aac266d5957c0665",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "bf4ca8f8528ce30ad39cbda213931172379f7ece",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/ee90ed15664904dd8516aa53a089afbee720bccd2edfc3f0aac266d5957c0665.webp"
     },
     "UI/Download/productimage/arm/prt_tmb_arm_drs0006_01_g1": {
       "bytes": 21966,
@@ -28679,6 +29699,23 @@
       },
       "url": "../../../assets/current/7d0b863a8ce4ef784a6c5580664a944054231e262389a703447a17c9db0d13a5.webp"
     },
+    "UI/Download/productimage/itm/prt_tmb_itm_100200034": {
+      "bytes": 33052,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_100200034",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "864052cc8ebac3875c8389f9bc6d80fc400bcd5b3a795f96bb488e963793138b",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "f8a0aa95718f8d193c77042648b15f00be495a2c",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/864052cc8ebac3875c8389f9bc6d80fc400bcd5b3a795f96bb488e963793138b.webp"
+    },
     "UI/Download/productimage/itm/prt_tmb_itm_100200036": {
       "bytes": 22331,
       "locale": "neutral",
@@ -33949,6 +34986,23 @@
       },
       "url": "../../../assets/current/34d28f0b4681251cb0105f88977aa47ab999cb9d852831aa73cdf8ef0f3ca34b.webp"
     },
+    "UI/Download/productimage/mns/prt_tmb_mns_mns0059_02": {
+      "bytes": 47201,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/mns/prt_tmb_mns_mns0059_02",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "6c38e6c0a623489675b5d3afba02060e8891c03cbdf86d47e0ce1455e7b05e4b",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "a3366bf3ab53509d522534a673e050c7b95a7301",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/6c38e6c0a623489675b5d3afba02060e8891c03cbdf86d47e0ce1455e7b05e4b.webp"
+    },
     "UI/Download/productimage/mns/prt_tmb_mns_mns0061_01": {
       "bytes": 30658,
       "locale": "neutral",
@@ -35530,6 +36584,23 @@
       },
       "url": "../../../assets/current/ded600cca703dbe72fa117f6eed325990b4daede505a4cb425b3385efe5fd9ec.webp"
     },
+    "UI/Download/productimage/orb/prt_detail_meo_mns0011_06": {
+      "bytes": 128496,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_detail_meo_mns0011_06",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "9539801e0501ff5a26c3fa057e5a89d67a9262264556dc5a4e7c6d43c08d4776",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "b4bc04197821a6138640a728385d7115bd22466c",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/9539801e0501ff5a26c3fa057e5a89d67a9262264556dc5a4e7c6d43c08d4776.webp"
+    },
     "UI/Download/productimage/orb/prt_detail_meo_mns0012_01": {
       "bytes": 76152,
       "locale": "neutral",
@@ -36907,6 +37978,23 @@
       },
       "url": "../../../assets/current/01f47c5d2461f177b4fc008a3454b3d0cd31b07df9f1ab8be40c96f586769f27.webp"
     },
+    "UI/Download/productimage/orb/prt_detail_meo_mns8021_01": {
+      "bytes": 186161,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_detail_meo_mns8021_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "4a58e7ec570b40179729eb8d2b2b7383a001e7cedd346c5ee51ca4caa5981ca8",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "5ff182a070042fd4672b49578be6490f85589d31",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/4a58e7ec570b40179729eb8d2b2b7383a001e7cedd346c5ee51ca4caa5981ca8.webp"
+    },
     "UI/Download/productimage/orb/prt_detail_meo_mns8023_01": {
       "bytes": 164709,
       "locale": "neutral",
@@ -36923,6 +38011,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/db1455ef30b05e1350b3b825825b2c800a4158b34f1ed1af64e798690c38ceb5.webp"
+    },
+    "UI/Download/productimage/orb/prt_detail_meo_mns8024_01": {
+      "bytes": 146938,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_detail_meo_mns8024_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "65f982c4b1ae4bcda132da09880dc73047967545be64e174bbdbf51b6a4a0a60",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "da1db375c97b99233ffc579bac140b3d0db1d27e",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/65f982c4b1ae4bcda132da09880dc73047967545be64e174bbdbf51b6a4a0a60.webp"
     },
     "UI/Download/productimage/orb/prt_detail_meo_mns8026_01": {
       "bytes": 143197,
@@ -36974,6 +38079,57 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/223324abf60ca7bf6dac15b5f9e276ebcb7433373c6c02819f466d8100b39304.webp"
+    },
+    "UI/Download/productimage/orb/prt_detail_meo_mns8029_01": {
+      "bytes": 172675,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_detail_meo_mns8029_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "fed4fbaa810aeda13bef55f0dc8796f6931af2d00946fd287f222dc1ac3bc760",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "a82e46df08eba2fb18480bf1fe3e1a1bac20cc8e",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/fed4fbaa810aeda13bef55f0dc8796f6931af2d00946fd287f222dc1ac3bc760.webp"
+    },
+    "UI/Download/productimage/orb/prt_detail_meo_mns8030_01": {
+      "bytes": 133571,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_detail_meo_mns8030_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "d5a31a6b40cc31d0f17706659293ad14061bc9858c83557317f7178fcbff4145",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "a0f511dfb8631cc3d04a2de2c79cdd8319183314",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/d5a31a6b40cc31d0f17706659293ad14061bc9858c83557317f7178fcbff4145.webp"
+    },
+    "UI/Download/productimage/orb/prt_detail_meo_mns8031_01": {
+      "bytes": 68273,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_detail_meo_mns8031_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "9b973d8dc58989c2489cae73ca88cfaea5ab7c6cb5a2d02067f09d0e86318a4e",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "a975873a828478969c3f9da4ace8e1124e3263f1",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/9b973d8dc58989c2489cae73ca88cfaea5ab7c6cb5a2d02067f09d0e86318a4e.webp"
     },
     "UI/Download/productimage/orb/prt_detail_meo_ring_blue": {
       "bytes": 89898,
@@ -37722,6 +38878,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/97ffb792f0f88a4dbab6afb584b95f78f675dab5af29c8a2da2fab3e877f871d.webp"
+    },
+    "UI/Download/productimage/orb/prt_tmb_meo_mns0011_06": {
+      "bytes": 23117,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns0011_06",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "7847f9558268a2e0862c968f97269002aa3d74b8da6dd7d334d4acb0941c75c9",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "2f17905924069923eab1a5c8cf8de98e2f49a0e4",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/7847f9558268a2e0862c968f97269002aa3d74b8da6dd7d334d4acb0941c75c9.webp"
     },
     "UI/Download/productimage/orb/prt_tmb_meo_mns0012_01": {
       "bytes": 13811,
@@ -39100,6 +40273,23 @@
       },
       "url": "../../../assets/current/477789e8d5c1072fd841803fd2ebc35751f806cb605bc1fb47c62fade41e92bb.webp"
     },
+    "UI/Download/productimage/orb/prt_tmb_meo_mns8021_01": {
+      "bytes": 30938,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8021_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "f78aabc6cc9cf84f2f6f4f6a5e10fc9021a203df756b1a18f3bd0f217fa3ae0b",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "86e09458211e177e56bbdfa3ff4c1c50f653edf4",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/f78aabc6cc9cf84f2f6f4f6a5e10fc9021a203df756b1a18f3bd0f217fa3ae0b.webp"
+    },
     "UI/Download/productimage/orb/prt_tmb_meo_mns8023_01": {
       "bytes": 28866,
       "locale": "neutral",
@@ -39116,6 +40306,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/3553bcb7035ad685736a15198792ef46a1660e888b0899f0aa37714dbe22ebae.webp"
+    },
+    "UI/Download/productimage/orb/prt_tmb_meo_mns8024_01": {
+      "bytes": 26783,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8024_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "a7c8114f16a718f4fd68a6e4ea6fe6a6fe82cfe598a0d2e2f68503ae440d3f96",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "5f4d990e27fb8c56e52464ad7ab640612cf97252",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/a7c8114f16a718f4fd68a6e4ea6fe6a6fe82cfe598a0d2e2f68503ae440d3f96.webp"
     },
     "UI/Download/productimage/orb/prt_tmb_meo_mns8026_01": {
       "bytes": 25000,
@@ -39167,6 +40374,57 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/7cf98cc5d87f094d214ee3f64fd1802cfc574aaba999ea349242a2d157296610.webp"
+    },
+    "UI/Download/productimage/orb/prt_tmb_meo_mns8029_01": {
+      "bytes": 30040,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8029_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "50b1927687262f34d8df3768b1851114628591b179e1e0d7827009358c8f63db",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "be03496bf44a5fd7a84d8753eb3b404189945f32",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/50b1927687262f34d8df3768b1851114628591b179e1e0d7827009358c8f63db.webp"
+    },
+    "UI/Download/productimage/orb/prt_tmb_meo_mns8030_01": {
+      "bytes": 22741,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8030_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "8d755b7e14786db3fe4adaf39584b9230de23d3913e5b269c7acef49e89c5067",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "d8c0f7eb2bbef2003f01a43b2f9313bcbf5cd11f",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/8d755b7e14786db3fe4adaf39584b9230de23d3913e5b269c7acef49e89c5067.webp"
+    },
+    "UI/Download/productimage/orb/prt_tmb_meo_mns8031_01": {
+      "bytes": 15351,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8031_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "6f126352f9851f7e8a01b35e27fb933499e635d3b3f514388bafb3a90e6f766f",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "a4b899c6d15731aa58241cb6b18ab071cd0de2ce",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/6f126352f9851f7e8a01b35e27fb933499e635d3b3f514388bafb3a90e6f766f.webp"
     },
     "UI/Download/productimage/other/prt_icon_other_bag": {
       "bytes": 2068,
@@ -50901,6 +52159,8 @@
     "UI/Download/adventure/bg/prt_Bg00008_011": "65475b587f8a1b7579202d74a8e8fe692d276267eee3d09afd9c3c927a0ba3b5",
     "UI/Download/adventure/bg/prt_Bg00008_020": "2823b6836675c0b886882b94fb8e4b2451de171a055788388a92b8cf6874bc0f",
     "UI/Download/adventure/bg/prt_Bg00008_021": "81c7621b839fb8011384e21acc6970ae9e38289c3798779e79a850cacc8fae4d",
+    "UI/Download/adventure/bg/prt_Bg00008_040": "0ed33b78199080d275ac71e436e3bc23d9aab6036c5de819e9b49c2373868de8",
+    "UI/Download/adventure/bg/prt_Bg00008_041": "ad534806d528f67a2db84cd04aacc9f3c25db0d0122a765db2058c56f2307e9b",
     "UI/Download/adventure/bg/prt_Bg00008_050": "c5c237637036247bdffd41451015f5ac21f36b82698b85bdc9007cade6577c27",
     "UI/Download/adventure/bg/prt_Bg00008_051": "f564c22a6b2f8e7d207ed0290552e1cb638e2a3a901b35e4e557f958d4541510",
     "UI/Download/adventure/bg/prt_Bg00009_010": "3a51d0d09e6de9c5e4520ded3a0e07874b4e2fce53d13516143fec5713f9e3e9",
@@ -50943,6 +52203,8 @@
     "UI/Download/adventure/bg/prt_Bg00021_021": "6c3bbd42b5578d9732a0af4e0b2c081b255b147489453aae8f5b7dd9d9c01924",
     "UI/Download/adventure/bg/prt_Bg00022_010": "7df40c5b37c97171f0fdadb6743bc06ffc8f4dd9206be52dbc890454b92f515e",
     "UI/Download/adventure/bg/prt_Bg00022_011": "e670fd9da6e95bbf1241809e8a04a47432a4ca2a72b2f1db388e4b81426cb7de",
+    "UI/Download/adventure/bg/prt_Bg00022_030": "c75027c60ef3abce9e708b8e30f4156d6f3f3ca0fbef5c98043ac7d175c2ee9e",
+    "UI/Download/adventure/bg/prt_Bg00022_031": "0147af3303c45cb0ca8a4d289b3f629656ff835297e0c78a68ef0c2cf2309145",
     "UI/Download/adventure/bg/prt_Bg00023_010": "c56543209eb98faa19f380272eb304278bc77051bfbe109fbd13eca20c155d38",
     "UI/Download/adventure/bg/prt_Bg00023_011": "5ad7cccf5c5a330107507c7a0ab1c99085011185745fd72c77779fe5915efdeb",
     "UI/Download/adventure/bg/prt_Bg00023_020": "87c743e24a19fa865b2794b9757bafecc1705b489479d71ab7d2d1fa0cb4b8c6",
@@ -50963,6 +52225,10 @@
     "UI/Download/adventure/bg/prt_Bg00032_011": "0531dc6e5ab55037b2ad17f71bab9978d86b1643774b4b3dad81fb2c50e7e29c",
     "UI/Download/adventure/bg/prt_Bg00034_010": "a5441f85e4c45377b9661e089a71c6a57aa60ebcc03634288564c6e2b766f64a",
     "UI/Download/adventure/bg/prt_Bg00034_011": "5a4933bf832e2cc0d9e08f1333e4bbecc57e6f6da0305d200a9c6d549de3ad97",
+    "UI/Download/adventure/bg/prt_Bg00035_010": "362e8e170bb9f66516278b714966d45cdfcac616eaed0b21e3ef3a23513fbdb3",
+    "UI/Download/adventure/bg/prt_Bg00035_011": "2a4d31296c17b712fd181b926b1b35be842b1eeb8140e66d36d8b2be46470aaf",
+    "UI/Download/adventure/bg/prt_Bg00037_020": "4c65e8dce3dba7c8eb67d4e5955bd5cfdcf0c98c75b68a8ecf452bd9775e1083",
+    "UI/Download/adventure/bg/prt_Bg00037_021": "0013e7d0210458720c8e2b878c10169a78ba064162c5dd8386b71f3561b75428",
     "UI/Download/adventure/chara/Chr101000201/prt_Chr101000201_face_01": "ffe182cb329f600866217f0495eb198bacf35e6df7ab57f42516050d0c086b7b",
     "UI/Download/adventure/chara/Chr101000201/prt_Chr101000201_face_02": "540f94b3333b7f027450414121dea62b1c7c215c7fbb1c7899882e9d34b01541",
     "UI/Download/adventure/chara/Chr101000201/prt_Chr101000201_face_03": "4131074b7ccb5a9177d708a4224d88401d58b5330635fe79b0c370a157b69e77",
@@ -50980,6 +52246,18 @@
     "UI/Download/adventure/chara/Chr104000501/prt_Chr104000501_thumb_01": "7f2aa6e134eacbbbf59450ecd889bfc97c6e06485df2b098d136d2cfefe37b40",
     "UI/Download/adventure/chara/Chr104000601/prt_Chr104000601_full": "08ce920e2f996d1a2aba6c0aee2f4ce8cc37d5d306f0abd4033c46fc9f0518fb",
     "UI/Download/adventure/chara/Chr104000601/prt_Chr104000601_thumb_01": "2a5977b079c98331e26869d1e007aca1af0bf82ef36d05a2c5a746e23f13b7b6",
+    "UI/Download/adventure/chara/Chr104000701/prt_Chr104000701_full": "634a27b2d43cf2c33c6210198fdb50091ee6450e7085c5cb05b3fe44772cbdc8",
+    "UI/Download/adventure/chara/Chr104000701/prt_Chr104000701_thumb_01": "ace9b8ac1d3ab4d336c1e32b02f617648b4480cce85f7868a86129a065377470",
+    "UI/Download/adventure/chara/Chr104000801/prt_Chr104000801_full": "0672b734bac3ad19e24c1d3f6ed68edc5a62602741947ea319494dbfcdb12203",
+    "UI/Download/adventure/chara/Chr104000801/prt_Chr104000801_thumb_01": "13f3aad88da690f20136c7e69dc446dc7a755c0aa70c9d96f922cc5fe752b030",
+    "UI/Download/adventure/chara/Chr104000901/prt_Chr104000901_full": "2ebd4a1beb6c9d025af2557e442fd871a4b064c01a0e9020086b07325f66d42d",
+    "UI/Download/adventure/chara/Chr104000901/prt_Chr104000901_thumb_01": "e65d67bd26ea6f498a1cc39b94d35a8741cf2cc55654d52349a9df21793bb94a",
+    "UI/Download/adventure/chara/Chr104001001/prt_Chr104001001_full": "669eea7371399f3e1dd570ccf0a46346926191e03f0323ea491b10d86072e13a",
+    "UI/Download/adventure/chara/Chr104001001/prt_Chr104001001_thumb_01": "ae919d0fa94003cfb04507ba0466058e64ee9d4f9ed51f78d120b2158853c9fd",
+    "UI/Download/adventure/chara/Chr104001201/prt_Chr104001201_full": "87f8f618bb732042f10ea96c139e4beef85c8d811f2991596766199d4059a62c",
+    "UI/Download/adventure/chara/Chr104001201/prt_Chr104001201_thumb_01": "fb175d0a0f88c97b2825380f239afb3c1b5a37c474358fbe06a75bfe79edb43c",
+    "UI/Download/adventure/chara/Chr104001301/prt_Chr104001301_full": "61c499bf7c2b6e7bfba3abbf6e3e145b488bebea60c9a16123438fac3cf3a801",
+    "UI/Download/adventure/chara/Chr104001301/prt_Chr104001301_thumb_01": "d98e2326aa025586eceedaa66773db95bbd42c2c6b95778eebc9a938cf5ef722",
     "UI/Download/adventure/chara/Chr106000101/prt_Chr106000101_full": "9c2b7d69a36bcacf25937d1edc889ebda5c518a1795246a92df233d79e159f1d",
     "UI/Download/adventure/chara/Chr106000101/prt_Chr106000101_thumb_01": "20d6f609527a4561184b66a5f967169ded2ddadd265fb6c86bebfeef06622b4f",
     "UI/Download/adventure/chara/Chr106000201/prt_Chr106000201_full": "3fe305edc934712a50b88ae04bc7faf2b3733279b2f3e3d6551859122862c4a6",
@@ -51003,6 +52281,7 @@
     "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_face_03": "6f6dd815cee678d7994dda6afbf75e4729da27c547faecbce0a10df6a7e32176",
     "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_face_04": "d368cbab822bf1746ceb1abb831a945460a3c3a4918786ebe5ad037a08fdfb50",
     "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_face_05": "f74e957274f09023afc4e347679ba3a5f9e29ff0824ead6c14bfb9fddc293b79",
+    "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_face_06": "498a606b60b85e44ef27cb739a9116d10473d590dd1c31dd83f2bbbfa54b8da6",
     "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_face_07": "51adf2a31d510d567312eb6af1d4565be3bc409faa2c60cd14f35ad398d67e74",
     "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_face_08": "a31b298cbc40064608b92b832ecee62303d7c3a2b7a5abe2163c9f40f6a3ee1b",
     "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_full": "1d815a31bc77c474aa58efa9caabd39343fdc84e17820a9227fe079647cf8ad9",
@@ -51010,6 +52289,7 @@
     "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_thumb_03": "6320dc8b174fd1116d3f9b2c9b3a73967f77419113b6872ff38ffdb0325c3097",
     "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_thumb_04": "5129a5cdac3514d4d36d8e762513bee480e1bba54eb66e67546d6f43d9cd9d26",
     "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_thumb_05": "038a5a3c91bf68503dc66e45290ddb7c14b2b5197afb241c7bef353516598f07",
+    "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_thumb_06": "b4005a0908a6dcb00fd346b65688c779df6d609befbd2b0ea3ee8476fd647212",
     "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_thumb_07": "e6f2a4ceabef3a49cb201ebec0af0259593dde30461a90047fd74f315a24dc8b",
     "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_thumb_08": "0925360a5327f2ceefe63963dca9a5ef686ef048fb813cf30c4abe2a776583b0",
     "UI/Download/adventure/chara/Chr199000302/prt_Chr199000302_face_01": "8a1493f535984e4978e526c30d725257821dd9f6b3bfb8bbc90c2eadc2c50788",
@@ -51189,6 +52469,7 @@
     "UI/Download/adventure/item/prt_adv_itm_189010035": "d9f8837ad46e978cd2706a8aa3dd247524404f05414194fa7779660bc6906ae6",
     "UI/Download/adventure/item/prt_adv_itm_189010036": "37225ff5f687e32b2d04078227f1f789c1ba3718732406df8ca118650f88e3da",
     "UI/Download/adventure/item/prt_adv_itm_189010037": "359be64aaffd97a76794a74e0f1463c79f13b5b71f6b7c925a65f28d9b883139",
+    "UI/Download/adventure/item/prt_adv_itm_189010038": "78c2c6a1130c74fd689ed42da0fcfbdf0dd081d6a304bd00f8bb4c96e7d9ead9",
     "UI/Download/adventure/item/prt_adv_itm_189010040": "a5a146e95b68596533e4ea8aebf7a808e1502699c810ce5a2abbca977daa96e5",
     "UI/Download/adventure/item/prt_adv_itm_base": "59fd044d7a938bb2db75a85e737ad1f6bacd68ae52d48a9bee01a4d2f5b7d872",
     "UI/Download/adventure/mns/Mns101001/prt_Mns101001_full": "f14d11508423dbd8270319853d486964620d6c050b9dbb5d87cc6efffa7f83cf",
@@ -51223,6 +52504,8 @@
     "UI/Download/adventure/mns/Mns154001/prt_Mns154001_thumb": "e932eb3874a9d284e365cc0bb7dfe1f8574c06846eb463684f342c446a781863",
     "UI/Download/adventure/mns/Mns157001/prt_Mns157001_full": "94491124b675567ee082235d2d816d5dd1ab61bee24c8e96b26311d98203247d",
     "UI/Download/adventure/mns/Mns157001/prt_Mns157001_thumb": "13f560eb93260a26e906857d064ce3e993c07ffc0b7c2cdf6c15502df9708445",
+    "UI/Download/adventure/mns/Mns160001/prt_Mns160001_full": "6a7fb5f52202b6a38eb5dbd2d3b7195d85f138a949c4345504a160431094cc1d",
+    "UI/Download/adventure/mns/Mns160001/prt_Mns160001_thumb": "373e3ec935d03a5e01d4572a6b6080f4490f3163232b2a7fc348a5775f7820b0",
     "UI/Download/adventure/mns/Mns165001/prt_Mns165001_full": "f9d9c3df41e647bd9046ed0ff78c6491dad404e2d015db68390b4a30bbb7d84e",
     "UI/Download/adventure/mns/Mns165001/prt_Mns165001_thumb": "7f772908f0bc9d5043ad3b3db72cf9b2b1e4b0589e15631271525e4d1bcf86c3",
     "UI/Download/adventure/mns/Mns170001/prt_Mns170001_full": "11522170cd0889cfe862d0b3efbfbe610e0f0d15700a19f621ccaf2f57f6c5cb",
@@ -51257,6 +52540,8 @@
     "UI/Download/adventure/mns/mns0009_01_001/prt_mns0009_01_001_thumb": "4d995e3e526f39152e50a319d2e3a5bb5ee831f32efed6cc22f5408fc8851904",
     "UI/Download/adventure/mns/mns0011_01_001/prt_mns0011_01_001_full": "a5994175e0d2b01cf634059955b34009c2f24b473c9f618cb458a735977f1028",
     "UI/Download/adventure/mns/mns0011_01_001/prt_mns0011_01_001_thumb": "87971fbb11947965eb3dbfba5a9684249a1d5946ae239a3b4c220b5d06464eb4",
+    "UI/Download/adventure/mns/mns0011_06_001/prt_mns0011_06_001_full": "fdb6c6fab8b29faef1176abf76a5986a76291f6255c88dae92f179793a473dfb",
+    "UI/Download/adventure/mns/mns0011_06_001/prt_mns0011_06_001_thumb": "3e1c36fae65a361df37b1ef31be887cc425c0da360cb6cca11ecc3ce8fb4a1d9",
     "UI/Download/adventure/mns/mns0013_01_001/prt_mns0013_01_001_full": "e1b4d66d59466bccf11be8c2bddef0866b2c28c3e88d712adc0df2a059a0d6ce",
     "UI/Download/adventure/mns/mns0013_01_001/prt_mns0013_01_001_thumb": "1b23b3a0dcccc8f2100971b300e26645bd1e7529ff542d23c75dc365e3bf6d8c",
     "UI/Download/adventure/mns/mns0015_01_001/prt_mns0015_01_001_full": "e412a73a0f15fa58dae1afc0f6a19d09a7e77c58e429a497db0698e34edd118a",
@@ -51273,6 +52558,8 @@
     "UI/Download/adventure/mns/mns0028_02_001/prt_mns0028_02_001_thumb": "beab00c9a00af248f22d5a3ffd758938c25b55d3f51e7b8229f3b169532fb1ce",
     "UI/Download/adventure/mns/mns0052_01_001/prt_mns0052_01_001_full": "7073430eadac935d4d7e7538439a893a0e6b2046907b113498bdaf8da2c4f99f",
     "UI/Download/adventure/mns/mns0052_01_001/prt_mns0052_01_001_thumb": "749fc517111d3e2ac44dedaa3491e8b73b5b1c9544148ef2c152bbbb8563fbd5",
+    "UI/Download/adventure/mns/mns0059_02_001/prt_mns0059_02_001_full": "c0b4ad16ad77681c53b5ad1cbb837a604288137fe0ec511e48473c27f0361a87",
+    "UI/Download/adventure/mns/mns0059_02_001/prt_mns0059_02_001_thumb": "3efd1ba9725b10cff620555fc43dc0a7109b281c1b0878ae6bd49ee1a8033043",
     "UI/Download/adventure/mns/mns0078_01_001/prt_mns0078_01_001_full": "c427cd99e7f7e6f30fd3cce41799a6cc183e0de2587b741e58bc80652f0ca398",
     "UI/Download/adventure/mns/mns0078_01_001/prt_mns0078_01_001_thumb": "744cf67e786d7d3e18ff5b9afe1de10b6ce915299cfba2c1b4f4881f0d606fae",
     "UI/Download/adventure/mns/mns0088_01_001/prt_mns0088_01_001_full": "b2f89f3399caffb12c57388d7e860bbaaae9ba299aa8c7fab9b3e7fb931a62d7",
@@ -51342,6 +52629,8 @@
     "UI/Download/adventure/mob/Mob10011/prt_Mob10011_02_thumb": "5fc4a627f821dbeed1763352894a3a8bb9ac5e24d13d87332c6e033476fc15c2",
     "UI/Download/adventure/mob/Mob10012/prt_Mob10012_01_full": "7069eca4b266db711a897a0de43ef6a523f9107679e0092e1c8b5db4ccd7bcfe",
     "UI/Download/adventure/mob/Mob10012/prt_Mob10012_01_thumb": "d5b0d44b7c41f149e79f818f8ef59fa31471dab84b8b7a9516ed65867e453acd",
+    "UI/Download/adventure/mob/Mob10012/prt_Mob10012_05_full": "daf7d42d7bd225477931e9e49d00aa6c175964508207afd3fbac6fba2bfcd44d",
+    "UI/Download/adventure/mob/Mob10012/prt_Mob10012_05_thumb": "18bb5b3c6985b98987cc25ad6f3681cde55a23c9a7d84fa1a7135c1d7bba6bcf",
     "UI/Download/adventure/mob/Mob10013/prt_Mob10013_01_full": "bae5783d507676f6e22e2242d15536d647dfaf695fce8974a7550b3fd7453da5",
     "UI/Download/adventure/mob/Mob10013/prt_Mob10013_01_thumb": "8de1adcf4eb1e2a6a7c3027160368dbcfdcef5f22960d434ddfdb98be88b7024",
     "UI/Download/adventure/mob/Mob10013/prt_Mob10013_02_full": "6d4083199bb44be87e9573d0bd94196964eaaf303a3eeef21d2725760cb68ce7",
@@ -51374,6 +52663,8 @@
     "UI/Download/adventure/mob/Mob10023/prt_Mob10023_01_thumb": "0758c64c989e9a2a03e48788651b9633aa36f2989470f40fbaf9f20192d210da",
     "UI/Download/adventure/mob/Mob10024/prt_Mob10024_01_full": "cc4e4c47c34845031c6ad40644d8586b1601bca98f43e2f5495357d49d30dfc8",
     "UI/Download/adventure/mob/Mob10024/prt_Mob10024_01_thumb": "4547158b1d9f378193f2d7a8ac4d082cc6f79ad9966aa6258a9c077107aa7ee4",
+    "UI/Download/adventure/mob/Mob10024/prt_Mob10024_05_full": "fc1b470d69867a95bec41d6aa171f62248a88c3ce49f844c2293b48b3cc7adc7",
+    "UI/Download/adventure/mob/Mob10024/prt_Mob10024_05_thumb": "4b1eb1ada8b03bcb06a70174cf379390bf663ceab0c4a5699dd752cd398eb6fb",
     "UI/Download/adventure/mob/Mob10025/prt_Mob10025_01_full": "80e02b389deb4c73c5506c4270a3d657e6117dd0d9c5ca6f05f525a31abfc1a9",
     "UI/Download/adventure/mob/Mob10025/prt_Mob10025_01_thumb": "c036f922ba72e18aca07f6191ceaf79ca1351fd0d69b43103317ec6c85a98a5e",
     "UI/Download/adventure/mob/Mob10026/prt_Mob10026_01_full": "551fa6dc91f74a65d0987523c59547d7bb37d6fadf533618f9b1f8884216fb47",
@@ -51386,12 +52677,16 @@
     "UI/Download/adventure/mob/Mob10030/prt_Mob10030_01_thumb": "facb58fee8b199a17ba6a7105c5365857c27579ab38a5dd3c7a6cbccc8731f0c",
     "UI/Download/adventure/mob/Mob10031/prt_Mob10031_01_full": "60ead94ac02521454d7e8f9624c60c22912ae2a8e9dba7bcf5d9d7798d6a0c44",
     "UI/Download/adventure/mob/Mob10031/prt_Mob10031_01_thumb": "df9de8586a554bbfd87aaa1e6d2e6ddeac8631f1fef5bef6d90d3994742a916d",
+    "UI/Download/adventure/mob/Mob10032/prt_Mob10032_01_full": "9ba3466ff14a7bb9b9bb33c79be7c288c91d3d713a8a97c997513977af618509",
+    "UI/Download/adventure/mob/Mob10032/prt_Mob10032_01_thumb": "4009b7c72a3d4b43fbd0969aba15ee72ef375b1032a8cdcb30a42a76deaff019",
     "UI/Download/adventure/mob/Mob20001/prt_Mob20001_01_full": "9c7987cbc323ad31caa00e616bb27e840cdfea77099c845d3980d5ed735472ea",
     "UI/Download/adventure/mob/Mob20001/prt_Mob20001_01_thumb": "1f0855c2794e40c87c985e56bd72183191a5c1ef65fb3250381d0a2847eb6b53",
     "UI/Download/adventure/mob/Mob20001/prt_Mob20001_03_full": "5b6363ffc5a38b4548508229d320c9d446394f5ccd6842dd08786ce29f897975",
     "UI/Download/adventure/mob/Mob20001/prt_Mob20001_03_thumb": "446a9c2ab0ff0f9857bc3fd48666c12ad503f69453174c14dc53eeae00d75167",
     "UI/Download/adventure/mob/Mob20002/prt_Mob20002_01_full": "27bf7c8d470a973646a4c3b956d69dca78d739ad8c936be48aca3cb1ddbd4f07",
     "UI/Download/adventure/mob/Mob20002/prt_Mob20002_01_thumb": "1d48870a1e49d37aeff93d0d204897ec6dde009ad42003276c05a2c107ee7178",
+    "UI/Download/adventure/mob/Mob20002/prt_Mob20002_02_full": "3fdc7af5444af4e265288456363fcd35860b536b5e8abddf672221cd89e13c1e",
+    "UI/Download/adventure/mob/Mob20002/prt_Mob20002_02_thumb": "ab0a712d8b373ea6396a4771baef8c5655c8f17015019e538b9f1be63f722f3e",
     "UI/Download/adventure/mob/Mob20002/prt_Mob20002_04_full": "868db8a2fd250f2f4a55714f1037d7d502f2de13427944e88ec9db2e156cbdf3",
     "UI/Download/adventure/mob/Mob20002/prt_Mob20002_04_thumb": "9a004d0633a1f9ea66839060befd93e4af9a93a48c440c003ab8df06abfe4896",
     "UI/Download/adventure/mob/Mob20003/prt_Mob20003_02_full": "97187503328c165d94ba084217b8d23216e35106e73e8bf186a3a35d45a081d2",
@@ -51687,7 +52982,11 @@
     "UI/Download/banner/quest/prt_bnr_quest_2308025": "6a139fce4cddb5b66052cdd1e3dcd661b52422fbaba982ea0ee9e52f5924f103",
     "UI/Download/banner/quest/prt_bnr_quest_230901": "45a63f867cafba15192720ba592b0cb3f9b4053767590e76b35521b5c2fce5e7",
     "UI/Download/banner/quest/prt_bnr_quest_230904": "508a4ad312c0f441aa642060e379dac251d7ce532e50c5dd4d1d9d803413745e",
+    "UI/Download/banner/quest/prt_bnr_quest_230905": "b1a6d512fdc45beda1fbd9e963b638a312ae4f4d0dcd530b062799a4bf971602",
     "UI/Download/banner/quest/prt_bnr_quest_230909": "864e5bd42340aa30f63843b7139ba40d8e158002a57c3c9abadcb7e92d5f56af",
+    "UI/Download/banner/quest/prt_bnr_quest_230910": "f8bc177f4d715db42610f181b6efc9e6d59f2603cd694245c748170e4079f554",
+    "UI/Download/banner/quest/prt_bnr_quest_230911": "42a906fbc0ac63a64dd0c8dd9d78247e53e80ad08a490bdbc286821f3142683d",
+    "UI/Download/banner/quest/prt_bnr_quest_230912": "3758f8c4db0d42439daff6da267f49e47164921bc8b9344335f065ff05780f96",
     "UI/Download/banner/quest/prt_bnr_quest_230914": "b995deaf8343590df9e4a1f8756b796bce927e099d3c38a0146c446d72e8e4e3",
     "UI/Download/banner/quest/prt_bnr_quest_230915": "d1800585457e25bf233252baf7d3329e4e4ebdfce89479f4a3bd1e0b131c5177",
     "UI/Download/banner/quest/prt_bnr_quest_230916": "33e2b62a6874df523f45772f2aefad74276e78df42d18badc46576743eb95a8a",
@@ -51864,18 +53163,30 @@
     "UI/Download/event/event309/prt_bg_cutin_03": "70afffbee9a88e997db63ad27e1b4ff39c7523a2e1fa042d24cc3404096abc44",
     "UI/Download/event/event309/prt_bg_cutin_04": "ebd9a6a3777cd9d6b4bcf770d39013165d7691dbc4b034454c2e7e92d9d53f4f",
     "UI/Download/event/event309/prt_bg_cutin_05": "c97f6fe1b5a736e319139e2a32b74a4969b74dbac84750b5fbe928ec68442eb7",
+    "UI/Download/event/event309/prt_bg_cutin_06": "be4f60f04e336965a5494fb29a58fe2aeb96b4ea859a7ceaae6dd77fb79ad8a4",
+    "UI/Download/event/event309/prt_bg_cutin_07": "5e616f066ff8ad607a2a589ac0dc6ee2142f267f9530bdd330a8f41bb568c9f1",
+    "UI/Download/event/event309/prt_bg_cutin_08": "13b91499c1102092a0cc2cdb69b136770eb7dfff4d4156f109f0224d4a267372",
     "UI/Download/event/event309/prt_event209_tmb_02": "b4510c07b87b8c196afb115aadc736d38ffbb01af9cb9daffaa6777d18ce191c",
     "UI/Download/event/event309/prt_event209_tmb_03": "107fd8c4b75af942e2bc84a0dcfe2924bb918a6a56a237cffb8e08d7a2f491b7",
     "UI/Download/event/event309/prt_event209_tmb_04": "e5528ca88f9a57382b1cb42708a0912648051f08c0bcfbcec5ed42b7825a094f",
     "UI/Download/event/event309/prt_event209_tmb_05": "db20f896579159f36b55676f46b2394a48c289b6a040397f2e10bdb549e5190c",
+    "UI/Download/event/event309/prt_event209_tmb_06": "c8678d866841e75e9444db703700d289f36509d4f2754abfc1b33ae94a8f5fbc",
+    "UI/Download/event/event309/prt_event209_tmb_07": "700a1adabbb0eb3a87b2b7a2c6e48a3cae97d1f189da50d3a39b0135b819c3be",
+    "UI/Download/event/event309/prt_event209_tmb_08": "e68807178642cdfc8930a08070352f888200be8334372ba425a3f43b74411275",
     "UI/Download/event/event309/prt_event309_Chr104000301_full": "a804cc8b563444ef8d61d7ffe905ee2171845a3e8bb276fc94fc99bdd9836ae5",
     "UI/Download/event/event309/prt_event309_Chr104000401_full": "57087bd24b1319f6226f48ae983c670ba1e2c8b6226efcc8f13646ddddef8c4b",
     "UI/Download/event/event309/prt_event309_Chr104000501_full": "b903cfa9efcda3a649c23596161aca9259491afd6cbaf63746dd8b96713d6d2b",
     "UI/Download/event/event309/prt_event309_Chr104000601_full": "d4bd7840655546bd6e52c8e6916fd1e65aa72bd8b655f9595663286f21d039a3",
+    "UI/Download/event/event309/prt_event309_Chr104000701_full": "d4017bd9432c728115f56bff8c8661932b779cab1a3632412493e0d8dfaeb93e",
+    "UI/Download/event/event309/prt_event309_Chr104000801_full": "d989ee0dd0c8412fe677d337ea9729118e9bd48b671a968c69a9003f984bde1d",
+    "UI/Download/event/event309/prt_event309_Chr104000901_full": "e9dffd5ad5e38dd58dba61d457a98fb43e3787c4e0d0c49da14e9059f1ff374c",
     "UI/Download/event/event309/prt_event309_tab_02_unopened": "d17768f2b2a289a080199f8048c78517ce2591cd782bbd311408ff6e355356d5",
     "UI/Download/event/event309/prt_event309_tab_03_unopened": "ad3d3ef432dda1eb58b42daf5fcde3104efcbee6f6afefd829e3975b6e40d39b",
     "UI/Download/event/event309/prt_event309_tab_04_unopened": "8a0dc6c06ebd67750a8ea9a3a9ff476f90e5e040315b03d804332cbdef0614a4",
     "UI/Download/event/event309/prt_event309_tab_05_unopened": "a118974464d345646af99850e3530f989ea016f24f84267a5be9bf1a460f44e3",
+    "UI/Download/event/event309/prt_event309_tab_06_unopened": "46ee4046611e29f8ce5c088a950d602db94e1267e81a216379e7ab97b66a3597",
+    "UI/Download/event/event309/prt_event309_tab_07_unopened": "2cd27fc9366915de3fbc9649ca99b366aa62c5f024d7b70556fa7a0bc703da34",
+    "UI/Download/event/event309/prt_event309_tab_08_unopened": "84139246d1b0dbe0f0281debe28c678544a57757bd5628dcd6fda39af7234a39",
     "UI/Download/event/event309/prt_icon_adventure_book_dq4": "6695182345d317292f981a8dc60cd94d3f3721b269d052b3c26dff8897637de5",
     "UI/Download/event/event309/prt_icon_bondrank": "ad3d47e3bfa9fcacaaa59f4248acd1bc1b8d345bf0a90c77bf36a0546b0a28d0",
     "UI/Download/event/event309/prt_icon_event_309001": "02b0b8e2110f17a253954416c8b9d46d1a6d8d30a065b35b9597019a28e5a514",
@@ -51887,6 +53198,9 @@
     "UI/Download/event/event309/prt_tmb_parymember309_03": "9a2d7df444bd7ab1f03e32257077cc09036d487cba11d4fefc6cc0f646833fa1",
     "UI/Download/event/event309/prt_tmb_parymember309_04": "bf23f30b5fc731c68cc86120d5696b1b327a7abc61c229939b46cac7ad2d8de9",
     "UI/Download/event/event309/prt_tmb_parymember309_05": "3f6f682371949d46221107f8388f01deb0539aa26685c4cba666c960e08c24a3",
+    "UI/Download/event/event309/prt_tmb_parymember309_06": "b157b84901bf86b7581630da8c4235ac511954480ea5fce105325a7de5600b3b",
+    "UI/Download/event/event309/prt_tmb_parymember309_07": "4fbf71a1ec06700dfcb1fde1d0b2ed91ff768ec47ca5488a832bd4e2bdd6430c",
+    "UI/Download/event/event309/prt_tmb_parymember309_08": "f7868e6d955268738ff38467debf4808242dfc343c3075e9227dba0532f4a79d",
     "UI/Download/exchange/prt_img_exchange_Mob10009_01": "0dc5b00c005cbafa54c10174d434bd82470b5c49a7543d67af6612da7a35622e",
     "UI/Download/exchange/prt_img_exchange_Mob10010_01": "2aaa06c37cdfb8cb2a2d1198992674ea45015d80d17b8e1cb508555228a4eaf9",
     "UI/Download/exchange/prt_img_exchange_Mob20011_01": "0c50e002c5b461991aff65c6d2944e9ea93516ffd3d7b17b57d67d1f66ef7428",
@@ -52105,6 +53419,8 @@
     "UI/Download/productimage/acc/prt_detail_acc_20018": "683ffdcf1df5bf04a74fbf6e51e532b437b88ecc6ac2183a51cf0bfe4a116788",
     "UI/Download/productimage/acc/prt_detail_acc_20019": "1fd4d06b756ef465d66a48b3dde0d9fef687bbd8e9d942f412c136ef0d7a3e8b",
     "UI/Download/productimage/acc/prt_detail_acc_20020": "ff3849b6bdc8dc1b436b5f425c0e3c82cfeca022859476519163db8cac49e043",
+    "UI/Download/productimage/acc/prt_detail_acc_20023": "eadd5bcc042b7c5470254bd393cd8298b881a5984b319a3eb92bf09998bc9484",
+    "UI/Download/productimage/acc/prt_detail_acc_20024": "0edfa6aa86970969b08522d3f9f90ea8e1a81715c651d4a345541a52582be061",
     "UI/Download/productimage/acc/prt_tmb_acc_10001": "8be6be02f498668f94b6f53463fdb63be618a63491f128ac2ce1a73bb4fe52e1",
     "UI/Download/productimage/acc/prt_tmb_acc_10002": "0476f6fc84caccc75e0c4150ab70f13ebb3346fff6f182dbbe1e2dc469c014eb",
     "UI/Download/productimage/acc/prt_tmb_acc_10003": "9dfa772c3e98740a889711196e02bae1d63d497a84a9ade52304f09db855ff60",
@@ -52129,6 +53445,8 @@
     "UI/Download/productimage/acc/prt_tmb_acc_20018": "7fa0fd50b9529e4d3e6a2adf4a0c03028239fb19f20e4904c15ca38705d32ca8",
     "UI/Download/productimage/acc/prt_tmb_acc_20019": "271d687488f2ac64ecff76e77517a663a8e43527a7097f0769e73b3fd1016d29",
     "UI/Download/productimage/acc/prt_tmb_acc_20020": "25ca91d0e592dfa689165b35c61700260aa437b46c9a4b855312bb164c1bc4d9",
+    "UI/Download/productimage/acc/prt_tmb_acc_20023": "11ad350b5165baac30fd5b75c9c82e087d6cdac5efcfff529587f5c6af43c47d",
+    "UI/Download/productimage/acc/prt_tmb_acc_20024": "ee90ed15664904dd8516aa53a089afbee720bccd2edfc3f0aac266d5957c0665",
     "UI/Download/productimage/arm/prt_tmb_arm_drs0006_01_g1": "4155dd5b42e400a964a92fd5bed9a0f894fa2f8c3c2191027b71dff0bca5b1a7",
     "UI/Download/productimage/arm/prt_tmb_arm_drs0006_01_g2": "820fb4f32d58624494eab39ca80c92fda4c6cf7905b7a8a5c66dea1a6e5b74b5",
     "UI/Download/productimage/arm/prt_tmb_arm_drs0031_01_g1": "b6ba94829c75ed93a92d2d86ae20e3f876eef75c1f90a222c8cb025680443b82",
@@ -52503,6 +53821,7 @@
     "UI/Download/productimage/itm/prt_tmb_itm_100200031": "2a6a9c46b4524413f2ffe1c04afe004ae93f92c20ee01b6f4bf15d1baf1eec86",
     "UI/Download/productimage/itm/prt_tmb_itm_100200032": "b0db3cfdcf707b542965c7bff5563064d423634fd35ab409dbdb254c5fcd9799",
     "UI/Download/productimage/itm/prt_tmb_itm_100200033": "7d0b863a8ce4ef784a6c5580664a944054231e262389a703447a17c9db0d13a5",
+    "UI/Download/productimage/itm/prt_tmb_itm_100200034": "864052cc8ebac3875c8389f9bc6d80fc400bcd5b3a795f96bb488e963793138b",
     "UI/Download/productimage/itm/prt_tmb_itm_100200036": "2ed44c0c4a99288dd18b28b7cf05b98ed6450f99a0be31cd680e5c6feb89fc3b",
     "UI/Download/productimage/itm/prt_tmb_itm_100200038": "75ad4839da9f7d2e8cc63b8ebdfb3ac9aed6a61b970f6a1f78c893e02239d21c",
     "UI/Download/productimage/itm/prt_tmb_itm_1002001": "dc1f8027bb7123d7bdb6c246016c17e08adc5b1eb8acb6dca70bdb72d0afffc5",
@@ -52813,6 +54132,7 @@
     "UI/Download/productimage/mns/prt_tmb_mns_mns0049_01": "1c77f40562ef89f5c0fb13d5e201b8f15b70d09643f025193dbfbe4eda1b1d99",
     "UI/Download/productimage/mns/prt_tmb_mns_mns0052_01": "8ef7c78fbeb6589934c8a7c5a975c68c52e7ecd7ad9bd80e141de0167e4394cf",
     "UI/Download/productimage/mns/prt_tmb_mns_mns0056_01": "34d28f0b4681251cb0105f88977aa47ab999cb9d852831aa73cdf8ef0f3ca34b",
+    "UI/Download/productimage/mns/prt_tmb_mns_mns0059_02": "6c38e6c0a623489675b5d3afba02060e8891c03cbdf86d47e0ce1455e7b05e4b",
     "UI/Download/productimage/mns/prt_tmb_mns_mns0061_01": "dab8662d560305dca840a044df78361309a8e5b29a8288c579abc7644afed21d",
     "UI/Download/productimage/mns/prt_tmb_mns_mns0064_01": "c040ff609ac94435317dd0c21db8cec0e37191de7baec4c57d5db679c318b166",
     "UI/Download/productimage/mns/prt_tmb_mns_mns0065_01": "4348bcd66d57bcd9002753e8724f98dccecb91bc0ae607a348abe127ea9e4f5c",
@@ -52906,6 +54226,7 @@
     "UI/Download/productimage/orb/prt_detail_meo_mns0010_01": "be659d49a4313ec49995d90e94deb4bcd7c878924be052b8f2e02fe5198adab6",
     "UI/Download/productimage/orb/prt_detail_meo_mns0011_02": "5fee6d93f07baf4d685143a70ba2fdb9e6c44ba56534df2d27b685106ead6202",
     "UI/Download/productimage/orb/prt_detail_meo_mns0011_03": "ded600cca703dbe72fa117f6eed325990b4daede505a4cb425b3385efe5fd9ec",
+    "UI/Download/productimage/orb/prt_detail_meo_mns0011_06": "9539801e0501ff5a26c3fa057e5a89d67a9262264556dc5a4e7c6d43c08d4776",
     "UI/Download/productimage/orb/prt_detail_meo_mns0012_01": "423304ea78f229d728d59108b784497fa2319daa73cdaeea88177537fdadce79",
     "UI/Download/productimage/orb/prt_detail_meo_mns0012_02": "00237e4141036b134cb677816ade2f44f56216c9b919b5f15487cec45f311dcd",
     "UI/Download/productimage/orb/prt_detail_meo_mns0012_05": "00a6d1b6528fdc111bcebec097b74503950037f278a1a7696239bba985128616",
@@ -52987,10 +54308,15 @@
     "UI/Download/productimage/orb/prt_detail_meo_mns8018_01": "868b8234f9986d0c355eb2a515f7f9f3d68d4a38c270bfa9281489c6faa218a6",
     "UI/Download/productimage/orb/prt_detail_meo_mns8019_01": "a99ba5d662ce3e63bda2a9aa729ad74376f8c2a254744bd4c320171691fa3af5",
     "UI/Download/productimage/orb/prt_detail_meo_mns8020_01": "01f47c5d2461f177b4fc008a3454b3d0cd31b07df9f1ab8be40c96f586769f27",
+    "UI/Download/productimage/orb/prt_detail_meo_mns8021_01": "4a58e7ec570b40179729eb8d2b2b7383a001e7cedd346c5ee51ca4caa5981ca8",
     "UI/Download/productimage/orb/prt_detail_meo_mns8023_01": "db1455ef30b05e1350b3b825825b2c800a4158b34f1ed1af64e798690c38ceb5",
+    "UI/Download/productimage/orb/prt_detail_meo_mns8024_01": "65f982c4b1ae4bcda132da09880dc73047967545be64e174bbdbf51b6a4a0a60",
     "UI/Download/productimage/orb/prt_detail_meo_mns8026_01": "aca5f9df9ada2c72b560d0eb762fd4499f88f150e1637c9673293dfc18d5967c",
     "UI/Download/productimage/orb/prt_detail_meo_mns8027_01": "21c1ea0cdae914fcd785588cc175a09e240b4031a983cb75f9792d7293cae358",
     "UI/Download/productimage/orb/prt_detail_meo_mns8028_01": "223324abf60ca7bf6dac15b5f9e276ebcb7433373c6c02819f466d8100b39304",
+    "UI/Download/productimage/orb/prt_detail_meo_mns8029_01": "fed4fbaa810aeda13bef55f0dc8796f6931af2d00946fd287f222dc1ac3bc760",
+    "UI/Download/productimage/orb/prt_detail_meo_mns8030_01": "d5a31a6b40cc31d0f17706659293ad14061bc9858c83557317f7178fcbff4145",
+    "UI/Download/productimage/orb/prt_detail_meo_mns8031_01": "9b973d8dc58989c2489cae73ca88cfaea5ab7c6cb5a2d02067f09d0e86318a4e",
     "UI/Download/productimage/orb/prt_detail_meo_ring_blue": "9ad7a753b37bd4d4ae4f6fba1c1378483105711a397f1f1b533f0a3b08753469",
     "UI/Download/productimage/orb/prt_detail_meo_ring_green": "1577da676a4fa1ec76bbca92e5ff41aa5a12696416f23ccd2cd98a7848785ff3",
     "UI/Download/productimage/orb/prt_detail_meo_ring_purple": "876df95dd49841fe4b808fa42a9da2ed71fba1b2a5d6d125e19952aafa060511",
@@ -53035,6 +54361,7 @@
     "UI/Download/productimage/orb/prt_tmb_meo_mns0010_01": "62deda8d63d4515142ad20d09fa8fa2717576baee0904246e5ac28d764dd7279",
     "UI/Download/productimage/orb/prt_tmb_meo_mns0011_02": "16cfcd149ee706537251ff438a6b2dd23456b654e321c90e4786138b5e5a9f03",
     "UI/Download/productimage/orb/prt_tmb_meo_mns0011_03": "97ffb792f0f88a4dbab6afb584b95f78f675dab5af29c8a2da2fab3e877f871d",
+    "UI/Download/productimage/orb/prt_tmb_meo_mns0011_06": "7847f9558268a2e0862c968f97269002aa3d74b8da6dd7d334d4acb0941c75c9",
     "UI/Download/productimage/orb/prt_tmb_meo_mns0012_01": "b7b9c7720fd2f73910ad682ef64e5a259d26153145adbd9c4b1e9b0a69aa10f6",
     "UI/Download/productimage/orb/prt_tmb_meo_mns0012_02": "0aa51e43ac87911139acfc2ded9f6545db70182796fa13d084be8088a76a60ec",
     "UI/Download/productimage/orb/prt_tmb_meo_mns0012_05": "cce531309ff609ca397e5a1fc641d6dd6066a5b46d486caf14dc45285c2bfca9",
@@ -53116,10 +54443,15 @@
     "UI/Download/productimage/orb/prt_tmb_meo_mns8018_01": "b9cf99063ec727eebe758d9d5dc4a35746e0497efaf65c282c12c45b89c5e41c",
     "UI/Download/productimage/orb/prt_tmb_meo_mns8019_01": "ea56b410c2c011100690aeeb52c6ea348aa6a4a6e6a635c236461ff9c2744c43",
     "UI/Download/productimage/orb/prt_tmb_meo_mns8020_01": "477789e8d5c1072fd841803fd2ebc35751f806cb605bc1fb47c62fade41e92bb",
+    "UI/Download/productimage/orb/prt_tmb_meo_mns8021_01": "f78aabc6cc9cf84f2f6f4f6a5e10fc9021a203df756b1a18f3bd0f217fa3ae0b",
     "UI/Download/productimage/orb/prt_tmb_meo_mns8023_01": "3553bcb7035ad685736a15198792ef46a1660e888b0899f0aa37714dbe22ebae",
+    "UI/Download/productimage/orb/prt_tmb_meo_mns8024_01": "a7c8114f16a718f4fd68a6e4ea6fe6a6fe82cfe598a0d2e2f68503ae440d3f96",
     "UI/Download/productimage/orb/prt_tmb_meo_mns8026_01": "eb515d209ad5f8aba16bac48aa5cf1f76676544f78dc8ff57786e4f2237c1fc8",
     "UI/Download/productimage/orb/prt_tmb_meo_mns8027_01": "ace0728d55f344f5408f43577e3cd99119f9a8462f6701a2aaa2e7a700de3cd4",
     "UI/Download/productimage/orb/prt_tmb_meo_mns8028_01": "7cf98cc5d87f094d214ee3f64fd1802cfc574aaba999ea349242a2d157296610",
+    "UI/Download/productimage/orb/prt_tmb_meo_mns8029_01": "50b1927687262f34d8df3768b1851114628591b179e1e0d7827009358c8f63db",
+    "UI/Download/productimage/orb/prt_tmb_meo_mns8030_01": "8d755b7e14786db3fe4adaf39584b9230de23d3913e5b269c7acef49e89c5067",
+    "UI/Download/productimage/orb/prt_tmb_meo_mns8031_01": "6f126352f9851f7e8a01b35e27fb933499e635d3b3f514388bafb3a90e6f766f",
     "UI/Download/productimage/other/prt_icon_other_bag": "3d471be7f2945b470903fb70d1a1446d7bdba8467add44fb5812dcc81c97a2f0",
     "UI/Download/productimage/pal/prt_detail_pal_1101": "ce8efeeeebe09eb509ec3e4a0bdf65bdb8342df292cd8cf750e4e2bbd9b603a0",
     "UI/Download/productimage/pal/prt_detail_pal_1102": "c8a487fc7fead58a364e66adcff1258320c74192037f41d362fb220a02dc328a",
@@ -53807,6 +55139,23 @@
     "UI/Download/tutorial/prt_tutorial_3305_s": "0606967ef405caac748de861509d642cc521347f5d0586c9600b498ee88539aa"
   },
   "by_sha256": {
+    "0013e7d0210458720c8e2b878c10169a78ba064162c5dd8386b71f3561b75428": {
+      "bytes": 1648524,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/bg/prt_Bg00037_021",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "0013e7d0210458720c8e2b878c10169a78ba064162c5dd8386b71f3561b75428",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "28abbd6e45878f575922b4e9cb62de178b1e73b5",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/0013e7d0210458720c8e2b878c10169a78ba064162c5dd8386b71f3561b75428.webp"
+    },
     "001620db4211d4499caa750f24f34689141361f20927d13922e0305485617a31": {
       "bytes": 70352,
       "locale": "en",
@@ -54027,6 +55376,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/0141f8421656f08652afee094a6ca5b09d9519f48b6e463b7d1fbfba9f4d9495.webp"
+    },
+    "0147af3303c45cb0ca8a4d289b3f629656ff835297e0c78a68ef0c2cf2309145": {
+      "bytes": 979176,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/bg/prt_Bg00022_031",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "0147af3303c45cb0ca8a4d289b3f629656ff835297e0c78a68ef0c2cf2309145",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "ede9518ae55040f276f7a7b64e0529701c18d230",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/0147af3303c45cb0ca8a4d289b3f629656ff835297e0c78a68ef0c2cf2309145.webp"
     },
     "015e1e47af929d8419adbbcc50253a7e0a04b6678c22de88b689a2688d302d5c": {
       "bytes": 21360,
@@ -55421,6 +56787,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/0663fc7f8c9d5e671d75a1e9e3988e569106b3554a3e185a0c39b3893b827946.webp"
+    },
+    "0672b734bac3ad19e24c1d3f6ed68edc5a62602741947ea319494dbfcdb12203": {
+      "bytes": 936435,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104000801/prt_Chr104000801_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "0672b734bac3ad19e24c1d3f6ed68edc5a62602741947ea319494dbfcdb12203",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "12052c31f70c582d2fde0dc52cd2a73efc34a455",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/0672b734bac3ad19e24c1d3f6ed68edc5a62602741947ea319494dbfcdb12203.webp"
     },
     "06a5e16756e97d7d87d9dee46d43c8e2883b00ac31db10851d43df06ec8fb407": {
       "bytes": 117591,
@@ -57105,6 +58488,40 @@
       },
       "url": "../../../assets/current/0eba4409e390852565e7fb78190a3caaf68a95154220ea594e90fbb8a17d0d86.webp"
     },
+    "0ed33b78199080d275ac71e436e3bc23d9aab6036c5de819e9b49c2373868de8": {
+      "bytes": 2611221,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/bg/prt_Bg00008_040",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "0ed33b78199080d275ac71e436e3bc23d9aab6036c5de819e9b49c2373868de8",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "d426de8db37af5319275d12682cb465d60e0f5d8",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/0ed33b78199080d275ac71e436e3bc23d9aab6036c5de819e9b49c2373868de8.webp"
+    },
+    "0edfa6aa86970969b08522d3f9f90ea8e1a81715c651d4a345541a52582be061": {
+      "bytes": 151135,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/acc/prt_detail_acc_20024",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "0edfa6aa86970969b08522d3f9f90ea8e1a81715c651d4a345541a52582be061",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "cd0bb03c9b35f898d5ef9bd15979ebffb45df1dd",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/0edfa6aa86970969b08522d3f9f90ea8e1a81715c651d4a345541a52582be061.webp"
+    },
     "0ef51150d978ec4527409df2f3aadfb9a4ae08952677fe0092e35c1b7576bfb6": {
       "bytes": 27117,
       "locale": "neutral",
@@ -57615,6 +59032,23 @@
       },
       "url": "../../../assets/current/119ee85f0275ca06d2de47ed9202206758f71ee4607c7834e219a8c66bcd5442.webp"
     },
+    "11ad350b5165baac30fd5b75c9c82e087d6cdac5efcfff529587f5c6af43c47d": {
+      "bytes": 16715,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/acc/prt_tmb_acc_20023",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "11ad350b5165baac30fd5b75c9c82e087d6cdac5efcfff529587f5c6af43c47d",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "5ba0410875ce94ee7335690524c4d6f935aa1f05",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/11ad350b5165baac30fd5b75c9c82e087d6cdac5efcfff529587f5c6af43c47d.webp"
+    },
     "11b924f672a72e694572a9072fe426121307490cbfb16b6673f20f8476b8cb3e": {
       "bytes": 1585,
       "locale": "neutral",
@@ -58057,6 +59491,23 @@
       },
       "url": "../../../assets/current/13b7214a85bdf7c251c0418e23d0005a13743f97a5b9e2a2de465c5334b5f693.webp"
     },
+    "13b91499c1102092a0cc2cdb69b136770eb7dfff4d4156f109f0224d4a267372": {
+      "bytes": 1721936,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_bg_cutin_08",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "13b91499c1102092a0cc2cdb69b136770eb7dfff4d4156f109f0224d4a267372",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "f7ec9d284c7b7853f77a686c3fbddcd99daf4a56",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/13b91499c1102092a0cc2cdb69b136770eb7dfff4d4156f109f0224d4a267372.webp"
+    },
     "13c366d88e8d6c6b8ba75d1a2701f7a751a5acdc491fb4289eb5551ef7e36076": {
       "bytes": 2372617,
       "locale": "neutral",
@@ -58107,6 +59558,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/13ebe855402f75e4fa246d0f680f52cf3125653ceb49bb31cffedf5c80d41894.webp"
+    },
+    "13f3aad88da690f20136c7e69dc446dc7a755c0aa70c9d96f922cc5fe752b030": {
+      "bytes": 105565,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104000801/prt_Chr104000801_thumb_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "13f3aad88da690f20136c7e69dc446dc7a755c0aa70c9d96f922cc5fe752b030",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "702f06774b8c5ead8f1b4e7d7523eed692e43cd1",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/13f3aad88da690f20136c7e69dc446dc7a755c0aa70c9d96f922cc5fe752b030.webp"
     },
     "13f560eb93260a26e906857d064ce3e993c07ffc0b7c2cdf6c15502df9708445": {
       "bytes": 107681,
@@ -58940,6 +60408,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/1878c30c2fef78167fce734de90c2ad7b13858619d2bad0cc7d6c38f6bf0dccc.webp"
+    },
+    "18bb5b3c6985b98987cc25ad6f3681cde55a23c9a7d84fa1a7135c1d7bba6bcf": {
+      "bytes": 80772,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mob/Mob10012/prt_Mob10012_05_thumb",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "18bb5b3c6985b98987cc25ad6f3681cde55a23c9a7d84fa1a7135c1d7bba6bcf",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "d41cfe1b32ae462a11c424e4b822b5a8846b7882",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/18bb5b3c6985b98987cc25ad6f3681cde55a23c9a7d84fa1a7135c1d7bba6bcf.webp"
     },
     "18e3a63a52f7988c599f2b464223086659bf3db3544bd80400200e72e888d366": {
       "bytes": 13398,
@@ -62834,6 +64319,23 @@
       },
       "url": "../../../assets/current/2a35738db77598ce5c0da8258ea5a7dc84e7afe22dbd92826758a5f05df81f83.webp"
     },
+    "2a4d31296c17b712fd181b926b1b35be842b1eeb8140e66d36d8b2be46470aaf": {
+      "bytes": 1723111,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/bg/prt_Bg00035_011",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "2a4d31296c17b712fd181b926b1b35be842b1eeb8140e66d36d8b2be46470aaf",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "fb7c1216c551298065fda5528ee61c9d2300d5a1",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/2a4d31296c17b712fd181b926b1b35be842b1eeb8140e66d36d8b2be46470aaf.webp"
+    },
     "2a5037da7c88c8179b595ac47e4ebeff88f762cae5edceb1b3ef32ac550fae1d": {
       "bytes": 24216,
       "locale": "neutral",
@@ -63361,6 +64863,23 @@
       },
       "url": "../../../assets/current/2cd0f467e0b47ceaa379fa2d8405ae50d28c26fc1b3ecb48d89a25483e9e3a5d.webp"
     },
+    "2cd27fc9366915de3fbc9649ca99b366aa62c5f024d7b70556fa7a0bc703da34": {
+      "bytes": 10182,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event309_tab_07_unopened",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "2cd27fc9366915de3fbc9649ca99b366aa62c5f024d7b70556fa7a0bc703da34",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "700e38897880e2f5e4814dab3c43c724e14aa106",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/2cd27fc9366915de3fbc9649ca99b366aa62c5f024d7b70556fa7a0bc703da34.webp"
+    },
     "2cd684647404a6f4c25e232e470a8c2a635833777326b6ee89110b1d2deeb69c": {
       "bytes": 114325,
       "locale": "neutral",
@@ -63751,6 +65270,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/2ea10de3c5cdc465ed395370a48bb985e6ae04b85b5907c52e6eb4ba56c6a869.webp"
+    },
+    "2ebd4a1beb6c9d025af2557e442fd871a4b064c01a0e9020086b07325f66d42d": {
+      "bytes": 1062580,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104000901/prt_Chr104000901_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "2ebd4a1beb6c9d025af2557e442fd871a4b064c01a0e9020086b07325f66d42d",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "55ac5e6f1d9b716c36a11198376df135c519b2d1",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/2ebd4a1beb6c9d025af2557e442fd871a4b064c01a0e9020086b07325f66d42d.webp"
     },
     "2ed44c0c4a99288dd18b28b7cf05b98ed6450f99a0be31cd680e5c6feb89fc3b": {
       "bytes": 22331,
@@ -65027,6 +66563,23 @@
       },
       "url": "../../../assets/current/3606f57413d7800c408c9ce01f49b1a1c65825ddcfcf5b9b489862558489900b.webp"
     },
+    "362e8e170bb9f66516278b714966d45cdfcac616eaed0b21e3ef3a23513fbdb3": {
+      "bytes": 2385780,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/bg/prt_Bg00035_010",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "362e8e170bb9f66516278b714966d45cdfcac616eaed0b21e3ef3a23513fbdb3",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "d448bd096b4ec799d896d5800bf3b02465631443",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/362e8e170bb9f66516278b714966d45cdfcac616eaed0b21e3ef3a23513fbdb3.webp"
+    },
     "3640f7d9407b19dbb9a1aa6ff779d03ecfb6f2c27b7372658a4d5ac19096009c": {
       "bytes": 278275,
       "locale": "en",
@@ -65180,6 +66733,23 @@
       },
       "url": "../../../assets/current/3728b185a4cf113d4ec4e99a173459d5b9b0f8cf0859442c37c28efb0a8146cd.webp"
     },
+    "373e3ec935d03a5e01d4572a6b6080f4490f3163232b2a7fc348a5775f7820b0": {
+      "bytes": 91110,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mns/Mns160001/prt_Mns160001_thumb",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "373e3ec935d03a5e01d4572a6b6080f4490f3163232b2a7fc348a5775f7820b0",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "24e28f4a11e427896409af8017508c1bbcadda91",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/373e3ec935d03a5e01d4572a6b6080f4490f3163232b2a7fc348a5775f7820b0.webp"
+    },
     "375181f0327632f9185f85ba55faf84c4d0bc1c0475d904016aee917c16a2711": {
       "bytes": 27233,
       "locale": "neutral",
@@ -65196,6 +66766,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/375181f0327632f9185f85ba55faf84c4d0bc1c0475d904016aee917c16a2711.webp"
+    },
+    "3758f8c4db0d42439daff6da267f49e47164921bc8b9344335f065ff05780f96": {
+      "bytes": 386367,
+      "locale": "en",
+      "logical_path": "UI/Download/banner/quest/prt_bnr_quest_230912",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "3758f8c4db0d42439daff6da267f49e47164921bc8b9344335f065ff05780f96",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "f7f11d8c92611698d7c45ab29434d8f93dacd8a0",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/3758f8c4db0d42439daff6da267f49e47164921bc8b9344335f065ff05780f96.webp"
     },
     "378a2dbcda28e81af663ccf966a638d674653c7eaf14569a7fdfa3e585af074f": {
       "bytes": 14091,
@@ -66727,6 +68314,23 @@
       },
       "url": "../../../assets/current/3e1590fe9600c922f974bf4312fc773c024ed359b7bd299f69fa5e20996c8ef2.webp"
     },
+    "3e1c36fae65a361df37b1ef31be887cc425c0da360cb6cca11ecc3ce8fb4a1d9": {
+      "bytes": 72443,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mns/mns0011_06_001/prt_mns0011_06_001_thumb",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "3e1c36fae65a361df37b1ef31be887cc425c0da360cb6cca11ecc3ce8fb4a1d9",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "2bad8c67e680261e2aab610c6373fd1a30a29657",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/3e1c36fae65a361df37b1ef31be887cc425c0da360cb6cca11ecc3ce8fb4a1d9.webp"
+    },
     "3e2583927cb6d8ccd971a5ec08c16e787f71816d8e81b4033a31d0b011101e67": {
       "bytes": 383036,
       "locale": "en",
@@ -66896,6 +68500,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/3efbcd1311eefc048084fd78bcbd63759d081900d823a98e2b70d8793b55436b.webp"
+    },
+    "3efd1ba9725b10cff620555fc43dc0a7109b281c1b0878ae6bd49ee1a8033043": {
+      "bytes": 95343,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mns/mns0059_02_001/prt_mns0059_02_001_thumb",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "3efd1ba9725b10cff620555fc43dc0a7109b281c1b0878ae6bd49ee1a8033043",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "4af3299e343aaf0d32088d35aa3a693f9eac6807",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/3efd1ba9725b10cff620555fc43dc0a7109b281c1b0878ae6bd49ee1a8033043.webp"
     },
     "3f0000b03f5a7c69de4eb8890a9b0437aba5058e8aed119d75b7f0a35fbbb168": {
       "bytes": 394452,
@@ -67067,6 +68688,23 @@
       },
       "url": "../../../assets/current/3fc859136365c44d93c27401f9651378e40f70d1867024045acd134d4a59494c.webp"
     },
+    "3fdc7af5444af4e265288456363fcd35860b536b5e8abddf672221cd89e13c1e": {
+      "bytes": 508075,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mob/Mob20002/prt_Mob20002_02_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "3fdc7af5444af4e265288456363fcd35860b536b5e8abddf672221cd89e13c1e",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "20da2e93779c6b980b14d4e80eed12ff2a1a6b64",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/3fdc7af5444af4e265288456363fcd35860b536b5e8abddf672221cd89e13c1e.webp"
+    },
     "3fe25a23f5e7aa4ee814ef2bff5d666e82fa11add44ab3241d34010a26fc8907": {
       "bytes": 340655,
       "locale": "en",
@@ -67151,6 +68789,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/3fff67a68b5e96083999c98138025d71e900611bea92554586ce794811c9b611.webp"
+    },
+    "4009b7c72a3d4b43fbd0969aba15ee72ef375b1032a8cdcb30a42a76deaff019": {
+      "bytes": 80344,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mob/Mob10032/prt_Mob10032_01_thumb",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "4009b7c72a3d4b43fbd0969aba15ee72ef375b1032a8cdcb30a42a76deaff019",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "30adecdc36287c0b5711cafca0e4d54eb0192cf5",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/4009b7c72a3d4b43fbd0969aba15ee72ef375b1032a8cdcb30a42a76deaff019.webp"
     },
     "403c814d293a962fd2574f10578f23f555bae3ba3168b18b76df5572e3aae510": {
       "bytes": 959418,
@@ -67644,6 +69299,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/42996555a16e1e5a326f41a7d50aa8ade5433d1a4f6186da5878ae0961850152.webp"
+    },
+    "42a906fbc0ac63a64dd0c8dd9d78247e53e80ad08a490bdbc286821f3142683d": {
+      "bytes": 368607,
+      "locale": "en",
+      "logical_path": "UI/Download/banner/quest/prt_bnr_quest_230911",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "42a906fbc0ac63a64dd0c8dd9d78247e53e80ad08a490bdbc286821f3142683d",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "405e0baf72f6da0fa0ac1c086da03660ea5fbb3a",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/42a906fbc0ac63a64dd0c8dd9d78247e53e80ad08a490bdbc286821f3142683d.webp"
     },
     "42b04f320995edcab5f86837e14dc9e3c3db470324e55cfce74155432eba234f": {
       "bytes": 9159,
@@ -68461,6 +70133,23 @@
       },
       "url": "../../../assets/current/466ff2cd3b1d59e8ba174d7befbfa16bff9f760efbbb9eb4405406416bd39699.webp"
     },
+    "46ee4046611e29f8ce5c088a950d602db94e1267e81a216379e7ab97b66a3597": {
+      "bytes": 10488,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event309_tab_06_unopened",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "46ee4046611e29f8ce5c088a950d602db94e1267e81a216379e7ab97b66a3597",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "e4a9117d5f232d4319e17d5d373049911473f2f0",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/46ee4046611e29f8ce5c088a950d602db94e1267e81a216379e7ab97b66a3597.webp"
+    },
     "47128ed83ba6dedbeae26850e8e6ee93e17297caa91683600f629b50d60fd941": {
       "bytes": 35121,
       "locale": "neutral",
@@ -68903,6 +70592,23 @@
       },
       "url": "../../../assets/current/496e912baa4906101f94e987e18eaa33d6d2c5c4837c7d46b341dbb46d687a43.webp"
     },
+    "498a606b60b85e44ef27cb739a9116d10473d590dd1c31dd83f2bbbfa54b8da6": {
+      "bytes": 23556,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_face_06",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "498a606b60b85e44ef27cb739a9116d10473d590dd1c31dd83f2bbbfa54b8da6",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "5bef738cd3e33657e4c1c82df28c12070540c607",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/498a606b60b85e44ef27cb739a9116d10473d590dd1c31dd83f2bbbfa54b8da6.webp"
+    },
     "499e08300c94de2ffbf75ec3b9c1c7def4b05460c8b347ef8e2d7d2d0891e2ae": {
       "bytes": 4413,
       "locale": "en",
@@ -69089,6 +70795,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/4a551a5493ac7df60d7c18eb627d9cf7379796f05ad158c12c61a5736b326ca5.webp"
+    },
+    "4a58e7ec570b40179729eb8d2b2b7383a001e7cedd346c5ee51ca4caa5981ca8": {
+      "bytes": 186161,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_detail_meo_mns8021_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "4a58e7ec570b40179729eb8d2b2b7383a001e7cedd346c5ee51ca4caa5981ca8",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "5ff182a070042fd4672b49578be6490f85589d31",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/4a58e7ec570b40179729eb8d2b2b7383a001e7cedd346c5ee51ca4caa5981ca8.webp"
     },
     "4a656b5af00e5ca8e745cb6a68d03c50292cffc9bb8794b78bf89154d234c3cc": {
       "bytes": 11740,
@@ -69277,6 +71000,23 @@
       },
       "url": "../../../assets/current/4b099dfe51df380a8b551396d8e6b84dc7ad7e8a22668dd6d63e92147d267e7f.webp"
     },
+    "4b1eb1ada8b03bcb06a70174cf379390bf663ceab0c4a5699dd752cd398eb6fb": {
+      "bytes": 80863,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mob/Mob10024/prt_Mob10024_05_thumb",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "4b1eb1ada8b03bcb06a70174cf379390bf663ceab0c4a5699dd752cd398eb6fb",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "633e9388494ae2824331be7c6f767b73f28ec105",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/4b1eb1ada8b03bcb06a70174cf379390bf663ceab0c4a5699dd752cd398eb6fb.webp"
+    },
     "4b22457bdb3d50322e8955e61e7410ea2ddae52ec380dd22635faff92a4dc08f": {
       "bytes": 53300,
       "locale": "neutral",
@@ -69446,6 +71186,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/4c4f03433a289bff63fd4ee2271868032db620f1e4e30f43122ec69eff159ee9.webp"
+    },
+    "4c65e8dce3dba7c8eb67d4e5955bd5cfdcf0c98c75b68a8ecf452bd9775e1083": {
+      "bytes": 2128181,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/bg/prt_Bg00037_020",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "4c65e8dce3dba7c8eb67d4e5955bd5cfdcf0c98c75b68a8ecf452bd9775e1083",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "ff4844dd64c0f9a626415d805a0d12f7e87e7076",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/4c65e8dce3dba7c8eb67d4e5955bd5cfdcf0c98c75b68a8ecf452bd9775e1083.webp"
     },
     "4c88b6c8ec60242503545e2559a0cb18d9ef2303958b45028b026d7552aae403": {
       "bytes": 378922,
@@ -70093,6 +71850,23 @@
       },
       "url": "../../../assets/current/4fb8e8a136124620692ab20005ee89375edac18745f892016a2516b5c4638a90.webp"
     },
+    "4fbf71a1ec06700dfcb1fde1d0b2ed91ff768ec47ca5488a832bd4e2bdd6430c": {
+      "bytes": 95164,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_tmb_parymember309_07",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "4fbf71a1ec06700dfcb1fde1d0b2ed91ff768ec47ca5488a832bd4e2bdd6430c",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "cf1e423da62f31c1a5bdf9880d108c622688aa72",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/4fbf71a1ec06700dfcb1fde1d0b2ed91ff768ec47ca5488a832bd4e2bdd6430c.webp"
+    },
     "4fc6a8f31af7b7401a58ed5209f36cb157b8cc798e9b34e427851d14e4620d58": {
       "bytes": 674545,
       "locale": "neutral",
@@ -70262,6 +72036,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/508a4ad312c0f441aa642060e379dac251d7ce532e50c5dd4d1d9d803413745e.webp"
+    },
+    "50b1927687262f34d8df3768b1851114628591b179e1e0d7827009358c8f63db": {
+      "bytes": 30040,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8029_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "50b1927687262f34d8df3768b1851114628591b179e1e0d7827009358c8f63db",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "be03496bf44a5fd7a84d8753eb3b404189945f32",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/50b1927687262f34d8df3768b1851114628591b179e1e0d7827009358c8f63db.webp"
     },
     "50c65214c31feb7e4c2d33bd042b4d467b4add04789c768d72b16f0fb6f852fe": {
       "bytes": 31245,
@@ -72949,6 +74740,23 @@
       },
       "url": "../../../assets/current/5e614ff5daadd8bab9df00e90e8fd64208b3c9d8448f6b085567214e34cd73b4.webp"
     },
+    "5e616f066ff8ad607a2a589ac0dc6ee2142f267f9530bdd330a8f41bb568c9f1": {
+      "bytes": 1723723,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_bg_cutin_07",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "5e616f066ff8ad607a2a589ac0dc6ee2142f267f9530bdd330a8f41bb568c9f1",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "391ed3775409e72b6c57686d47704b76ca0cbc1d",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/5e616f066ff8ad607a2a589ac0dc6ee2142f267f9530bdd330a8f41bb568c9f1.webp"
+    },
     "5e6491e206b233fd1d5aa057eb52ed167692766bba9cbf59f79646ff5f8f4dc2": {
       "bytes": 140559,
       "locale": "neutral",
@@ -73646,6 +75454,23 @@
       },
       "url": "../../../assets/current/61998e44ddc53a867696456ffbf4b9b395d61cf96c902839427a55a84eb3c01e.webp"
     },
+    "61c499bf7c2b6e7bfba3abbf6e3e145b488bebea60c9a16123438fac3cf3a801": {
+      "bytes": 365150,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104001301/prt_Chr104001301_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "61c499bf7c2b6e7bfba3abbf6e3e145b488bebea60c9a16123438fac3cf3a801",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "427685c261c1f5ce8a0ce55a6d37acdc30dc7994",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/61c499bf7c2b6e7bfba3abbf6e3e145b488bebea60c9a16123438fac3cf3a801.webp"
+    },
     "61c70261884fabb3150fd96833cf52ed39486978a751ffaeb10fec65a88d7542": {
       "bytes": 49069,
       "locale": "neutral",
@@ -73934,6 +75759,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/63385c0e909c30bce460ef23716e5c33dc58d3a2731c65e801194b7d22f88be9.webp"
+    },
+    "634a27b2d43cf2c33c6210198fdb50091ee6450e7085c5cb05b3fe44772cbdc8": {
+      "bytes": 1773598,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104000701/prt_Chr104000701_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "634a27b2d43cf2c33c6210198fdb50091ee6450e7085c5cb05b3fe44772cbdc8",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "faa0377c292ed279ba70de34835bf6d7eb2d803f",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/634a27b2d43cf2c33c6210198fdb50091ee6450e7085c5cb05b3fe44772cbdc8.webp"
     },
     "63645f55128d4c95682b3055b8ec4e5ba0d95087cc98f292512626ae2f7e8ee1": {
       "bytes": 27124,
@@ -74445,6 +76287,23 @@
       },
       "url": "../../../assets/current/65cc5fc856247076aa5d10057f601b4f8cc6920e58273cdf5c61289c61736642.webp"
     },
+    "65f982c4b1ae4bcda132da09880dc73047967545be64e174bbdbf51b6a4a0a60": {
+      "bytes": 146938,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_detail_meo_mns8024_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "65f982c4b1ae4bcda132da09880dc73047967545be64e174bbdbf51b6a4a0a60",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "da1db375c97b99233ffc579bac140b3d0db1d27e",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/65f982c4b1ae4bcda132da09880dc73047967545be64e174bbdbf51b6a4a0a60.webp"
+    },
     "65fd6558a08d62068b059da5c90a2cedf982864d45fa777b4a1fb06713ee6386": {
       "bytes": 22215,
       "locale": "neutral",
@@ -74563,6 +76422,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/6695182345d317292f981a8dc60cd94d3f3721b269d052b3c26dff8897637de5.webp"
+    },
+    "669eea7371399f3e1dd570ccf0a46346926191e03f0323ea491b10d86072e13a": {
+      "bytes": 2467158,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104001001/prt_Chr104001001_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "669eea7371399f3e1dd570ccf0a46346926191e03f0323ea491b10d86072e13a",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "c2f1e0d9d9c09524629a887cd07b39b59033e8b2",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/669eea7371399f3e1dd570ccf0a46346926191e03f0323ea491b10d86072e13a.webp"
     },
     "66c44a2cd66f04e7ef367f37f39c2c4cebdedbb867a04ad5c9e7f3c3d518ccc4": {
       "bytes": 40880,
@@ -75142,6 +77018,23 @@
       },
       "url": "../../../assets/current/6a72bdae95625236abca9bb9f72dad4bdda34f4715953b9e52534093ea0a8c6d.webp"
     },
+    "6a7fb5f52202b6a38eb5dbd2d3b7195d85f138a949c4345504a160431094cc1d": {
+      "bytes": 470347,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mns/Mns160001/prt_Mns160001_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "6a7fb5f52202b6a38eb5dbd2d3b7195d85f138a949c4345504a160431094cc1d",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "e15ca57646f6efbb9ac1aeb46dc2eb818873cb7b",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/6a7fb5f52202b6a38eb5dbd2d3b7195d85f138a949c4345504a160431094cc1d.webp"
+    },
     "6aa2ef92332849662d329fc385cec6338fd0ae50314d24ff0c6f932190692b85": {
       "bytes": 380486,
       "locale": "en",
@@ -75379,6 +77272,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/6c1994b57dc4d6fad14b3b4425729d5753bad16ca23e94b8a29abe280154b606.webp"
+    },
+    "6c38e6c0a623489675b5d3afba02060e8891c03cbdf86d47e0ce1455e7b05e4b": {
+      "bytes": 47201,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/mns/prt_tmb_mns_mns0059_02",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "6c38e6c0a623489675b5d3afba02060e8891c03cbdf86d47e0ce1455e7b05e4b",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "a3366bf3ab53509d522534a673e050c7b95a7301",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/6c38e6c0a623489675b5d3afba02060e8891c03cbdf86d47e0ce1455e7b05e4b.webp"
     },
     "6c3bbd42b5578d9732a0af4e0b2c081b255b147489453aae8f5b7dd9d9c01924": {
       "bytes": 1909518,
@@ -75941,6 +77851,23 @@
       },
       "url": "../../../assets/current/6f0d4ea045ff45a2e7c26bf65f4806761cfe323e77a6897fd34a36da302658c7.webp"
     },
+    "6f126352f9851f7e8a01b35e27fb933499e635d3b3f514388bafb3a90e6f766f": {
+      "bytes": 15351,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8031_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "6f126352f9851f7e8a01b35e27fb933499e635d3b3f514388bafb3a90e6f766f",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "a4b899c6d15731aa58241cb6b18ab071cd0de2ce",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/6f126352f9851f7e8a01b35e27fb933499e635d3b3f514388bafb3a90e6f766f.webp"
+    },
     "6f1ebab404a6ef4506c44804e6b22330ac3e5df3bd87dc1f5f17967eedc55a12": {
       "bytes": 1844569,
       "locale": "neutral",
@@ -76246,6 +78173,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/6ff828801e6496749825b70ac03a8fd1cb8de32e71526e29ea004743050b2287.webp"
+    },
+    "700a1adabbb0eb3a87b2b7a2c6e48a3cae97d1f189da50d3a39b0135b819c3be": {
+      "bytes": 147511,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event209_tmb_07",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "700a1adabbb0eb3a87b2b7a2c6e48a3cae97d1f189da50d3a39b0135b819c3be",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "2ea192a8e01ddae9868484f3e851eed3c67489c1",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/700a1adabbb0eb3a87b2b7a2c6e48a3cae97d1f189da50d3a39b0135b819c3be.webp"
     },
     "704d31266486651731ac11e3b0938e2dc9d7d126fb887b5c531e87d2cd839613": {
       "bytes": 56311,
@@ -77590,6 +79534,23 @@
       },
       "url": "../../../assets/current/77f712146a1a74651b86bc681dbf73102474e1861651f2d68428aee5f0111316.webp"
     },
+    "7847f9558268a2e0862c968f97269002aa3d74b8da6dd7d334d4acb0941c75c9": {
+      "bytes": 23117,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns0011_06",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "7847f9558268a2e0862c968f97269002aa3d74b8da6dd7d334d4acb0941c75c9",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "2f17905924069923eab1a5c8cf8de98e2f49a0e4",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/7847f9558268a2e0862c968f97269002aa3d74b8da6dd7d334d4acb0941c75c9.webp"
+    },
     "78625d79e9789e93d09d39439301de1264c5540a92219f834ed507bfc6e4e9f6": {
       "bytes": 20881,
       "locale": "neutral",
@@ -77725,6 +79686,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/78abd08407c7e336f2e2e0bc618e544ea575ba9550063fef03817003f23b23f4.webp"
+    },
+    "78c2c6a1130c74fd689ed42da0fcfbdf0dd081d6a304bd00f8bb4c96e7d9ead9": {
+      "bytes": 126997,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/item/prt_adv_itm_189010038",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "78c2c6a1130c74fd689ed42da0fcfbdf0dd081d6a304bd00f8bb4c96e7d9ead9",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "01f80abafd2fd664c735ea04cf876617dfc97f05",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/78c2c6a1130c74fd689ed42da0fcfbdf0dd081d6a304bd00f8bb4c96e7d9ead9.webp"
     },
     "78c82c27ebf6a08819e004736e9ed6a37527e34811a64e4ad8e3fe8b0a60f5b0": {
       "bytes": 574898,
@@ -80038,6 +82016,23 @@
       },
       "url": "../../../assets/current/840a2c24b3f24c45ca5aa43fbbac05c46f3a1c772de0753cfcc1a0cc095f2afc.webp"
     },
+    "84139246d1b0dbe0f0281debe28c678544a57757bd5628dcd6fda39af7234a39": {
+      "bytes": 10154,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event309_tab_08_unopened",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "84139246d1b0dbe0f0281debe28c678544a57757bd5628dcd6fda39af7234a39",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "bdf9a714221d4e448cc1a5512caeae6b12a19634",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/84139246d1b0dbe0f0281debe28c678544a57757bd5628dcd6fda39af7234a39.webp"
+    },
     "8418d527675fc7b13cf7d87cbc538822ed02c5663aa3e6e02047dc1d83451936": {
       "bytes": 123912,
       "locale": "neutral",
@@ -80565,6 +82560,23 @@
       },
       "url": "../../../assets/current/862bcb3571f13ff4cfff7bfb27e6fd30932f61299a7221d23cb8c213d078388b.webp"
     },
+    "864052cc8ebac3875c8389f9bc6d80fc400bcd5b3a795f96bb488e963793138b": {
+      "bytes": 33052,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/itm/prt_tmb_itm_100200034",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "864052cc8ebac3875c8389f9bc6d80fc400bcd5b3a795f96bb488e963793138b",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "f8a0aa95718f8d193c77042648b15f00be495a2c",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/864052cc8ebac3875c8389f9bc6d80fc400bcd5b3a795f96bb488e963793138b.webp"
+    },
     "864e5bd42340aa30f63843b7139ba40d8e158002a57c3c9abadcb7e92d5f56af": {
       "bytes": 279583,
       "locale": "en",
@@ -81040,6 +83052,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/87f82accb14569a0eecd74832b28bd1a3fd3b2d298d96b52523a71c0ee2c200d.webp"
+    },
+    "87f8f618bb732042f10ea96c139e4beef85c8d811f2991596766199d4059a62c": {
+      "bytes": 836408,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104001201/prt_Chr104001201_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "87f8f618bb732042f10ea96c139e4beef85c8d811f2991596766199d4059a62c",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "884b1c2378eb057a9520c513450f6192ba5ca030",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/87f8f618bb732042f10ea96c139e4beef85c8d811f2991596766199d4059a62c.webp"
     },
     "883c13409d41071b206fc6c5e17e510f5908ffe7dd1860e8b86733a687a9cbf4": {
       "bytes": 42807,
@@ -81958,6 +83987,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/8d676dcd690e5d62256f4c43530e44471ab2913186fa3086b27c053ba79782f1.webp"
+    },
+    "8d755b7e14786db3fe4adaf39584b9230de23d3913e5b269c7acef49e89c5067": {
+      "bytes": 22741,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8030_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "8d755b7e14786db3fe4adaf39584b9230de23d3913e5b269c7acef49e89c5067",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "d8c0f7eb2bbef2003f01a43b2f9313bcbf5cd11f",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/8d755b7e14786db3fe4adaf39584b9230de23d3913e5b269c7acef49e89c5067.webp"
     },
     "8d837a362b61b338fc4538cc034d6a2858915914679a7c4b69d42be2f2ff7868": {
       "bytes": 2707191,
@@ -83540,6 +85586,23 @@
       },
       "url": "../../../assets/current/95238167cdce214964e0456af610c85ade633bd4a54ecf7e4db288017aa45802.webp"
     },
+    "9539801e0501ff5a26c3fa057e5a89d67a9262264556dc5a4e7c6d43c08d4776": {
+      "bytes": 128496,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_detail_meo_mns0011_06",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "9539801e0501ff5a26c3fa057e5a89d67a9262264556dc5a4e7c6d43c08d4776",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "b4bc04197821a6138640a728385d7115bd22466c",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/9539801e0501ff5a26c3fa057e5a89d67a9262264556dc5a4e7c6d43c08d4776.webp"
+    },
     "955ab9d210394fd2a0ff6bf718ac67a008a7dfa07afd371301ee3b448916f8fe": {
       "bytes": 60804,
       "locale": "neutral",
@@ -84729,6 +86792,40 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/9b92e21dc808b06a64edfc2ab60e1fdd6d2a3543e9b4ed7da07ef22ade0c28ed.webp"
+    },
+    "9b973d8dc58989c2489cae73ca88cfaea5ab7c6cb5a2d02067f09d0e86318a4e": {
+      "bytes": 68273,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_detail_meo_mns8031_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "9b973d8dc58989c2489cae73ca88cfaea5ab7c6cb5a2d02067f09d0e86318a4e",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "a975873a828478969c3f9da4ace8e1124e3263f1",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/9b973d8dc58989c2489cae73ca88cfaea5ab7c6cb5a2d02067f09d0e86318a4e.webp"
+    },
+    "9ba3466ff14a7bb9b9bb33c79be7c288c91d3d713a8a97c997513977af618509": {
+      "bytes": 833288,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mob/Mob10032/prt_Mob10032_01_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "9ba3466ff14a7bb9b9bb33c79be7c288c91d3d713a8a97c997513977af618509",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "fec3eeb844b4c3259171ea05cacf5467e1828375",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/9ba3466ff14a7bb9b9bb33c79be7c288c91d3d713a8a97c997513977af618509.webp"
     },
     "9bc9408a5d7ae47d181d9af65f827f39a316a43070902d363afae10613c300df": {
       "bytes": 15338,
@@ -87144,6 +89241,23 @@
       },
       "url": "../../../assets/current/a7a86177115693a8a2ae986cd897ed1120cb97b3e2ced9f9f991c708bdcd20a6.webp"
     },
+    "a7c8114f16a718f4fd68a6e4ea6fe6a6fe82cfe598a0d2e2f68503ae440d3f96": {
+      "bytes": 26783,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8024_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "a7c8114f16a718f4fd68a6e4ea6fe6a6fe82cfe598a0d2e2f68503ae440d3f96",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "5f4d990e27fb8c56e52464ad7ab640612cf97252",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/a7c8114f16a718f4fd68a6e4ea6fe6a6fe82cfe598a0d2e2f68503ae440d3f96.webp"
+    },
     "a7cc767e89118175a18cdf15600c82e336e7acb7a0540c056d9dd1f0911f0ae6": {
       "bytes": 2960,
       "locale": "en",
@@ -87790,6 +89904,23 @@
       },
       "url": "../../../assets/current/aaf18f9e3ea3d644e3952c42267cc4f206b4a09198a4b2802aa6c9657a52d334.webp"
     },
+    "ab0a712d8b373ea6396a4771baef8c5655c8f17015019e538b9f1be63f722f3e": {
+      "bytes": 71627,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mob/Mob20002/prt_Mob20002_02_thumb",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "ab0a712d8b373ea6396a4771baef8c5655c8f17015019e538b9f1be63f722f3e",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "66cc32d76d7ed9d903aa48fa45d86279356a5ec6",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/ab0a712d8b373ea6396a4771baef8c5655c8f17015019e538b9f1be63f722f3e.webp"
+    },
     "ab15985e8a8dae304e5cd9612185adf0fd91b9ef5624ba73e38e573fdf485a1b": {
       "bytes": 40635,
       "locale": "neutral",
@@ -88096,6 +90227,23 @@
       },
       "url": "../../../assets/current/ace0728d55f344f5408f43577e3cd99119f9a8462f6701a2aaa2e7a700de3cd4.webp"
     },
+    "ace9b8ac1d3ab4d336c1e32b02f617648b4480cce85f7868a86129a065377470": {
+      "bytes": 136928,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104000701/prt_Chr104000701_thumb_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "ace9b8ac1d3ab4d336c1e32b02f617648b4480cce85f7868a86129a065377470",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "ec1a6d7a0f052bd1853bee51c92eb21e0a3744c9",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/ace9b8ac1d3ab4d336c1e32b02f617648b4480cce85f7868a86129a065377470.webp"
+    },
     "ad29f73bb83b337b1f34a14da79328489b0834768e82fd4f936134927680aa8d": {
       "bytes": 17849,
       "locale": "neutral",
@@ -88163,6 +90311,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/ad3d47e3bfa9fcacaaa59f4248acd1bc1b8d345bf0a90c77bf36a0546b0a28d0.webp"
+    },
+    "ad534806d528f67a2db84cd04aacc9f3c25db0d0122a765db2058c56f2307e9b": {
+      "bytes": 2269137,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/bg/prt_Bg00008_041",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "ad534806d528f67a2db84cd04aacc9f3c25db0d0122a765db2058c56f2307e9b",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "16b9fee3314e99f510bc3ac353db50bb035479c5",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/ad534806d528f67a2db84cd04aacc9f3c25db0d0122a765db2058c56f2307e9b.webp"
     },
     "ad5f6ae39f4a349d021cc2b599de14a1b5c4085cb35301b2713f82d69fb57a38": {
       "bytes": 29885,
@@ -88486,6 +90651,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/ae7184f0413d7e12154be32a0c9ed259b7c743639b51872780f122f7f2af4943.webp"
+    },
+    "ae919d0fa94003cfb04507ba0466058e64ee9d4f9ed51f78d120b2158853c9fd": {
+      "bytes": 146206,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104001001/prt_Chr104001001_thumb_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "ae919d0fa94003cfb04507ba0466058e64ee9d4f9ed51f78d120b2158853c9fd",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "c5a775b1b24cd409f5f3b7236d71236e0791cb0c",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/ae919d0fa94003cfb04507ba0466058e64ee9d4f9ed51f78d120b2158853c9fd.webp"
     },
     "aeb64a45bc42098d4e0a3edb0c125d0f8b4c551e1912f673c7747918c509e6e6": {
       "bytes": 94303,
@@ -88844,6 +91026,23 @@
       },
       "url": "../../../assets/current/b14db6a311b56a1b0fb38fc76ac5d02f52997e3501b41c7eec75aebf6372f153.webp"
     },
+    "b157b84901bf86b7581630da8c4235ac511954480ea5fce105325a7de5600b3b": {
+      "bytes": 116848,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_tmb_parymember309_06",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "b157b84901bf86b7581630da8c4235ac511954480ea5fce105325a7de5600b3b",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "e8e79264deb5f9ac9b9f9255b306598a9d308815",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/b157b84901bf86b7581630da8c4235ac511954480ea5fce105325a7de5600b3b.webp"
+    },
     "b16225135681c40adfeb22a8ea9ad2f517e917daaec0695c297747474b4c0ca3": {
       "bytes": 814510,
       "locale": "en",
@@ -88894,6 +91093,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/b19dfaf06d2633bcde2f1b0ffadada2424d3e874670d87aca1d79f98219508e6.webp"
+    },
+    "b1a6d512fdc45beda1fbd9e963b638a312ae4f4d0dcd530b062799a4bf971602": {
+      "bytes": 407523,
+      "locale": "en",
+      "logical_path": "UI/Download/banner/quest/prt_bnr_quest_230905",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "b1a6d512fdc45beda1fbd9e963b638a312ae4f4d0dcd530b062799a4bf971602",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "c5f47f9b6827b0b53d15f98fcac56e7663d766c0",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/b1a6d512fdc45beda1fbd9e963b638a312ae4f4d0dcd530b062799a4bf971602.webp"
     },
     "b1b6a3e48f56099925e90f58ec9ff63b7a3679033b52bfcf972db25dfb49d92c": {
       "bytes": 280741,
@@ -89234,6 +91450,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/b3f6ab4e04c418af5e4c013305bc11e2ee837492511a7be517da865568e048f6.webp"
+    },
+    "b4005a0908a6dcb00fd346b65688c779df6d609befbd2b0ea3ee8476fd647212": {
+      "bytes": 86255,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr199000301/prt_Chr199000301_thumb_06",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "b4005a0908a6dcb00fd346b65688c779df6d609befbd2b0ea3ee8476fd647212",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "67479681ebd89bdfdeb1d56037c0012a113588dc",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/b4005a0908a6dcb00fd346b65688c779df6d609befbd2b0ea3ee8476fd647212.webp"
     },
     "b41b819b11ecfca2032163ba9128a0022ea3beb79a3b154dc91e804de00aed1a": {
       "bytes": 21010,
@@ -91156,6 +93389,23 @@
       },
       "url": "../../../assets/current/be1ff5fbe87b7c7c0992515babb208cad9ab5b326d5b06706d1b5808a05f3e2b.webp"
     },
+    "be4f60f04e336965a5494fb29a58fe2aeb96b4ea859a7ceaae6dd77fb79ad8a4": {
+      "bytes": 1722975,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_bg_cutin_06",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "be4f60f04e336965a5494fb29a58fe2aeb96b4ea859a7ceaae6dd77fb79ad8a4",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "f6e22145ba7560ff81c08a2f16075a11ad99e3b2",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/be4f60f04e336965a5494fb29a58fe2aeb96b4ea859a7ceaae6dd77fb79ad8a4.webp"
+    },
     "be545f39c62c543d675071237ece664cfde5e648efb7f07e7b969905b4924b52": {
       "bytes": 53593,
       "locale": "neutral",
@@ -91614,6 +93864,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/c0a8cb2b519e13a32f9f1d7187713d977d4b9750b8d66b751233c59a89616d96.webp"
+    },
+    "c0b4ad16ad77681c53b5ad1cbb837a604288137fe0ec511e48473c27f0361a87": {
+      "bytes": 630510,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mns/mns0059_02_001/prt_mns0059_02_001_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "c0b4ad16ad77681c53b5ad1cbb837a604288137fe0ec511e48473c27f0361a87",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "26f553cbfb9119e4be7d54546d0ad02a55ec8bca",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/c0b4ad16ad77681c53b5ad1cbb837a604288137fe0ec511e48473c27f0361a87.webp"
     },
     "c11d7328b39cb251f4649bf2b06ea5a8c2541ab312795261c3c01c3f5cb43c0d": {
       "bytes": 49957,
@@ -92907,6 +95174,23 @@
       },
       "url": "../../../assets/current/c74e54d1df8d3b97b7bcd7e0d9e36f024e8c8605f5fcdfa069556355627854ac.webp"
     },
+    "c75027c60ef3abce9e708b8e30f4156d6f3f3ca0fbef5c98043ac7d175c2ee9e": {
+      "bytes": 1153613,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/bg/prt_Bg00022_030",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "c75027c60ef3abce9e708b8e30f4156d6f3f3ca0fbef5c98043ac7d175c2ee9e",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "1af7a9ef085b8066d9ecd097d5b4a8b83b7900cb",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/c75027c60ef3abce9e708b8e30f4156d6f3f3ca0fbef5c98043ac7d175c2ee9e.webp"
+    },
     "c7626b54779ffab89bd2cdd1a14073805c962b98bfa56f1a5ffed756666a56d4": {
       "bytes": 373705,
       "locale": "neutral",
@@ -93110,6 +95394,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/c844cb605b616c647eb081e0f73e31479f29c922996ad5835d7d95fd46e57613.webp"
+    },
+    "c8678d866841e75e9444db703700d289f36509d4f2754abfc1b33ae94a8f5fbc": {
+      "bytes": 173943,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event209_tmb_06",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "c8678d866841e75e9444db703700d289f36509d4f2754abfc1b33ae94a8f5fbc",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "44652b597b4a7cc02d63718f1ebb4e07e7f3bc90",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/c8678d866841e75e9444db703700d289f36509d4f2754abfc1b33ae94a8f5fbc.webp"
     },
     "c879ed9cb7c168ea539403bf67aaacf78bf5237ff16822ab0c8e1a5d5db73745": {
       "bytes": 83817,
@@ -95321,6 +97622,23 @@
       },
       "url": "../../../assets/current/d39f20140ab4d65aefc617cdb0166d50075f2a70d0e37b24bec26ad5bb899c77.webp"
     },
+    "d4017bd9432c728115f56bff8c8661932b779cab1a3632412493e0d8dfaeb93e": {
+      "bytes": 744483,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event309_Chr104000701_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "d4017bd9432c728115f56bff8c8661932b779cab1a3632412493e0d8dfaeb93e",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "bb01a1b13e6c1a6bdfe4af0d7b92c65d351fc6fd",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/d4017bd9432c728115f56bff8c8661932b779cab1a3632412493e0d8dfaeb93e.webp"
+    },
     "d415b309b6465fb59ff2eeb82ff4394687df511568a8b633d7305a4e6f2d1e09": {
       "bytes": 14894,
       "locale": "neutral",
@@ -95643,6 +97961,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/d58f8783ed01a3816b37a4cda7f47178742e15afcd2741cc4a729f6785eacf64.webp"
+    },
+    "d5a31a6b40cc31d0f17706659293ad14061bc9858c83557317f7178fcbff4145": {
+      "bytes": 133571,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_detail_meo_mns8030_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "d5a31a6b40cc31d0f17706659293ad14061bc9858c83557317f7178fcbff4145",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "a0f511dfb8631cc3d04a2de2c79cdd8319183314",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/d5a31a6b40cc31d0f17706659293ad14061bc9858c83557317f7178fcbff4145.webp"
     },
     "d5a4b53de8b43d5f42c1f718cc8a1db7c9dde001bd1ca8b8ca240e9f421fd83e": {
       "bytes": 54434,
@@ -96341,6 +98676,40 @@
       },
       "url": "../../../assets/current/d97755e10152835d5a7c9bea17df2188f96c19d8e84e003c7b668c766088270f.webp"
     },
+    "d989ee0dd0c8412fe677d337ea9729118e9bd48b671a968c69a9003f984bde1d": {
+      "bytes": 502203,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event309_Chr104000801_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "d989ee0dd0c8412fe677d337ea9729118e9bd48b671a968c69a9003f984bde1d",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "3e6d9fdc4553148bc1426b147fe02ba75eb0f4ec",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/d989ee0dd0c8412fe677d337ea9729118e9bd48b671a968c69a9003f984bde1d.webp"
+    },
+    "d98e2326aa025586eceedaa66773db95bbd42c2c6b95778eebc9a938cf5ef722": {
+      "bytes": 60574,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104001301/prt_Chr104001301_thumb_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "d98e2326aa025586eceedaa66773db95bbd42c2c6b95778eebc9a938cf5ef722",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "15839e0a3b6fc6ee4910a91d687f5df8e579d467",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/d98e2326aa025586eceedaa66773db95bbd42c2c6b95778eebc9a938cf5ef722.webp"
+    },
     "d98fcd7e244ca37eb4a6293a5f8a037f451b4db9b16a738bd15f2c5804524f5c": {
       "bytes": 33809,
       "locale": "neutral",
@@ -96697,6 +99066,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/daec30f00eac361d8cdab5622bd30b561099e9011970970c31076d801dc96d64.webp"
+    },
+    "daf7d42d7bd225477931e9e49d00aa6c175964508207afd3fbac6fba2bfcd44d": {
+      "bytes": 654496,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mob/Mob10012/prt_Mob10012_05_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "daf7d42d7bd225477931e9e49d00aa6c175964508207afd3fbac6fba2bfcd44d",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "0129f358a04b007fe4973482ddcb8904f9191541",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/daf7d42d7bd225477931e9e49d00aa6c175964508207afd3fbac6fba2bfcd44d.webp"
     },
     "dafcc8b3cc31363f7d3763d2dfe322bc8db9d796bdb2eefb263f26ec766724af": {
       "bytes": 122413,
@@ -99197,6 +101583,23 @@
       },
       "url": "../../../assets/current/e63f80065e4a239cc16cdc7e93eba201d4d0c9315cd4e6ba8c9b15f8c2602f8b.webp"
     },
+    "e65d67bd26ea6f498a1cc39b94d35a8741cf2cc55654d52349a9df21793bb94a": {
+      "bytes": 89880,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104000901/prt_Chr104000901_thumb_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "e65d67bd26ea6f498a1cc39b94d35a8741cf2cc55654d52349a9df21793bb94a",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "8f5442e2c503483c0dd0443c44548e3bc4ca4fc0",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/e65d67bd26ea6f498a1cc39b94d35a8741cf2cc55654d52349a9df21793bb94a.webp"
+    },
     "e662079715dad114476fd98e6eac425473bbd4a4ac60266c2df0a118ff30d288": {
       "bytes": 89264,
       "locale": "neutral",
@@ -99281,6 +101684,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/e67808367def73fe947a6e1928ead1781dc4854ffbdfff3caf13f4003472a6d2.webp"
+    },
+    "e68807178642cdfc8930a08070352f888200be8334372ba425a3f43b74411275": {
+      "bytes": 144106,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event209_tmb_08",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "e68807178642cdfc8930a08070352f888200be8334372ba425a3f43b74411275",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "fa02011d23aaffcf5f451210289308fa61fa786c",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/e68807178642cdfc8930a08070352f888200be8334372ba425a3f43b74411275.webp"
     },
     "e6afc27688ac5e73a7d18ff9cf6c1232f98e09bf403e1d36e80469b170f43db7": {
       "bytes": 27205,
@@ -99962,6 +102382,23 @@
       },
       "url": "../../../assets/current/e9d74eef0c49d404694e9354de579546c585e13b6448366626706a999917de34.webp"
     },
+    "e9dffd5ad5e38dd58dba61d457a98fb43e3787c4e0d0c49da14e9059f1ff374c": {
+      "bytes": 540650,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_event309_Chr104000901_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "e9dffd5ad5e38dd58dba61d457a98fb43e3787c4e0d0c49da14e9059f1ff374c",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "ea503167331b9bd94f4ad7772da6d0e9575170f2",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/e9dffd5ad5e38dd58dba61d457a98fb43e3787c4e0d0c49da14e9059f1ff374c.webp"
+    },
     "e9e70a8aac8eb5a05abb96fe6043dda14c029910d0815fed25e97f6f321463b2": {
       "bytes": 82887,
       "locale": "neutral",
@@ -100199,6 +102636,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/eaca1a06a85aba7299c7c16d9620cf8759d4a1e5b615f3d18d3bddf6e4ce8e37.webp"
+    },
+    "eadd5bcc042b7c5470254bd393cd8298b881a5984b319a3eb92bf09998bc9484": {
+      "bytes": 98237,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/acc/prt_detail_acc_20023",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "eadd5bcc042b7c5470254bd393cd8298b881a5984b319a3eb92bf09998bc9484",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "c54dce972417be79c5af911d9f5f5c1150aba6f7",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/eadd5bcc042b7c5470254bd393cd8298b881a5984b319a3eb92bf09998bc9484.webp"
     },
     "eae0275fe19e0f6578d30198a0362218b28fca68a4bfa51e3adffee44fcd7ad4": {
       "bytes": 39299,
@@ -100896,6 +103350,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/ee4ec6960a00bb2e3617e6f29cbfa997daf95b3f8f4c24f7a78dd0279fb90eb7.webp"
+    },
+    "ee90ed15664904dd8516aa53a089afbee720bccd2edfc3f0aac266d5957c0665": {
+      "bytes": 25400,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/acc/prt_tmb_acc_20024",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "ee90ed15664904dd8516aa53a089afbee720bccd2edfc3f0aac266d5957c0665",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "bf4ca8f8528ce30ad39cbda213931172379f7ece",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/ee90ed15664904dd8516aa53a089afbee720bccd2edfc3f0aac266d5957c0665.webp"
     },
     "eebc2f352cc3932101c16067ba2a5acf02a415e58f144059b54cfd5ea5d19f6c": {
       "bytes": 12887,
@@ -102512,6 +104983,40 @@
       },
       "url": "../../../assets/current/f75260233f6bdba1c1fc246c7694fe72b1ca1fd3c8172000ae5308ddd7c3eb22.webp"
     },
+    "f7868e6d955268738ff38467debf4808242dfc343c3075e9227dba0532f4a79d": {
+      "bytes": 71159,
+      "locale": "neutral",
+      "logical_path": "UI/Download/event/event309/prt_tmb_parymember309_08",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "f7868e6d955268738ff38467debf4808242dfc343c3075e9227dba0532f4a79d",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "6846ce514f11a3fc8cd4f3db48750e0b30f1d2e2",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/f7868e6d955268738ff38467debf4808242dfc343c3075e9227dba0532f4a79d.webp"
+    },
+    "f78aabc6cc9cf84f2f6f4f6a5e10fc9021a203df756b1a18f3bd0f217fa3ae0b": {
+      "bytes": 30938,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8021_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "f78aabc6cc9cf84f2f6f4f6a5e10fc9021a203df756b1a18f3bd0f217fa3ae0b",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "86e09458211e177e56bbdfa3ff4c1c50f653edf4",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/f78aabc6cc9cf84f2f6f4f6a5e10fc9021a203df756b1a18f3bd0f217fa3ae0b.webp"
+    },
     "f7a96b28d34a9b72693040328d826c3c60a08c5d3e60184ecaee98683b296e8d": {
       "bytes": 230153,
       "locale": "neutral",
@@ -102783,6 +105288,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/f8b5fa9187a6d13866a5687c3bb778b05276da1ec7daf8ef22eb8d8028f79e6d.webp"
+    },
+    "f8bc177f4d715db42610f181b6efc9e6d59f2603cd694245c748170e4079f554": {
+      "bytes": 281134,
+      "locale": "en",
+      "logical_path": "UI/Download/banner/quest/prt_bnr_quest_230910",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "f8bc177f4d715db42610f181b6efc9e6d59f2603cd694245c748170e4079f554",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "92888c696f5f3c87ff5c41ccedcda60ca6945d23",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/f8bc177f4d715db42610f181b6efc9e6d59f2603cd694245c748170e4079f554.webp"
     },
     "f8bdc09d1924075587191f97caa4862f8e7add3d67f578e07de2639be576a474": {
       "bytes": 25940,
@@ -103226,6 +105748,23 @@
       },
       "url": "../../../assets/current/fb1432aea232f6631f76bc2da2136f0853cc4f1733d607816872df2264ab4e2d.webp"
     },
+    "fb175d0a0f88c97b2825380f239afb3c1b5a37c474358fbe06a75bfe79edb43c": {
+      "bytes": 86056,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/chara/Chr104001201/prt_Chr104001201_thumb_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "fb175d0a0f88c97b2825380f239afb3c1b5a37c474358fbe06a75bfe79edb43c",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "ef78be1421a2cd18ee314398581dbea9d28cabb8",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/fb175d0a0f88c97b2825380f239afb3c1b5a37c474358fbe06a75bfe79edb43c.webp"
+    },
     "fb232d379f270e44ede3277e6e1e48d384b69b2e2cebf7f4973936b41c97835e": {
       "bytes": 1027539,
       "locale": "en",
@@ -103446,6 +105985,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/fc1a683f9f14ebb14c949b8c3920ec50c575b276ddb9b0a6be832fbac05600ae.webp"
+    },
+    "fc1b470d69867a95bec41d6aa171f62248a88c3ce49f844c2293b48b3cc7adc7": {
+      "bytes": 690168,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mob/Mob10024/prt_Mob10024_05_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "fc1b470d69867a95bec41d6aa171f62248a88c3ce49f844c2293b48b3cc7adc7",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "acb5d142de0d82efc23fdcd5a679b3d1798f1577",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/fc1b470d69867a95bec41d6aa171f62248a88c3ce49f844c2293b48b3cc7adc7.webp"
     },
     "fc2f82ca963b9aba83a789c25b8150a0275af632629487afcdfd956945650ce8": {
       "bytes": 660587,
@@ -103804,6 +106360,23 @@
       },
       "url": "../../../assets/current/fd8da08925efd08b2111caa0eb4d2b3b8fb8afce9b02e906da9a5f9854ed829d.webp"
     },
+    "fdb6c6fab8b29faef1176abf76a5986a76291f6255c88dae92f179793a473dfb": {
+      "bytes": 434964,
+      "locale": "neutral",
+      "logical_path": "UI/Download/adventure/mns/mns0011_06_001/prt_mns0011_06_001_full",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "fdb6c6fab8b29faef1176abf76a5986a76291f6255c88dae92f179793a473dfb",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "3215679f591dff6d0a161ebdaf77f5cea83a8d5c",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/fdb6c6fab8b29faef1176abf76a5986a76291f6255c88dae92f179793a473dfb.webp"
+    },
     "fdc219b8331e06c55dc7657ef3d12bf95d6002c3247754579adde2ef09c7d530": {
       "bytes": 10966,
       "locale": "neutral",
@@ -104024,6 +106597,23 @@
         "vertical_flip_applied": 0
       },
       "url": "../../../assets/current/fecc652420d69b613caac46c121da6e8821c6096c91e260dd8dc2cb28e583329.webp"
+    },
+    "fed4fbaa810aeda13bef55f0dc8796f6931af2d00946fd287f222dc1ac3bc760": {
+      "bytes": 172675,
+      "locale": "neutral",
+      "logical_path": "UI/Download/productimage/orb/prt_detail_meo_mns8029_01",
+      "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+      "orientation": "AS_STORED",
+      "presentation_transform": "native",
+      "role": "source_asset",
+      "sha256": "fed4fbaa810aeda13bef55f0dc8796f6931af2d00946fd287f222dc1ac3bc760",
+      "source": {
+        "converted_kind": "texture_png",
+        "stable_row_id": "a82e46df08eba2fb18480bf1fe3e1a1bac20cc8e",
+        "table_name": "reconstructed_archive",
+        "vertical_flip_applied": 0
+      },
+      "url": "../../../assets/current/fed4fbaa810aeda13bef55f0dc8796f6931af2d00946fd287f222dc1ac3bc760.webp"
     },
     "feea1413803bca46c12c5e34ddecccab5a205a9fbea63e54632c1872040067f8": {
       "bytes": 17772,
@@ -104284,7 +106874,7 @@
   "gems": null,
   "generated_utc": null,
   "schema": "smashdump.stage3.r5.7.asset_runtime.v1",
-  "source_snapshot_sha256": "3b9aa9b3ec9d6b0a1461e8e3e46b16cced9a0f765429db5c51d26ea98f376f57",
+  "source_snapshot_sha256": "f906817c51f296f1795a2fba56689abdbd004956398dae583e24ddcabdbfaf2e",
   "unresolved_hashes": [],
   "unresolved_logical_paths": []
 }

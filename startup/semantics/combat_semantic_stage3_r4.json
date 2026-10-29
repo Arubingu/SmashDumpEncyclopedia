@@ -1,13 +1,13 @@
 {
   "authority": {
-    "dictionary_sha256": "413f82397924e5cc8dda30fcd560dacd70c208763da787c364357bd22e5d0a31",
-    "equipment_model_sha256": "b3107d151214592d1d1c3ec8d557e785c15e692f7c2769bb015ff9e01e0943d8",
-    "masterdata_sha256": "63af5a620d8754169028850cdfa87db7fc777e49d731133b347b08f312fe3b88",
-    "memory_model_sha256": "a84ece35111d0be6f055b6a4be44fc3cb190e08e1be218e2e7b99d38fef6c28c",
+    "dictionary_sha256": "fb0652ae6050b400dfbf857f0ab3d85a595f2d60fd120824511998f275e63980",
+    "equipment_model_sha256": "397dc4fb21e59622fc12221293f4a8a88790da505eea18a5f6618e0793fc7257",
+    "masterdata_sha256": "ae3917369af4e85e5c1a31259d73baff042fd5dc17c614f0423af700fdbf89bd",
+    "memory_model_sha256": "089a45397aeed4574ed423eeb57dbc6a1726c45799bda47b24dab6db2155250e",
     "source_encyclopedia_revision": "SMASHDUMP_S1_CURRENT_SOURCE_SCAFFOLD_R1",
-    "source_encyclopedia_sha256": "d0d81411dc48cb4bbbc98e3154e5a9bd605280eeee8fd1ff5275dbac30138443"
+    "source_encyclopedia_sha256": "6f9d41860f4c740ea62c9d82c8ea629928a3f70dda17275e2b5422864cd288cc"
   },
-  "baseline_version": "1.6.1",
+  "baseline_version": "1.6.1.1",
   "candidate_only": true,
   "contracts": {
     "future_capture": "All skills, variants, levels, Coup de Grâce records, tags, elements and backlinks are enumerated from captured tables/models. No individual skill, weapon, Memory, vocation or special-attack ID is embedded in the browser renderer.",
@@ -3463,12 +3463,12 @@
     "coup_de_grace_rows": 51,
     "grouped_duplicate_cdg_rows": 5,
     "grouped_duplicate_skill_rows": 29,
-    "raw_pick_skills": 138,
+    "raw_pick_skills": 141,
     "semantic_coup_de_grace_families": 46,
-    "semantic_skill_families": 109,
-    "skill_backlinks": 67,
-    "skill_level_rows": 297,
-    "visible_entities": 155
+    "semantic_skill_families": 112,
+    "skill_backlinks": 71,
+    "skill_level_rows": 300,
+    "visible_entities": 158
   },
   "entities": [
     {
@@ -7748,6 +7748,84 @@
     {
       "category": "abilities",
       "description": {
+        "text": "Equip to a purple Memory slot with a star icon for a chance to get the ‘Maya: Frizzle’ Blessing."
+      },
+      "display_asset": {
+        "bytes": 59501,
+        "fallback_url": "../../../assets/current/2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2040",
+        "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+        "orientation": "AS_STORED",
+        "presentation_transform": "native",
+        "role": "source_asset",
+        "sha256": "2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1",
+        "source": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "7abc147d4c8ca32108604f89498b733a1aea59f3",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "url": "../../../assets/current/2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1.webp"
+      },
+      "facts": [
+        "1 level",
+        "1 variant"
+      ],
+      "id": 215,
+      "name": {
+        "text": "★Maya: Frizzle"
+      },
+      "numeric_id": 215,
+      "r4_ref": {
+        "id": 215,
+        "kind": "skill"
+      },
+      "status": "Unchanged",
+      "subtitle": "Skill"
+    },
+    {
+      "category": "abilities",
+      "description": {
+        "text": "Equip to a green Memory slot with a star icon for a chance to get the ‘Meena: Snooze’ Blessing."
+      },
+      "display_asset": {
+        "bytes": 63556,
+        "fallback_url": "../../../assets/current/5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2039",
+        "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+        "orientation": "AS_STORED",
+        "presentation_transform": "native",
+        "role": "source_asset",
+        "sha256": "5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b",
+        "source": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "b295d01f1d31677400258ff66795c532e420b27b",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "url": "../../../assets/current/5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b.webp"
+      },
+      "facts": [
+        "1 level",
+        "1 variant"
+      ],
+      "id": 214,
+      "name": {
+        "text": "★Meena: Snooze"
+      },
+      "numeric_id": 214,
+      "r4_ref": {
+        "id": 214,
+        "kind": "skill"
+      },
+      "status": "Unchanged",
+      "subtitle": "Skill"
+    },
+    {
+      "category": "abilities",
+      "description": {
         "text": "Equip to a yellow Memory slot with a star icon for a chance to get the ‘Ragnar: Healie's Bond’ Blessing."
       },
       "display_asset": {
@@ -7779,6 +7857,45 @@
       "numeric_id": 209,
       "r4_ref": {
         "id": 209,
+        "kind": "skill"
+      },
+      "status": "Unchanged",
+      "subtitle": "Skill"
+    },
+    {
+      "category": "abilities",
+      "description": {
+        "text": "Equip to a blue Memory slot with a star icon for a chance to get the ‘Torneko: Merchant's Stash’ Blessing."
+      },
+      "display_asset": {
+        "bytes": 77428,
+        "fallback_url": "../../../assets/current/03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2038",
+        "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+        "orientation": "AS_STORED",
+        "presentation_transform": "native",
+        "role": "source_asset",
+        "sha256": "03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4",
+        "source": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "c8bf33a93c03b1e8625967fb6696b55f4c6e1dbe",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "url": "../../../assets/current/03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4.webp"
+      },
+      "facts": [
+        "1 level",
+        "1 variant"
+      ],
+      "id": 213,
+      "name": {
+        "text": "★Torneko: Merchant's Stash"
+      },
+      "numeric_id": 213,
+      "r4_ref": {
+        "id": 213,
         "kind": "skill"
       },
       "status": "Unchanged",
@@ -8819,7 +8936,7 @@
       "Weapon-granted"
     ]
   },
-  "game_version": "1.6.1.1",
+  "game_version": "1.6.1.4",
   "patch_id": "SMASHDUMP_STAGE3_R4_SKILLS_ABILITIES_AND_COUP_DE_GRACE",
   "publication_allowed": false,
   "schema": "smashdump.semantic_model.stage3.r4.combat.v1",
@@ -19950,7 +20067,15 @@
       ]
     },
     "1000001010": {
-      "backlinks": [],
+      "backlinks": [
+        {
+          "category": "accessories",
+          "detail": null,
+          "id": 20024,
+          "name": "Starry Studs",
+          "relation": "Granted by accessory"
+        }
+      ],
       "description": "Conjure 3 close-range blasts at regular intervals that inflict light damage.",
       "element": null,
       "entity_id": 1000001010,
@@ -19987,7 +20112,15 @@
       "variant_count": 1,
       "variants": [
         {
-          "backlinks": [],
+          "backlinks": [
+            {
+              "category": "accessories",
+              "detail": null,
+              "id": 20024,
+              "name": "Starry Studs",
+              "relation": "Granted by accessory"
+            }
+          ],
           "description": "Conjure 3 close-range blasts at regular intervals that inflict light damage.",
           "id": 1000001010,
           "label": "Bang Blast",
@@ -37951,6 +38084,338 @@
         }
       ]
     },
+    "213": {
+      "backlinks": [
+        {
+          "category": "memories",
+          "detail": "S rank",
+          "id": 740014,
+          "name": "Torneko",
+          "relation": "Granted by Memory"
+        }
+      ],
+      "description": "Equip to a blue Memory slot with a star icon for a chance to get the ‘Torneko: Merchant's Stash’ Blessing.",
+      "element": null,
+      "entity_id": 213,
+      "id": 213,
+      "image": {
+        "bytes": 77428,
+        "fallback_url": "../../../assets/current/03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2038",
+        "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+        "orientation": "AS_STORED",
+        "presentation_transform": "native",
+        "role": "source_asset",
+        "sha256": "03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4",
+        "source": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "c8bf33a93c03b1e8625967fb6696b55f4c6e1dbe",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "url": "../../../assets/current/03daf9c36d695611c364c0c1727cf3277efa7b6c954309a5379e3b3589cb0ce4.webp"
+      },
+      "kind": "skill",
+      "level_count": 1,
+      "name": "★Torneko: Merchant's Stash",
+      "source_ids": [
+        213
+      ],
+      "subtitle": "Skill",
+      "tags": [],
+      "technical_tags": [],
+      "variant_count": 1,
+      "variants": [
+        {
+          "backlinks": [
+            {
+              "category": "memories",
+              "detail": "S rank",
+              "id": 740014,
+              "name": "Torneko",
+              "relation": "Granted by Memory"
+            }
+          ],
+          "description": "Equip to a blue Memory slot with a star icon for a chance to get the ‘Torneko: Merchant's Stash’ Blessing.",
+          "id": 213,
+          "label": "★Torneko: Merchant's Stash",
+          "levels": [
+            {
+              "ability_ids": [],
+              "description": "Equip to a blue Memory slot with a star icon for a chance to get the ‘Torneko: Merchant's Stash’ Blessing.",
+              "level": 1,
+              "mechanics": {
+                "components": [],
+                "conditions": [],
+                "outputs": []
+              },
+              "params": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "source": {
+                "ability_id_list": "[]",
+                "description": "PickSkill/pickskill_friendshipevent309_toruneko_star_description",
+                "frame_type": 30,
+                "level": 1,
+                "param_1": 0,
+                "param_2": 0,
+                "param_3": 0,
+                "param_4": 0,
+                "param_5": 0,
+                "pick_skill_id": 213
+              }
+            }
+          ],
+          "source": {
+            "activation_type": 1,
+            "effect_type": 86,
+            "element": 99,
+            "enhance_type": null,
+            "id": 213,
+            "ignition_type": 1,
+            "is_auto_pick": 1,
+            "is_enhance_upgrade": 0,
+            "is_metal_hit": 0,
+            "is_replace_action": 0,
+            "is_show_trigger_log": 0,
+            "lot_tag_list": "[]",
+            "name": "PickSkill/pickskill_friendshipevent309_toruneko_star_name",
+            "special_effect_description": "Status/SpecialEffects/status_specialeffects_800320001_description",
+            "special_effect_name": "Status/SpecialEffects/status_specialeffects_800320001_name",
+            "thumbnail_path": "UI/Download/productimage/pic/prt_tmb_pic_2038",
+            "weight": 1
+          }
+        }
+      ]
+    },
+    "214": {
+      "backlinks": [
+        {
+          "category": "memories",
+          "detail": "S rank",
+          "id": 740015,
+          "name": "Meena",
+          "relation": "Granted by Memory"
+        }
+      ],
+      "description": "Equip to a green Memory slot with a star icon for a chance to get the ‘Meena: Snooze’ Blessing.",
+      "element": null,
+      "entity_id": 214,
+      "id": 214,
+      "image": {
+        "bytes": 63556,
+        "fallback_url": "../../../assets/current/5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2039",
+        "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+        "orientation": "AS_STORED",
+        "presentation_transform": "native",
+        "role": "source_asset",
+        "sha256": "5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b",
+        "source": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "b295d01f1d31677400258ff66795c532e420b27b",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "url": "../../../assets/current/5be80a9fe9eb42015b9c06099853a2a8128f7984f06d1516aa549ecb271c1d9b.webp"
+      },
+      "kind": "skill",
+      "level_count": 1,
+      "name": "★Meena: Snooze",
+      "source_ids": [
+        214
+      ],
+      "subtitle": "Skill",
+      "tags": [],
+      "technical_tags": [],
+      "variant_count": 1,
+      "variants": [
+        {
+          "backlinks": [
+            {
+              "category": "memories",
+              "detail": "S rank",
+              "id": 740015,
+              "name": "Meena",
+              "relation": "Granted by Memory"
+            }
+          ],
+          "description": "Equip to a green Memory slot with a star icon for a chance to get the ‘Meena: Snooze’ Blessing.",
+          "id": 214,
+          "label": "★Meena: Snooze",
+          "levels": [
+            {
+              "ability_ids": [],
+              "description": "Equip to a green Memory slot with a star icon for a chance to get the ‘Meena: Snooze’ Blessing.",
+              "level": 1,
+              "mechanics": {
+                "components": [],
+                "conditions": [],
+                "outputs": []
+              },
+              "params": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "source": {
+                "ability_id_list": "[]",
+                "description": "PickSkill/pickskill_friendshipevent309_minea_star_description",
+                "frame_type": 30,
+                "level": 1,
+                "param_1": 0,
+                "param_2": 0,
+                "param_3": 0,
+                "param_4": 0,
+                "param_5": 0,
+                "pick_skill_id": 214
+              }
+            }
+          ],
+          "source": {
+            "activation_type": 1,
+            "effect_type": 86,
+            "element": 99,
+            "enhance_type": null,
+            "id": 214,
+            "ignition_type": 1,
+            "is_auto_pick": 1,
+            "is_enhance_upgrade": 0,
+            "is_metal_hit": 0,
+            "is_replace_action": 0,
+            "is_show_trigger_log": 0,
+            "lot_tag_list": "[]",
+            "name": "PickSkill/pickskill_friendshipevent309_minea_star_name",
+            "special_effect_description": "Status/SpecialEffects/status_specialeffects_800330001_description",
+            "special_effect_name": "Status/SpecialEffects/status_specialeffects_800330001_name",
+            "thumbnail_path": "UI/Download/productimage/pic/prt_tmb_pic_2039",
+            "weight": 1
+          }
+        }
+      ]
+    },
+    "215": {
+      "backlinks": [
+        {
+          "category": "memories",
+          "detail": "S rank",
+          "id": 740009,
+          "name": "Maya",
+          "relation": "Granted by Memory"
+        }
+      ],
+      "description": "Equip to a purple Memory slot with a star icon for a chance to get the ‘Maya: Frizzle’ Blessing.",
+      "element": {
+        "icon_path": "prt_icon_attribute_element_01",
+        "id": 1,
+        "image": null,
+        "name": "Fire"
+      },
+      "entity_id": 215,
+      "id": 215,
+      "image": {
+        "bytes": 59501,
+        "fallback_url": "../../../assets/current/2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1.webp",
+        "locale": "neutral",
+        "logical_path": "UI/Download/productimage/pic/prt_tmb_pic_2040",
+        "match_method": "EXACT_CURRENT_LOGICAL_PATH",
+        "orientation": "AS_STORED",
+        "presentation_transform": "native",
+        "role": "source_asset",
+        "sha256": "2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1",
+        "source": {
+          "converted_kind": "texture_png",
+          "stable_row_id": "7abc147d4c8ca32108604f89498b733a1aea59f3",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "url": "../../../assets/current/2e77a3eb6fd051b28046b656557c60be162a73903de6872e0801e2b243c2fde1.webp"
+      },
+      "kind": "skill",
+      "level_count": 1,
+      "name": "★Maya: Frizzle",
+      "source_ids": [
+        215
+      ],
+      "subtitle": "Skill",
+      "tags": [],
+      "technical_tags": [],
+      "variant_count": 1,
+      "variants": [
+        {
+          "backlinks": [
+            {
+              "category": "memories",
+              "detail": "S rank",
+              "id": 740009,
+              "name": "Maya",
+              "relation": "Granted by Memory"
+            }
+          ],
+          "description": "Equip to a purple Memory slot with a star icon for a chance to get the ‘Maya: Frizzle’ Blessing.",
+          "id": 215,
+          "label": "★Maya: Frizzle",
+          "levels": [
+            {
+              "ability_ids": [],
+              "description": "Equip to a purple Memory slot with a star icon for a chance to get the ‘Maya: Frizzle’ Blessing.",
+              "level": 1,
+              "mechanics": {
+                "components": [],
+                "conditions": [],
+                "outputs": []
+              },
+              "params": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "source": {
+                "ability_id_list": "[]",
+                "description": "PickSkill/pickskill_friendshipevent309_manya_star_description",
+                "frame_type": 30,
+                "level": 1,
+                "param_1": 0,
+                "param_2": 0,
+                "param_3": 0,
+                "param_4": 0,
+                "param_5": 0,
+                "pick_skill_id": 215
+              }
+            }
+          ],
+          "source": {
+            "activation_type": 1,
+            "effect_type": 86,
+            "element": 1,
+            "enhance_type": null,
+            "id": 215,
+            "ignition_type": 1,
+            "is_auto_pick": 1,
+            "is_enhance_upgrade": 0,
+            "is_metal_hit": 0,
+            "is_replace_action": 0,
+            "is_show_trigger_log": 0,
+            "lot_tag_list": "[]",
+            "name": "PickSkill/pickskill_friendshipevent309_manya_star_name",
+            "special_effect_description": "Status/SpecialEffects/status_specialeffects_800340001_description",
+            "special_effect_name": "Status/SpecialEffects/status_specialeffects_800340001_name",
+            "thumbnail_path": "UI/Download/productimage/pic/prt_tmb_pic_2040",
+            "weight": 1
+          }
+        }
+      ]
+    },
     "217": {
       "backlinks": [],
       "description": "Acquired at Quest Start\nTaking a hit turns the next normal attack into a mighty strike (subject to cooldown).",
@@ -45706,13 +46171,13 @@
     }
   },
   "source_binding": {
-    "acquisition_seal_sha256": "fd5a0af82ca3740b35d90fd0c13acbaaf60e7948ef7516210472e092e0056058",
-    "asset_a_sha256": "64da086b04463bf2527684fac2fb0d49fcba0a31758d7afcf0e2df76162edc65",
-    "asset_snapshot_sha256": "3b9aa9b3ec9d6b0a1461e8e3e46b16cced9a0f765429db5c51d26ea98f376f57",
-    "dictionary_sha256": "413f82397924e5cc8dda30fcd560dacd70c208763da787c364357bd22e5d0a31",
-    "masterdata_sha256": "63af5a620d8754169028850cdfa87db7fc777e49d731133b347b08f312fe3b88",
-    "repository_manifest_sha256": "1d0b4d57ce7c65f6fc192f93f34411ce2ed387af02c516dacda1d889105a65a1",
-    "runtime_enums_sha256": "2f43fa3e6418e47bfb04ea3080797dc69406d3ad359049c68a707eeecd7af417",
+    "acquisition_seal_sha256": "8fbf4c5e056f160ee3580fb137d55d5b98978ecffd75c009f76eaa1f36474c6a",
+    "asset_a_sha256": "3126b5f82b11723655a51332164d164baa4f2885e26e03462a866661de5a19c7",
+    "asset_snapshot_sha256": "f906817c51f296f1795a2fba56689abdbd004956398dae583e24ddcabdbfaf2e",
+    "dictionary_sha256": "fb0652ae6050b400dfbf857f0ab3d85a595f2d60fd120824511998f275e63980",
+    "masterdata_sha256": "ae3917369af4e85e5c1a31259d73baff042fd5dc17c614f0423af700fdbf89bd",
+    "repository_manifest_sha256": "1e291e1b8f47775cf51ed98995a3252260e2e9628f145b6699bf08ed424ef4e9",
+    "runtime_enums_sha256": "9ef98dadae11b9e817a450de0be7fe56deb454b3bbf14257c6417ba03844b090",
     "s1_id": "SMASHDUMP_S1_SUCCESSOR_CONSTRUCTION_R1"
   }
 }

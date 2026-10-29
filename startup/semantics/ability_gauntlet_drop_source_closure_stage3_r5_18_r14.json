@@ -6,7 +6,7 @@
     "values_inside_element": "OR"
   },
   "baseline_package_id": "SMASHDUMP_STAGE3_R5_18_ABILITY_FILTER_AND_TICKET_SOURCE_CLOSURE_CORRECTED_R13",
-  "baseline_version": "1.6.1",
+  "baseline_version": "1.6.1.1",
   "candidate_only": true,
   "enemy_gauntlet_difficulty_policy": {
     "and_between_stage_type_and_difficulty": true,
@@ -15,7 +15,7 @@
     "public_label": "source-derived",
     "reason": "current stage context"
   },
-  "game_version": "1.6.1.1",
+  "game_version": "1.6.1.4",
   "generated_utc": null,
   "patch_id": "SMASHDUMP_STAGE3_R5_18_ABILITY_GAUNTLET_AND_DROP_SOURCE_CORRECTED_R14",
   "publication_allowed": false,
@@ -33,7 +33,7 @@
   },
   "stage_drop_source_closure": {
     "aggregate_sources": 0,
-    "item_unique_public_stage_routes": 1713,
+    "item_unique_public_stage_routes": 1769,
     "items": 28,
     "items_by_key": {
       "m_event_item:230100001": {
@@ -19421,7 +19421,7 @@
             "aggregate_source_count": 0,
             "kind": "stage drop",
             "label": "stage drop",
-            "raw_definition_rows": 12,
+            "raw_definition_rows": 27,
             "raw_table": "m_stage_drop_content",
             "stages": [
               {
@@ -19512,6 +19512,90 @@
                 "amount_max": null,
                 "amount_min": null,
                 "amount_total": null,
+                "id": 30942107,
+                "key": "stages:30942107",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 1 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309411604
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942108,
+                "key": "stages:30942108",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 2 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309411704
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942109,
+                "key": "stages:30942109",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 3 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309411804
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942110,
+                "key": "stages:30942110",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 4 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309411904
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942111,
+                "key": "stages:30942111",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 5 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309412004
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942112,
+                "key": "stages:30942112",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 6 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309412104
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
                 "id": 30942201,
                 "key": "stages:30942201",
                 "matching_raw_rows": 1,
@@ -19589,6 +19673,132 @@
                 "source_identities": [
                   {
                     "drop_content_group_id": 309421504
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942207,
+                "key": "stages:30942207",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 1 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309421604
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942208,
+                "key": "stages:30942208",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 2 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309421704
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942209,
+                "key": "stages:30942209",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 3 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309421804
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942210,
+                "key": "stages:30942210",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 4 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309421904
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942211,
+                "key": "stages:30942211",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 5 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309422004
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942212,
+                "key": "stages:30942212",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 6 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309422104
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30962011,
+                "key": "stages:30962011",
+                "matching_raw_rows": 1,
+                "name": "Co-Op Quest: Marquis de Léon Horde — Marquis de Léon Horde (Casual)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 30962104
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30962012,
+                "key": "stages:30962012",
+                "matching_raw_rows": 1,
+                "name": "Co-Op Quest: Marquis de Léon Horde — Marquis de Léon Horde (Nightmare)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 30962204
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30962013,
+                "key": "stages:30962013",
+                "matching_raw_rows": 1,
+                "name": "Co-Op Quest: Marquis de Léon Horde — Marquis de Léon Horde (EX Nightmare)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 30962304
                   }
                 ]
               }
@@ -19684,6 +19894,90 @@
             "amount_max": null,
             "amount_min": null,
             "amount_total": null,
+            "id": 30942107,
+            "key": "stages:30942107",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 1 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309411604
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942108,
+            "key": "stages:30942108",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 2 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309411704
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942109,
+            "key": "stages:30942109",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 3 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309411804
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942110,
+            "key": "stages:30942110",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 4 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309411904
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942111,
+            "key": "stages:30942111",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 5 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309412004
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942112,
+            "key": "stages:30942112",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 6 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309412104
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
             "id": 30942201,
             "key": "stages:30942201",
             "matching_raw_rows": 1,
@@ -19761,6 +20055,132 @@
             "source_identities": [
               {
                 "drop_content_group_id": 309421504
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942207,
+            "key": "stages:30942207",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 1 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309421604
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942208,
+            "key": "stages:30942208",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 2 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309421704
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942209,
+            "key": "stages:30942209",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 3 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309421804
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942210,
+            "key": "stages:30942210",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 4 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309421904
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942211,
+            "key": "stages:30942211",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 5 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309422004
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942212,
+            "key": "stages:30942212",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 6 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309422104
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30962011,
+            "key": "stages:30962011",
+            "matching_raw_rows": 1,
+            "name": "Co-Op Quest: Marquis de Léon Horde — Marquis de Léon Horde (Casual)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 30962104
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30962012,
+            "key": "stages:30962012",
+            "matching_raw_rows": 1,
+            "name": "Co-Op Quest: Marquis de Léon Horde — Marquis de Léon Horde (Nightmare)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 30962204
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30962013,
+            "key": "stages:30962013",
+            "matching_raw_rows": 1,
+            "name": "Co-Op Quest: Marquis de Léon Horde — Marquis de Léon Horde (EX Nightmare)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 30962304
               }
             ]
           }
@@ -20011,7 +20431,7 @@
             "aggregate_source_count": 0,
             "kind": "stage drop",
             "label": "stage drop",
-            "raw_definition_rows": 231,
+            "raw_definition_rows": 243,
             "raw_table": "m_stage_drop_content",
             "stages": [
               {
@@ -23168,6 +23588,90 @@
                 "amount_max": null,
                 "amount_min": null,
                 "amount_total": null,
+                "id": 30942107,
+                "key": "stages:30942107",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 1 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309411606
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942108,
+                "key": "stages:30942108",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 2 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309411706
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942109,
+                "key": "stages:30942109",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 3 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309411806
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942110,
+                "key": "stages:30942110",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 4 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309411906
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942111,
+                "key": "stages:30942111",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 5 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309412006
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942112,
+                "key": "stages:30942112",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 6 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309412106
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
                 "id": 30942201,
                 "key": "stages:30942201",
                 "matching_raw_rows": 1,
@@ -23245,6 +23749,90 @@
                 "source_identities": [
                   {
                     "drop_content_group_id": 309421506
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942207,
+                "key": "stages:30942207",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 1 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309421606
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942208,
+                "key": "stages:30942208",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 2 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309421706
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942209,
+                "key": "stages:30942209",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 3 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309421806
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942210,
+                "key": "stages:30942210",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 4 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309421906
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942211,
+                "key": "stages:30942211",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 5 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309422006
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942212,
+                "key": "stages:30942212",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 6 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309422106
                   }
                 ]
               }
@@ -26406,6 +26994,90 @@
             "amount_max": null,
             "amount_min": null,
             "amount_total": null,
+            "id": 30942107,
+            "key": "stages:30942107",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 1 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309411606
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942108,
+            "key": "stages:30942108",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 2 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309411706
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942109,
+            "key": "stages:30942109",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 3 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309411806
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942110,
+            "key": "stages:30942110",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 4 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309411906
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942111,
+            "key": "stages:30942111",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 5 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309412006
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942112,
+            "key": "stages:30942112",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 6 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309412106
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
             "id": 30942201,
             "key": "stages:30942201",
             "matching_raw_rows": 1,
@@ -26485,6 +27157,90 @@
                 "drop_content_group_id": 309421506
               }
             ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942207,
+            "key": "stages:30942207",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 1 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309421606
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942208,
+            "key": "stages:30942208",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 2 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309421706
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942209,
+            "key": "stages:30942209",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 3 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309421806
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942210,
+            "key": "stages:30942210",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 4 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309421906
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942211,
+            "key": "stages:30942211",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 5 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309422006
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942212,
+            "key": "stages:30942212",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 6 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309422106
+              }
+            ]
           }
         ]
       },
@@ -26494,7 +27250,7 @@
             "aggregate_source_count": 0,
             "kind": "stage drop",
             "label": "stage drop",
-            "raw_definition_rows": 231,
+            "raw_definition_rows": 243,
             "raw_table": "m_stage_drop_content",
             "stages": [
               {
@@ -29651,6 +30407,90 @@
                 "amount_max": null,
                 "amount_min": null,
                 "amount_total": null,
+                "id": 30942107,
+                "key": "stages:30942107",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 1 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309411607
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942108,
+                "key": "stages:30942108",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 2 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309411707
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942109,
+                "key": "stages:30942109",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 3 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309411807
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942110,
+                "key": "stages:30942110",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 4 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309411907
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942111,
+                "key": "stages:30942111",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 5 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309412007
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942112,
+                "key": "stages:30942112",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 6 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309412107
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
                 "id": 30942201,
                 "key": "stages:30942201",
                 "matching_raw_rows": 1,
@@ -29728,6 +30568,90 @@
                 "source_identities": [
                   {
                     "drop_content_group_id": 309421507
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942207,
+                "key": "stages:30942207",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 1 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309421607
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942208,
+                "key": "stages:30942208",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 2 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309421707
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942209,
+                "key": "stages:30942209",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 3 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309421807
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942210,
+                "key": "stages:30942210",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 4 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309421907
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942211,
+                "key": "stages:30942211",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 5 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309422007
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942212,
+                "key": "stages:30942212",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 6 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309422107
                   }
                 ]
               }
@@ -32889,6 +33813,90 @@
             "amount_max": null,
             "amount_min": null,
             "amount_total": null,
+            "id": 30942107,
+            "key": "stages:30942107",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 1 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309411607
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942108,
+            "key": "stages:30942108",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 2 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309411707
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942109,
+            "key": "stages:30942109",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 3 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309411807
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942110,
+            "key": "stages:30942110",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 4 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309411907
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942111,
+            "key": "stages:30942111",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 5 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309412007
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942112,
+            "key": "stages:30942112",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 6 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309412107
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
             "id": 30942201,
             "key": "stages:30942201",
             "matching_raw_rows": 1,
@@ -32966,6 +33974,90 @@
             "source_identities": [
               {
                 "drop_content_group_id": 309421507
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942207,
+            "key": "stages:30942207",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 1 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309421607
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942208,
+            "key": "stages:30942208",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 2 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309421707
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942209,
+            "key": "stages:30942209",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 3 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309421807
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942210,
+            "key": "stages:30942210",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 4 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309421907
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942211,
+            "key": "stages:30942211",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 5 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309422007
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942212,
+            "key": "stages:30942212",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 6 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309422107
               }
             ]
           }
@@ -50576,7 +51668,7 @@
             "aggregate_source_count": 0,
             "kind": "stage drop",
             "label": "stage drop",
-            "raw_definition_rows": 12,
+            "raw_definition_rows": 24,
             "raw_table": "m_stage_drop_content",
             "stages": [
               {
@@ -50667,6 +51759,90 @@
                 "amount_max": null,
                 "amount_min": null,
                 "amount_total": null,
+                "id": 30942107,
+                "key": "stages:30942107",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 1 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309411605
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942108,
+                "key": "stages:30942108",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 2 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309411705
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942109,
+                "key": "stages:30942109",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 3 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309411805
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942110,
+                "key": "stages:30942110",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 4 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309411905
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942111,
+                "key": "stages:30942111",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 5 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309412005
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942112,
+                "key": "stages:30942112",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 6 (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309412105
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
                 "id": 30942201,
                 "key": "stages:30942201",
                 "matching_raw_rows": 1,
@@ -50744,6 +51920,90 @@
                 "source_identities": [
                   {
                     "drop_content_group_id": 309421505
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942207,
+                "key": "stages:30942207",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 1 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309421605
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942208,
+                "key": "stages:30942208",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 2 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309421705
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942209,
+                "key": "stages:30942209",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 3 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309421805
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942210,
+                "key": "stages:30942210",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 4 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309421905
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942211,
+                "key": "stages:30942211",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 5 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309422005
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30942212,
+                "key": "stages:30942212",
+                "matching_raw_rows": 1,
+                "name": "Event Story Chapter 2 — Stage 6 (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 309422105
                   }
                 ]
               }
@@ -50839,6 +52099,90 @@
             "amount_max": null,
             "amount_min": null,
             "amount_total": null,
+            "id": 30942107,
+            "key": "stages:30942107",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 1 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309411605
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942108,
+            "key": "stages:30942108",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 2 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309411705
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942109,
+            "key": "stages:30942109",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 3 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309411805
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942110,
+            "key": "stages:30942110",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 4 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309411905
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942111,
+            "key": "stages:30942111",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 5 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309412005
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942112,
+            "key": "stages:30942112",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 6 (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309412105
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
             "id": 30942201,
             "key": "stages:30942201",
             "matching_raw_rows": 1,
@@ -50918,6 +52262,90 @@
                 "drop_content_group_id": 309421505
               }
             ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942207,
+            "key": "stages:30942207",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 1 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309421605
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942208,
+            "key": "stages:30942208",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 2 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309421705
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942209,
+            "key": "stages:30942209",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 3 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309421805
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942210,
+            "key": "stages:30942210",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 4 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309421905
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942211,
+            "key": "stages:30942211",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 5 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309422005
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30942212,
+            "key": "stages:30942212",
+            "matching_raw_rows": 1,
+            "name": "Event Story Chapter 2 — Stage 6 (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 309422105
+              }
+            ]
           }
         ]
       },
@@ -50927,7 +52355,7 @@
             "aggregate_source_count": 0,
             "kind": "stage drop",
             "label": "stage drop",
-            "raw_definition_rows": 101,
+            "raw_definition_rows": 106,
             "raw_table": "m_stage_drop_content",
             "stages": [
               {
@@ -52297,6 +53725,76 @@
                 "source_identities": [
                   {
                     "drop_content_group_id": 30943025
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30943021,
+                "key": "stages:30943021",
+                "matching_raw_rows": 1,
+                "name": "Fearsome Foe: Abominable Showman — Abominable Showman (Easy)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 30943037
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30943022,
+                "key": "stages:30943022",
+                "matching_raw_rows": 1,
+                "name": "Fearsome Foe: Abominable Showman — Abominable Showman (Normal)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 30943039
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30943023,
+                "key": "stages:30943023",
+                "matching_raw_rows": 1,
+                "name": "Fearsome Foe: Abominable Showman — Abominable Showman (Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 30943041
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30943024,
+                "key": "stages:30943024",
+                "matching_raw_rows": 1,
+                "name": "Fearsome Foe: Abominable Showman — Abominable Showman (Very Hard)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 30943043
+                  }
+                ]
+              },
+              {
+                "amount_max": null,
+                "amount_min": null,
+                "amount_total": null,
+                "id": 30943025,
+                "key": "stages:30943025",
+                "matching_raw_rows": 1,
+                "name": "Fearsome Foe: Abominable Showman — Abominable Showman (Nightmare)",
+                "source_identities": [
+                  {
+                    "drop_content_group_id": 30943045
                   }
                 ]
               }
@@ -53673,12 +55171,82 @@
                 "drop_content_group_id": 30943025
               }
             ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30943021,
+            "key": "stages:30943021",
+            "matching_raw_rows": 1,
+            "name": "Fearsome Foe: Abominable Showman — Abominable Showman (Easy)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 30943037
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30943022,
+            "key": "stages:30943022",
+            "matching_raw_rows": 1,
+            "name": "Fearsome Foe: Abominable Showman — Abominable Showman (Normal)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 30943039
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30943023,
+            "key": "stages:30943023",
+            "matching_raw_rows": 1,
+            "name": "Fearsome Foe: Abominable Showman — Abominable Showman (Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 30943041
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30943024,
+            "key": "stages:30943024",
+            "matching_raw_rows": 1,
+            "name": "Fearsome Foe: Abominable Showman — Abominable Showman (Very Hard)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 30943043
+              }
+            ]
+          },
+          {
+            "amount_max": null,
+            "amount_min": null,
+            "amount_total": null,
+            "id": 30943025,
+            "key": "stages:30943025",
+            "matching_raw_rows": 1,
+            "name": "Fearsome Foe: Abominable Showman — Abominable Showman (Nightmare)",
+            "source_identities": [
+              {
+                "drop_content_group_id": 30943045
+              }
+            ]
           }
         ]
       }
     },
     "policy": "every current item stage-drop route expanded to stable stage source",
-    "raw_definition_rows": 1789,
+    "raw_definition_rows": 1845,
     "raw_rows_and_public_routes_may_differ": true
   }
 }

@@ -1,14 +1,14 @@
 {
   "authority": {
     "compiler_is_source_of_catalogue": true,
-    "complete_snapshot_sha256": "3b9aa9b3ec9d6b0a1461e8e3e46b16cced9a0f765429db5c51d26ea98f376f57",
-    "dictionary_sha256": "413f82397924e5cc8dda30fcd560dacd70c208763da787c364357bd22e5d0a31",
+    "complete_snapshot_sha256": "f906817c51f296f1795a2fba56689abdbd004956398dae583e24ddcabdbfaf2e",
+    "dictionary_sha256": "fb0652ae6050b400dfbf857f0ab3d85a595f2d60fd120824511998f275e63980",
     "generated": true,
-    "masterdata_sha256": "63af5a620d8754169028850cdfa87db7fc777e49d731133b347b08f312fe3b88",
+    "masterdata_sha256": "ae3917369af4e85e5c1a31259d73baff042fd5dc17c614f0423af700fdbf89bd",
     "numeric_values_manual": false,
-    "runtime_enums_sha256": "2f43fa3e6418e47bfb04ea3080797dc69406d3ad359049c68a707eeecd7af417"
+    "runtime_enums_sha256": "9ef98dadae11b9e817a450de0be7fe56deb454b3bbf14257c6417ba03844b090"
   },
-  "baseline_version": "1.6.1",
+  "baseline_version": "1.6.1.1",
   "bindings": {
     "panel_profile": {
       "10110020": "panel.10110020",
@@ -1809,7 +1809,7 @@
     "cost_asset_policy": "RESOLVE_THUMBNAIL_LOGICAL_PATH_TO_CERTIFIED_CONVERTED_PNG_SHA256",
     "critical_additive_rate_formula": "add_value/10000 percentage points",
     "fixed_point_scale": 10000,
-    "fixed_point_scale_inference_occurrences": 2391,
+    "fixed_point_scale_inference_occurrences": 2396,
     "healing_interpolation_policy": "DISPLAY_ENDPOINTS_AND_MARK_FORMULA_UNRESOLVED",
     "last_on_hit_condition_policy": "RAW_THRESHOLD_RUNTIME_SEMANTICS_UNRESOLVED",
     "lottery_scale": 10000,
@@ -2040,7 +2040,7 @@
     },
     "vocations": 9
   },
-  "game_version": "1.6.1.1",
+  "game_version": "1.6.1.4",
   "panel_costs": {
     "10110010": {
       "cumulative_by_state": {
@@ -204693,13 +204693,13 @@
   },
   "schema": "smashdump.vocation_mechanics.compiler.v6",
   "source_binding": {
-    "acquisition_seal_sha256": "fd5a0af82ca3740b35d90fd0c13acbaaf60e7948ef7516210472e092e0056058",
-    "asset_a_sha256": "64da086b04463bf2527684fac2fb0d49fcba0a31758d7afcf0e2df76162edc65",
-    "asset_snapshot_sha256": "3b9aa9b3ec9d6b0a1461e8e3e46b16cced9a0f765429db5c51d26ea98f376f57",
-    "dictionary_sha256": "413f82397924e5cc8dda30fcd560dacd70c208763da787c364357bd22e5d0a31",
-    "masterdata_sha256": "63af5a620d8754169028850cdfa87db7fc777e49d731133b347b08f312fe3b88",
-    "repository_manifest_sha256": "1d0b4d57ce7c65f6fc192f93f34411ce2ed387af02c516dacda1d889105a65a1",
-    "runtime_enums_sha256": "2f43fa3e6418e47bfb04ea3080797dc69406d3ad359049c68a707eeecd7af417",
+    "acquisition_seal_sha256": "8fbf4c5e056f160ee3580fb137d55d5b98978ecffd75c009f76eaa1f36474c6a",
+    "asset_a_sha256": "3126b5f82b11723655a51332164d164baa4f2885e26e03462a866661de5a19c7",
+    "asset_snapshot_sha256": "f906817c51f296f1795a2fba56689abdbd004956398dae583e24ddcabdbfaf2e",
+    "dictionary_sha256": "fb0652ae6050b400dfbf857f0ab3d85a595f2d60fd120824511998f275e63980",
+    "masterdata_sha256": "ae3917369af4e85e5c1a31259d73baff042fd5dc17c614f0423af700fdbf89bd",
+    "repository_manifest_sha256": "1e291e1b8f47775cf51ed98995a3252260e2e9628f145b6699bf08ed424ef4e9",
+    "runtime_enums_sha256": "9ef98dadae11b9e817a450de0be7fe56deb454b3bbf14257c6417ba03844b090",
     "s1_id": "SMASHDUMP_S1_SUCCESSOR_CONSTRUCTION_R1"
   },
   "trait_profiles": [

@@ -1,6 +1,6 @@
 {
   "baseline_package_id": "SMASHDUMP_STAGE3_R5_18_FILTER_SEMANTICS_RUNTIME_STABILITY_AND_POSE_ASSET_CORRECTED_R6",
-  "baseline_version": "1.6.1",
+  "baseline_version": "1.6.1.1",
   "candidate_only": true,
   "expected_runtime": {
     "dormant_when_hidden": true,
@@ -23,14 +23,14 @@
       "Very Hard"
     ]
   },
-  "game_version": "1.6.1.1",
+  "game_version": "1.6.1.4",
   "hidden_counts": {
     "abilities": 0,
     "accessories": 0,
     "boons": 0,
     "drony": 0,
     "drops": 0,
-    "enemies": 4,
+    "enemies": 3,
     "equipment": 0,
     "events": 0,
     "gacha": 0,

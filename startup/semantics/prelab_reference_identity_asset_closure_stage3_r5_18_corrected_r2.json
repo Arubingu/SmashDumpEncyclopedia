@@ -1,6 +1,6 @@
 {
   "baseline_package_id": "SMASHDUMP_STAGE3_R5_18_PRELAB_REFERENCE_IDENTITY_AND_ASSET_CLOSURE_R1",
-  "baseline_version": "1.6.1",
+  "baseline_version": "1.6.1.1",
   "candidate_only": true,
   "chapter_1_binding": {
     "asset_key": "main_story_chapter_1_map",
@@ -10,7 +10,7 @@
     "stacking_contract": "none"
   },
   "correction_note": "S1 current-source regeneration",
-  "game_version": "1.6.1.1",
+  "game_version": "1.6.1.4",
   "generated_utc": null,
   "identity_state_buckets": {
     "technical": [],
@@ -24,10 +24,10 @@
         "hidden": 0,
         "incomplete": 0,
         "incomplete_keys": [],
-        "released": 155,
+        "released": 158,
         "technical": 0,
         "technical_keys": [],
-        "total": 155,
+        "total": 158,
         "upcoming": 0,
         "upcoming_keys": []
       },
@@ -37,10 +37,10 @@
         "hidden": 0,
         "incomplete": 0,
         "incomplete_keys": [],
-        "released": 24,
+        "released": 26,
         "technical": 0,
         "technical_keys": [],
-        "total": 24,
+        "total": 26,
         "upcoming": 0,
         "upcoming_keys": []
       },
@@ -50,10 +50,10 @@
         "hidden": 0,
         "incomplete": 0,
         "incomplete_keys": [],
-        "released": 47,
+        "released": 46,
         "technical": 0,
         "technical_keys": [],
-        "total": 47,
+        "total": 46,
         "upcoming": 0,
         "upcoming_keys": []
       },
@@ -76,10 +76,10 @@
         "hidden": 0,
         "incomplete": 0,
         "incomplete_keys": [],
-        "released": 519,
+        "released": 539,
         "technical": 0,
         "technical_keys": [],
-        "total": 519,
+        "total": 539,
         "upcoming": 0,
         "upcoming_keys": []
       },
@@ -90,15 +90,13 @@
           "kind:208",
           "kind:238"
         ],
-        "hidden": 4,
-        "incomplete": 1,
-        "incomplete_keys": [
-          "kind:262"
-        ],
-        "released": 119,
+        "hidden": 3,
+        "incomplete": 0,
+        "incomplete_keys": [],
+        "released": 121,
         "technical": 0,
         "technical_keys": [],
-        "total": 123,
+        "total": 124,
         "upcoming": 0,
         "upcoming_keys": []
       },
@@ -151,10 +149,10 @@
           "reference:2:0",
           "reference:7000:0"
         ],
-        "released": 388,
+        "released": 409,
         "technical": 0,
         "technical_keys": [],
-        "total": 391,
+        "total": 412,
         "upcoming": 0,
         "upcoming_keys": []
       },
@@ -177,10 +175,10 @@
         "hidden": 0,
         "incomplete": 0,
         "incomplete_keys": [],
-        "released": 117,
+        "released": 124,
         "technical": 0,
         "technical_keys": [],
-        "total": 117,
+        "total": 124,
         "upcoming": 0,
         "upcoming_keys": []
       },
@@ -216,10 +214,10 @@
         "hidden": 0,
         "incomplete": 0,
         "incomplete_keys": [],
-        "released": 519,
+        "released": 540,
         "technical": 0,
         "technical_keys": [],
-        "total": 519,
+        "total": 540,
         "upcoming": 0,
         "upcoming_keys": []
       },

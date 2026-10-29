@@ -1,16 +1,16 @@
 {
   "authority": {
     "compiler_is_source_of_model": true,
-    "complete_snapshot_sha256": "3b9aa9b3ec9d6b0a1461e8e3e46b16cced9a0f765429db5c51d26ea98f376f57",
-    "dictionary_sha256": "413f82397924e5cc8dda30fcd560dacd70c208763da787c364357bd22e5d0a31",
+    "complete_snapshot_sha256": "f906817c51f296f1795a2fba56689abdbd004956398dae583e24ddcabdbfaf2e",
+    "dictionary_sha256": "fb0652ae6050b400dfbf857f0ab3d85a595f2d60fd120824511998f275e63980",
     "generated": true,
-    "masterdata_sha256": "63af5a620d8754169028850cdfa87db7fc777e49d731133b347b08f312fe3b88",
+    "masterdata_sha256": "ae3917369af4e85e5c1a31259d73baff042fd5dc17c614f0423af700fdbf89bd",
     "numeric_values_manual": false,
-    "runtime_enums_sha256": "2f43fa3e6418e47bfb04ea3080797dc69406d3ad359049c68a707eeecd7af417",
+    "runtime_enums_sha256": "9ef98dadae11b9e817a450de0be7fe56deb454b3bbf14257c6417ba03844b090",
     "semantic_rules_manual": true,
-    "vocation_catalogue_sha256": "4cfcc2fcaf4d50fcf6c14f16a5feaf328b43a59e36465da41d06bdef61eec3e4"
+    "vocation_catalogue_sha256": "b35ea0431f24f0ca30707dc9dd7a2e160b01facfc011c8f1931d2b00df06d62e"
   },
-  "baseline_version": "1.6.1",
+  "baseline_version": "1.6.1.1",
   "bindings": {
     "panel_memory_node": {
       "10110131": "memory_node.10110131",
@@ -257,26 +257,26 @@
   },
   "candidate_only": true,
   "coverage": {
-    "candidate_evaluations": 9360,
+    "candidate_evaluations": 9920,
     "canonical_memory_nodes": 80,
     "condition_rows": 188,
-    "eligible_evaluation_digest_sha256": "e06ecb001906f503f0cfe7099e3ab7c80ec2ef5dcb9377dd89b78a637e76162f",
+    "eligible_evaluation_digest_sha256": "a62cf6846e73587323d83f583e8f399056cb142ed3809209f1db71db7c923e20",
     "matcher_rank": 50,
-    "memory_entities": 117,
+    "memory_entities": 124,
     "memory_panel_variants": 240,
-    "memory_rank_rows": 585,
+    "memory_rank_rows": 620,
     "rank_coverage": {
       "memory_node.10110131": {
         "50": {
-          "eligible": 26,
-          "full_matches": 26,
+          "eligible": 27,
+          "full_matches": 27,
           "maximum_matches": 1
         }
       },
       "memory_node.10110141": {
         "50": {
-          "eligible": 24,
-          "full_matches": 24,
+          "eligible": 25,
+          "full_matches": 25,
           "maximum_matches": 1
         }
       },
@@ -289,14 +289,14 @@
       },
       "memory_node.10110181": {
         "50": {
-          "eligible": 25,
-          "full_matches": 4,
+          "eligible": 26,
+          "full_matches": 5,
           "maximum_matches": 2
         }
       },
       "memory_node.10110191": {
         "50": {
-          "eligible": 26,
+          "eligible": 27,
           "full_matches": 4,
           "maximum_matches": 2
         }
@@ -324,49 +324,49 @@
       },
       "memory_node.10210131": {
         "50": {
-          "eligible": 22,
-          "full_matches": 22,
+          "eligible": 23,
+          "full_matches": 23,
           "maximum_matches": 1
         }
       },
       "memory_node.10210141": {
         "50": {
-          "eligible": 22,
-          "full_matches": 22,
+          "eligible": 23,
+          "full_matches": 23,
           "maximum_matches": 1
         }
       },
       "memory_node.10210151": {
         "50": {
-          "eligible": 19,
-          "full_matches": 19,
+          "eligible": 20,
+          "full_matches": 20,
           "maximum_matches": 1
         }
       },
       "memory_node.10210181": {
         "50": {
-          "eligible": 22,
-          "full_matches": 6,
+          "eligible": 23,
+          "full_matches": 7,
           "maximum_matches": 2
         }
       },
       "memory_node.10210191": {
         "50": {
-          "eligible": 22,
+          "eligible": 23,
           "full_matches": 4,
           "maximum_matches": 2
         }
       },
       "memory_node.10210251": {
         "50": {
-          "eligible": 17,
-          "full_matches": 17,
+          "eligible": 18,
+          "full_matches": 18,
           "maximum_matches": 1
         }
       },
       "memory_node.10210261": {
         "50": {
-          "eligible": 15,
+          "eligible": 16,
           "full_matches": 3,
           "maximum_matches": 2
         }
@@ -380,99 +380,99 @@
       },
       "memory_node.10310131": {
         "50": {
-          "eligible": 26,
-          "full_matches": 26,
+          "eligible": 28,
+          "full_matches": 28,
           "maximum_matches": 1
         }
       },
       "memory_node.10310141": {
         "50": {
-          "eligible": 26,
-          "full_matches": 26,
+          "eligible": 28,
+          "full_matches": 28,
           "maximum_matches": 1
         }
       },
       "memory_node.10310151": {
         "50": {
-          "eligible": 21,
-          "full_matches": 21,
+          "eligible": 23,
+          "full_matches": 23,
           "maximum_matches": 1
         }
       },
       "memory_node.10310181": {
         "50": {
-          "eligible": 26,
-          "full_matches": 6,
+          "eligible": 28,
+          "full_matches": 7,
           "maximum_matches": 2
         }
       },
       "memory_node.10310191": {
         "50": {
-          "eligible": 25,
+          "eligible": 26,
           "full_matches": 4,
           "maximum_matches": 2
         }
       },
       "memory_node.10310251": {
         "50": {
-          "eligible": 20,
-          "full_matches": 20,
+          "eligible": 22,
+          "full_matches": 22,
           "maximum_matches": 1
         }
       },
       "memory_node.10310261": {
         "50": {
-          "eligible": 14,
+          "eligible": 16,
           "full_matches": 1,
           "maximum_matches": 2
         }
       },
       "memory_node.10310271": {
         "50": {
-          "eligible": 10,
+          "eligible": 11,
           "full_matches": 2,
           "maximum_matches": 2
         }
       },
       "memory_node.10410131": {
         "50": {
-          "eligible": 23,
-          "full_matches": 23,
+          "eligible": 25,
+          "full_matches": 25,
           "maximum_matches": 1
         }
       },
       "memory_node.10410141": {
         "50": {
-          "eligible": 23,
-          "full_matches": 23,
+          "eligible": 25,
+          "full_matches": 25,
           "maximum_matches": 1
         }
       },
       "memory_node.10410151": {
         "50": {
-          "eligible": 19,
-          "full_matches": 19,
+          "eligible": 20,
+          "full_matches": 20,
           "maximum_matches": 1
         }
       },
       "memory_node.10410181": {
         "50": {
-          "eligible": 23,
-          "full_matches": 5,
+          "eligible": 25,
+          "full_matches": 6,
           "maximum_matches": 2
         }
       },
       "memory_node.10410191": {
         "50": {
-          "eligible": 23,
+          "eligible": 25,
           "full_matches": 2,
           "maximum_matches": 2
         }
       },
       "memory_node.10410251": {
         "50": {
-          "eligible": 18,
-          "full_matches": 18,
+          "eligible": 19,
+          "full_matches": 19,
           "maximum_matches": 1
         }
       },
@@ -492,336 +492,336 @@
       },
       "memory_node.10510131": {
         "50": {
-          "eligible": 20,
-          "full_matches": 20,
+          "eligible": 21,
+          "full_matches": 21,
           "maximum_matches": 1
         }
       },
       "memory_node.10510141": {
         "50": {
-          "eligible": 20,
-          "full_matches": 20,
+          "eligible": 21,
+          "full_matches": 21,
           "maximum_matches": 1
         }
       },
       "memory_node.10510151": {
         "50": {
-          "eligible": 17,
-          "full_matches": 17,
+          "eligible": 18,
+          "full_matches": 18,
           "maximum_matches": 1
         }
       },
       "memory_node.10510181": {
         "50": {
-          "eligible": 20,
-          "full_matches": 4,
+          "eligible": 21,
+          "full_matches": 5,
           "maximum_matches": 2
         }
       },
       "memory_node.10510191": {
         "50": {
-          "eligible": 20,
+          "eligible": 21,
           "full_matches": 2,
           "maximum_matches": 2
         }
       },
       "memory_node.10510251": {
         "50": {
-          "eligible": 15,
-          "full_matches": 15,
+          "eligible": 16,
+          "full_matches": 16,
           "maximum_matches": 1
         }
       },
       "memory_node.10510261": {
         "50": {
-          "eligible": 14,
+          "eligible": 15,
           "full_matches": 2,
           "maximum_matches": 2
         }
       },
       "memory_node.10510271": {
         "50": {
-          "eligible": 9,
+          "eligible": 10,
           "full_matches": 1,
           "maximum_matches": 2
         }
       },
       "memory_node.20110330": {
         "50": {
-          "eligible": 6,
+          "eligible": 7,
           "full_matches": 1,
           "maximum_matches": 2
         }
       },
       "memory_node.20110340": {
         "50": {
-          "eligible": 6,
+          "eligible": 7,
           "full_matches": 1,
           "maximum_matches": 2
         }
       },
       "memory_node.20110350": {
         "50": {
-          "eligible": 26,
+          "eligible": 28,
           "full_matches": 2,
           "maximum_matches": 3
         }
       },
       "memory_node.20110360": {
         "50": {
-          "eligible": 22,
+          "eligible": 23,
           "full_matches": 1,
           "maximum_matches": 3
         }
       },
       "memory_node.20110370": {
         "50": {
-          "eligible": 26,
+          "eligible": 28,
           "full_matches": 1,
           "maximum_matches": 3
         }
       },
       "memory_node.20110380": {
         "50": {
-          "eligible": 14,
+          "eligible": 15,
           "full_matches": 1,
           "maximum_matches": 3
         }
       },
       "memory_node.20110390": {
         "50": {
-          "eligible": 26,
+          "eligible": 28,
           "full_matches": 1,
           "maximum_matches": 4
         }
       },
       "memory_node.20110400": {
         "50": {
-          "eligible": 22,
+          "eligible": 23,
           "full_matches": 1,
           "maximum_matches": 4
         }
       },
       "memory_node.20110410": {
         "50": {
-          "eligible": 26,
-          "full_matches": 9,
+          "eligible": 28,
+          "full_matches": 10,
           "maximum_matches": 4
         }
       },
       "memory_node.20110420": {
         "50": {
-          "eligible": 22,
+          "eligible": 23,
           "full_matches": 6,
           "maximum_matches": 4
         }
       },
       "memory_node.20210330": {
         "50": {
-          "eligible": 6,
+          "eligible": 7,
           "full_matches": 2,
           "maximum_matches": 2
         }
       },
       "memory_node.20210340": {
         "50": {
-          "eligible": 6,
+          "eligible": 7,
           "full_matches": 1,
           "maximum_matches": 2
         }
       },
       "memory_node.20210350": {
         "50": {
-          "eligible": 26,
+          "eligible": 28,
           "full_matches": 1,
           "maximum_matches": 3
         }
       },
       "memory_node.20210360": {
         "50": {
-          "eligible": 26,
+          "eligible": 27,
           "full_matches": 1,
           "maximum_matches": 3
         }
       },
       "memory_node.20210370": {
         "50": {
-          "eligible": 26,
+          "eligible": 27,
           "full_matches": 1,
           "maximum_matches": 3
         }
       },
       "memory_node.20210380": {
         "50": {
-          "eligible": 25,
+          "eligible": 26,
           "full_matches": 1,
           "maximum_matches": 3
         }
       },
       "memory_node.20210390": {
         "50": {
-          "eligible": 26,
+          "eligible": 27,
           "full_matches": 1,
           "maximum_matches": 4
         }
       },
       "memory_node.20210400": {
         "50": {
-          "eligible": 26,
+          "eligible": 28,
           "full_matches": 1,
           "maximum_matches": 4
         }
       },
       "memory_node.20210410": {
         "50": {
-          "eligible": 24,
+          "eligible": 25,
           "full_matches": 5,
           "maximum_matches": 4
         }
       },
       "memory_node.20210420": {
         "50": {
-          "eligible": 26,
-          "full_matches": 9,
+          "eligible": 28,
+          "full_matches": 10,
           "maximum_matches": 4
         }
       },
       "memory_node.20310330": {
         "50": {
-          "eligible": 6,
+          "eligible": 7,
           "full_matches": 1,
           "maximum_matches": 2
         }
       },
       "memory_node.20310340": {
         "50": {
-          "eligible": 5,
+          "eligible": 6,
           "full_matches": 1,
           "maximum_matches": 2
         }
       },
       "memory_node.20310350": {
         "50": {
-          "eligible": 23,
+          "eligible": 25,
           "full_matches": 1,
           "maximum_matches": 3
         }
       },
       "memory_node.20310360": {
         "50": {
-          "eligible": 20,
+          "eligible": 21,
           "full_matches": 1,
           "maximum_matches": 3
         }
       },
       "memory_node.20310370": {
         "50": {
-          "eligible": 23,
+          "eligible": 25,
           "full_matches": 1,
           "maximum_matches": 3
         }
       },
       "memory_node.20310380": {
         "50": {
-          "eligible": 20,
+          "eligible": 21,
           "full_matches": 2,
           "maximum_matches": 3
         }
       },
       "memory_node.20310390": {
         "50": {
-          "eligible": 23,
+          "eligible": 25,
           "full_matches": 1,
           "maximum_matches": 4
         }
       },
       "memory_node.20310400": {
         "50": {
-          "eligible": 20,
+          "eligible": 21,
           "full_matches": 1,
           "maximum_matches": 4
         }
       },
       "memory_node.20310410": {
         "50": {
-          "eligible": 23,
+          "eligible": 25,
           "full_matches": 6,
           "maximum_matches": 4
         }
       },
       "memory_node.20310420": {
         "50": {
-          "eligible": 20,
+          "eligible": 21,
           "full_matches": 6,
           "maximum_matches": 4
         }
       },
       "memory_node.20410330": {
         "50": {
-          "eligible": 6,
+          "eligible": 7,
           "full_matches": 2,
           "maximum_matches": 2
         }
       },
       "memory_node.20410340": {
         "50": {
-          "eligible": 6,
+          "eligible": 7,
           "full_matches": 1,
           "maximum_matches": 2
         }
       },
       "memory_node.20410350": {
         "50": {
-          "eligible": 26,
+          "eligible": 27,
           "full_matches": 1,
           "maximum_matches": 3
         }
       },
       "memory_node.20410360": {
         "50": {
-          "eligible": 23,
+          "eligible": 25,
           "full_matches": 1,
           "maximum_matches": 3
         }
       },
       "memory_node.20410370": {
         "50": {
-          "eligible": 26,
+          "eligible": 27,
           "full_matches": 1,
           "maximum_matches": 3
         }
       },
       "memory_node.20410380": {
         "50": {
-          "eligible": 23,
+          "eligible": 25,
           "full_matches": 1,
           "maximum_matches": 3
         }
       },
       "memory_node.20410390": {
         "50": {
-          "eligible": 26,
-          "full_matches": 0,
-          "maximum_matches": 2
+          "eligible": 27,
+          "full_matches": 1,
+          "maximum_matches": 4
         }
       },
       "memory_node.20410400": {
         "50": {
-          "eligible": 21,
-          "full_matches": 0,
-          "maximum_matches": 2
+          "eligible": 23,
+          "full_matches": 1,
+          "maximum_matches": 4
         }
       },
       "memory_node.20410410": {
         "50": {
-          "eligible": 24,
+          "eligible": 25,
           "full_matches": 5,
           "maximum_matches": 4
         }
       },
       "memory_node.20410420": {
         "50": {
-          "eligible": 23,
+          "eligible": 25,
           "full_matches": 6,
           "maximum_matches": 4
         }
@@ -831,7 +831,7 @@
     "unresolved_nodes": [],
     "vocations": 9
   },
-  "game_version": "1.6.1.1",
+  "game_version": "1.6.1.4",
   "memories": {
     "100001": {
       "album_number": 4,
@@ -19154,6 +19154,400 @@
       "unit_family": 2,
       "unit_family_name": "Beast"
     },
+    "620002": {
+      "album_number": 58,
+      "color_name": "Red",
+      "color_type": 8,
+      "cost": 46,
+      "entity_ref": {
+        "category": "memories",
+        "id": 620002
+      },
+      "full_name": "Abominable Showman Memory",
+      "id": 620002,
+      "image": {
+        "fallback_url": "../../../assets/current/7847f9558268a2e0862c968f97269002aa3d74b8da6dd7d334d4acb0941c75c9.webp",
+        "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns0011_06",
+        "orientation": "AS_STORED",
+        "sha256": "7847f9558268a2e0862c968f97269002aa3d74b8da6dd7d334d4acb0941c75c9",
+        "source": {
+          "asset_path": "UI/Download/productimage/orb/prt_tmb_meo_mns0011_06",
+          "converted_cas_path": "calocal://redacted",
+          "converted_kind": "texture_png",
+          "converted_sha256": "7847f9558268a2e0862c968f97269002aa3d74b8da6dd7d334d4acb0941c75c9",
+          "stable_row_id": "2f17905924069923eab1a5c8cf8de98e2f49a0e4",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_observation_count": 1,
+        "url": "../../../assets/current/7847f9558268a2e0862c968f97269002aa3d74b8da6dd7d334d4acb0941c75c9.webp"
+      },
+      "name": "Abominable Showman",
+      "ranks": {
+        "10": {
+          "label": "D",
+          "rank": 10,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 39,
+            "critical": 25,
+            "defense": 25,
+            "hp": 46,
+            "id": 1062000210,
+            "magic_attack": 19,
+            "magical_defense": 22,
+            "magical_mending": 17,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 2,
+            "orb_id": 620002,
+            "rank": 10
+          },
+          "stats": {
+            "attack": 39,
+            "defense": 25,
+            "deftness": 25,
+            "hp": 46,
+            "magic_might": 19,
+            "magical_defense": 22,
+            "magical_mending": 17
+          }
+        },
+        "20": {
+          "label": "C",
+          "rank": 20,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 43,
+            "critical": 28,
+            "defense": 28,
+            "hp": 50,
+            "id": 1062000220,
+            "magic_attack": 21,
+            "magical_defense": 24,
+            "magical_mending": 19,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 3,
+            "orb_id": 620002,
+            "rank": 20
+          },
+          "stats": {
+            "attack": 43,
+            "defense": 28,
+            "deftness": 28,
+            "hp": 50,
+            "magic_might": 21,
+            "magical_defense": 24,
+            "magical_mending": 19
+          }
+        },
+        "30": {
+          "label": "B",
+          "rank": 30,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 48,
+            "critical": 31,
+            "defense": 31,
+            "hp": 56,
+            "id": 1062000230,
+            "magic_attack": 23,
+            "magical_defense": 27,
+            "magical_mending": 21,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 3,
+            "orb_id": 620002,
+            "rank": 30
+          },
+          "stats": {
+            "attack": 48,
+            "defense": 31,
+            "deftness": 31,
+            "hp": 56,
+            "magic_might": 23,
+            "magical_defense": 27,
+            "magical_mending": 21
+          }
+        },
+        "40": {
+          "label": "A",
+          "rank": 40,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 55,
+            "critical": 35,
+            "defense": 35,
+            "hp": 63,
+            "id": 1062000240,
+            "magic_attack": 26,
+            "magical_defense": 30,
+            "magical_mending": 23,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 4,
+            "orb_id": 620002,
+            "rank": 40
+          },
+          "stats": {
+            "attack": 55,
+            "defense": 35,
+            "deftness": 35,
+            "hp": 63,
+            "magic_might": 26,
+            "magical_defense": 30,
+            "magical_mending": 23
+          }
+        },
+        "50": {
+          "label": "S",
+          "rank": 50,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 63,
+            "critical": 40,
+            "defense": 40,
+            "hp": 73,
+            "id": 1062000250,
+            "magic_attack": 30,
+            "magical_defense": 35,
+            "magical_mending": 27,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 0,
+            "orb_id": 620002,
+            "rank": 50
+          },
+          "stats": {
+            "attack": 63,
+            "defense": 40,
+            "deftness": 40,
+            "hp": 73,
+            "magic_might": 30,
+            "magical_defense": 35,
+            "magical_mending": 27
+          }
+        }
+      },
+      "rarity": 10,
+      "source": {
+        "row": {
+          "album_number": 58,
+          "color_type": 8,
+          "cost": 46,
+          "description": "Dev/DeleteKey/delete_key",
+          "id": 620002,
+          "model_path": "Effects/OutGames/out_itm0001/Prefabs/fx_out_itm0001_01_05",
+          "monster_image_path": "UI/Download/productimage/orb/prt_detail_meo_mns0011_06",
+          "orb_album_type": 2,
+          "orb_full_name": "MemoryOrbData/MemoryOrbData_620002_fullname",
+          "orb_name": "MemoryOrbData/MemoryOrbData_620002_name",
+          "orb_rarity": 10,
+          "pearl_point_amount": 5,
+          "plural_orb_full_name": "MemoryOrbData/MemoryOrbData_620002_fullname_plural",
+          "plural_orb_name": "MemoryOrbData/MemoryOrbData_620002_name_plural",
+          "thumbnail_image_path": "UI/Download/productimage/orb/prt_tmb_meo_mns0011_06",
+          "unit_family": 2,
+          "unit_id": 0
+        },
+        "table": "m_memory_orb"
+      },
+      "unit_family": 2,
+      "unit_family_name": "Beast"
+    },
+    "620004": {
+      "album_number": 61,
+      "color_name": "Green",
+      "color_type": 4,
+      "cost": 95,
+      "entity_ref": {
+        "category": "memories",
+        "id": 620004
+      },
+      "full_name": "Marquis de Léon Horde Memory",
+      "id": 620004,
+      "image": {
+        "fallback_url": "../../../assets/current/f78aabc6cc9cf84f2f6f4f6a5e10fc9021a203df756b1a18f3bd0f217fa3ae0b.webp",
+        "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8021_01",
+        "orientation": "AS_STORED",
+        "sha256": "f78aabc6cc9cf84f2f6f4f6a5e10fc9021a203df756b1a18f3bd0f217fa3ae0b",
+        "source": {
+          "asset_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8021_01",
+          "converted_cas_path": "calocal://redacted",
+          "converted_kind": "texture_png",
+          "converted_sha256": "f78aabc6cc9cf84f2f6f4f6a5e10fc9021a203df756b1a18f3bd0f217fa3ae0b",
+          "stable_row_id": "86e09458211e177e56bbdfa3ff4c1c50f653edf4",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_observation_count": 1,
+        "url": "../../../assets/current/f78aabc6cc9cf84f2f6f4f6a5e10fc9021a203df756b1a18f3bd0f217fa3ae0b.webp"
+      },
+      "name": "Marquis de Léon Horde",
+      "ranks": {
+        "10": {
+          "label": "D",
+          "rank": 10,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 51,
+            "critical": 33,
+            "defense": 46,
+            "hp": 78,
+            "id": 1062000410,
+            "magic_attack": 45,
+            "magical_defense": 57,
+            "magical_mending": 104,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 2,
+            "orb_id": 620004,
+            "rank": 10
+          },
+          "stats": {
+            "attack": 51,
+            "defense": 46,
+            "deftness": 33,
+            "hp": 78,
+            "magic_might": 45,
+            "magical_defense": 57,
+            "magical_mending": 104
+          }
+        },
+        "20": {
+          "label": "C",
+          "rank": 20,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 56,
+            "critical": 36,
+            "defense": 50,
+            "hp": 86,
+            "id": 1062000420,
+            "magic_attack": 50,
+            "magical_defense": 63,
+            "magical_mending": 115,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 3,
+            "orb_id": 620004,
+            "rank": 20
+          },
+          "stats": {
+            "attack": 56,
+            "defense": 50,
+            "deftness": 36,
+            "hp": 86,
+            "magic_might": 50,
+            "magical_defense": 63,
+            "magical_mending": 115
+          }
+        },
+        "30": {
+          "label": "B",
+          "rank": 30,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 62,
+            "critical": 40,
+            "defense": 56,
+            "hp": 96,
+            "id": 1062000430,
+            "magic_attack": 55,
+            "magical_defense": 70,
+            "magical_mending": 128,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 4,
+            "orb_id": 620004,
+            "rank": 30
+          },
+          "stats": {
+            "attack": 62,
+            "defense": 56,
+            "deftness": 40,
+            "hp": 96,
+            "magic_might": 55,
+            "magical_defense": 70,
+            "magical_mending": 128
+          }
+        },
+        "40": {
+          "label": "A",
+          "rank": 40,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 70,
+            "critical": 45,
+            "defense": 63,
+            "hp": 109,
+            "id": 1062000440,
+            "magic_attack": 63,
+            "magical_defense": 79,
+            "magical_mending": 145,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 4,
+            "orb_id": 620004,
+            "rank": 40
+          },
+          "stats": {
+            "attack": 70,
+            "defense": 63,
+            "deftness": 45,
+            "hp": 109,
+            "magic_might": 63,
+            "magical_defense": 79,
+            "magical_mending": 145
+          }
+        },
+        "50": {
+          "label": "S",
+          "rank": 50,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 81,
+            "critical": 52,
+            "defense": 73,
+            "hp": 125,
+            "id": 1062000450,
+            "magic_attack": 72,
+            "magical_defense": 91,
+            "magical_mending": 167,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 0,
+            "orb_id": 620004,
+            "rank": 50
+          },
+          "stats": {
+            "attack": 81,
+            "defense": 73,
+            "deftness": 52,
+            "hp": 125,
+            "magic_might": 72,
+            "magical_defense": 91,
+            "magical_mending": 167
+          }
+        }
+      },
+      "rarity": 10,
+      "source": {
+        "row": {
+          "album_number": 61,
+          "color_type": 4,
+          "cost": 95,
+          "description": "Dev/DeleteKey/delete_key",
+          "id": 620004,
+          "model_path": "Effects/OutGames/out_itm0001/Prefabs/fx_out_itm0001_01_05",
+          "monster_image_path": "UI/Download/productimage/orb/prt_detail_meo_mns8021_01",
+          "orb_album_type": 2,
+          "orb_full_name": "MemoryOrbData/MemoryOrbData_620004_fullname",
+          "orb_name": "MemoryOrbData/MemoryOrbData_620004_name",
+          "orb_rarity": 10,
+          "pearl_point_amount": 5,
+          "plural_orb_full_name": "MemoryOrbData/MemoryOrbData_620004_fullname_plural",
+          "plural_orb_name": "MemoryOrbData/MemoryOrbData_620004_name_plural",
+          "thumbnail_image_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8021_01",
+          "unit_family": 2,
+          "unit_id": 0
+        },
+        "table": "m_memory_orb"
+      },
+      "unit_family": 2,
+      "unit_family_name": "Beast"
+    },
     "640001": {
       "album_number": 51,
       "color_name": "Blue",
@@ -23291,6 +23685,203 @@
       "unit_family": 13,
       "unit_family_name": "Unknown"
     },
+    "740009": {
+      "album_number": 69,
+      "color_name": "Purple",
+      "color_type": 2,
+      "cost": 62,
+      "entity_ref": {
+        "category": "memories",
+        "id": 740009
+      },
+      "full_name": "Maya Memory",
+      "id": 740009,
+      "image": {
+        "fallback_url": "../../../assets/current/a7c8114f16a718f4fd68a6e4ea6fe6a6fe82cfe598a0d2e2f68503ae440d3f96.webp",
+        "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8024_01",
+        "orientation": "AS_STORED",
+        "sha256": "a7c8114f16a718f4fd68a6e4ea6fe6a6fe82cfe598a0d2e2f68503ae440d3f96",
+        "source": {
+          "asset_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8024_01",
+          "converted_cas_path": "calocal://redacted",
+          "converted_kind": "texture_png",
+          "converted_sha256": "a7c8114f16a718f4fd68a6e4ea6fe6a6fe82cfe598a0d2e2f68503ae440d3f96",
+          "stable_row_id": "5f4d990e27fb8c56e52464ad7ab640612cf97252",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_observation_count": 1,
+        "url": "../../../assets/current/a7c8114f16a718f4fd68a6e4ea6fe6a6fe82cfe598a0d2e2f68503ae440d3f96.webp"
+      },
+      "name": "Maya",
+      "ranks": {
+        "10": {
+          "label": "D",
+          "rank": 10,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 29,
+            "critical": 26,
+            "defense": 30,
+            "hp": 51,
+            "id": 1074000910,
+            "magic_attack": 44,
+            "magical_defense": 30,
+            "magical_mending": 39,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 1,
+            "orb_id": 740009,
+            "rank": 10
+          },
+          "stats": {
+            "attack": 29,
+            "defense": 30,
+            "deftness": 26,
+            "hp": 51,
+            "magic_might": 44,
+            "magical_defense": 30,
+            "magical_mending": 39
+          }
+        },
+        "20": {
+          "label": "C",
+          "rank": 20,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 32,
+            "critical": 28,
+            "defense": 33,
+            "hp": 56,
+            "id": 1074000920,
+            "magic_attack": 48,
+            "magical_defense": 33,
+            "magical_mending": 43,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 1,
+            "orb_id": 740009,
+            "rank": 20
+          },
+          "stats": {
+            "attack": 32,
+            "defense": 33,
+            "deftness": 28,
+            "hp": 56,
+            "magic_might": 48,
+            "magical_defense": 33,
+            "magical_mending": 43
+          }
+        },
+        "30": {
+          "label": "B",
+          "rank": 30,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 35,
+            "critical": 32,
+            "defense": 37,
+            "hp": 62,
+            "id": 1074000930,
+            "magic_attack": 54,
+            "magical_defense": 37,
+            "magical_mending": 48,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 1,
+            "orb_id": 740009,
+            "rank": 30
+          },
+          "stats": {
+            "attack": 35,
+            "defense": 37,
+            "deftness": 32,
+            "hp": 62,
+            "magic_might": 54,
+            "magical_defense": 37,
+            "magical_mending": 48
+          }
+        },
+        "40": {
+          "label": "A",
+          "rank": 40,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 40,
+            "critical": 36,
+            "defense": 42,
+            "hp": 70,
+            "id": 1074000940,
+            "magic_attack": 61,
+            "magical_defense": 42,
+            "magical_mending": 54,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 1,
+            "orb_id": 740009,
+            "rank": 40
+          },
+          "stats": {
+            "attack": 40,
+            "defense": 42,
+            "deftness": 36,
+            "hp": 70,
+            "magic_might": 61,
+            "magical_defense": 42,
+            "magical_mending": 54
+          }
+        },
+        "50": {
+          "label": "S",
+          "rank": 50,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 46,
+            "critical": 41,
+            "defense": 48,
+            "hp": 81,
+            "id": 1074000950,
+            "magic_attack": 70,
+            "magical_defense": 48,
+            "magical_mending": 62,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 0,
+            "orb_id": 740009,
+            "rank": 50
+          },
+          "stats": {
+            "attack": 46,
+            "defense": 48,
+            "deftness": 41,
+            "hp": 81,
+            "magic_might": 70,
+            "magical_defense": 48,
+            "magical_mending": 62
+          }
+        }
+      },
+      "rarity": 10,
+      "source": {
+        "row": {
+          "album_number": 69,
+          "color_type": 2,
+          "cost": 62,
+          "description": "Dev/DeleteKey/delete_key",
+          "id": 740009,
+          "model_path": "Effects/OutGames/out_itm0001/Prefabs/fx_out_itm0001_01_01",
+          "monster_image_path": "UI/Download/productimage/orb/prt_detail_meo_mns8024_01",
+          "orb_album_type": 2,
+          "orb_full_name": "MemoryOrbData/MemoryOrbData_740009_fullname",
+          "orb_name": "MemoryOrbData/MemoryOrbData_740009_name",
+          "orb_rarity": 10,
+          "pearl_point_amount": 5,
+          "plural_orb_full_name": "MemoryOrbData/MemoryOrbData_740009_fullname_plural",
+          "plural_orb_name": "MemoryOrbData/MemoryOrbData_740009_name_plural",
+          "thumbnail_image_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8024_01",
+          "unit_family": 13,
+          "unit_id": 0
+        },
+        "table": "m_memory_orb"
+      },
+      "unit_family": 13,
+      "unit_family_name": "Unknown"
+    },
     "740011": {
       "album_number": 64,
       "color_name": "Yellow",
@@ -23874,6 +24465,794 @@
           "plural_orb_full_name": "MemoryOrbData/MemoryOrbData_740013_fullname_plural",
           "plural_orb_name": "MemoryOrbData/MemoryOrbData_740013_name_plural",
           "thumbnail_image_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8028_01",
+          "unit_family": 13,
+          "unit_id": 0
+        },
+        "table": "m_memory_orb"
+      },
+      "unit_family": 13,
+      "unit_family_name": "Unknown"
+    },
+    "740014": {
+      "album_number": 68,
+      "color_name": "Blue",
+      "color_type": 16,
+      "cost": 63,
+      "entity_ref": {
+        "category": "memories",
+        "id": 740014
+      },
+      "full_name": "Torneko Memory",
+      "id": 740014,
+      "image": {
+        "fallback_url": "../../../assets/current/50b1927687262f34d8df3768b1851114628591b179e1e0d7827009358c8f63db.webp",
+        "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8029_01",
+        "orientation": "AS_STORED",
+        "sha256": "50b1927687262f34d8df3768b1851114628591b179e1e0d7827009358c8f63db",
+        "source": {
+          "asset_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8029_01",
+          "converted_cas_path": "calocal://redacted",
+          "converted_kind": "texture_png",
+          "converted_sha256": "50b1927687262f34d8df3768b1851114628591b179e1e0d7827009358c8f63db",
+          "stable_row_id": "be03496bf44a5fd7a84d8753eb3b404189945f32",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_observation_count": 1,
+        "url": "../../../assets/current/50b1927687262f34d8df3768b1851114628591b179e1e0d7827009358c8f63db.webp"
+      },
+      "name": "Torneko",
+      "ranks": {
+        "10": {
+          "label": "D",
+          "rank": 10,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 39,
+            "critical": 33,
+            "defense": 33,
+            "hp": 59,
+            "id": 1074001410,
+            "magic_attack": 29,
+            "magical_defense": 31,
+            "magical_mending": 28,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 1,
+            "orb_id": 740014,
+            "rank": 10
+          },
+          "stats": {
+            "attack": 39,
+            "defense": 33,
+            "deftness": 33,
+            "hp": 59,
+            "magic_might": 29,
+            "magical_defense": 31,
+            "magical_mending": 28
+          }
+        },
+        "20": {
+          "label": "C",
+          "rank": 20,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 43,
+            "critical": 36,
+            "defense": 36,
+            "hp": 65,
+            "id": 1074001420,
+            "magic_attack": 32,
+            "magical_defense": 34,
+            "magical_mending": 30,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 1,
+            "orb_id": 740014,
+            "rank": 20
+          },
+          "stats": {
+            "attack": 43,
+            "defense": 36,
+            "deftness": 36,
+            "hp": 65,
+            "magic_might": 32,
+            "magical_defense": 34,
+            "magical_mending": 30
+          }
+        },
+        "30": {
+          "label": "B",
+          "rank": 30,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 48,
+            "critical": 40,
+            "defense": 40,
+            "hp": 72,
+            "id": 1074001430,
+            "magic_attack": 35,
+            "magical_defense": 38,
+            "magical_mending": 34,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 1,
+            "orb_id": 740014,
+            "rank": 30
+          },
+          "stats": {
+            "attack": 48,
+            "defense": 40,
+            "deftness": 40,
+            "hp": 72,
+            "magic_might": 35,
+            "magical_defense": 38,
+            "magical_mending": 34
+          }
+        },
+        "40": {
+          "label": "A",
+          "rank": 40,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 54,
+            "critical": 45,
+            "defense": 45,
+            "hp": 82,
+            "id": 1074001440,
+            "magic_attack": 40,
+            "magical_defense": 43,
+            "magical_mending": 38,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 1,
+            "orb_id": 740014,
+            "rank": 40
+          },
+          "stats": {
+            "attack": 54,
+            "defense": 45,
+            "deftness": 45,
+            "hp": 82,
+            "magic_might": 40,
+            "magical_defense": 43,
+            "magical_mending": 38
+          }
+        },
+        "50": {
+          "label": "S",
+          "rank": 50,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 62,
+            "critical": 52,
+            "defense": 52,
+            "hp": 94,
+            "id": 1074001450,
+            "magic_attack": 46,
+            "magical_defense": 50,
+            "magical_mending": 44,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 0,
+            "orb_id": 740014,
+            "rank": 50
+          },
+          "stats": {
+            "attack": 62,
+            "defense": 52,
+            "deftness": 52,
+            "hp": 94,
+            "magic_might": 46,
+            "magical_defense": 50,
+            "magical_mending": 44
+          }
+        }
+      },
+      "rarity": 10,
+      "source": {
+        "row": {
+          "album_number": 68,
+          "color_type": 16,
+          "cost": 63,
+          "description": "Dev/DeleteKey/delete_key",
+          "id": 740014,
+          "model_path": "Effects/OutGames/out_itm0001/Prefabs/fx_out_itm0001_01_01",
+          "monster_image_path": "UI/Download/productimage/orb/prt_detail_meo_mns8029_01",
+          "orb_album_type": 2,
+          "orb_full_name": "MemoryOrbData/MemoryOrbData_740014_fullname",
+          "orb_name": "MemoryOrbData/MemoryOrbData_740014_name",
+          "orb_rarity": 10,
+          "pearl_point_amount": 5,
+          "plural_orb_full_name": "MemoryOrbData/MemoryOrbData_740014_fullname_plural",
+          "plural_orb_name": "MemoryOrbData/MemoryOrbData_740014_name_plural",
+          "thumbnail_image_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8029_01",
+          "unit_family": 13,
+          "unit_id": 0
+        },
+        "table": "m_memory_orb"
+      },
+      "unit_family": 13,
+      "unit_family_name": "Unknown"
+    },
+    "740015": {
+      "album_number": 70,
+      "color_name": "Green",
+      "color_type": 4,
+      "cost": 62,
+      "entity_ref": {
+        "category": "memories",
+        "id": 740015
+      },
+      "full_name": "Meena Memory",
+      "id": 740015,
+      "image": {
+        "fallback_url": "../../../assets/current/8d755b7e14786db3fe4adaf39584b9230de23d3913e5b269c7acef49e89c5067.webp",
+        "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8030_01",
+        "orientation": "AS_STORED",
+        "sha256": "8d755b7e14786db3fe4adaf39584b9230de23d3913e5b269c7acef49e89c5067",
+        "source": {
+          "asset_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8030_01",
+          "converted_cas_path": "calocal://redacted",
+          "converted_kind": "texture_png",
+          "converted_sha256": "8d755b7e14786db3fe4adaf39584b9230de23d3913e5b269c7acef49e89c5067",
+          "stable_row_id": "d8c0f7eb2bbef2003f01a43b2f9313bcbf5cd11f",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_observation_count": 1,
+        "url": "../../../assets/current/8d755b7e14786db3fe4adaf39584b9230de23d3913e5b269c7acef49e89c5067.webp"
+      },
+      "name": "Meena",
+      "ranks": {
+        "10": {
+          "label": "D",
+          "rank": 10,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 33,
+            "critical": 21,
+            "defense": 30,
+            "hp": 51,
+            "id": 1074001510,
+            "magic_attack": 29,
+            "magical_defense": 38,
+            "magical_mending": 68,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 1,
+            "orb_id": 740015,
+            "rank": 10
+          },
+          "stats": {
+            "attack": 33,
+            "defense": 30,
+            "deftness": 21,
+            "hp": 51,
+            "magic_might": 29,
+            "magical_defense": 38,
+            "magical_mending": 68
+          }
+        },
+        "20": {
+          "label": "C",
+          "rank": 20,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 37,
+            "critical": 23,
+            "defense": 33,
+            "hp": 57,
+            "id": 1074001520,
+            "magic_attack": 32,
+            "magical_defense": 41,
+            "magical_mending": 75,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 1,
+            "orb_id": 740015,
+            "rank": 20
+          },
+          "stats": {
+            "attack": 37,
+            "defense": 33,
+            "deftness": 23,
+            "hp": 57,
+            "magic_might": 32,
+            "magical_defense": 41,
+            "magical_mending": 75
+          }
+        },
+        "30": {
+          "label": "B",
+          "rank": 30,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 41,
+            "critical": 26,
+            "defense": 37,
+            "hp": 63,
+            "id": 1074001530,
+            "magic_attack": 36,
+            "magical_defense": 46,
+            "magical_mending": 84,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 1,
+            "orb_id": 740015,
+            "rank": 30
+          },
+          "stats": {
+            "attack": 41,
+            "defense": 37,
+            "deftness": 26,
+            "hp": 63,
+            "magic_might": 36,
+            "magical_defense": 46,
+            "magical_mending": 84
+          }
+        },
+        "40": {
+          "label": "A",
+          "rank": 40,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 46,
+            "critical": 30,
+            "defense": 42,
+            "hp": 71,
+            "id": 1074001540,
+            "magic_attack": 41,
+            "magical_defense": 52,
+            "magical_mending": 95,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 1,
+            "orb_id": 740015,
+            "rank": 40
+          },
+          "stats": {
+            "attack": 46,
+            "defense": 42,
+            "deftness": 30,
+            "hp": 71,
+            "magic_might": 41,
+            "magical_defense": 52,
+            "magical_mending": 95
+          }
+        },
+        "50": {
+          "label": "S",
+          "rank": 50,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 53,
+            "critical": 34,
+            "defense": 48,
+            "hp": 82,
+            "id": 1074001550,
+            "magic_attack": 47,
+            "magical_defense": 60,
+            "magical_mending": 109,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 0,
+            "orb_id": 740015,
+            "rank": 50
+          },
+          "stats": {
+            "attack": 53,
+            "defense": 48,
+            "deftness": 34,
+            "hp": 82,
+            "magic_might": 47,
+            "magical_defense": 60,
+            "magical_mending": 109
+          }
+        }
+      },
+      "rarity": 10,
+      "source": {
+        "row": {
+          "album_number": 70,
+          "color_type": 4,
+          "cost": 62,
+          "description": "Dev/DeleteKey/delete_key",
+          "id": 740015,
+          "model_path": "Effects/OutGames/out_itm0001/Prefabs/fx_out_itm0001_01_01",
+          "monster_image_path": "UI/Download/productimage/orb/prt_detail_meo_mns8030_01",
+          "orb_album_type": 2,
+          "orb_full_name": "MemoryOrbData/MemoryOrbData_740015_fullname",
+          "orb_name": "MemoryOrbData/MemoryOrbData_740015_name",
+          "orb_rarity": 10,
+          "pearl_point_amount": 5,
+          "plural_orb_full_name": "MemoryOrbData/MemoryOrbData_740015_fullname_plural",
+          "plural_orb_name": "MemoryOrbData/MemoryOrbData_740015_name_plural",
+          "thumbnail_image_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8030_01",
+          "unit_family": 13,
+          "unit_id": 0
+        },
+        "table": "m_memory_orb"
+      },
+      "unit_family": 13,
+      "unit_family_name": "Unknown"
+    },
+    "740017": {
+      "album_number": 72,
+      "color_name": "Red",
+      "color_type": 8,
+      "cost": 15,
+      "entity_ref": {
+        "category": "memories",
+        "id": 740017
+      },
+      "full_name": "Red Gladiator Memory",
+      "id": 740017,
+      "image": {
+        "fallback_url": "../../../assets/current/6f126352f9851f7e8a01b35e27fb933499e635d3b3f514388bafb3a90e6f766f.webp",
+        "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8031_01",
+        "orientation": "AS_STORED",
+        "sha256": "6f126352f9851f7e8a01b35e27fb933499e635d3b3f514388bafb3a90e6f766f",
+        "source": {
+          "asset_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8031_01",
+          "converted_cas_path": "calocal://redacted",
+          "converted_kind": "texture_png",
+          "converted_sha256": "6f126352f9851f7e8a01b35e27fb933499e635d3b3f514388bafb3a90e6f766f",
+          "stable_row_id": "a4b899c6d15731aa58241cb6b18ab071cd0de2ce",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_observation_count": 1,
+        "url": "../../../assets/current/6f126352f9851f7e8a01b35e27fb933499e635d3b3f514388bafb3a90e6f766f.webp"
+      },
+      "name": "Gladiator (Red)",
+      "ranks": {
+        "10": {
+          "label": "D",
+          "rank": 10,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 6,
+            "critical": 9,
+            "defense": 6,
+            "hp": 6,
+            "id": 1074001710,
+            "magic_attack": 1,
+            "magical_defense": 6,
+            "magical_mending": 1,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 2,
+            "orb_id": 740017,
+            "rank": 10
+          },
+          "stats": {
+            "attack": 6,
+            "defense": 6,
+            "deftness": 9,
+            "hp": 6,
+            "magic_might": 1,
+            "magical_defense": 6,
+            "magical_mending": 1
+          }
+        },
+        "20": {
+          "label": "C",
+          "rank": 20,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 7,
+            "critical": 10,
+            "defense": 7,
+            "hp": 7,
+            "id": 1074001720,
+            "magic_attack": 1,
+            "magical_defense": 7,
+            "magical_mending": 1,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 2,
+            "orb_id": 740017,
+            "rank": 20
+          },
+          "stats": {
+            "attack": 7,
+            "defense": 7,
+            "deftness": 10,
+            "hp": 7,
+            "magic_might": 1,
+            "magical_defense": 7,
+            "magical_mending": 1
+          }
+        },
+        "30": {
+          "label": "B",
+          "rank": 30,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 8,
+            "critical": 12,
+            "defense": 8,
+            "hp": 8,
+            "id": 1074001730,
+            "magic_attack": 1,
+            "magical_defense": 8,
+            "magical_mending": 1,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 3,
+            "orb_id": 740017,
+            "rank": 30
+          },
+          "stats": {
+            "attack": 8,
+            "defense": 8,
+            "deftness": 12,
+            "hp": 8,
+            "magic_might": 1,
+            "magical_defense": 8,
+            "magical_mending": 1
+          }
+        },
+        "40": {
+          "label": "A",
+          "rank": 40,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 9,
+            "critical": 13,
+            "defense": 9,
+            "hp": 9,
+            "id": 1074001740,
+            "magic_attack": 1,
+            "magical_defense": 9,
+            "magical_mending": 1,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 4,
+            "orb_id": 740017,
+            "rank": 40
+          },
+          "stats": {
+            "attack": 9,
+            "defense": 9,
+            "deftness": 13,
+            "hp": 9,
+            "magic_might": 1,
+            "magical_defense": 9,
+            "magical_mending": 1
+          }
+        },
+        "50": {
+          "label": "S",
+          "rank": 50,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 10,
+            "critical": 15,
+            "defense": 10,
+            "hp": 10,
+            "id": 1074001750,
+            "magic_attack": 1,
+            "magical_defense": 10,
+            "magical_mending": 1,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 0,
+            "orb_id": 740017,
+            "rank": 50
+          },
+          "stats": {
+            "attack": 10,
+            "defense": 10,
+            "deftness": 15,
+            "hp": 10,
+            "magic_might": 1,
+            "magical_defense": 10,
+            "magical_mending": 1
+          }
+        }
+      },
+      "rarity": 10,
+      "source": {
+        "row": {
+          "album_number": 72,
+          "color_type": 8,
+          "cost": 15,
+          "description": "Dev/DeleteKey/delete_key",
+          "id": 740017,
+          "model_path": "Effects/OutGames/out_itm0001/Prefabs/fx_out_itm0001_01_04",
+          "monster_image_path": "UI/Download/productimage/orb/prt_detail_meo_mns8031_01",
+          "orb_album_type": 2,
+          "orb_full_name": "MemoryOrbData/MemoryOrbData_740017_fullname",
+          "orb_name": "MemoryOrbData/MemoryOrbData_740017_name",
+          "orb_rarity": 10,
+          "pearl_point_amount": 5,
+          "plural_orb_full_name": "MemoryOrbData/MemoryOrbData_740017_fullname_plural",
+          "plural_orb_name": "MemoryOrbData/MemoryOrbData_740017_name_plural",
+          "thumbnail_image_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8031_01",
+          "unit_family": 13,
+          "unit_id": 0
+        },
+        "table": "m_memory_orb"
+      },
+      "unit_family": 13,
+      "unit_family_name": "Unknown"
+    },
+    "740018": {
+      "album_number": 73,
+      "color_name": "Yellow",
+      "color_type": 1,
+      "cost": 15,
+      "entity_ref": {
+        "category": "memories",
+        "id": 740018
+      },
+      "full_name": "Yellow Gladiator Memory",
+      "id": 740018,
+      "image": {
+        "fallback_url": "../../../assets/current/6f126352f9851f7e8a01b35e27fb933499e635d3b3f514388bafb3a90e6f766f.webp",
+        "logical_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8031_01",
+        "orientation": "AS_STORED",
+        "sha256": "6f126352f9851f7e8a01b35e27fb933499e635d3b3f514388bafb3a90e6f766f",
+        "source": {
+          "asset_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8031_01",
+          "converted_cas_path": "calocal://redacted",
+          "converted_kind": "texture_png",
+          "converted_sha256": "6f126352f9851f7e8a01b35e27fb933499e635d3b3f514388bafb3a90e6f766f",
+          "stable_row_id": "a4b899c6d15731aa58241cb6b18ab071cd0de2ce",
+          "table_name": "reconstructed_archive",
+          "vertical_flip_applied": 0
+        },
+        "source_observation_count": 1,
+        "url": "../../../assets/current/6f126352f9851f7e8a01b35e27fb933499e635d3b3f514388bafb3a90e6f766f.webp"
+      },
+      "name": "Gladiator (Yellow)",
+      "ranks": {
+        "10": {
+          "label": "D",
+          "rank": 10,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 6,
+            "critical": 6,
+            "defense": 6,
+            "hp": 9,
+            "id": 1074001810,
+            "magic_attack": 1,
+            "magical_defense": 6,
+            "magical_mending": 1,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 2,
+            "orb_id": 740018,
+            "rank": 10
+          },
+          "stats": {
+            "attack": 6,
+            "defense": 6,
+            "deftness": 6,
+            "hp": 9,
+            "magic_might": 1,
+            "magical_defense": 6,
+            "magical_mending": 1
+          }
+        },
+        "20": {
+          "label": "C",
+          "rank": 20,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 7,
+            "critical": 7,
+            "defense": 7,
+            "hp": 10,
+            "id": 1074001820,
+            "magic_attack": 1,
+            "magical_defense": 7,
+            "magical_mending": 1,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 2,
+            "orb_id": 740018,
+            "rank": 20
+          },
+          "stats": {
+            "attack": 7,
+            "defense": 7,
+            "deftness": 7,
+            "hp": 10,
+            "magic_might": 1,
+            "magical_defense": 7,
+            "magical_mending": 1
+          }
+        },
+        "30": {
+          "label": "B",
+          "rank": 30,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 8,
+            "critical": 8,
+            "defense": 8,
+            "hp": 12,
+            "id": 1074001830,
+            "magic_attack": 1,
+            "magical_defense": 8,
+            "magical_mending": 1,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 3,
+            "orb_id": 740018,
+            "rank": 30
+          },
+          "stats": {
+            "attack": 8,
+            "defense": 8,
+            "deftness": 8,
+            "hp": 12,
+            "magic_might": 1,
+            "magical_defense": 8,
+            "magical_mending": 1
+          }
+        },
+        "40": {
+          "label": "A",
+          "rank": 40,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 9,
+            "critical": 9,
+            "defense": 9,
+            "hp": 13,
+            "id": 1074001840,
+            "magic_attack": 1,
+            "magical_defense": 9,
+            "magical_mending": 1,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 4,
+            "orb_id": 740018,
+            "rank": 40
+          },
+          "stats": {
+            "attack": 9,
+            "defense": 9,
+            "deftness": 9,
+            "hp": 13,
+            "magic_might": 1,
+            "magical_defense": 9,
+            "magical_mending": 1
+          }
+        },
+        "50": {
+          "label": "S",
+          "rank": 50,
+          "source": {
+            "add_orb_cost": 0,
+            "attack": 10,
+            "critical": 10,
+            "defense": 10,
+            "hp": 15,
+            "id": 1074001850,
+            "magic_attack": 1,
+            "magical_defense": 10,
+            "magical_mending": 1,
+            "need_rank_up_gold_amount": 0,
+            "need_rank_up_point": 0,
+            "orb_id": 740018,
+            "rank": 50
+          },
+          "stats": {
+            "attack": 10,
+            "defense": 10,
+            "deftness": 10,
+            "hp": 15,
+            "magic_might": 1,
+            "magical_defense": 10,
+            "magical_mending": 1
+          }
+        }
+      },
+      "rarity": 10,
+      "source": {
+        "row": {
+          "album_number": 73,
+          "color_type": 1,
+          "cost": 15,
+          "description": "Dev/DeleteKey/delete_key",
+          "id": 740018,
+          "model_path": "Effects/OutGames/out_itm0001/Prefabs/fx_out_itm0001_01_01",
+          "monster_image_path": "UI/Download/productimage/orb/prt_detail_meo_mns8031_01",
+          "orb_album_type": 2,
+          "orb_full_name": "MemoryOrbData/MemoryOrbData_740018_fullname",
+          "orb_name": "MemoryOrbData/MemoryOrbData_740018_name",
+          "orb_rarity": 10,
+          "pearl_point_amount": 5,
+          "plural_orb_full_name": "MemoryOrbData/MemoryOrbData_740018_fullname_plural",
+          "plural_orb_name": "MemoryOrbData/MemoryOrbData_740018_name_plural",
+          "thumbnail_image_path": "UI/Download/productimage/orb/prt_tmb_meo_mns8031_01",
           "unit_family": 13,
           "unit_id": 0
         },
@@ -49302,7 +50681,7 @@
     "condition_representation": "STRUCTURED_EVALUATOR_PLUS_SOURCE_PROVENANCE",
     "confidence_representation": "PROVEN_OR_EXPLICITLY_UNRESOLVED",
     "fixed_point_scale": 10000,
-    "fixed_point_scale_inference_occurrences": 2391,
+    "fixed_point_scale_inference_occurrences": 2396,
     "memory_rank_field_mapping": {
       "Attack": "m_memory_orb_rank.attack",
       "Defence": "m_memory_orb_rank.defense",
@@ -49317,13 +50696,13 @@
     "unknown_value_policy": "RETAIN_RAW_WITH_CAVEAT_OR_FAIL_COMPILE"
   },
   "source_binding": {
-    "acquisition_seal_sha256": "fd5a0af82ca3740b35d90fd0c13acbaaf60e7948ef7516210472e092e0056058",
-    "asset_a_sha256": "64da086b04463bf2527684fac2fb0d49fcba0a31758d7afcf0e2df76162edc65",
-    "asset_snapshot_sha256": "3b9aa9b3ec9d6b0a1461e8e3e46b16cced9a0f765429db5c51d26ea98f376f57",
-    "dictionary_sha256": "413f82397924e5cc8dda30fcd560dacd70c208763da787c364357bd22e5d0a31",
-    "masterdata_sha256": "63af5a620d8754169028850cdfa87db7fc777e49d731133b347b08f312fe3b88",
-    "repository_manifest_sha256": "1d0b4d57ce7c65f6fc192f93f34411ce2ed387af02c516dacda1d889105a65a1",
-    "runtime_enums_sha256": "2f43fa3e6418e47bfb04ea3080797dc69406d3ad359049c68a707eeecd7af417",
+    "acquisition_seal_sha256": "8fbf4c5e056f160ee3580fb137d55d5b98978ecffd75c009f76eaa1f36474c6a",
+    "asset_a_sha256": "3126b5f82b11723655a51332164d164baa4f2885e26e03462a866661de5a19c7",
+    "asset_snapshot_sha256": "f906817c51f296f1795a2fba56689abdbd004956398dae583e24ddcabdbfaf2e",
+    "dictionary_sha256": "fb0652ae6050b400dfbf857f0ab3d85a595f2d60fd120824511998f275e63980",
+    "masterdata_sha256": "ae3917369af4e85e5c1a31259d73baff042fd5dc17c614f0423af700fdbf89bd",
+    "repository_manifest_sha256": "1e291e1b8f47775cf51ed98995a3252260e2e9628f145b6699bf08ed424ef4e9",
+    "runtime_enums_sha256": "9ef98dadae11b9e817a450de0be7fe56deb454b3bbf14257c6417ba03844b090",
     "s1_id": "SMASHDUMP_S1_SUCCESSOR_CONSTRUCTION_R1"
   }
 }

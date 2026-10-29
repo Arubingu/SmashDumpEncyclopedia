@@ -1,6 +1,6 @@
 {
   "baseline_package_id": "SMASHDUMP_STAGE3_R5_18_FILTER_STATE_SCHEMA_NORMALIZATION_CORRECTED_R11",
-  "baseline_version": "1.6.1",
+  "baseline_version": "1.6.1.1",
   "candidate_only": true,
   "enemy_regression_fixtures": {},
   "filter_contract": {
@@ -17,7 +17,7 @@
     "same_facet": "OR",
     "search_favourites_recent": "SEPARATE_AND_CONSTRAINTS"
   },
-  "game_version": "1.6.1.1",
+  "game_version": "1.6.1.4",
   "generated_utc": null,
   "manual_acceptance_matrix": {
     "abilities": "REQUIRED",
